@@ -1,0 +1,89 @@
+sprite    676 angoff     256
+sprite    544 angoff     384
+sprite    531 angoff     -128
+sprite    718 angoff     768
+sprite    530 angoff     512
+sprite    533 angoff     -512
+sprite    677 angoff     -768
+sprite    678 angoff     -512
+sprite    284 angoff     -128
+sprite    529 angoff     -256
+sprite    558 angoff     768
+sprite    557 angoff     512
+sprite    679 angoff     -512
+sprite    557 angoff     512
+sprite    680 angoff     512
+sprite    549 angoff     1024
+sprite    554 angoff     1024
+sprite    681 angoff     512
+sprite    556 angoff     256
+sprite    676 angoff     256
+sprite    177 angoff     -768
+sprite    518 angoff     256
+
+// Outside stadium
+
+sprite    593 angoff     1024
+sprite    571 angoff     1024
+sprite    683 angoff     -256
+sprite    585 angoff     512
+sprite    786 angoff     512
+sprite    787 angoff     1024
+sprite    794 angoff     1024
+sprite    788 angoff     -512
+sprite    748 angoff     512
+sprite    747 angoff     768
+sprite    746 angoff     1024
+sprite    916 angoff     1024
+sprite    582 angoff     512
+sprite    711 angoff     -512
+sprite    589 angoff     -512
+sprite    588 angoff     256
+sprite    583 angoff     512
+sprite    591 angoff     -768
+sprite    743 angoff     -256
+sprite    684 angoff     1024
+sprite    745 angoff     512
+sprite    587 angoff     -512
+sprite    590 angoff     -512
+sprite    685 angoff     -512
+sprite    586 angoff     512
+sprite    0 angoff     1024
+sprite    744 angoff     256
+
+// Inside Building
+
+sprite    186 angoff     512
+sprite    187 angoff     1024
+sprite    731 angoff     -256
+sprite    656 angoff     1024
+sprite    666 angoff     512
+sprite    914 angoff     512
+sprite    653 angoff     -256
+sprite    917 angoff     -256
+sprite    652 angoff     -256
+sprite    665 angoff     -768
+sprite    355 angoff     -896
+sprite    913 angoff     512
+sprite    676 angoff     256
+sprite    686 angoff     1024
+
+
+// Final Boss Area
+
+sprite    664 angoff     -768
+sprite    662 angoff     -256
+sprite    661 angoff     512
+sprite    696 angoff     -512
+sprite    689 angoff     -512
+sprite    697 angoff     -512
+sprite    691 angoff     -512
+sprite    672 angoff     -512
+sprite    695 angoff     -512
+sprite    694 angoff     256
+sprite    698 angoff     512
+sprite    688 angoff     -512
+sprite    673 angoff     512
+sprite    692 angoff     512
+sprite    693 angoff     -512
+sprite    674 angoff     256

@@ -1,0 +1,78 @@
+// Maphacks for Duke: Nuclear Winter HRP
+
+// Title    : The Backdoor
+// Filename : E2L5.MAP
+// Author   : Simply Silly Software
+// mapmd4   : b325856109f206b49135c321536a62d5 // 1997-12-15 (GRP)
+
+
+
+//         <-> nwl5-megaton.mhk
+//         <-> nwl5-r24.mhk
+
+// Curr. HRP: r5.3.573
+
+// 16-616 / 628-637 / / 640-713
+sprite    49 angoff     1024       // tile0056 airtank
+sprite   725 angoff    -256        // tile0057 jetpack
+
+sprite    16 angoff     512        // tile0026 heavyhbomb
+sprite    16 mdxoff    -8000       // tile0026 heavyhbomb
+sprite    16 mdzoff     200000     // tile0026 heavyhbomb
+sprite    16 pitch      1          // tile0026 heavyhbomb
+sprite    17 angoff     512        // tile0023 rpgsprite
+sprite    50 angoff     0          // tile0049 shotgunammo
+
+
+sprite   712 angoff    -768        // tile0051 cola
+sprite   712 mdzoff     300000     // tile0051 cola
+sprite   712 pitch      1          // tile0051 cola
+
+
+
+
+sprite   713 angoff    -128        // tile0054 shield
+sprite   713 mdzoff     700000     // tile0054 shield
+sprite   713 pitch      1          // tile0054 shield
+sprite   640 angoff     512        // tile0052 sixpack
+
+
+
+sprite   641 angoff     512        // tile0053 firstaid
+sprite   608 angoff    -896        // tile0024 freezesprite
+sprite   609 angoff     0          // tile0037 freezeammo
+sprite    38 angoff     0          // tile0025 shrinkersprite
+sprite   647 angoff     1024       // tile0052 sixpack
+
+sprite   628 angoff    -384        // tile0053 firstaid
+sprite   654 angoff     256        // tile0051 cola
+sprite   630 angoff    -256        // tile0049 shotgunammo
+
+sprite    36 angoff    -256        // tile0046 crystalammo
+sprite    37 angoff     1024       // tile0046 crystalammo
+
+sprite    41 angoff    -256        // tile0049 shotgunammo
+sprite    41 mdzoff     900000     // tile0049 shotgunammo
+sprite    41 pitch     -1          // tile0049 shotgunammo
+
+sprite    34 angoff     1024       // tile0046 crystalammo
+sprite    34 mdzoff     500000     // tile0046 crystalammo
+sprite    34 pitch      1          // tile0046 crystalammo
+
+
+sprite   665 angoff     640        // tile0051 cola
+sprite   666 angoff     768        // tile0051 cola
+sprite   667 angoff     0          // tile0051 cola
+sprite   670 angoff     1024       // tile0037 freezeammo
+sprite   664 angoff     1024       // tile0051 cola
+sprite   668 angoff    -768        // tile0051 cola
+
+
+sprite   616 angoff    -512        // tile0060 accesscard blue
+
+sprite   637 angoff     0          // tile0041 batteryammo
+
+
+
+
+sprite    48 notmd                 // tile1056 (tile1055 (film reel))

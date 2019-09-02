@@ -1,0 +1,13 @@
+echo "Duke3D Voxel Pack v1.3"
+
+// Voxel definitions
+// include voxels/monsters.def
+include voxels/pickups.def
+include voxels/projectiles.def
+include voxels/props.def
+include voxels/signs.def
+include voxels/switches.def
+
+// Voxel pickups rotation
+// include voxels/pickups_gdx.def
+

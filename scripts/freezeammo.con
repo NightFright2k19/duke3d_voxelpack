@@ -1,0 +1,22 @@
+// Freezer ammo animation
+action FREEZEAMMO_FRAMES 0 3 1 1 1
+actor FREEZEAMMO 0 FREEZEAMMO_FRAMES
+   fall
+   ifmove RESPAWN_ACTOR_FLAG
+      state respawnit
+   else
+      ifp pshrunk nullop
+   else
+      ifp palive
+         ifcount 6
+            ifpdistl RETRIEVEDISTANCE
+               ifcanseetarget
+               {
+                  addammo FREEZE_WEAPON FREEZEAMMOAMOUNT
+        	  quote 66
+        	  ifspawnedby FREEZEAMMO
+         	     state getcode
+                  else
+                     state quikget
+               }
+enda

@@ -1,0 +1,131 @@
+// Maphacks by NightFright for use with the Duke It Out In D.C. HRP
+
+// Title    : Nuke Proof
+// Filename : DUKEDC9.MAP
+// Author   : Robert Travis
+// mapmd4   : 087e3709ca60a70c8ab3c8ab28255aed // 1997-02-21 (SSI)
+
+
+
+//         <-> DUKEDC9-megaton.mhk
+
+// Curr. HRP: r5.3.645
+
+// / 14-619
+sprite    27 angoff     1024       // tile0028 shotgunsprite
+sprite    14 angoff     1024       // tile0041 batteryammo
+sprite   617 angoff    -256        // tile0049 shotgunammo
+sprite   617 mdzoff     900000     // tile0049 shotgunammo
+sprite   617 pitch     -1          // tile0049 shotgunammo
+sprite    26 angoff    -512        // tile0022 chaingunsprite
+sprite    26 mdzoff     900000     // tile0022 chaingunsprite
+sprite    26 roll      -1          // tile0022 chaingunsprite
+sprite   489 angoff     768        // tile0054 shield
+sprite    25 angoff     768        // tile0047 hbombammo
+sprite   490 angoff     0          // tile0052 sixpack
+
+sprite    16 angoff     256        // tile0029 devistatorsprite
+sprite   597 angoff    -256        // tile0052 sixpack
+sprite    15 angoff     512        // tile0052 sixpack
+sprite   616 angoff     768        // tile0053 firstaid
+
+
+
+
+sprite   467 angoff     512        // tile0060 accesscard yellow
+
+
+sprite   504 angoff    -512        // tile0049 shotgunammo
+sprite   504 mdzoff     900000     // tile0049 shotgunammo
+sprite   504 pitch     -1          // tile0049 shotgunammo
+sprite    22 angoff     512        // tile0024 freezesprite
+sprite   502 angoff    -256        // tile0042 devistatorammo
+sprite   501 angoff     256        // tile0025 shrinkersprite
+
+
+sprite   512 angoff     768        // tile0052 sixpack
+sprite   515 angoff     512        // tile0042 devistatorammo
+sprite   190 angoff     512        // tile0053 firstaid
+sprite    21 angoff    -768        // tile0052 sixpack
+sprite   521 angoff    -512        // tile0023 rpgsprite
+sprite   521 mdzoff     900000     // tile0023 rpgsprite
+sprite   521 roll       1          // tile0023 rpgsprite
+sprite   177 angoff    -256        // tile1045 donuts
+
+
+
+
+
+sprite   534 angoff     512        // tile0046 crystalammo
+sprite   535 angoff     768        // tile0046 crystalammo
+sprite   407 angoff     1024       // tile0574 (tile0670 (faucet))
+sprite   407 mdzoff     50000      // tile0574 (tile0670 (faucet))
+sprite   407 pitch     -1          // tile0574 (tile0670 (faucet))
+sprite   407 roll      -7          // tile0574 (tile0670 (faucet))
+sprite   408 angoff     1024       // tile0574 (tile0670 (faucet))
+sprite   408 mdzoff     50000      // tile0574 (tile0670 (faucet))
+sprite   408 pitch     -1          // tile0574 (tile0670 (faucet))
+sprite   408 roll      -7          // tile0574 (tile0670 (faucet))
+sprite   409 angoff     1024       // tile0574 (tile0670 (faucet))
+sprite   409 mdzoff     50000      // tile0574 (tile0670 (faucet))
+sprite   409 pitch     -1          // tile0574 (tile0670 (faucet))
+sprite   409 roll       1          // tile0574 (tile0670 (faucet))
+// mhk diff sync 1
+sprite   540 angoff    -256        // tile0047 hbombammo
+sprite   536 angoff     1024       // tile0052 sixpack
+sprite   537 angoff     1024       // tile0052 sixpack
+sprite   542 angoff     256        // tile0049 shotgunammo
+sprite   542 mdzoff     900000     // tile0049 shotgunammo
+sprite   542 pitch     -1          // tile0049 shotgunammo
+sprite   543 angoff     512        // tile0055 steroids
+sprite   517 angoff     512        // tile0041 batteryammo
+sprite   137 angoff     1024       // tile0060 accesscard blue
+sprite   122 angoff     128        // tile1247 seenine
+sprite   123 angoff    -512        // tile1247 seenine
+sprite   124 angoff     384        // tile1247 seenine
+
+
+
+sprite   615 angoff     256        // tile0053 firstaid
+sprite   615 mdzoff     900000     // tile0053 firstaid
+sprite   615 pitch     -1          // tile0053 firstaid
+
+sprite   619 angoff     768        // tile0047 hbombammo
+sprite   619 mdzoff     900000     // tile0047 hbombammo
+sprite   619 pitch     -1          // tile0047 hbombammo
+sprite   554 angoff     512        // tile1348 holoduke
+sprite   613 angoff     1024       // tile0052 sixpack
+sprite   553 angoff     1024       // tile0052 sixpack
+sprite   552 angoff    -512        // tile0042 devistatorammo
+sprite   551 angoff    -512        // tile0049 shotgunammo
+
+sprite   550 angoff     512        // tile0041 batteryammo
+sprite   549 angoff    -512        // tile0041 batteryammo
+//sprite   101 angoff     512        // tile0556 chair1
+sprite   102 angoff     256        // tile0556 chair1
+sprite   103 angoff     512        // tile0557 chair2
+sprite   104 angoff     896        // tile0557 chair2
+sprite   105 angoff     640        // tile0557 chair2
+sprite   106 angoff     512        // tile0556 chair1
+//sprite    87 notmd                 // tile1210 (guilty sign)
+sprite   555 angoff     1024       // tile1323 fem5 polebabe
+sprite   556 angoff     512        // tile1334 fem6 padbabe
+sprite   618 angoff     1024       // tile0060 accesscard red
+
+sprite    20 angoff     768        // tile0052 sixpack
+sprite   503 angoff     768        // tile0052 sixpack
+sprite    24 angoff    -768        // tile0049 shotgunammo
+sprite    23 angoff    -256        // tile0044 rpgammo
+
+sprite   589 angoff     768        // tile0053 firstaid
+
+
+
+sprite   591 angoff     1024       // tile0044 rpgammo
+sprite   591 mdzoff     800000     // tile0044 rpgammo
+sprite   591 pitch     -1          // tile0044 rpgammo
+
+sprite   590 angoff    -768        // tile0042 devistatorammo
+
+
+// LIGHTS

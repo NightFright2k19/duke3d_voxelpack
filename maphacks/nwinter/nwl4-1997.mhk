@@ -1,0 +1,116 @@
+// Maphacks for Duke: Nuclear Winter HRP
+
+// Title    : Santa's Corporate HQ
+// Filename : E2L4.MAP
+// Author   : Simply Silly Software
+// mapmd4   : 1ea3163102cc0c209c16e1ed2d4dc048 // 1997-12-15 (GRP)
+
+
+//         <-> nwl4-2014-02-20.mhk
+//         <-> nwl4-megaton.mhk
+//         <-> nwl4-r24.mhk
+
+// Curr. HRP: r5.3.573
+
+// / 29-477
+sprite   477 angoff    -512        // tile0028 shotgunsprite
+
+sprite    61 angoff    -512        // tile0049 shotgunammo
+sprite    60 angoff    -384        // tile0041 batteryammo
+sprite    36 mdzoff     300000     // tile0052 sixpack
+sprite    36 pitch      1          // tile0052 sixpack
+sprite    53 angoff    -128        // tile0052 sixpack
+sprite    37 angoff    -256        // tile0052 sixpack
+sprite    38 angoff    -256        // tile0052 sixpack
+sprite    52 angoff    -512        // tile0052 sixpack
+sprite    54 angoff    -640        // tile0052 sixpack
+
+
+sprite    35 mdzoff     900000     // tile0041 batteryammo
+sprite    35 roll       1          // tile0041 batteryammo
+sprite    34 angoff     768        // tile0049 shotgunammo
+
+
+sprite    51 angoff    -512        // tile0052 sixpack
+sprite    33 angoff    -256        // tile0049 shotgunammo
+sprite    33 mdzoff     700000     // tile0049 shotgunammo
+sprite    33 pitch     -1          // tile0049 shotgunammo
+sprite    33 roll      -1          // tile0049 shotgunammo
+sprite    50 angoff    -256        // tile0049 shotgunammo
+sprite    55 angoff    -512        // tile0053 firstaid
+sprite   219 angoff     768        // tile0557 chair2
+sprite   438 angoff    -512        // tile4370 desklamp
+sprite   220 angoff     512        // tile0060 accesscard yellow
+sprite   223 angoff    -512        // tile0557 chair2
+sprite   222 angoff    -512        // tile4370 desklamp
+sprite   221 angoff     512        // tile1045 donuts
+sprite    58 angoff     256        // tile0026 heavyhbomb
+sprite   227 angoff     768        // tile0557 chair2
+sprite   228 angoff     64         // tile0557 chair2
+sprite   229 angoff     384        // tile0556 chair1
+sprite   229 mdzoff     300000     // tile0556 chair1
+sprite   229 pitch     -1          // tile0556 chair1
+sprite   230 angoff     512        // tile0556 chair1
+sprite   231 angoff     576        // tile0556 chair1
+sprite   232 angoff     1024       // tile0556 chair1
+sprite   225 angoff    -64         // tile0557 chair2
+sprite   226 angoff    -384        // tile0557 chair2
+sprite    56 angoff     1024       // tile0051 cola
+sprite    57 angoff    -512        // tile0028 shotgunsprite
+sprite   235 notmd                 // tile1425 (tile1405 duke)
+sprite   233 notmd                 // tile1425 (tile1405 duke)
+sprite   261 notmd                 // tile1425 (tile1405 duke)
+sprite   234 notmd                 // tile1425 (tile1405 duke)
+
+sprite   200 angoff    -512        // tile0556 chair1
+sprite   200 mdzoff     200000     // tile0556 chair1
+sprite   200 pitch      1          // tile0556 chair1
+sprite   437 angoff     512        // tile4370 desklamp
+sprite    83 angoff    -512        // tile0049 shotgunammo
+sprite    83 mdzoff     500000     // tile0049 shotgunammo
+sprite    83 pitch      1          // tile0049 shotgunammo
+
+
+
+
+
+
+sprite   377 angoff     0          // tile0060 accesscard blue
+
+
+sprite    29 mdzoff     1500000    // tile0053 firstaid
+sprite    29 pitch     -1          // tile0053 firstaid
+
+
+sprite    39 angoff     512        // tile0042 devistatorammo
+sprite    39 mdxoff     100        // tile0042 devistatorammo
+sprite    39 pitch     -128        // tile0042 devistatorammo
+//sprite    39 pitch     -192        // tile0042 devistatorammo
+
+
+
+sprite    40 angoff     1024       // tile0047 hbombammo
+sprite    40 mdxoff     120        // tile0047 hbombammo
+sprite    40 pitch     -128        // tile0047 hbombammo
+
+sprite   179 angoff     768        // tile0023 rpgsprite
+sprite   178 angoff     1024       // tile0044 rpgammo
+sprite   177 angoff    -896        // tile0044 rpgammo
+sprite   359 angoff    -512        // tile0516 satelite (dish)
+sprite   182 angoff     768        // tile0029 devistatorsprite
+sprite   395 angoff     1024       // tile0026 heavyhbomb
+
+
+
+
+
+sprite   396 angoff    -512        // tile0060 accesscard red
+sprite    75 angoff     1024       // tile0047 hbombammo
+sprite   403 mdxoff     20000      // tile0407 fansprite
+sprite   403 mdzoff     15000      // tile0407 fansprite
+sprite   403 pitch      1          // tile0407 fansprite
+
+
+sprite    49 angoff    -512        // tile0049 shotgunammo
+sprite    49 mdzoff     900000     // tile0049 shotgunammo
+sprite    49 roll       1          // tile0049 shotgunammo

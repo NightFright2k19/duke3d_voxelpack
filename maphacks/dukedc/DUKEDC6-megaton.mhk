@@ -1,0 +1,147 @@
+// Maphacks by NightFright for use with the Duke It Out In D.C. HRP
+
+// Title    : Metro Mayhem
+// Filename : DUKEDC6.MAP
+// Author   : Robert Travis
+// mapmd4   : 6f7e28417783d869ca6ef8a7ed8d92b5 // 2014-02-20 (Megaton)
+
+//         <-> DUKEDC6.mhk
+
+// Curr. HRP: r5.3.645
+
+// 1-9 / 43-98 / 164-654
+sprite    61 angoff    -256        // tile0028 shotgunsprite
+sprite   426 angoff     256        // tile1062 rubbercan
+sprite   413 angoff    -192        // tile3649 (dukedc deskphone)
+sprite    57 angoff     1024       // tile0052 sixpack
+sprite   414 angoff    -192        // tile3649 (dukedc deskphone)
+sprite    56 angoff     1024       // tile0041 batteryammo
+sprite   427 angoff     192        // tile1062 rubbercan
+sprite    55 angoff    -768        // tile0049 shotgunammo
+sprite    54 angoff     768        // tile0049 shotgunammo
+sprite   425 angoff     128        // tile1062 rubbercan
+sprite    52 angoff     1024       // tile0052 sixpack
+sprite    53 angoff     1024       // tile0022 chaingunsprite
+sprite   673 angoff     1024       // tile0042 devistatorammo (multiplayer)
+sprite   694 angoff     1024       // tile0055 steroids (multiplayer)
+sprite   672 angoff     1024       // tile0042 devistatorammo (multiplayer)
+sprite   165 angoff     256        // tile1062 rubbercan
+sprite    43 angoff     1024       // tile0029 devistatorsprite
+sprite    42 angoff     1024       // tile0052 sixpack
+sprite   689 angoff     512        // tile0045 growammo (multiplayer)
+sprite   689 pitch      160        // tile0045 growammo (multiplayer)
+sprite   688 angoff     512        // tile0045 growammo (multiplayer)
+sprite   688 pitch      160        // tile0045 growammo (multiplayer)
+sprite   687 angoff     896        // tile0022 chaingunsprite (multiplayer)
+sprite   555 angoff     128        // tile0053 firstaid
+sprite   556 angoff     64         // tile0041 batteryammo
+sprite   557 angoff    -576        // tile0041 batteryammo
+sprite   559 angoff    -128        // tile0047 hbombammo
+sprite   554 angoff     128        // tile0060 accesscard blue
+sprite   674 angoff    -512        // tile0023 rpgsprite (multiplayer)
+sprite   685 angoff     1024       // tile0061 boots (multiplayer)
+sprite   432 angoff     256        // tile1062 rubbercan
+sprite   315 mdzoff     50000      // tile0574 (tile0670 (faucet))
+sprite   315 pitch     -1          // tile0574 (tile0670 (faucet))
+sprite   313 mdzoff     50000      // tile0574 (tile0670 (faucet))
+sprite   313 pitch     -1          // tile0574 (tile0670 (faucet))
+sprite   314 mdzoff     50000      // tile0574 (tile0670 (faucet))
+sprite   314 pitch     -1          // tile0574 (tile0670 (faucet))
+sprite   312 angoff     192        // tile1062 rubbercan
+sprite   633 angoff     1024       // tile0054 shield
+sprite   311 angoff     512        // tile0569 toilet
+sprite     1 angoff     384        // tile0059 heatsensor
+sprite     1 mdzoff     200000     // tile0059 heatsensor
+sprite     1 roll       1          // tile0059 heatsensor
+sprite   433 angoff     96         // tile1062 rubbercan
+sprite   436 mdzoff     50000      // tile0574 (tile0670 (faucet))
+sprite   436 pitch     -1          // tile0574 (tile0670 (faucet))
+sprite   436 roll       1          // tile0574 (tile0670 (faucet))
+sprite   434 mdzoff     50000      // tile0574 (tile0670 (faucet))
+sprite   434 pitch     -1          // tile0574 (tile0670 (faucet))
+sprite   434 roll       1          // tile0574 (tile0670 (faucet))
+sprite   435 mdzoff     50000      // tile0574 (tile0670 (faucet))
+sprite   435 pitch     -1          // tile0574 (tile0670 (faucet))
+sprite   435 roll       1          // tile0574 (tile0670 (faucet))
+sprite   635 angoff    -256        // tile0049 shotgunammo
+sprite   636 angoff     768        // tile0052 sixpack
+sprite   654 angoff    -512        // tile0026 heavyhbomb
+sprite   439 angoff    -512        // tile0569 toilet
+sprite   683 angoff    -512        // tile0022 chaingunsprite (multiplayer)
+sprite   582 angoff     256        // tile0052 sixpack
+sprite   581 angoff     128        // tile0047 hbombammo
+sprite   583 angoff     256        // tile0042 devistatorammo
+sprite   580 angoff     1024       // tile0052 sixpack
+sprite   488 angoff    -192        // tile3649 (dukedc deskphone)
+sprite   475 angoff    -192        // tile3649 (dukedc deskphone)
+sprite   562 angoff     1024       // tile0023 rpgsprite
+sprite   524 angoff     128        // tile1062 rubbercan
+sprite    98 angoff     256        // tile1062 rubbercan
+//sprite   522 nomdanim              // tile3350 (duke head holo)
+//sprite   521 notmd                 // tile1840 (tile1820 octabrain)
+sprite   521 nomdanim              // tile1840 (tile1820 octabrain)
+sprite   676 angoff     768        // tile0044 rpgammo (multiplayer)
+sprite    90 angoff     896        // tile3649 (dukedc deskphone)
+sprite    88 angoff    -896        // tile0556 chair1
+sprite    91 angoff    -768        // tile0060 accesscard red
+sprite   594 angoff    -768        // tile0046 crystalammo
+sprite   592 angoff    -768        // tile0046 crystalammo
+sprite   593 angoff    -768        // tile0046 crystalammo
+sprite   624 angoff     512        // tile0049 shotgunammo
+sprite   625 angoff     512        // tile0049 shotgunammo
+sprite   595 angoff    -512        // tile0053 firstaid
+sprite   595 mdzoff     900000     // tile0053 firstaid
+sprite   595 pitch     -1          // tile0053 firstaid
+sprite   677 angoff    -512        // tile0026 heavyhbomb (multiplayer)
+sprite   534 angoff    -512        // tile0569 toilet
+sprite   537 mdzoff     100000     // tile0574 (tile0670 (faucet))
+sprite   537 pitch      1          // tile0574 (tile0670 (faucet))
+sprite   537 roll       1          // tile0574 (tile0670 (faucet))
+sprite   536 mdzoff     100000     // tile0574 (tile0670 (faucet))
+sprite   536 pitch      1          // tile0574 (tile0670 (faucet))
+sprite   536 roll       1          // tile0574 (tile0670 (faucet))
+sprite   597 angoff     512        // tile0047 hbombammo
+sprite   607 angoff     256        // tile1334 fem6 padbabe
+sprite   603 angoff     128        // tile1323 fem5 polebabe
+sprite   602 angoff    -128        // tile1334 fem6 padbabe
+sprite   622 angoff     256        // tile0052 sixpack
+sprite   623 angoff     256        // tile0052 sixpack
+sprite   666 angoff     1024       // tile0047 hbombammo (multiplayer)
+sprite     9 angoff     256        // tile3748 (dukedc tv antenna)
+sprite   681 angoff     256        // tile0022 chaingunsprite (multiplayer)
+sprite   682 angoff     512        // tile0041 batteryammo (multiplayer)
+sprite   626 angoff    -512        // tile0047 hbombammo
+sprite   639 angoff    -256        // tile0052 sixpack
+sprite   214 angoff     896        // tile3649 (dukedc deskphone)
+sprite   214 mdzoff     500000     // tile3649 (dukedc deskphone)
+sprite   214 pitch      1          // tile3649 (dukedc deskphone)
+sprite   670 angoff     512        // tile0029 devistatorsprite (multiplayer)
+sprite   671 angoff     1024       // tile0042 devistatorammo (multiplayer)
+sprite   174 angoff     1024       // tile0998 (parkometer)
+sprite   175 angoff     1024       // tile0998 (parkometer)
+sprite   176 angoff     1024       // tile0998 (parkometer)
+sprite   177 angoff     1024       // tile0998 (parkometer)
+sprite   178 angoff     1024       // tile0998 (parkometer)
+sprite   179 angoff     1024       // tile0998 (parkometer)
+sprite   172 angoff     1024       // tile0998 (parkometer)
+sprite   173 angoff     1024       // tile0998 (parkometer)
+sprite   668 angoff     256        // tile0052 sixpack (multiplayer)
+sprite   182 angoff    -512        // tile0998 (parkometer)
+sprite   183 angoff    -512        // tile0998 (parkometer)
+sprite   184 angoff    -512        // tile0998 (parkometer)
+sprite   185 angoff    -512        // tile0998 (parkometer)
+sprite   180 angoff    -512        // tile0998 (parkometer)
+sprite   181 angoff    -512        // tile0998 (parkometer)
+sprite   188 angoff     512        // tile0998 (parkometer)
+sprite   189 angoff     512        // tile0998 (parkometer)
+sprite   186 angoff     512        // tile0998 (parkometer)
+sprite   187 angoff     512        // tile0998 (parkometer)
+//sprite   192 angoff     0         // tile0998 (parkometer)
+//sprite   193 angoff     0         // tile0998 (parkometer)
+//sprite   194 angoff     0         // tile0998 (parkometer)
+//sprite   195 angoff     0         // tile0998 (parkometer)
+//sprite   190 angoff     0         // tile0998 (parkometer)
+//sprite   191 angoff     0         // tile0998 (parkometer)
+
+
+// LIGHTS

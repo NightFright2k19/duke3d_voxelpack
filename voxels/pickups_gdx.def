@@ -1,0 +1,63 @@
+// Voxel pickups with rotation (DukeGDX only)
+
+animtilerange 37 39 0 2
+animtilerange 100 115 2 2
+animtilerange 1348 1351 0 2
+
+voxel "voxels/pickups/0021_pistol.kvx" { tile 21 rotate }
+voxel "voxels/pickups/0022_chaingun.kvx" { tile 22 rotate }
+voxel "voxels/pickups/0023_rpg.kvx" { tile 23 rotate }
+voxel "voxels/pickups/0024_freezer.kvx" { tile 24 rotate }
+voxel "voxels/pickups/0025_shrinker.kvx" { tile 25 rotate }
+voxel "voxels/pickups/0026_pipebomb.kvx" { tile 26 rotate }
+voxel "voxels/pickups/0027_tripbomb.kvx" { tile 27 rotate }
+voxel "voxels/pickups/0028_shotgun.kvx" { tile 28 rotate }
+voxel "voxels/pickups/0029_devastator.kvx" { tile 29 rotate }
+
+voxel "voxels/pickups/0032_expander.kvx" { tile 32 rotate }
+voxel "voxels/pickups/0037_freezerammo1.kvx" { tile 37 rotate }
+voxel "voxels/pickups/0038_freezerammo2.kvx" { tile 38 rotate }
+voxel "voxels/pickups/0039_freezerammo3.kvx" { tile 39 rotate }
+
+voxel "voxels/pickups/0040_pistolammo.kvx" { scale .9 tile 40 rotate }
+voxel "voxels/pickups/0041_chaingunammo.kvx" { tile 41 rotate }
+voxel "voxels/pickups/0042_devastatorammo.kvx" { tile 42 rotate }
+voxel "voxels/pickups/0044_rpgammo.kvx" { tile 44 rotate }
+voxel "voxels/pickups/0045_growammo.kvx" { tile 45 rotate }
+voxel "voxels/pickups/0046_crystal.kvx" { tile 46 rotate }
+voxel "voxels/pickups/0047_pipebombbox.kvx" { tile 47 rotate }
+voxel "voxels/pickups/0049_shotgunammo.kvx" { tile 49 rotate }
+
+voxel "voxels/pickups/0051_healthbox.kvx" { tile 51 rotate }
+voxel "voxels/pickups/0052_healthbottle.kvx" { tile 52 rotate }
+voxel "voxels/pickups/0053_firstaidkit.kvx" { tile 53 rotate }
+voxel "voxels/pickups/0054_armor.kvx" { tile 54 rotate }
+voxel "voxels/pickups/0055_steroids.kvx" { scale .75 tile 55 rotate }
+voxel "voxels/pickups/0056_scuba.kvx" { tile 56 rotate }
+voxel "voxels/pickups/0057_jetpack.kvx" { tile 57 rotate }
+voxel "voxels/pickups/0059_nightvision.kvx" { tile 59 rotate }
+
+voxel "voxels/pickups/0060_keycard.kvx" { tile 60 rotate }
+voxel "voxels/pickups/0061_boots.kvx" { tile 61 rotate }
+
+voxel "voxels/pickups/0100_atomichealth1.kvx" { tile 100 }
+voxel "voxels/pickups/0101_atomichealth2.kvx" { tile 101 }
+voxel "voxels/pickups/0102_atomichealth3.kvx" { tile 102 }
+voxel "voxels/pickups/0103_atomichealth4.kvx" { tile 103 }
+voxel "voxels/pickups/0104_atomichealth5.kvx" { tile 104 }
+voxel "voxels/pickups/0105_atomichealth6.kvx" { tile 105 }
+voxel "voxels/pickups/0106_atomichealth7.kvx" { tile 106 }
+voxel "voxels/pickups/0107_atomichealth8.kvx" { tile 107 }
+voxel "voxels/pickups/0108_atomichealth9.kvx" { tile 108 }
+voxel "voxels/pickups/0109_atomichealth10.kvx" { tile 109 }
+voxel "voxels/pickups/0110_atomichealth11.kvx" { tile 110 }
+voxel "voxels/pickups/0111_atomichealth12.kvx" { tile 111 }
+voxel "voxels/pickups/0112_atomichealth13.kvx" { tile 112 }
+voxel "voxels/pickups/0113_atomichealth14.kvx" { tile 113 }
+voxel "voxels/pickups/0114_atomichealth15.kvx" { tile 114 }
+voxel "voxels/pickups/0115_atomichealth16.kvx" { tile 115 }
+
+voxel "voxels/pickups/1348_holoduke1.kvx" { tile 1348 rotate }
+voxel "voxels/pickups/1349_holoduke2.kvx" { tile 1349 rotate }
+voxel "voxels/pickups/1350_holoduke3.kvx" { tile 1350 rotate }
+voxel "voxels/pickups/1351_holoduke4.kvx" { tile 1351 rotate }

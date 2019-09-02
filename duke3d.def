@@ -1,0 +1,4 @@
+include duke3d_maphacks.def
+include duke3d_voxels.def
+
+// include voxels/hrp_undefines.def

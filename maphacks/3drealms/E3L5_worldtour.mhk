@@ -1,0 +1,99 @@
+// Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
+
+// Title    : Movie Set
+// Filename : E3L5.map
+// Author   : Richard Bailey Gray (The Levelord)
+// mapmd4   : 9d88b0c73f274c15cbfb5cde3f1ed815 // 2016-09-23 (World Tour)
+
+//         <-> E3L5_polymost.mhk
+
+// Curr. HRP: r5.3.662
+
+// 0-261 | 262-287 | | 294-328 | | 340-477 | 479-488
+sprite   466 angoff     512        // tile0052 sixpack
+sprite   363 angoff    -256        // tile0040 ammo
+sprite   366 angoff     256        // tile0042 devistatorammo
+sprite   408 angoff     768        // tile0047 hbombammo
+sprite   478 angoff     384        // tile1343 (helicopter scrap)
+sprite     8 angoff    -768        // tile0052 sixpack
+sprite   340 mdzoff     550000     // tile0958 (lights)
+sprite   340 pitch     -1          // tile0958 (lights)
+sprite   413 angoff    -768        // tile0037 freezeammo
+sprite   302 angoff    -384        // tile1341 (helicopter scrap)
+sprite   414 angoff     384        // tile0037 freezeammo
+sprite   477 angoff    -640        // tile1343 (helicopter scrap)
+sprite   365 angoff    -384        // tile0052 sixpack
+sprite   364 angoff    -512        // tile0055 steroids
+sprite   390 angoff    -512        // tile0051 cola
+sprite    43 angoff     1024       // tile0024 freezesprite
+sprite    52 angoff     512        // tile0042 devistatorammo
+sprite   294 angoff     512        // tile0049 shotgunammo
+sprite   265 angoff     768        // tile0028 shotgunsprite
+sprite   270 angoff     768        // tile0557 chair2
+sprite   266 angoff    -768        // tile0053 firstaid
+sprite    19 notmd                 // tile0132 slotdoor
+sprite   361 angoff     256        // tile0021 firstgunsprite
+sprite    24 angoff     1024       // tile0059 heatsensor
+sprite   187 notmd                 // tile0132 slotdoor
+sprite   258 angoff     0          // tile0060 accesscard blue
+sprite   389 angoff    -512        // tile0051 cola
+sprite   372 mdzoff     500000     // tile0044 rpgammo
+sprite   372 pitch     -1          // tile0044 rpgammo
+sprite   159 angoff    -384        // tile0685 cameralight
+sprite   158 angoff     768        // tile0685 cameralight
+sprite   369 angoff     128        // tile0042 devistatorammo
+sprite   155 angoff    -192        // tile0686 moviecamera
+sprite   157 angoff     128        // tile0686 moviecamera
+sprite   156 angoff    -768        // tile0686 moviecamera
+sprite   160 angoff    -256        // tile0685 cameralight
+sprite   162 angoff     256        // tile0685 cameralight
+sprite   161 angoff    -768        // tile0685 cameralight
+sprite   373 angoff    -768        // tile0047 hbombammo
+sprite   393 angoff     640        // tile0040 ammo
+sprite    61 angoff    -256        // tile0053 firstaid
+sprite   371 angoff     800        // tile0041 batteryammo
+sprite   475 angoff    -128        // tile0479 (satellite dish)
+sprite   474 notmd                 // tile0132 slotdoor
+sprite   284 notmd                 // tile0688 (clapperboard)
+sprite   176 angoff    -176        // tile0686 moviecamera
+sprite   283 angoff    -960        // tile0680 chair3
+sprite   282 angoff     192        // tile0685 cameralight
+sprite   170 angoff     832        // tile0022 chaingunsprite
+sprite   280 nomdanim              // tile2207 (tile2205 lizmanarm1)
+sprite   280 angoff    -640        // tile2207 (tile2205 lizmanarm1)
+sprite   473 angoff    -256        // tile0057 jetpack
+sprite   281 nomdanim              // tile2201 lizmanhead1
+sprite   278 notmd                 // tile2301 wallblood1
+sprite   279 nomdanim              // tile2249 (tile2245 jibs1)
+sprite   279 angoff     256        // tile2249 (tile2245 jibs1)
+sprite    71 angoff     0          // tile0060 accesscard yellow
+sprite   174 angoff    -256        // tile0685 cameralight
+sprite   171 angoff    -64         // tile0685 cameralight
+sprite     4 angoff    -768        // tile0052 sixpack
+sprite    73 angoff    -960        // tile0680 chair3
+sprite   287 mdzoff     400000     // tile0916 fireext
+sprite   287 pitch      1          // tile0916 fireext
+sprite   175 angoff    -96         // tile0685 cameralight
+sprite   411 angoff     512        // tile0025 shrinkersprite
+sprite   411 mdzoff     1500000    // tile0025 shrinkersprite
+sprite   411 pitch     -1          // tile0025 shrinkersprite
+sprite   360 angoff     1024       // tile0023 rpgsprite
+sprite   388 angoff     256        // tile0051 cola
+sprite   415 angoff    -512        // tile0046 crystalammo
+sprite   102 notmd                 // tile0132 slotdoor
+sprite    39 angoff    -768        // tile0059 heatsensor
+sprite   285 mdzoff     200000     // tile0686 moviecamera
+sprite   285 pitch      1          // tile0686 moviecamera
+sprite   105 angoff     512        // tile0060 accesscard red
+sprite   409 angoff     1024       // tile0027 tripbombsprite
+sprite     0 angoff    -512        // tile0059 heatsensor
+sprite   391 angoff    -512        // tile0044 rpgammo
+sprite   392 angoff     512        // tile0044 rpgammo
+sprite    47 angoff     256        // tile0053 firstaid
+//
+sprite   257 angoff     512        // tile0054 shield
+sprite   259 angoff     512        // tile0052 sixpack
+sprite   261 angoff     512        // tile1348 holoduke
+
+
+// LIGHTS

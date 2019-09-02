@@ -1,0 +1,112 @@
+// Maphacks for Duke: Nuclear Winter HRP
+
+// Title    : Land of Forgotten Toys
+// Filename : nwl3.map
+// Author   : Simply Silly Software
+// mapmd4   : 1dcf70a08f652970a70e1290db57255b // 2011-03-22 (NW Plus, r24)
+
+
+
+
+
+//         <-> nwl3-1997.mhk
+//         <-> nwl3-2014-02-20.mhk
+//         <-> nwl3-megaton.mhk
+
+// Curr. HRP: r5.3.573
+
+// / 30-357 / 366-442
+sprite   298 angoff     384        // tile0028 shotgunsprite
+sprite    48 angoff    -960        // tile0052 sixpack
+sprite   167 angoff    -256        // tile0047 hbombammo
+
+
+
+
+sprite   306 angoff    -256        // tile0049 shotgunammo
+sprite   306 pitch     -112        // tile0049 shotgunammo
+sprite   306 roll      -48         // tile0049 shotgunammo
+sprite   305 angoff    -128        // tile0052 sixpack
+sprite    37 angoff    -512        // tile0041 batteryammo
+sprite    36 angoff    -512        // tile0051 cola
+
+sprite    35 angoff    -450        // tile0053 firstaid
+sprite    35 mdzoff     2000000    // tile0053 firstaid
+sprite    35 pitch     -1          // tile0053 firstaid
+sprite    34 angoff    -512        // tile0051 cola
+
+sprite   366 angoff    -896        // tile0022 chaingunsprite
+sprite    33 angoff    -512        // tile0051 cola
+
+
+sprite   365 angoff     832        // tile0049 shotgunammo
+sprite   365 mdzoff     1500000    // tile0049 shotgunammo
+sprite   365 pitch     -1          // tile0049 shotgunammo
+
+
+
+
+
+sprite   348 angoff     0          // tile3598 (nwinter mario)
+sprite   349 angoff     512        // tile0060 accesscard blue
+
+sprite   133 angoff     640        // tile2259 (tile2255 jibs3)
+sprite   134 angoff    -512        // tile1238 explodingbarrel
+sprite   135 angoff     512        // tile1238 explodingbarrel
+sprite    45 angoff    -768        // tile0047 hbombammo
+sprite    45 mdzoff     1500000    // tile0047 hbombammo
+sprite    45 pitch     -1          // tile0047 hbombammo
+sprite    32 angoff     832        // tile0052 sixpack
+sprite    43 angoff     640        // tile0046 crystalammo
+sprite    44 angoff     384        // tile0046 crystalammo
+sprite   137 mdxoff     40000      // tile1353 spacemarine
+sprite   137 pitch      1          // tile1353 spacemarine
+sprite   375 angoff     512        // tile0021 firstgunsprite
+sprite   374 angoff     512        // tile0051 cola
+sprite    31 angoff     640        // tile0054 shield
+sprite   350 angoff     512        // tile0060 accesscard yellow
+sprite   393 angoff    -768        // tile0045 growammo
+sprite   376 angoff    -256        // tile0025 shrinkersprite
+
+sprite   416 angoff     832        // tile0047 hbombammo
+sprite   416 pitch      32         // tile0047 hbombammo
+sprite   357 angoff     1024       // tile0044 rpgammo
+sprite    42 angoff    -896        // tile0051 cola
+
+sprite    41 angoff    -128        // tile0044 rpgammo
+
+
+sprite    39 angoff     256        // tile0049 shotgunammo
+sprite    39 mdzoff     500000     // tile0049 shotgunammo
+sprite    39 pitch     -1          // tile0049 shotgunammo
+sprite   157 mdzoff     700000     // tile0955 bottle2
+sprite   157 roll      -1          // tile0955 bottle2
+sprite   155 angoff     1024       // tile0956 bottle3
+sprite   351 angoff    -256        // tile0060 accesscard red
+sprite    38 roll      -64         // tile0051 cola
+sprite   389 angoff     512        // tile0023 rpgsprite
+sprite   389 mdzoff     900000     // tile0023 rpgsprite
+sprite   389 pitch      1          // tile0023 rpgsprite
+sprite   415 angoff     1024       // tile0057 jetpack
+sprite   433 angoff    -512        // tile0049 shotgunammo
+sprite   434 angoff     1024       // tile0041 batteryammo
+sprite   432 angoff    -768        // tile0047 hbombammo
+sprite   437 angoff     640        // tile0051 cola
+sprite   437 roll      -128        // tile0051 cola
+sprite   436 angoff     1024       // tile0051 cola
+sprite   435 angoff     512        // tile0051 cola
+sprite   439 angoff     1024       // tile0046 crystalammo
+sprite   440 angoff     512        // tile0046 crystalammo
+sprite   440 roll       128        // tile0046 crystalammo
+sprite   438 angoff     768        // tile0046 crystalammo
+sprite   438 roll       64         // tile0046 crystalammo
+sprite   413 angoff     256        // tile0052 sixpack
+sprite   390 angoff     1024       // tile0029 devistatorsprite
+
+sprite   412 angoff    -768        // tile0042 devistatorammo
+sprite   411 angoff     512        // tile0051 cola
+sprite    29 angoff    -512        // tile0040 ammo
+sprite   442 angoff     512        // tile0021 firstgunsprite
+
+sprite    30 angoff     1024       // tile0026 heavyhbomb
+sprite   410 angoff    -768        // tile0049 shotgunammo

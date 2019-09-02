@@ -1,0 +1,70 @@
+// Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
+
+// Title    : Zoo Map"
+// Filename : _ZOO.MAP
+// Author   : Allen H. Blum III
+// mapmd4   : efd779139eef1cbd7adf80aa908f0f94 // 1996-10-10
+
+//         <-> _ZOO_13d.mhk
+//         <-> _nwzoo-r18.mhk
+//         <-> _vacazoo-r19.mhk
+
+// Curr. HRP: r5.3.630
+
+sprite   109 notmd                 // tile1687 (tile1680 liztroop)
+sprite   108 notmd                 // tile2127 (tile2120 lizman)
+sprite    68 notmd                 // tile2632 (tile2630 boss1 (battlelord))
+sprite    67 notmd                 // tile2762 (tile2760 boss3 (overlord))
+sprite   179 notmd                 // tile2712 (tile2710 boss2 (cycloid))
+sprite   100 notmd                 // tile1882 (tile1880 drone)
+sprite    99 notmd                 // tile1922 (tile1920 commander)
+
+sprite    13 notmd                 // tile1983 (tile1975 tank)
+sprite    94 notmd                 // tile2007 (tile2000 pigcop)
+sprite    85 notmd                 // tile1826 (tile1820 octabrain)
+sprite    62 notmd                 // tile1963 (tile1960 recon)
+sprite    61 notmd                 // tile2362 (tile2360 (gunturret))
+sprite    82 notmd                 // tile2371 (tile2370 (slimer))
+sprite    37 notmd                 // tile0677 (tile0675 egg)
+sprite    80 notmd                 // tile2632 (tile2630 boss1 (battlelord))
+sprite   126 angoff    -768        // tile0056 airtank
+sprite   127 nomdanim              // tile2176 (tile2165 lizmanjump)
+sprite   202 mdzoff     900000     // tile1317 fem2 pole dancer
+sprite   202 pitch      1          // tile1317 fem2 pole dancer
+sprite   202 roll       1          // tile1317 fem2 pole dancer
+sprite   231 angoff     1024       // tile0603 naked1 hangbabe
+sprite   194 angoff    -512        // tile0058 (spacesuit)
+
+sprite   201 angoff     1024       // tile0055 steroids
+sprite   199 angoff     1024       // tile0056 airtank
+sprite   198 angoff     1024       // tile0057 jetpack
+sprite   203 angoff     1024       // tile1348 holoduke
+sprite   200 angoff     1024       // tile0054 shield
+sprite   195 angoff     1024       // tile0051 cola
+sprite   196 angoff     1024       // tile0052 sixpack
+sprite   197 angoff     1024       // tile0053 firstaid
+
+
+sprite   185 angoff     1024       // tile0029 devistatorsprite
+sprite   185 mdzoff     500000     // tile0029 devistatorsprite
+sprite   185 roll       1          // tile0029 devistatorsprite
+sprite   184 angoff     1024       // tile0042 devistatorammo
+sprite   183 angoff     1024       // tile0042 devistatorammo
+sprite   225 angoff     1024       // tile0023 rpgsprite
+sprite   225 mdzoff     500000     // tile0023 rpgsprite
+sprite   225 roll       1          // tile0023 rpgsprite
+sprite   226 angoff     1024       // tile0044 rpgammo
+sprite   227 angoff     1024       // tile0044 rpgammo
+sprite   222 angoff     1024       // tile0022 chaingunsprite
+sprite   222 mdzoff     700000     // tile0022 chaingunsprite
+sprite   222 roll       1          // tile0022 chaingunsprite
+sprite   223 angoff     1024       // tile0041 batteryammo
+sprite   223 mdzoff     500000     // tile0041 batteryammo
+sprite   223 roll       1          // tile0041 batteryammo
+sprite   224 angoff     1024       // tile0041 batteryammo
+sprite   188 angoff     1024       // tile0028 shotgunsprite
+sprite   189 angoff     1024       // tile0049 shotgunammo
+sprite   187 angoff     1024       // tile0049 shotgunammo
+sprite   221 angoff     1024       // tile0021 firstgunsprite
+sprite   220 angoff     1024       // tile0040 ammo
+sprite   219 angoff     1024       // tile0040 ammo

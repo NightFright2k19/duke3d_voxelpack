@@ -1,0 +1,24 @@
+// Voxel signs
+
+animtilerange 1009 1011 5 2
+
+voxel "voxels/signs/0937_sexshopsign.kvx" { tile 937 }
+
+voxel "voxels/signs/0961_exit.kvx" { tile 961 }
+
+voxel "voxels/signs/1008_neon4.kvx" { tile 1008 }
+voxel "voxels/signs/1009_neon51.kvx" { tile 1009 }
+voxel "voxels/signs/1010_neon52.kvx" { tile 1010 }
+voxel "voxels/signs/1011_neon53.kvx" { tile 1011 }
+
+voxel "voxels/signs/1046_arcadeneon.kvx" { tile 1046 }
+
+voxel "voxels/signs/1172_securedarea.kvx" { tile 1172 }
+
+voxel "voxels/signs/1210_guilty.kvx" { tile 1210 }
+voxel "voxels/signs/1211_innocent.kvx" { tile 1211 }
+
+voxel "voxels/signs/4891_storecrap.kvx" { tile 4891 }
+
+voxel "voxels/signs/4956_funnyboner.kvx" { tile 4956 }
+

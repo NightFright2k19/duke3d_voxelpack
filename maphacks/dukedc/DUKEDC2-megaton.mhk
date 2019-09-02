@@ -1,0 +1,146 @@
+// Maphacks by NightFright for use with the Duke It Out In D.C. HRP
+
+// Title    : Memorial Service
+// Filename : DUKEDC2.MAP
+// Author   : Robert Travis
+// mapmd4   : c8dd4d07093cfb302b8b6be44d22a730 // 2014-11-04 (Megaton)
+
+//         <-> DUKEDC2.mhk
+//         <-> DUKEDC2-2014-02-20.mhk
+
+// Curr. HRP: r5.3.645
+
+// 1-481 / 500 / / 502-512 / 520-540
+sprite    79 angoff     1024       // tile0028 shotgunsprite
+sprite    78 angoff     1024       // tile0049 shotgunammo
+sprite    77 angoff    -512        // tile0049 shotgunammo
+sprite   533 angoff    -512        // tile0054 shield (multiplayer)
+sprite   521 angoff     256        // tile0041 batteryammo (multiplayer)
+sprite    76 angoff     384        // tile0049 shotgunammo
+sprite   523 angoff     256        // tile0047 hbombammo (multiplayer)
+sprite   522 angoff     512        // tile0022 chaingunsprite (multiplayer)
+sprite    72 angoff     512        // tile0052 sixpack
+sprite   524 angoff     512        // tile0055 steroids (multiplayer)
+sprite    75 angoff     768        // tile0049 shotgunammo
+sprite   520 angoff     768        // tile0041 batteryammo (multiplayer)
+sprite    28 angoff     384        // tile3664 (dukedc us flag)
+sprite    29 angoff     128        // tile3664 (dukedc us flag)
+sprite    30 angoff     64         // tile3664 (dukedc us flag)
+sprite    31 angoff     256        // tile3664 (dukedc us flag)
+sprite    32 angoff     768        // tile3664 (dukedc us flag)
+sprite    33 angoff    -512        // tile3664 (dukedc us flag)
+sprite    34 angoff    -128        // tile3664 (dukedc us flag)
+sprite    35 angoff    -256        // tile3664 (dukedc us flag)
+sprite     4 angoff     128        // tile3656 (dukedc conifer)
+sprite     5 angoff    -256        // tile3656 (dukedc conifer)
+sprite     7 angoff     1024       // tile3656 (dukedc conifer)
+sprite     8 angoff    -512        // tile3656 (dukedc conifer)
+sprite     9 angoff    -384        // tile3656 (dukedc conifer)
+sprite    10 angoff     128        // tile3656 (dukedc conifer)
+sprite    12 angoff     384        // tile3656 (dukedc conifer)
+sprite    13 angoff    -256        // tile3656 (dukedc conifer)
+sprite    14 angoff     512        // tile3656 (dukedc conifer)
+sprite    15 angoff    -128        // tile3656 (dukedc conifer)
+sprite   531 angoff    -768        // tile0053 firstaid (multiplayer)
+sprite    63 angoff    -512        // tile0022 chaingunsprite
+sprite   532 angoff    -256        // tile0052 sixpack (multiplayer)
+sprite    66 angoff     512        // tile0049 shotgunammo
+sprite   534 angoff    -512        // tile0054 shield (multiplayer)
+sprite    67 angoff     512        // tile0052 sixpack
+sprite    62 angoff    -256        // tile0041 batteryammo
+sprite    62 mdzoff     900000     // tile0041 batteryammo
+sprite    62 pitch     -1          // tile0041 batteryammo
+sprite    62 roll       1          // tile0041 batteryammo
+sprite    61 angoff    -256        // tile0049 shotgunammo
+sprite    65 angoff    -512        // tile0047 hbombammo
+sprite    60 angoff    -512        // tile0022 chaingunsprite
+sprite   500 angoff     1024       // tile0023 rpgsprite (multiplayer)
+sprite   481 angoff     896        // tile0060 accesscard yellow
+sprite    43 angoff     512        // tile0027 tripbombsprite
+sprite    44 angoff    -512        // tile0027 tripbombsprite
+sprite    45 angoff     512        // tile0027 tripbombsprite
+sprite    46 angoff    -512        // tile0027 tripbombsprite
+sprite    59 angoff    -512        // tile0053 firstaid
+sprite    59 mdzoff     500000     // tile0053 firstaid
+sprite    59 pitch      1          // tile0053 firstaid
+sprite   391 mdzoff     200000     // tile0574 (tile0670 (faucet))
+sprite   391 roll       1          // tile0574 (tile0670 (faucet))
+sprite   390 mdzoff     200000     // tile0574 (tile0670 (faucet))
+sprite   390 roll       1          // tile0574 (tile0670 (faucet))
+sprite   386 mdzoff     200000     // tile0574 (tile0670 (faucet))
+sprite   386 roll       1          // tile0574 (tile0670 (faucet))
+sprite   350 angoff     196        // tile1062 rubbercan
+sprite   425 angoff     384        // tile1062 rubbercan
+sprite   345 angoff     1024       // tile0569 toilet
+sprite   346 angoff     1024       // tile0569 toilet
+sprite   347 angoff     1024       // tile0569 toilet
+sprite    20 angoff     512        // tile0041 batteryammo
+sprite    20 mdzoff     300000     // tile0041 batteryammo
+sprite    20 roll       1          // tile0041 batteryammo
+sprite   504 angoff    -512        // tile0047 hbombammo (multiplayer)
+sprite   426 angoff     768        // tile1062 rubbercan
+sprite   426 mdzoff     1200000    // tile1062 rubbercan
+sprite   426 pitch     -1          // tile1062 rubbercan
+sprite   418 mdzoff     100000     // tile0574 (tile0670 (faucet))
+sprite   418 roll       1          // tile0574 (tile0670 (faucet))
+sprite   417 mdzoff     100000     // tile0574 (tile0670 (faucet))
+sprite   417 roll      -1          // tile0574 (tile0670 (faucet))
+sprite   416 mdzoff     100000     // tile0574 (tile0670 (faucet))
+sprite   416 roll      -1          // tile0574 (tile0670 (faucet))
+sprite   415 mdzoff     100000     // tile0574 (tile0670 (faucet))
+sprite   415 roll      -1          // tile0574 (tile0670 (faucet))
+sprite   414 mdzoff     100000     // tile0574 (tile0670 (faucet))
+sprite   414 roll       1          // tile0574 (tile0670 (faucet))
+sprite   413 mdzoff     100000     // tile0574 (tile0670 (faucet))
+sprite   413 roll       1          // tile0574 (tile0670 (faucet))
+sprite   427 angoff     256        // tile1062 rubbercan
+//sprite    58 angoff     512        // tile1348 holoduke
+sprite   502 angoff     512        // tile0046 crystalammo (multiplayer)
+sprite   503 angoff     512        // tile0046 crystalammo (multiplayer)
+sprite   505 angoff     1024       // tile0024 freezesprite (multiplayer)
+sprite    54 angoff    -512        // tile0041 batteryammo
+sprite    54 mdzoff     900000     // tile0041 batteryammo
+sprite    54 pitch     -1          // tile0041 batteryammo
+sprite    53 angoff     512        // tile0049 shotgunammo
+sprite    53 mdzoff     700000     // tile0049 shotgunammo
+sprite    53 pitch     -1          // tile0049 shotgunammo
+sprite    52 angoff     512        // tile0054 shield
+sprite    57 angoff    -384        // tile0052 sixpack
+sprite    56 angoff    -512        // tile0052 sixpack
+sprite    55 angoff    -640        // tile0052 sixpack
+sprite    21 angoff     1024       // tile3665 (dukedc potus flag)
+sprite   535 angoff    -512        // tile0044 rpgammo (multiplayer)
+sprite   536 angoff    -512        // tile0044 rpgammo (multiplayer)
+sprite    95 angoff     1024       // tile0040 ammo
+sprite    99 angoff     1024       // tile0041 batteryammo
+sprite   100 angoff     512        // tile0040 ammo
+sprite    98 angoff     1024       // tile0040 ammo
+sprite    51 angoff     256        // tile0029 devistatorsprite
+sprite   101 angoff     512        // tile0040 ammo
+sprite   440 angoff     512        // tile0040 ammo
+sprite   441 angoff     512        // tile0040 ammo
+sprite   442 angoff     512        // tile0040 ammo
+sprite   443 angoff     512        // tile0040 ammo
+sprite   305 angoff     0          // tile0060 accesscard blue
+sprite    97 angoff     512        // tile0041 batteryammo
+sprite    50 angoff    -256        // tile0042 devistatorammo
+sprite   512 angoff     512        // tile0047 hbombammo
+sprite   512 mdzoff     500000     // tile0047 hbombammo
+sprite   512 pitch     -1          // tile0047 hbombammo
+sprite    81 angoff     192        // tile1294 podfem1
+sprite   172 angoff     1024       // tile0060 accesscard red
+sprite    48 angoff     1024       // tile0052 sixpack
+sprite   540 angoff     512        // tile0042 devistatorammo (multiplayer)
+sprite    68 angoff    -512        // tile0052 sixpack
+sprite   539 angoff    -512        // tile0044 rpgammo (multiplayer)
+sprite   538 angoff     512        // tile0044 rpgammo (multiplayer)
+sprite    69 angoff     768        // tile0052 sixpack
+sprite    71 angoff     256        // tile0052 sixpack
+sprite    74 angoff     1024       // tile0049 shotgunammo
+sprite   176 angoff     512        // tile1232 canwithsomething
+sprite   177 angoff    -256        // tile1232 canwithsomething
+sprite   178 angoff     768        // tile1232 canwithsomething
+sprite   175 angoff     384        // tile1232 canwithsomething
+
+
+// LIGHTS

@@ -1,0 +1,63 @@
+// Maphacks for Duke: Nuclear Winter HRP
+
+// Title    : Nuclear Winter Zoo
+// Filename : _nwzoo.map
+// Author   : Allen H. Blum III & Evan 'Hendricks266' Ramos
+// mapmd4   : fbcc52b39ea54787c664c5072000428e // 2011-03-08 (NWPlus, r18)
+
+//         <-> _ZOO.mhk
+//         <-> _ZOO_13d.mhk
+//         <-> _vacazoo-r19.mhk
+
+// Curr. HRP: r5.3.630
+
+sprite    83 notmd                 // tile1687 (tile1680 liztroop)
+sprite    82 notmd                 // tile2127 (tile2120 lizman)
+sprite   216 notmd                 // tile4027 (nwinter tile4000 fem groan)
+sprite   226 notmd                 // tile3802 (nwinter tile3800 fem grunt)
+sprite   153 notmd                 // tile3902 (nwinter tile3900 santa claws)
+sprite    74 notmd                 // tile1882 (tile1880 drone)
+sprite    73 notmd                 // tile1922 (nwinter tile1920 flying frosty)
+sprite   228 notmd                 // tile3846 (nwinter tile3841 snowman)
+sprite     6 notmd                 // tile1983 (nwinter tile1975 battle mobile)
+sprite    68 notmd                 // tile2007 (tile2000 pigcop)
+sprite    59 notmd                 // tile1826 (tile1820 octabrain)
+sprite    41 notmd                 // tile1963 (tile1960 recon)
+sprite    40 notmd                 // tile2362 (tile2360 (gunturret))
+sprite    56 notmd                 // tile2371 (tile2370 (slimer))
+sprite    16 notmd                 // tile0677 (tile0675 egg)
+sprite    54 notmd                 // tile2632 (tile2630 boss1 (battlelord))
+sprite   100 angoff    -768        // tile0056 airtank
+
+sprite   176 mdzoff     900000     // tile1317 fem2 pole dancer
+sprite   176 pitch      1          // tile1317 fem2 pole dancer
+sprite   176 roll       1          // tile1317 fem2 pole dancer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sprite   159 mdzoff     500000     // tile0029 devistatorsprite
+sprite   159 roll       1          // tile0029 devistatorsprite
+
+
+
+sprite   199 mdzoff     500000     // tile0023 rpgsprite
+sprite   199 roll       1          // tile0023 rpgsprite
+
+
+
+sprite   196 mdzoff     700000     // tile0022 chaingunsprite
+sprite   196 roll       1          // tile0022 chaingunsprite
+
+sprite   197 mdzoff     500000     // tile0041 batteryammo
+sprite   197 roll       1          // tile0041 batteryammo

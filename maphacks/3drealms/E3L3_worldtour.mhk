@@ -1,0 +1,136 @@
+// Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
+
+// Title    : Flood Zone
+// Filename : E3L3.map
+// Author   : Richard Bailey Gray (The Levelord)
+// mapmd4   : d2f8360c2201b831d0e178c488d88d2c // 2016-09-23 (World Tour)
+
+//         <-> E3L3_polymost.mhk
+
+// Curr. HRP: r5.3.661
+
+// 0-50 | 61-534
+sprite   176 angoff    -256        // tile0056 airtank
+sprite   202 angoff     512        // tile0023 rpgsprite
+sprite   202 pitch      16         // tile0023 rpgsprite
+sprite   202 roll       80         // tile0023 rpgsprite
+sprite   371 angoff    -512        // tile0049 shotgunammo
+sprite   371 pitch      120        // tile0049 shotgunammo
+sprite   371 roll       80         // tile0049 shotgunammo
+sprite    72 angoff    -640        // tile0021 firstgunsprite
+sprite   201 angoff    -576        // tile0052 sixpack
+sprite   200 angoff     192        // tile0044 rpgammo
+sprite   200 mdzoff     300000     // tile0044 rpgammo
+sprite   200 pitch     -1          // tile0044 rpgammo
+sprite   200 roll      -1          // tile0044 rpgammo
+sprite   251 notmd                 // tile0586 (spreadsheet)
+sprite   198 angoff     512        // tile0053 firstaid
+sprite   430 angoff     192        // tile0041 batteryammo
+sprite   282 mdzoff     200000     // tile0914 maskwall3 (fence)
+sprite   282 pitch      1          // tile0914 maskwall3 (fence)
+sprite   283 mdzoff     200000     // tile0914 maskwall3 (fence)
+sprite   283 pitch      1          // tile0914 maskwall3 (fence)
+sprite   284 mdzoff     200000     // tile0914 maskwall3 (fence)
+sprite   284 pitch      1          // tile0914 maskwall3 (fence)
+sprite   429 angoff    -896        // tile0042 devistatorammo
+sprite    62 angoff    -768        // tile0052 sixpack
+sprite    64 angoff    -896        // tile0040 ammo
+sprite    61 angoff    -640        // tile0057 jetpack (multiplayer)
+sprite   191 angoff    -720        // tile0029 devistatorsprite
+sprite    63 angoff    -512        // tile0040 ammo
+sprite    65 angoff    -256        // tile0046 crystalammo
+sprite    66 angoff     512        // tile0037 freezeammo
+sprite    66 pitch     -4          // tile0037 freezeammo
+sprite    66 roll      -144        // tile0037 freezeammo
+sprite    67 angoff    -512        // tile0037 freezeammo
+sprite   172 angoff    -544        // tile0054 shield
+sprite   171 angoff     768        // tile0044 rpgammo
+sprite   171 mdzoff     1500000    // tile0044 rpgammo
+sprite   171 pitch     -1          // tile0044 rpgammo
+sprite   448 angoff     128        // tile0023 rpgsprite (multiplayer)
+sprite   166 angoff    -768        // tile0022 chaingunsprite
+sprite   447 angoff     256        // tile0054 shield (multiplayer)
+sprite   167 angoff    -512        // tile0044 rpgammo
+sprite   165 angoff     384        // tile0052 sixpack
+sprite   164 angoff     256        // tile0041 batteryammo
+sprite   164 pitch     -64         // tile0041 batteryammo
+sprite   164 roll      -128        // tile0041 batteryammo
+sprite    42 angoff     512        // tile0057 jetpack (multiplayer)
+//sprite   424 angoff     1024       // tile0042 devistatorammo
+sprite   169 angoff     896        // tile0060 accesscard blue
+sprite   425 angoff     576        // tile0042 devistatorammo
+sprite   425 mdzoff     700000     // tile0042 devistatorammo
+sprite   425 pitch     -1          // tile0042 devistatorammo
+sprite   446 angoff     1024       // tile0056 airtank (multiplayer)
+sprite   124 angoff    -768        // tile0049 shotgunammo
+sprite    94 angoff    -512        // tile0022 chaingunsprite (multiplayer)
+sprite    94 mdzoff     1600000    // tile0022 chaingunsprite (multiplayer)
+sprite    94 pitch      1          // tile0022 chaingunsprite (multiplayer)
+sprite   463 angoff    -512        // tile0022 chaingunsprite
+sprite   463 pitch      160        // tile0022 chaingunsprite
+sprite   463 roll      -48         // tile0022 chaingunsprite
+sprite   460 angoff     512        // tile0041 batteryammo
+sprite   460 mdzoff     180000     // tile0041 batteryammo
+sprite   460 pitch     -1          // tile0041 batteryammo
+sprite   460 roll       2          // tile0041 batteryammo
+sprite    95 angoff    -512        // tile0029 devistatorsprite (multiplayer)
+sprite   186 angoff     768        // tile0052 sixpack
+sprite   190 angoff     256        // tile0042 devistatorammo
+sprite   189 angoff    -64         // tile0042 devistatorammo
+sprite   187 angoff     128        // tile0044 rpgammo
+sprite    50 angoff     384        // tile0057 jetpack
+sprite   369 angoff     128        // tile0041 batteryammo
+sprite   254 angoff     1024       // tile0047 hbombammo
+sprite    71 angoff     1024       // tile0025 shrinkersprite
+sprite    24 angoff     1024       // tile0059 heatsensor
+sprite   385 angoff    -512        // tile0053 firstaid
+sprite    68 angoff    -128        // tile0024 freezesprite
+sprite   445 angoff    -256        // tile0603 naked1 hangbabe // Polymer HRP
+//sprite   445 angoff     256        // tile0603 naked1 hangbabe // Polymost HRP
+//sprite   445 mdxoff     462000     // tile0603 naked1 hangbabe // Polymost HRP
+//sprite   445 pitch      1          // tile0603 naked1 hangbabe // Polymost HRP
+sprite   431 angoff    -512        // tile0042 devistatorammo
+sprite   431 pitch      96         // tile0042 devistatorammo
+sprite   431 roll      -64         // tile0042 devistatorammo
+sprite   432 angoff     384        // tile0049 shotgunammo
+sprite   432 pitch     -64         // tile0049 shotgunammo
+sprite   432 roll      -32         // tile0049 shotgunammo
+sprite   103 angoff     128        // tile0603 naked1 hangbabe // Polymer HRP
+//sprite   103 angoff     640        // tile0603 naked1 hangbabe // Polymost HRP
+//sprite   103 mdxoff     450000     // tile0603 naked1 hangbabe // Polymost HRP
+//sprite   103 pitch      1          // tile0603 naked1 hangbabe // Polymost HRP
+sprite   390 angoff     896        // tile0060 accesscard yellow
+sprite   390 roll      -64         // tile0060 accesscard yellow
+sprite   313 angoff     1024       // tile0051 cola
+sprite   312 angoff    -768        // tile0041 batteryammo
+sprite   311 angoff    -256        // tile0055 steroids
+sprite    93 angoff    -256        // tile1348 holoduke
+sprite    70 angoff    -768        // tile0027 tripbombsprite
+sprite    69 angoff    -768        // tile0027 tripbombsprite
+sprite    96 angoff    -128        // tile0028 shotgunsprite (multiplayer)
+sprite    73 angoff     352        // tile0049 shotgunammo
+sprite    73 mdzoff     400000     // tile0049 shotgunammo
+sprite    73 pitch     -1          // tile0049 shotgunammo
+sprite   405 angoff     1024       // tile0060 accesscard red
+sprite   372 angoff     896        // tile0044 rpgammo
+sprite   373 angoff     32         // tile0042 devistatorammo
+sprite   373 pitch     -64         // tile0042 devistatorammo
+sprite     4 notmd                 // tile0164 dipswitch2
+sprite   481 angoff    -768        // tile0052 sixpack
+sprite   482 angoff    -512        // tile0052 sixpack
+sprite   125 angoff    -256        // tile0044 rpgammo
+sprite   119 angoff     640        // tile0049 shotgunammo
+sprite   106 angoff    -896        // tile0051 cola
+sprite   108 angoff     1024       // tile0042 devistatorammo
+sprite   108 pitch      32         // tile0042 devistatorammo
+sprite   108 roll      -16         // tile0042 devistatorammo
+sprite   110 angoff     512        // tile0044 rpgammo
+sprite   110 roll      -32         // tile0044 rpgammo
+sprite   109 angoff     512        // tile0041 batteryammo
+sprite   109 mdzoff     400000     // tile0041 batteryammo
+sprite   109 roll       1          // tile0041 batteryammo
+sprite   107 angoff    -512        // tile0042 devistatorammo
+sprite     2 angoff     192        // tile0052 sixpack
+
+
+// LIGHTS

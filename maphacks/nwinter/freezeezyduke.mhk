@@ -1,0 +1,74 @@
+// Maphacks by LeoD for use with the Duke Nukem 3D High Resolution Pack (HRP)
+
+// Title    : Freezeezy Duke
+// Filename : freezeezyduke.map
+// Author   : sT1LL_WAnTeD
+// mapmd4   : 2e57727c9b8f9354b733a38b4f23e1e0 // 2015-12-24
+// Filename : freezeezyduke-nw_plus.map
+// mapmd4   : 57333ee2bfc82ca9972c673ab7ef9c71 // 2015-12-27 (NW Plus, unfixed)
+// mapmd4   : f577c201e16b9dd15646782518c36d6a // 2016-06-14 (NW Plus,Santa-fix)
+
+// Curr. HRP: r5.4.690
+
+sprite  1794 angoff    -64         // tile0049 shotgunammo
+sprite  1163 angoff    -256        // tile0054 shield
+sprite  1742 angoff     192        // tile0055 steroids
+sprite  1800 angoff     1024       // tile0024 freezesprite
+sprite  1786 angoff    -512        // tile0051 cola
+sprite  1786 roll      -48         // tile0051 cola
+sprite  1743 angoff     768        // tile0028 shotgunsprite
+sprite  1787 angoff     128        // tile0051 cola
+sprite  1793 angoff    -512        // tile0021 firstgunsprite
+sprite  1799 angoff    -256        // tile0024 freezesprite
+sprite  1779 angoff     512        // tile0028 shotgunsprite
+sprite  1780 angoff    -256        // tile0051 cola
+sprite  1798 angoff    -768        // tile0024 freezesprite
+sprite  1783 angoff     512        // tile0028 shotgunsprite
+sprite  1776 angoff    -960        // tile0041 batteryammo
+sprite  1775 angoff     512        // tile0022 chaingunsprite
+sprite  1775 pitch     -160        // tile0022 chaingunsprite
+sprite  1782 angoff     128        // tile0021 firstgunsprite
+sprite   617 notmd                 // tile3191 (tile3190 respawnmarkerred)
+sprite   618 notmd                 // tile3191 (tile3190 respawnmarkerred)
+sprite   616 notmd                 // tile3191 (tile3190 respawnmarkerred)
+sprite   617 notmd                 // tile3191 (tile3190 respawnmarkerred)
+sprite   619 notmd                 // tile3191 (tile3190 respawnmarkerred)
+sprite  1789 angoff     128        // tile0052 sixpack
+sprite  1797 angoff    -960        // tile0041 batteryammo
+sprite  1797 roll      -288        // tile0041 batteryammo
+sprite  1774 angoff    -896        // tile0052 sixpack
+sprite  1778 angoff     0          // tile0023 rpgsprite
+sprite  1791 angoff     736        // tile0052 sixpack
+sprite  1795 angoff    -256        // tile0028 shotgunsprite
+sprite  1792 angoff     896        // tile0044 rpgammo
+sprite  1773 angoff    -768        // tile0053 firstaid
+sprite  1773 mdzoff    -700        // tile0053 firstaid
+sprite  1773 pitch     -512        // tile0053 firstaid
+sprite  1777 angoff     0          // tile0022 chaingunsprite
+sprite  1841 angoff     512        // tile0028 shotgunsprite
+sprite  1842 angoff    -256        // tile0049 shotgunammo
+sprite  1790 angoff     1024       // tile0052 sixpack
+sprite  1190 angoff     1024       // tile0057 jetpack
+sprite  1196 notmd                 // tile3753 (tile1255 ceilingsteam)
+
+/*
+ *** NWinter Plus tile number changes for enemy sprites ***
+
+2000 -> tile3900 (santa)
+  none
+
+2045 -> tile3905 (santa), NOT processed:
+  sprite  1824   (respawn, keep tile number009, change hitag instead)
+  sprite  1825   (respawn, keep tile number009, change hitag instead)
+  sprite  1826   (respawn, keep tile number009, change hitag instead)
+  sprite  1831   (respawn, keep tile number009, change hitag instead)
+
+2002 -> tile2000 pigcop
+  none
+
+2003 -> tile2001 pigcopstayput
+  none
+
+2047 -> tile2045 pigcopdive
+  none
+*/

@@ -1,0 +1,147 @@
+// Maphacks by NightFright for use with the Duke It Out In D.C. HRP
+
+// Title    : Metro Mayhem
+// Filename : DUKEDC6.MAP
+// Author   : Robert Travis
+// mapmd4   : 0c8e27eb0bf1ecdb9a24708f7557cf53 // 1997-02-21 (SSI)
+
+//         <-> DUKEDC6-megaton.mhk
+
+// Curr. HRP: r5.3.645
+
+// 1-9 / 44-99 / 166-656
+sprite    62 angoff    -256        // tile0028 shotgunsprite
+sprite   428 angoff     256        // tile1062 rubbercan
+sprite   415 angoff    -192        // tile3649 (dukedc deskphone)
+sprite    58 angoff     1024       // tile0052 sixpack
+sprite   416 angoff    -192        // tile3649 (dukedc deskphone)
+sprite    57 angoff     1024       // tile0041 batteryammo
+sprite   429 angoff     192        // tile1062 rubbercan
+sprite    56 angoff    -768        // tile0049 shotgunammo
+sprite    55 angoff     768        // tile0049 shotgunammo
+sprite   427 angoff     128        // tile1062 rubbercan
+sprite    53 angoff     1024       // tile0052 sixpack
+sprite    54 angoff     1024       // tile0022 chaingunsprite
+
+
+
+sprite   167 angoff     256        // tile1062 rubbercan
+sprite    44 angoff     1024       // tile0029 devistatorsprite
+sprite    43 angoff     1024       // tile0052 sixpack
+
+
+
+
+
+sprite   557 angoff     128        // tile0053 firstaid
+sprite   558 angoff     64         // tile0041 batteryammo
+sprite   559 angoff    -576        // tile0041 batteryammo
+sprite   561 angoff    -128        // tile0047 hbombammo
+sprite   556 angoff     128        // tile0060 accesscard blue
+
+
+sprite   434 angoff     256        // tile1062 rubbercan
+sprite   315 mdzoff     50000      // tile0574 (tile0670 (faucet))
+sprite   315 pitch     -1          // tile0574 (tile0670 (faucet))
+sprite   316 mdzoff     50000      // tile0574 (tile0670 (faucet))
+sprite   316 pitch     -1          // tile0574 (tile0670 (faucet))
+sprite   317 mdzoff     50000      // tile0574 (tile0670 (faucet))
+sprite   317 pitch     -1          // tile0574 (tile0670 (faucet))
+sprite   314 angoff     192        // tile1062 rubbercan
+sprite   635 angoff     1024       // tile0054 shield
+sprite   313 angoff     512        // tile0569 toilet
+sprite     1 angoff     384        // tile0059 heatsensor
+sprite     1 mdzoff     200000     // tile0059 heatsensor
+sprite     1 roll       1          // tile0059 heatsensor
+sprite   435 angoff     96         // tile1062 rubbercan
+sprite   436 mdzoff     50000      // tile0574 (tile0670 (faucet))
+sprite   436 pitch     -1          // tile0574 (tile0670 (faucet))
+sprite   436 roll       1          // tile0574 (tile0670 (faucet))
+sprite   437 mdzoff     50000      // tile0574 (tile0670 (faucet))
+sprite   437 pitch     -1          // tile0574 (tile0670 (faucet))
+sprite   437 roll       1          // tile0574 (tile0670 (faucet))
+sprite   438 mdzoff     50000      // tile0574 (tile0670 (faucet))
+sprite   438 pitch     -1          // tile0574 (tile0670 (faucet))
+sprite   438 roll       1          // tile0574 (tile0670 (faucet))
+sprite   637 angoff    -256        // tile0049 shotgunammo
+sprite   638 angoff     768        // tile0052 sixpack
+sprite   656 angoff    -512        // tile0026 heavyhbomb
+sprite   441 angoff    -512        // tile0569 toilet
+
+sprite   584 angoff     256        // tile0052 sixpack
+sprite   583 angoff     128        // tile0047 hbombammo
+sprite   585 angoff     256        // tile0042 devistatorammo
+sprite   582 angoff     1024       // tile0052 sixpack
+sprite   490 angoff    -192        // tile3649 (dukedc deskphone)
+sprite   477 angoff    -192        // tile3649 (dukedc deskphone)
+sprite   564 angoff     1024       // tile0023 rpgsprite
+sprite   526 angoff     128        // tile1062 rubbercan
+sprite    99 angoff     256        // tile1062 rubbercan
+//sprite   524 nomdanim              // tile3350 (duke head holo)
+//sprite   523 notmd                 // tile1840 (tile1820 octabrain)
+sprite   523 nomdanim              // tile1840 (tile1820 octabrain)
+
+sprite    91 angoff     896        // tile3649 (dukedc deskphone)
+sprite    89 angoff    -896        // tile0556 chair1
+sprite    92 angoff    -768        // tile0060 accesscard red
+sprite   594 angoff    -768        // tile0046 crystalammo
+sprite   595 angoff    -768        // tile0046 crystalammo
+sprite   596 angoff    -768        // tile0046 crystalammo
+sprite   626 angoff     512        // tile0049 shotgunammo
+sprite   627 angoff     512        // tile0049 shotgunammo
+sprite   597 angoff    -512        // tile0053 firstaid
+sprite   597 mdzoff     900000     // tile0053 firstaid
+sprite   597 pitch     -1          // tile0053 firstaid
+
+sprite   536 angoff    -512        // tile0569 toilet
+sprite   539 mdzoff     100000     // tile0574 (tile0670 (faucet))
+sprite   539 pitch      1          // tile0574 (tile0670 (faucet))
+sprite   539 roll       1          // tile0574 (tile0670 (faucet))
+sprite   538 mdzoff     100000     // tile0574 (tile0670 (faucet))
+sprite   538 pitch      1          // tile0574 (tile0670 (faucet))
+sprite   538 roll       1          // tile0574 (tile0670 (faucet))
+sprite   599 angoff     512        // tile0047 hbombammo
+sprite   609 angoff     256        // tile1334 fem6 padbabe
+sprite   605 angoff     128        // tile1323 fem5 polebabe
+sprite   604 angoff    -128        // tile1334 fem6 padbabe
+sprite   624 angoff     256        // tile0052 sixpack
+sprite   625 angoff     256        // tile0052 sixpack
+
+sprite     9 angoff     256        // tile3748 (dukedc tv antenna)
+
+
+sprite   628 angoff    -512        // tile0047 hbombammo
+sprite   641 angoff    -256        // tile0052 sixpack
+sprite   216 angoff     896        // tile3649 (dukedc deskphone)
+sprite   216 mdzoff     500000     // tile3649 (dukedc deskphone)
+sprite   216 pitch      1          // tile3649 (dukedc deskphone)
+
+
+sprite   174 angoff     1024       // tile0998 (parkometer)
+sprite   175 angoff     1024       // tile0998 (parkometer)
+sprite   176 angoff     1024       // tile0998 (parkometer)
+sprite   177 angoff     1024       // tile0998 (parkometer)
+sprite   178 angoff     1024       // tile0998 (parkometer)
+sprite   179 angoff     1024       // tile0998 (parkometer)
+sprite   180 angoff     1024       // tile0998 (parkometer)
+sprite   181 angoff     1024       // tile0998 (parkometer)
+
+sprite   182 angoff    -512        // tile0998 (parkometer)
+sprite   183 angoff    -512        // tile0998 (parkometer)
+sprite   184 angoff    -512        // tile0998 (parkometer)
+sprite   185 angoff    -512        // tile0998 (parkometer)
+sprite   186 angoff    -512        // tile0998 (parkometer)
+sprite   187 angoff    -512        // tile0998 (parkometer)
+sprite   188 angoff     512        // tile0998 (parkometer)
+sprite   189 angoff     512        // tile0998 (parkometer)
+sprite   190 angoff     512        // tile0998 (parkometer)
+sprite   191 angoff     512        // tile0998 (parkometer)
+//sprite   192 angoff     0         // tile0998 (parkometer)
+//sprite   193 angoff     0         // tile0998 (parkometer)
+//sprite   194 angoff     0         // tile0998 (parkometer)
+//sprite   195 angoff     0         // tile0998 (parkometer)
+//sprite   196 angoff     0         // tile0998 (parkometer)
+//sprite   197 angoff     0         // tile0998 (parkometer)
+
+
+// LIGHTS

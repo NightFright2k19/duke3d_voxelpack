@@ -1,0 +1,238 @@
+// Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
+
+// Title    : The Queen
+// Filename : E4L10.MAP
+// Author   : Randall S Pitchford II
+// mapmd4   : baa499ec699df9df82c942adeb3207f7 // 1996-12-11 (1.3D + Atomic GRP)
+
+
+// Curr. HRP: r5.3.661
+
+sprite  1112 angoff     768        // tile2254 (tile2250 jibs2 (eye))
+sprite  1113 notmd                 // tile2301 wallblood1
+sprite  1114 notmd                 // tile2289 (tile2286 jibs6)
+sprite    11 notmd                 // tile2301 wallblood1
+sprite    12 notmd                 // tile2301 wallblood1
+sprite    21 notmd                 // tile5093
+sprite    22 notmd                 // tile5093
+sprite   933 angoff     512        // tile0023 rpgsprite
+sprite   933 mdzoff     1200000    // tile0023 rpgsprite
+sprite   933 pitch      1          // tile0023 rpgsprite
+sprite   934 angoff    -512        // tile0023 rpgsprite
+sprite   934 mdzoff     1200000    // tile0023 rpgsprite
+sprite   934 pitch      1          // tile0023 rpgsprite
+sprite   297 angoff    -768        // tile0028 shotgunsprite (multiplayer)
+sprite   298 angoff     768        // tile0028 shotgunsprite (multiplayer)
+sprite   299 angoff     256        // tile0028 shotgunsprite (multiplayer)
+sprite   300 angoff    -256        // tile0028 shotgunsprite (multiplayer)
+sprite   672 angoff    -896        // tile0052 sixpack
+sprite   673 angoff     896        // tile0052 sixpack
+sprite   893 angoff     512        // tile0047 hbombammo
+sprite   891 angoff     512        // tile0047 hbombammo
+sprite   983 angoff    -256        // tile0041 batteryammo
+sprite   980 angoff    -768        // tile0041 batteryammo
+sprite   682 angoff     1024       // tile0052 sixpack
+sprite   894 angoff     512        // tile0022 chaingunsprite (multiplayer)
+sprite   862 angoff    -512        // tile0022 chaingunsprite (multiplayer)
+sprite   886 angoff     256        // tile0049 shotgunammo
+sprite   885 angoff     768        // tile0049 shotgunammo
+sprite   613 angoff     512        // tile0028 shotgunsprite (multiplayer)
+sprite   701 angoff    -512        // tile0028 shotgunsprite (multiplayer)
+sprite   859 angoff    -512        // tile0022 chaingunsprite (multiplayer)
+sprite   864 angoff     256        // tile0042 devistatorammo
+sprite   863 angoff     768        // tile0042 devistatorammo
+sprite   679 angoff     1024       // tile0052 sixpack
+sprite   897 angoff     512        // tile0022 chaingunsprite
+sprite   616 angoff    -512        // tile0028 shotgunsprite (multiplayer)
+sprite   896 angoff    -512        // tile0022 chaingunsprite
+sprite   892 angoff    -512        // tile0047 hbombammo
+sprite   686 angoff    -512        // tile0047 hbombammo
+sprite   982 angoff     256        // tile0049 shotgunammo
+sprite   981 angoff    -256        // tile0041 batteryammo
+sprite   683 angoff     1024       // tile0052 sixpack
+sprite   895 angoff    -512        // tile0022 chaingunsprite (multiplayer)
+sprite   615 angoff     512        // tile0028 shotgunsprite
+sprite   861 angoff     512        // tile0022 chaingunsprite (multiplayer)
+sprite   888 angoff    -256        // tile0044 rpgammo
+sprite   887 angoff    -768        // tile0044 rpgammo
+sprite   614 angoff     512        // tile0028 shotgunsprite (multiplayer)
+sprite   702 angoff    -512        // tile0028 shotgunsprite (multiplayer)
+sprite   860 angoff     512        // tile0022 chaingunsprite (multiplayer)
+sprite   889 angoff     768        // tile0041 batteryammo
+sprite   890 angoff    -768        // tile0041 batteryammo
+sprite   678 angoff     1024       // tile0052 sixpack
+sprite   316 angoff     512        // tile0047 hbombammo
+sprite   684 angoff     1024       // tile0042 devistatorammo
+sprite   671 angoff     1024       // tile0052 sixpack
+sprite   671 mdzoff     1200000    // tile0052 sixpack
+sprite   671 pitch     -1          // tile0052 sixpack
+sprite   669 angoff     512        // tile0029 devistatorsprite (multiplayer)
+sprite   700 angoff     1024       // tile0042 devistatorammo
+sprite   315 angoff    -512        // tile0047 hbombammo
+sprite   670 mdzoff     1200000    // tile0052 sixpack
+sprite   670 pitch     -1          // tile0052 sixpack
+sprite   388 angoff    -512        // tile0029 devistatorsprite (multiplayer)
+sprite   320 angoff     768        // tile0042 devistatorammo
+sprite   578 angoff     512        // tile0044 rpgammo
+sprite   319 angoff    -256        // tile0042 devistatorammo
+sprite   337 angoff    -256        // tile0056 airtank
+sprite   903 angoff     1024       // tile0029 devistatorsprite
+sprite   566 angoff     768        // tile0052 sixpack
+sprite   579 angoff    -832        // tile0023 rpgsprite
+//sprite   579 angoff     0          // tile0023 rpgsprite
+//sprite   579 mdzoff    -730000     // tile0023 rpgsprite
+//sprite   579 roll      -1          // tile0023 rpgsprite
+sprite   567 angoff    -256        // tile0052 sixpack
+sprite   705 notmd                 // tile5102 (green alien wall texture)
+sprite   706 notmd                 // tile5102 (green alien wall texture)
+sprite   308 angoff    -256        // tile0051 cola
+sprite   309 angoff     768        // tile0051 cola
+sprite   312 angoff     256        // tile0047 hbombammo
+sprite   313 angoff     256        // tile0049 shotgunammo
+sprite   310 angoff     256        // tile0044 rpgammo
+sprite   311 angoff     256        // tile0042 devistatorammo
+sprite   314 angoff    -256        // tile0041 batteryammo
+sprite   840 angoff    -256        // tile0054 shield
+sprite   624 angoff     768        // tile0057 jetpack
+sprite   374 angoff    -640        // tile0054 shield
+sprite   789 angoff     0          // tile0060 accesscard blue
+sprite   838 angoff    -384        // tile0042 devistatorammo
+sprite   837 angoff    -640        // tile0042 devistatorammo
+sprite   776 angoff     1024       // tile0053 firstaid
+sprite   839 angoff     768        // tile0052 sixpack
+sprite   839 mdzoff     1200000    // tile0052 sixpack
+sprite   839 pitch     -1          // tile0052 sixpack
+sprite   150 angoff     1024       // tile0061 boots
+sprite   317 angoff    -256        // tile0042 devistatorammo
+sprite   833 angoff    -512        // tile0044 rpgammo
+sprite   318 angoff     768        // tile0042 devistatorammo
+sprite   338 angoff    -128        // tile0061 boots
+sprite   455 angoff     768        // tile0052 sixpack
+sprite   453 angoff    -832        // tile0023 rpgsprite
+sprite   454 angoff    -256        // tile0052 sixpack
+sprite   562 notmd                 // tile5099 (brown alien wall texture)
+sprite   563 notmd                 // tile5099 (brown alien wall texture)
+sprite   963 angoff    -768        // tile0044 rpgammo
+sprite   964 angoff    -768        // tile0047 hbombammo
+sprite   962 angoff    -768        // tile0049 shotgunammo
+sprite   961 angoff    -768        // tile0042 devistatorammo
+sprite   960 angoff     768        // tile0041 batteryammo
+sprite   841 angoff     768        // tile0054 shield
+sprite    29 angoff     1024       // tile0057 jetpack
+sprite   322 angoff     1024       // tile0049 shotgunammo
+sprite   561 angoff    -256        // tile0057 jetpack
+sprite   825 angoff    -640        // tile0054 shield
+sprite   823 angoff     0          // tile0060 accesscard red
+sprite   835 angoff     640        // tile0042 devistatorammo
+sprite   834 angoff     384        // tile0042 devistatorammo
+sprite   836 angoff    -256        // tile0052 sixpack
+sprite   836 mdzoff     1200000    // tile0023 rpgsprite
+sprite   836 pitch     -1          // tile0023 rpgsprite
+sprite   842 angoff     0          // tile0060 accesscard yellow
+sprite   843 angoff     128        // tile0052 sixpack
+sprite   844 angoff     512        // tile0055 steroids
+sprite  1051 angoff    -448        // tile0044 rpgammo
+sprite  1050 angoff     896        // tile0042 devistatorammo
+sprite  1052 angoff    -160        // tile0044 rpgammo
+sprite  1049 angoff     640        // tile0042 devistatorammo
+sprite   865 angoff     512        // tile0041 batteryammo
+sprite   866 angoff     768        // tile0041 batteryammo
+sprite   867 angoff    -768        // tile0049 shotgunammo
+sprite   868 angoff     1024       // tile0049 shotgunammo
+sprite     4 angoff    -896        // tile0052 sixpack
+sprite   872 angoff    -512        // tile0041 batteryammo
+sprite   870 angoff    -768        // tile0041 batteryammo
+sprite   869 angoff    -256        // tile0049 shotgunammo
+sprite     5 angoff    -128        // tile0052 sixpack
+
+
+// LIGHTS
+
+// by Devastator
+//    sect     x       y       z    range   r   g   b  rad fade  ang  horiz mins maxs prio tile
+light  574  -47360   13824   36224   1400   81  71  51   0   0  1536      9   0    0    0    -1
+light  772  -45812    5904   38340   2900  181 131  71   0   0  1536      9   0    0    0    -1
+light  770  -39424   11008   34221   2900  181 131  71   0   0  1536      9   0    0    0    -1
+light  313  -40416    6066   23704   2700  151 101   1   0   0  1536      9   0    0    0    -1
+light  236   41856   13952   34816   2100  121 201 201   0   0  1536     -1   0    0    0    -1
+light  184   15872    2748   -8192   3800   41  91 221   0   0  1536      9   0    0    0    -1
+light  821     -31  -20272       0    500  255 255 255   0   0  1536   -500   0    1    0    -1
+light  821      64  -20480   -4096   2800   55  48   1   0   0  1536   -500   0    0    0    -1
+light  748   -2944   -5952  -18717   3700  121 121 121   0   0  1536     -1   0    0    0    -1
+light  129    2944   -5888  -18717   3700  121 121 121   0   0  1536     -1   0    0    0    -1
+light  147   -3314   12346  -24320   2300  161 151 141   0   0  1536     -1   0    0    0    -1
+light  472    9004    8170   -6144   2200  151 221 225   0   0  1536     -1   0    0    0    -1
+light  548    2013    8101  -21248   2000   71  61  50   0   0  1536     -1   0    0    0    -1
+light  549   -1998    8154  -21376   2000   71  61  50   0   0  1536     -1   0    0    0    -1
+light  466   -9119    8169   -5376   2800  151 255 225   0   0  1536     -1   0    0    0    -1
+light  211   14981    8163   -6016   1700  185 185 161   0   0  1536     -1   0    0    0    -1
+light  199   14464    4736       0   3800   41  91 221   0   0  1536      9   0    0    0    -1
+light  324  -36360   11390   -1792   3800  121  91  41   0   0  1536      9   0    0    0    -1
+light  180   16957   14132   -3072   3800   41  91 221   0   0  1536      9   0    0    0    -1
+light  182   23596   14561   -7168   3800   41  91 255   0   0  1536      9   0    0    0    -1
+light  162   20135   14277  -34560   2900   81 101 111   0   0  1536     -1   0    0    0    -1
+light  181   26645   10739   -9088   5700   41  91 221   0   0  1536      9   0    0    0    -1
+light  215   28157   14255  -12288   2000   91 151 241   0   0  1536     -1   0    0    0    -1
+light  279   16274     529  -21248   3800   31 111 255   0   0  1536      9   0    0    0    -1
+light  299   27072    1216   -3968   2700  181 255 175   0   0  1536     -1   0    0    0    -1
+light  153   18075   10311  -30080   5500  111 211 241   0   0  1536      9   0    0    0    -1
+light  819   18640    7158    5248   3600   71 111 121   0   0  1536      9   0    0    0    -1
+light  258   20006   14565    5119   2500   75 115  11   0   0  1536     -1   0    0    0    -1
+light  486   22572   10705  -20608   3300   81 141 211   0   0  1536     -1   0    0    0    -1
+light  784   45504   10304   33485   2500   95 245 131   0   0  1536     -1   0    0    0    -1
+light  781   39296    5248   34806   2200   95 245 131   0   0  1536     -1   0    0    0    -1
+light  157   40034    8315   23808   3100   95 245 201   0   0  1536     -1   0    0    0    -1
+light  167   36490    4619   -1408   2800    1 121 181   0   0  1536      9   0    0    0    -1
+light  166   38657    1832   -4864   2800    1  91 181   0   0  1536      9   0    0    0    -1
+light  329  -36095    4878   10136   3800  121  91  41   0   0  1536      9   0    0    0    -1
+light  171   39088   14393    5120   2800    1 121 181   0   0  1536      9   0    0    0    -1
+light  522   45270    4631   33792   2300   51  71  31   0   0   768     -1   0    0    0    -1
+light  211   13651    7878  -16128   4700   51 101 231   0   0  1536      9   0    0    0    -1
+light  291   24576    2048  -29696   3500   81 131 221   0   0  1536      9   0    0    0    -1
+light  299   27642    5109  -15744   3500   41  91 131   0   0  1536      9   0    0    0    -1
+light   60       0    3072   -5888   5800   65   1 255   0   0  1536     -1   0    0    0    -1
+light  478       0   22272   -2049   4500   65   1 255   0   0  1536     -1   0    0    0    -1
+light   63       0   13312   -5888   5800   65   1 255   0   0  1536     -1   0    0    0    -1
+light  374  -13153    7208  -15872   5900   81  71   1   0   0  1536      9   0    0    0    -1
+light  178   14336   11520   -1024   3800   41  91 221   0   0  1536      9   0    0    0    -1
+light  359  -13824   11520   -1024   3800  225 215   1   0   0  1536      9   0    0    0    -1
+light  335  -13824    4608   -1024   3800  225 215   1   0   0  1536      9   0    0    0    -1
+light  337  -16818    1403    -768   3800  225 215   1   0   0  1536      9   0    0    0    -1
+light  319  -20250    2443  -38145   3800   51  71  91   0   0  1536      9   0    0    0    -1
+light  339  -24064    1792   -5120   3800  225 215   1   0   0  1536      9   0    0    0    -1
+light  338  -27021    4789   -6144   3800  225 215   1   0   0  1536      9   0    0    0    -1
+light  452  -26438   14438    1792   2600  221 231 201   0   0  1536      9   0    0    0    -1
+light  458  -27982   10240  -11520   3200   65  41  11   0   0  1536      9   0    0    0    -1
+light  438  -16876   16409  -29184   3800  225 215   1   0   0  1536      9   0    0    0    -1
+light  511  -22716    6076  -20864   3900   91  71   1   0   0  1536      9   0    0    0    -1
+light  310  -18802    6387   -5120   3800  180 170 110   0   0  1536     -1   0    1    0    -1
+light  818  -18573    9246     256   4300  100  90  90   0   0  1536     -1   0    0    0    -1
+light  419  -20238    1826   10752   3000  161  51  21   0   0  1536     -1   0    0    0    -1
+light  172   36240   10969   -3328   2800    1  91 181   0   0  1536      9   0    0    0    -1
+light  328  -38912    2048   -4968   3800  121  91  41   0   0  1536      9   0    0    0    -1
+light  574  -44075   11492   36224   2700   81  71  51   0   0  1536      9   0    0    0    -1
+light   80    1024   18176   14488   2900  131 121 101   0   0  1536      9   0    0    0    -1
+light   76     512   -1536   15360   2900  131 121 101   0   0  1536      9   0    0    0    -1
+light  146   -4608   22528  -13440   2600   61  61  61   0   0  1536     -1   0    0    0    -1
+light  696   -3314    4154  -24320   2300  161 151 141   0   0  1536     -1   0    0    0    -1
+light  149    3328    4096  -24320   2300  161 151 141   0   0  1536     -1   0    0    0    -1
+light  148    3328   12288  -24320   2300  161 151 141   0   0  1536     -1   0    0    0    -1
+light  127    4608   22528  -13440   2600   61  61  61   0   0  1536     -1   0    0    0    -1
+light  744      -8   28909    6912   2200   21  51  95   0   0  1408     -1   0    0    0    -1
+light  595   -1278   31352   13500   3900    5  20  37   0   0  1536     -1   0    0    0    -1
+light  601   25216   32128   -4864   2500    1 181 195   0   0  1536     -1   0    0    0    -1
+light  598   -3584   32512   15360   4200    1  41  41   0   0  1536     -1   3   23    0    -1
+light  598   -3266   31995   22528   3900    1   1 104   0   0  1536     -1   0    0    0    -1
+light  606   24320   33536    3072   2500    1   1 255   0   0  1536     -1   0    0    0    -1
+light  642   22272   35840   12522   2500    1   1 255   0   0  1536     -1   0    0    0    -1
+light  608   21248   37504   11035   2500   41  41 205   0   0  1536     -1   0    0    0    -1
+light  842   26448   38888   25088   7200    1  81 255   0   0  1536     -1   0    0    0    -1
+light  842   28649   33976   -1792   7000    1  61 222   0   0  1536     -1   0    0    0    -1
+light  636   29696   44672    5376   7000    1  31 242   0   0  1536     -1   0    0    0    -1
+light  626   38512   39065   -2816   6400   11  41 231   0   0  1536     -1   0    0    0    -1
+light  803   33564   38929    7168  11900    1 135 225   0   0  1536     -1   0    0    0    -1
+light  640   30720   51584    4352   1500    1  41 255   0   0  1536     -1   0    0    0    -1
+light  619   31947   26248    6144   1500   11  51 255   0   0  1536     -1   0    0    0    -1
+light  630   46848   39936    1024   1500    1  41 255   0   0  1536     -1   0    0    0    -1
+light  458  -20676   14221   -2304   3200   65  41  11   0   0  1536      9   0    0    0    -1
+light  299   20482    1879   -9088   3500   41  91 131   0   0  1536      9   0    0    0    -1

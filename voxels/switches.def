@@ -1,0 +1,57 @@
+// Voxel switches
+
+voxel "voxels/switches/0130_accessswitch_off.kvx" { tile 130 }
+voxel "voxels/switches/0131_accessswitch_on.kvx" { tile 131 }
+voxel "voxels/switches/0132_slotdoor_off.kvx" { tile 132 }
+voxel "voxels/switches/0133_slotdoor_on.kvx" { tile 133 }
+voxel "voxels/switches/0134_lightswitch_off.kvx" { tile 134 }
+voxel "voxels/switches/0135_lightswitch_on.kvx" { tile 135 }
+voxel "voxels/switches/0136_spacedoorswitch_off.kvx" { tile 136 }
+voxel "voxels/switches/0137_spacedoorswitch_on.kvx" { tile 137 }
+voxel "voxels/switches/0138_slideswitch_off.kvx" { tile 138 }
+voxel "voxels/switches/0139_slideswitch_on.kvx" { tile 139 }
+
+voxel "voxels/switches/0140_leverswitch_off.kvx" { tile 140 }
+voxel "voxels/switches/0141_leverswitch_on.kvx" { tile 141 }
+voxel "voxels/switches/0142_nukebutton1.kvx" { tile 142 }
+voxel "voxels/switches/0143_nukebutton2.kvx" { tile 143 }
+voxel "voxels/switches/0144_nukebutton3.kvx" { tile 144 }
+voxel "voxels/switches/0145_nukebutton4.kvx" { tile 145 }
+voxel "voxels/switches/0146_multiswitch1.kvx" { tile 146 }
+voxel "voxels/switches/0147_multiswitch2.kvx" { tile 147 }
+voxel "voxels/switches/0148_multiswitch3.kvx" { tile 148 }
+voxel "voxels/switches/0149_multiswitch4.kvx" { tile 149 }
+
+voxel "voxels/switches/0162_dipswitch_off.kvx" { tile 162 }
+voxel "voxels/switches/0163_dipswitch_on.kvx" { tile 163 }
+voxel "voxels/switches/0164_dipswitch2_off.kvx" { tile 164 }
+voxel "voxels/switches/0165_dipswitch2_on.kvx" { tile 165 }
+voxel "voxels/switches/0166_techswitch_off.kvx" { tile 166 }
+voxel "voxels/switches/0167_techswitch_on.kvx" { tile 167 }
+voxel "voxels/switches/0168_dipswitch3_off.kvx" { tile 168 }
+voxel "voxels/switches/0169_dipswitch3_on.kvx" { tile 169 }
+voxel "voxels/switches/0170_accessswitch2_off.kvx" { tile 170 }
+voxel "voxels/switches/0171_accessswitch2_on.kvx" { tile 171 }
+
+voxel "voxels/switches/0712_lightswitch_off.kvx" { tile 712 }
+voxel "voxels/switches/0713_lightswitch_on.kvx" { tile 713 }
+
+voxel "voxels/switches/0860_powerswitch1_off.kvx" { tile 860 }
+voxel "voxels/switches/0861_powerswitch1_on.kvx" { tile 861 }
+voxel "voxels/switches/0862_lockswitch1_off.kvx" { tile 862 }
+voxel "voxels/switches/0863_lockswitch1_on.kvx" { tile 863 } 
+voxel "voxels/switches/0864_powerswitch2_off.kvx" { tile 864 }
+voxel "voxels/switches/0865_powerswitch2_on.kvx" { tile 865 }
+
+voxel "voxels/switches/1111_handswitch_off.kvx" { tile 1111 }
+voxel "voxels/switches/1112_handswitch_on.kvx" { tile 1112 }
+
+voxel "voxels/switches/1122_flipswitch_off.kvx" { tile 1122 }
+voxel "voxels/switches/1123_flipswitch_on.kvx" { tile 1123 }
+
+voxel "voxels/switches/1142_bighole_off.kvx" { tile 1142 }
+voxel "voxels/switches/1143_bighole_on.kvx" { tile 1143 }
+
+voxel "voxels/switches/4483_brokenswitch.kvx" { tile 4483 }
+
+voxel "voxels/switches/4954_brokenswitch2.kvx" { tile 4954 }

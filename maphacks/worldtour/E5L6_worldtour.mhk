@@ -1,0 +1,99 @@
+sprite    1143 angoff     256
+sprite    2600 angoff     512
+sprite    676  angoff     256
+sprite    564  angoff     768
+sprite    1702 angoff     512
+sprite    1703 angoff     512
+sprite    1145 angoff     -256
+sprite    1146 angoff     -768
+sprite    1144 angoff     -512
+sprite    1877 angoff     -768
+sprite    969  angoff     512
+sprite    966  angoff     512
+sprite    967  angoff     512
+sprite    1141 angoff     512
+sprite    981  angoff     256
+sprite    974  angoff     -256
+sprite    975  angoff     -256
+sprite    973  angoff     512
+sprite    1148 angoff     768
+sprite    982  angoff     512
+sprite    984  angoff     -256
+sprite    985  angoff     -256
+sprite    986  angoff     -768
+sprite    987  angoff     -512
+sprite    988  angoff     1024
+sprite    994  angoff     -256
+sprite    995  angoff     -256
+sprite    983  angoff     -256
+sprite    992  angoff     256
+sprite    993  angoff     256
+sprite    991  angoff     256
+sprite    976  angoff     896
+sprite    1003 angoff     256
+sprite    983  angoff     -256
+sprite    1112 angoff     768
+sprite    1035 angoff     512
+sprite    1087 angoff     -512
+sprite    1086 angoff     -512
+sprite    1095 angoff     256
+sprite    1876 angoff     -512
+sprite    1097 angoff     256
+sprite    566  angoff     -256
+sprite    983  angoff     -256
+sprite    1105 angoff     -256
+sprite    1116 angoff     -256
+sprite    1115 angoff     512
+sprite    1113 angoff     -256
+sprite    1114 angoff     1024
+sprite    1104 angoff     -512
+sprite    1093 angoff     -512
+sprite    1092 angoff     512
+sprite    1094 angoff     -768
+sprite    1155 angoff     -256
+sprite    1102 angoff     -256
+sprite    1101 angoff     -256
+sprite    1154 angoff     -256
+sprite    1038 angoff     -256
+sprite    1037 angoff     -256
+sprite    1084 angoff     1024
+sprite    1082 angoff     1024
+sprite    1079 angoff     1024
+sprite    1150 angoff     -256
+sprite    286  angoff     -256
+sprite    961  angoff     -256
+sprite    962  angoff     256
+sprite    187  angoff     768
+sprite    1848 angoff     -512
+sprite    1847 angoff     -512
+
+
+// Underwater
+
+sprite    956  angoff     1024
+sprite    957  angoff     -896
+sprite    952  angoff     -512
+sprite    1848 angoff     -512
+sprite    954  angoff     -768
+sprite    953  angoff     -768
+sprite    1168 angoff     -512
+sprite    1169 angoff     -512
+sprite    1171 angoff     1024
+sprite    1170 angoff     -768
+
+// Final area
+
+sprite    1138 angoff     1024
+sprite    1158 angoff     -512
+sprite    1159 angoff     -512
+sprite    1160 angoff     -512
+sprite    1161 angoff     -512
+sprite    1134 angoff     -512
+sprite    1135 angoff     -512
+sprite    1136 angoff     -512
+sprite    1123 angoff     512
+sprite    1167 angoff     512
+
+
+
+

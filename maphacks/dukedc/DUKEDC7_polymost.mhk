@@ -1,0 +1,137 @@
+// Maphacks by NightFright for use with the Duke It Out In D.C. HRP
+
+// Title    : Brown Water
+// Filename : DUKEDC7.MAP
+// Author   : Shawn Swift
+// mapmd4   : 613ef6c13b6869e20bf6e2e9558e1d7e // 1997-02-21 (SSI)
+
+
+//         <-> DUKEDC7-megaton.mhk
+
+// Curr. HRP: r5.3.645
+
+// 21-88 /  / 126-550
+sprite   178 angoff     512        // tile0028 shotgunsprite
+sprite   176 angoff     256        // tile0049 shotgunammo
+sprite   177 angoff     768        // tile0052 sixpack
+sprite   144 angoff    -512        // tile0041 batteryammo
+sprite   144 mdzoff     500000     // tile0041 batteryammo
+sprite   144 roll      -1          // tile0041 batteryammo
+sprite   149 angoff     1024       // tile0049 shotgunammo
+sprite   148 angoff    -768        // tile0049 shotgunammo
+sprite   365 angoff    -768        // tile1227 nukebarrel
+sprite   366 angoff     896        // tile1227 nukebarrel
+sprite   367 angoff     512        // tile1227 nukebarrel
+sprite   147 angoff    -128        // tile0049 shotgunammo
+sprite   147 mdzoff     500000     // tile0049 shotgunammo
+sprite   147 pitch     -1          // tile0049 shotgunammo
+sprite   550 angoff    -128        // tile0052 sixpack
+sprite   126 angoff    -256        // tile1348 holoduke
+
+//sprite   368 angoff     0          // tile0041 batteryammo
+sprite   146 angoff    -768        // tile0052 sixpack
+sprite   175 angoff     512        // tile0061 boots
+sprite   170 angoff     768        // tile0052 sixpack
+sprite   169 angoff     256        // tile0049 shotgunammo
+
+sprite   173 angoff    -512        // tile0027 tripbombsprite
+sprite   172 angoff    -512        // tile0027 tripbombsprite
+sprite   174 angoff    -512        // tile0027 tripbombsprite
+sprite   145 angoff     768        // tile1238 explodingbarrel
+sprite   194 angoff    -196        // tile1238 explodingbarrel
+sprite   195 angoff     512        // tile0994 pipe5
+sprite   191 angoff    -768        // tile0022 chaingunsprite
+sprite   192 angoff    -256        // tile0060 accesscard blue
+sprite    88 angoff     768        // tile0618 pipe3
+sprite    70 angoff     512        // tile0052 sixpack
+
+
+sprite   181 angoff     1024       // tile0023 rpgsprite
+
+
+
+
+
+sprite   445 angoff     512        // tile0056 airtank
+sprite   446 angoff    -256        // tile0024 freezesprite
+
+
+
+
+
+
+
+sprite   444 angoff     512        // tile0054 shield
+sprite   444 mdzoff     900000     // tile0054 shield
+sprite   444 pitch     -1          // tile0054 shield
+
+sprite   140 angoff     256        // tile0044 rpgammo
+
+
+
+sprite   141 angoff    -256        // tile0052 sixpack
+
+
+sprite   143 angoff    -512        // tile0041 batteryammo
+sprite   142 angoff    -512        // tile0052 sixpack
+sprite   142 mdzoff     600000     // tile0052 sixpack
+sprite   142 pitch     -1          // tile0052 sixpack
+
+
+sprite   238 angoff     512        // tile0060 accesscard red
+sprite   245 angoff    -512        // tile1045 donuts
+sprite   245 pitch     -140        // tile1045 donuts
+sprite   244 angoff    -384        // tile0557 chair2
+sprite   243 angoff     768        // tile0556 chair1
+sprite   242 angoff    -512        // tile0557 chair2
+
+
+
+sprite   443 angoff     128        // tile0053 firstaid
+sprite   333 angoff    -768        // tile0060 accesscard yellow
+sprite   333 mdyoff     26500      // tile0060 accesscard yellow
+sprite   333 pitch      3          // tile0060 accesscard yellow
+sprite   333 roll       1          // tile0060 accesscard yellow
+sprite   441 angoff     256        // tile0025 shrinkersprite
+
+
+sprite   440 angoff     768        // tile0052 sixpack
+sprite    21 angoff     512        // tile0049 shotgunammo
+sprite    22 angoff     512        // tile0049 shotgunammo
+sprite    23 angoff     512        // tile0049 shotgunammo
+sprite    24 angoff     512        // tile0049 shotgunammo
+sprite    25 angoff     512        // tile0049 shotgunammo
+sprite    26 angoff     512        // tile0054 shield
+sprite   212 angoff    -768        // tile0047 hbombammo
+sprite   447 angoff     512        // tile0052 sixpack
+sprite   223 mdzoff     20000      // tile0574 (tile0670 (faucet))
+sprite   223 pitch     -4          // tile0574 (tile0670 (faucet))
+sprite   223 roll       3          // tile0574 (tile0670 (faucet))
+
+sprite   293 mdzoff     95000      // tile0563 waterfountain
+sprite   293 pitch     -1          // tile0563 waterfountain
+sprite   442 angoff     768        // tile0052 sixpack
+sprite   300 angoff     1024       // tile0557 chair2
+sprite   301 angoff     896        // tile0557 chair2
+sprite   299 angoff    -128        // tile1045 donuts
+sprite   296 angoff    -128        // tile3649 (dukedc deskphone)
+sprite   298 mdxoff     20000      // tile3664 (dukedc us flag)
+sprite   298 pitch     -1          // tile3664 (dukedc us flag)
+sprite   297 angoff     1024       // tile3665 (dukedc potus flag)
+sprite   297 mdxoff     20000      // tile3665 (dukedc potus flag)
+sprite   297 pitch     -1          // tile3665 (dukedc potus flag)
+sprite   128 angoff    -512        // tile0029 devistatorsprite
+
+
+
+
+
+
+
+
+
+
+sprite   448 angoff     896        // tile0041 batteryammo
+
+
+// LIGHTS

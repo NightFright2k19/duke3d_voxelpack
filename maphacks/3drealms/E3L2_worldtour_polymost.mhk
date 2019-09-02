@@ -1,0 +1,89 @@
+// Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
+
+// Title    : Bank Roll
+// Filename : E3L2.map
+// Author   : Richard Bailey Gray (The Levelord)
+// mapmd4   : ed657ee6c77a619b4367a3bc88724259 // 2016-09-23 (World Tour)
+
+//         <-> E3L2_polymost.mhk
+
+// Curr. HRP: r5.3.662
+
+// 0-118 | 190-241 | 247-409 | 421-552
+sprite    66 angoff     1024       // tile0047 hbombammo
+sprite    66 pitch      48         // tile0047 hbombammo
+sprite    66 roll      -48         // tile0047 hbombammo
+sprite   421 angoff    -256        // tile0028 shotgunsprite
+sprite   263 angoff    -256        // tile0053 firstaid
+sprite   263 mdzoff    -800        // tile0053 firstaid
+sprite   263 pitch     -512        // tile0053 firstaid
+sprite    90 angoff    -512        // tile0049 shotgunammo
+sprite   262 angoff     256        // tile1232 canwithsomething
+sprite   424 angoff    -896        // tile1232 canwithsomething
+sprite   423 angoff    -384        // tile1232 canwithsomething
+sprite    88 angoff     768        // tile0052 sixpack
+sprite   502 angoff     256        // tile0021 firstgunsprite
+sprite   507 angoff     768        // tile0037 freezeammo
+sprite    87 angoff     896        // tile0052 sixpack
+sprite   106 angoff     256        // tile0047 hbombammo
+sprite    86 angoff    -256        // tile0042 devistatorammo
+sprite   513 angoff    -256        // tile0054 shield
+sprite   515 angoff    -896        // tile0027 tripbombsprite
+sprite   516 angoff     1024       // tile0027 tripbombsprite
+sprite   284 angoff     256        // tile0994 pipe5
+sprite   504 angoff    -512        // tile0024 freezesprite
+sprite   535 mdzoff     460000     // tile0563 waterfountain
+sprite   535 pitch     -1          // tile0563 waterfountain
+sprite   511 mdzoff     300000     // tile0041 batteryammo
+sprite   511 pitch     -1          // tile0041 batteryammo
+sprite   481 mdzoff     700000     // tile0029 devistatorsprite
+sprite   481 pitch      1          // tile0029 devistatorsprite
+sprite   503 angoff    -512        // tile0055 steroids
+sprite   113 notmd                 // tile0586 (spreadsheet)
+sprite   512 angoff    -512        // tile0037 freezeammo
+sprite   437 angoff    -512        // tile0060 accesscard blue
+sprite    33 angoff     256        // tile0052 sixpack
+sprite    33 mdzoff     300000     // tile0052 sixpack
+sprite    33 roll       1          // tile0052 sixpack
+sprite    31 angoff    -256        // tile0052 sixpack
+sprite   533 angoff     1024       // tile0046 crystalammo
+sprite   510 angoff     512        // tile0049 shotgunammo
+sprite   264 angoff    -768        // tile0051 cola
+sprite   282 notmd                 // tile0586 (spreadsheet)
+sprite   281 notmd                 // tile0586 (spreadsheet)
+sprite    35 angoff    -128        // tile0051 cola
+sprite    34 angoff     128        // tile0051 cola
+sprite   532 angoff     1024       // tile0052 sixpack
+sprite   190 notmd                 // tile0586 (spreadsheet)
+sprite   454 angoff     512        // tile0556 chair1
+sprite   508 angoff     512        // tile0025 shrinkersprite
+sprite   534 angoff     512        // tile0061 boots
+sprite   531 angoff     256        // tile0052 sixpack
+sprite   353 angoff     0          // tile0060 accesscard red
+//sprite   409 angoff    -512        // tile0603 naked1 hangbabe // Polymer HRP
+sprite   409 angoff     0          // tile0603 naked1 hangbabe // Polymost HRP
+//sprite   117 angoff     128        // tile0603 naked1 hangbabe // Polymer HRP
+sprite   117 angoff     640        // tile0603 naked1 hangbabe // Polymost HRP
+//sprite   118 angoff     896        // tile0603 naked1 hangbabe // Polymer HRP
+sprite   118 angoff    -640        // tile0603 naked1 hangbabe // Polymost HRP
+sprite   466 angoff    -768        // tile1079 oozfilter
+sprite   465 angoff     1024       // tile1079 oozfilter
+sprite   464 angoff     768        // tile1079 oozfilter
+sprite   468 angoff     768        // tile1079 oozfilter
+sprite   467 angoff    -768        // tile1079 oozfilter
+sprite   471 angoff    -512        // tile1079 oozfilter
+sprite   469 angoff     512        // tile1079 oozfilter
+sprite   473 angoff     256        // tile1079 oozfilter
+sprite   472 angoff    -256        // tile1079 oozfilter
+sprite   476 angoff    -256        // tile1079 oozfilter
+sprite   474 angoff     256        // tile1079 oozfilter
+sprite   422 angoff    -224        // tile0023 rpgsprite
+sprite    89 angoff    -256        // tile0049 shotgunammo
+sprite    89 mdzoff     700000     // tile0049 shotgunammo
+sprite    89 pitch     -1          // tile0049 shotgunammo
+sprite    89 roll      -1          // tile0049 shotgunammo
+sprite   530 angoff     512        // tile0053 firstaid
+sprite   530 roll       80         // tile0053 firstaid
+
+
+// LIGHTS

@@ -1,0 +1,14 @@
+// Maphacks for Duke Caribbean: Life's A Beach Plus - Vacation HRP
+
+// Title    : Cruise Ship
+// Filename : vacadm3.map
+// Author   : Charlie Wiederhold
+// mapmd4   : 787a354547bee5d29473845d2ff7f211 // 2011-03-22 (Vaca Plus r24)
+
+// Curr. HRP: r5.4.*
+
+// Vaca Plus Maphacks by Evan 'Hendricks266' Ramos
+
+// Dome Lights
+sprite     9 pitch     -80
+sprite    10 pitch     -80

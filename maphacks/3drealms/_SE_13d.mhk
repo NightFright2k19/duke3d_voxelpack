@@ -1,0 +1,14 @@
+// Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
+
+// Title    : Sector Effector Demo Map
+// Filename : _SE.MAP
+// Author   : Allen H. Blum III
+// mapmd4   : e940becc13c74df02f5de024d70222f8 // 1996-04-19
+
+//         <-> _SE.mhk
+
+// Curr. HRP: r5.3.630
+
+sprite   123 angoff     512        // tile1079 oozfilter
+sprite   124 angoff     512        // tile1079 oozfilter
+sprite   127 angoff     512        // tile1079 oozfilter

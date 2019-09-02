@@ -1,0 +1,153 @@
+// Maphacks by NightFright for use with the Duke It Out In D.C. HRP
+
+// Title    : Capitol Punishment
+// Filename : DUKEDC5.MAP
+// Author   : Robert Travis & Shawn Swift & Charlie Wiederhold
+// mapmd4   : 949146d004008112076252d68c16ec72 // 1997-02-21 (SSI)
+
+
+//         <-> DUKEDC5-2014-02-20.mhk
+//         <-> DUKEDC5-megaton.mhk
+
+// Curr. HRP: r5.3.645
+
+// 2-618 / 686-713 / / 720-727
+sprite    52 angoff     256        // tile0028 shotgunsprite
+sprite    42 angoff     256        // tile0022 chaingunsprite
+sprite    50 mdzoff     800000     // tile0047 hbombammo
+sprite    50 pitch     -1          // tile0047 hbombammo
+sprite   618 angoff    -128        // tile0955 bottle2
+sprite   618 mdzoff     500000     // tile0955 bottle2
+sprite   618 pitch      1          // tile0955 bottle2
+sprite   478 angoff     512        // tile1276 (newspaper)
+sprite   478 mdzoff     55000      // tile1276 (newspaper)
+sprite   478 pitch     -10         // tile1276 (newspaper)
+sprite   478 roll       3          // tile1276 (newspaper)
+sprite   472 angoff     1024       // tile1232 canwithsomething
+sprite   473 angoff    -256        // tile1232 canwithsomething
+sprite   471 angoff     512        // tile1232 canwithsomething
+sprite   715 angoff    -768        // tile0029 devistatorsprite (multiplayer)
+sprite   715 mdzoff     500000     // tile0029 devistatorsprite (multiplayer)
+sprite   715 pitch      1          // tile0029 devistatorsprite (multiplayer)
+sprite    48 angoff     1024       // tile0052 sixpack
+sprite    46 angoff     768        // tile0029 devistatorsprite
+sprite    51 angoff    -768        // tile0052 sixpack
+sprite   482 angoff    -512        // tile1232 canwithsomething
+sprite   483 angoff     64         // tile1232 canwithsomething
+sprite   484 angoff     768        // tile1232 canwithsomething
+sprite   485 angoff     768        // tile1232 canwithsomething
+sprite   494 angoff    -896        // tile1232 canwithsomething
+sprite   493 angoff     64         // tile1232 canwithsomething
+sprite   492 angoff     384        // tile1232 canwithsomething
+sprite   500 angoff    -512        // tile0998 (parkometer)
+sprite   501 angoff    -512        // tile0998 (parkometer)
+sprite   502 angoff    -512        // tile0998 (parkometer)
+
+
+sprite   462 angoff     768        // tile1232 canwithsomething
+sprite   461 angoff    -512        // tile1232 canwithsomething
+sprite   460 angoff     128        // tile1232 canwithsomething
+sprite   709 angoff     512        // tile0059 heatsensor
+
+
+sprite   708 angoff     1024       // tile0041 batteryammo
+sprite    43 angoff     256        // tile0052 sixpack
+sprite   444 angoff    -512        // tile0998 (parkometer)
+sprite   445 angoff    -512        // tile0998 (parkometer)
+sprite   452 angoff    -512        // tile0998 (parkometer)
+sprite   506 angoff    -512        // tile0998 (parkometer)
+sprite   505 angoff    -512        // tile0998 (parkometer)
+sprite   507 angoff     512        // tile0981 hydrent
+sprite    45 angoff     448        // tile0049 shotgunammo
+sprite    44 angoff     576        // tile0049 shotgunammo
+sprite    44 mdzoff     800000     // tile0049 shotgunammo
+sprite    44 roll       1          // tile0049 shotgunammo
+sprite   451 angoff     768        // tile1232 canwithsomething
+sprite   450 angoff    -512        // tile1232 canwithsomething
+sprite   449 angoff     128        // tile1232 canwithsomething
+sprite   705 angoff    -768        // tile0046 crystalammo
+sprite   706 angoff    -768        // tile0046 crystalammo
+sprite   516 angoff     768        // tile1045 donuts
+sprite   448 angoff    -512        // tile3649 (dukedc deskphone)
+sprite   448 mdzoff     220000     // tile3649 (dukedc deskphone)
+sprite   448 pitch     -1          // tile3649 (dukedc deskphone)
+sprite   727 angoff     128        // tile3748 (dukedc tv antenna)
+
+//sprite   360 notmd                 // tile1210 (guilty sign)
+sprite    41 angoff     1024       // tile0054 shield
+sprite   540 angoff     768        // tile0569 toilet
+
+sprite   710 angoff     1024       // tile0027 tripbombsprite (multiplayer)
+sprite   711 angoff     1024       // tile0027 tripbombsprite (multiplayer)
+sprite   712 angoff     1024       // tile0027 tripbombsprite (multiplayer)
+sprite   713 angoff     1024       // tile0027 tripbombsprite (multiplayer)
+sprite    40 angoff    -768        // tile0053 firstaid
+sprite    38 angoff     512        // tile0052 sixpack
+sprite    39 angoff     512        // tile0052 sixpack
+//sprite   364 notmd                 // tile1210 (guilty sign)
+sprite   345 angoff     896        // tile3649 (dukedc deskphone)
+
+sprite   347 angoff     768        // tile0556 chair1
+sprite    77 angoff     768        // tile0060 accesscard yellow
+sprite   305 angoff    -512        // tile1340 (helicopter scrap)
+sprite   305 mdxoff     30000      // tile1340 (helicopter scrap)
+sprite   305 pitch     -1          // tile1340 (helicopter scrap)
+
+sprite    37 angoff    -256        // tile0052 sixpack
+sprite    36 angoff     1024       // tile0022 chaingunsprite
+sprite    35 angoff     512        // tile0052 sixpack
+sprite   720 angoff     1024       // tile3665 (dukedc potus flag)
+sprite   725 angoff     1024       // tile3664 (dukedc us flag)
+sprite   721 angoff     1024       // tile3665 (dukedc potus flag)
+sprite    34 angoff    -448        // tile0049 shotgunammo
+//sprite   279 notmd                 // tile1210 (guilty sign)
+sprite    28 angoff     1024       // tile0052 sixpack
+
+
+//sprite    31 angoff     0          // tile0055 steroids
+
+
+
+sprite   572 angoff    -384        // tile1341 (helicopter scrap)
+sprite   300 angoff     1024       // tile0556 chair1
+sprite   299 angoff     1024       // tile0556 chair1
+sprite   298 angoff     1024       // tile0556 chair1
+sprite   297 angoff     1024       // tile0556 chair1
+sprite   296 angoff     1024       // tile0556 chair1
+sprite    32 angoff     512        // tile0041 batteryammo
+//sprite   209 notmd                 // tile1210 (guilty sign)
+//sprite    18 angoff     0          // tile0054 shield
+sprite    19 angoff    -512        // tile0052 sixpack
+sprite    26 angoff    -128        // tile1294 podfem1
+sprite    27 angoff     256        // tile1323 fem5 polebabe
+sprite   714 angoff     1024       // tile0023 rpgsprite (multiplayer)
+sprite    22 angoff     512        // tile0040 ammo
+sprite    20 angoff    -896        // tile0023 rpgsprite
+sprite    21 angoff     896        // tile0053 firstaid
+sprite    30 angoff     768        // tile0029 devistatorsprite
+sprite    30 mdzoff     900000     // tile0029 devistatorsprite
+sprite    30 pitch      1          // tile0029 devistatorsprite
+//sprite   166 notmd                 // tile1210 (guilty sign)
+sprite   178 angoff     1024       // tile3665 (dukedc potus flag)
+sprite    17 angoff    -768        // tile0052 sixpack
+sprite   174 angoff    -896        // tile0556 chair1
+sprite    29 angoff     1024       // tile0042 devistatorammo
+//sprite   603 notmd                 // tile1210 (guilty sign)
+sprite   602 angoff     832        // tile1321 fem3 hooker
+sprite   602 mdzoff     900000     // tile1321 fem3 hooker
+sprite   602 roll      -1          // tile1321 fem3 hooker
+sprite   601 angoff     896        // tile1395 fem7 dancer
+sprite   601 mdzoff     900000     // tile1395 fem7 dancer
+sprite   601 roll       1          // tile1395 fem7 dancer
+sprite   600 angoff     384        // tile1312 fem1 stripper
+sprite   599 angoff    -768        // tile1395 fem7 dancer
+sprite   598 angoff    -640        // tile1325 fem4 cavedancer
+sprite    78 angoff     512        // tile0060 accesscard blue
+sprite     3 angoff     1024       // tile3664 (dukedc us flag)
+sprite   686 angoff     1024       // tile3665 (dukedc potus flag)
+
+sprite    61 angoff     256        // tile0057 jetpack
+sprite   628 angoff     0          // tile0060 accesscard red
+
+
+// LIGHTS

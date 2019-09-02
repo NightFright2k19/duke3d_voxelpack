@@ -1,0 +1,10 @@
+echo "Duke3D Maphacks r702"
+
+// Maphacks for official Duke3D levels
+include maphacks/3drealms_mhk.def
+include maphacks/worldtour_mhk.def
+
+// Maphacks for Duke3D mission packs
+include maphacks/dukedc_mhk.def
+include maphacks/nwinter_mhk.def
+include maphacks/vacation_mhk.def
