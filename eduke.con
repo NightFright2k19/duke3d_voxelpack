@@ -1,3 +1,6 @@
+// Pigcop Tank code
+// include scripts/pigtank.con
+
 include game.con
 
 // Voxel animations
@@ -6,6 +9,3 @@ include scripts/holoduke.con
 
 // Voxel pickups rotation
 // include scripts/rotation.con
-
-// Pigcop Tank code
-// include scripts/pigtank.con
