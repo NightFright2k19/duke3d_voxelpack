@@ -1,4 +1,4 @@
-echo "Duke3D Maphacks r702"
+echo "Duke3D Maphacks r710"
 
 // Maphacks for official Duke3D levels
 include maphacks/3drealms_mhk.def
@@ -8,3 +8,7 @@ include maphacks/worldtour_mhk.def
 include maphacks/dukedc_mhk.def
 include maphacks/nwinter_mhk.def
 include maphacks/vacation_mhk.def
+
+// Polymost editions
+// include maphacks/3drealms/3drealms_polymost_mhk.def
+// include maphacks/dukedc/dukedc_polymost_mhk.def

@@ -240,7 +240,7 @@ sprite   206 mdzoff     500000     // tile0047 hbombammo
 sprite   206 roll       1          // tile0047 hbombammo
 sprite   205 angoff    -256        // tile0052 sixpack
 sprite   596 angoff    -160        // tile0606 (dead astronaut)
-sprite   595 mdxoff     10000000   // tile0606 (dead astronaut)
+sprite   595 mdxoff     9999999    // tile0606 (dead astronaut)
 sprite   595 pitch     -1          // tile0606 (dead astronaut)
 sprite   203 angoff    -128        // tile0025 shrinkersprite
 sprite   203 mdzoff     200000     // tile0025 shrinkersprite

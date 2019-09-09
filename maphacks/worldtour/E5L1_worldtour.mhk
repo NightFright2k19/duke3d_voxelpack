@@ -6,7 +6,7 @@
 // mapmd4   : 459c71d47b5beaa058253e162fd5a5c2 // 2016-09-23 (World Tour)
 // mapmd4   : 5c566fa23f208c5caf3b96e59d742845 // 2016-10-26 (NUKEMDAVE ips)
 
-// Curr. HRP: r5.4.703
+// Curr. HRP: r5.4.705
 
 sprite   513 angoff     512        // tile1232 canwithsomething
 sprite   516 angoff    -512        // tile1232 canwithsomething

@@ -1,5 +1,5 @@
 //
-// Duke Nukem 3D: 20th Anniversary World Tour
+// Duke Nukem 3D: 20th Anniversary World Tour Episode 5 - Alien World Order
 //
 
 // Maphacks for Ep.1-4 are located in the 3drealms folder
@@ -20,7 +20,7 @@ mapinfo {
    mapmd4   7e551ce1fa4bf683d82eedd02f213b3e // 2016-10-25 (NUKEMDAVE ips)
    mhkfile  "maphacks/worldtour/E5L2_worldtour.mhk"
 }
-/*
+
 mapinfo {
    maptitle "Bloody Hell"
    mapfile  "E5L3.map"
@@ -66,9 +66,14 @@ mapinfo {
    mapfile  "E5L8.map"
    //author "Richard Bailey Gray (The Levelord)"
    mapmd4   698c0917d670155441c40e8b6918a426 // 2016-09-23 (World Tour b351)
-   mapmd4   19fab089bd7dc6d79ff688e87ebf0865 // 2016-10-25 (b351 NUKEMDAVE ips)
+   mapmd4   19fab089bd7dc6d79ff688e87ebf0865 // 2016-10-25 (b351, NUKEMDAVE ips)
+   mhkfile  "maphacks/worldtour/E5L8_worldtour-old.mhk"
+}
+mapinfo {
+   maptitle "Prima Arena"
+   mapfile  "E5L8.map"
+   //author "Richard Bailey Gray (The Levelord)"
    mapmd4   e8ddfa0c3d210135d3f27fd5ed430d1e // 2016-10-26 (World Tour b386)
-   mapmd4   aa699002bcb0a4138db0c1c1e734c29a // 2016-10-25 (b386 NUKEMDAVE ips)
+ //mapmd4   aa699002bcb0a4138db0c1c1e734c29a // 2016-10-25 (b386, NUKEMDAVE ips)
    mhkfile  "maphacks/worldtour/E5L8_worldtour.mhk"
 }
-*/
