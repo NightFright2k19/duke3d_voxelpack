@@ -58,7 +58,7 @@ sprite   306 angoff     768        // tile0028 shotgunsprite
 //sprite   259 angoff     512        // tile0040 ammo
 sprite   281 angoff     512        // tile0037 freezeammo
 sprite   280 angoff     512        // tile0037 freezeammo
-//sprite   683 notmd                 // tile0164 dipswitch2
+sprite   683 notmd                 // tile0164 dipswitch2
 sprite   683 mdzoff     250000     // tile0164 dipswitch2
 sprite   683 pitch     -1          // tile0164 dipswitch2
 sprite   297 angoff     768        // tile1348 holoduke
