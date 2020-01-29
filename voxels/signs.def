@@ -20,5 +20,7 @@ voxel "voxels/signs/1211_innocent.kvx" { tile 1211 }
 
 voxel "voxels/signs/4891_storecrap.kvx" { tile 4891 }
 
+voxel "voxels/signs/4930_epluribus.kvx" { tile 4930 }
+
 voxel "voxels/signs/4956_funnyboner.kvx" { tile 4956 }
 

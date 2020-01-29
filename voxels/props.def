@@ -2,6 +2,9 @@
 
 voxel "voxels/props/0058_spacesuit.kvx" { tile 58 }
 
+voxel "voxels/props/0556_armchair1.kvx" { tile 556 }
+voxel "voxels/props/0559_armchair3.kvx" { tile 559 }
+
 voxel "voxels/props/0561_soap.kvx" { tile 561 }
 voxel "voxels/props/0563_waterfountain1.kvx" { tile 563 }
 voxel "voxels/props/0564_waterfountain2.kvx" { tile 564 }
@@ -33,6 +36,9 @@ voxel "voxels/props/0670_faucet2.kvx" { tile 670 }
 voxel "voxels/props/0685_stagelamp.kvx" { tile 685 }
 
 voxel "voxels/props/0716_pleasewait.kvx" { tile 716 }
+
+voxel "voxels/props/0753_geisha1.kvx" { tile 753 }
+voxel "voxels/props/0869_geisha2.kvx" { tile 869 }
 
 voxel "voxels/props/0762_mike.kvx" { tile 762 }
 voxel "voxels/props/0765_vase.kvx" { tile 765 }
@@ -74,6 +80,8 @@ voxel "voxels/props/1014_gbottle.kvx" { tile 1014 }
 voxel "voxels/props/1025_bottle7.kvx" { tile 1025 }
 
 voxel "voxels/props/1037_table.kvx" { tile 1037 }
+
+voxel "voxels/props/1049_electricmeter.kvx" { tile 1049 }
 
 voxel "voxels/props/1051_dryer.kvx" { tile 1051 }
 voxel "voxels/props/1052_toweldispenser.kvx" { tile 1052 }
@@ -124,6 +132,7 @@ voxel "voxels/props/4429_fence1.kvx" { tile 4429 }
 voxel "voxels/props/4438_mug.kvx" { tile 4438 }
 
 voxel "voxels/props/4440_donuts.kvx" { tile 4440 }
+voxel "voxels/props/4444_vhscamera.kvx" { tile 4444 }
 
 voxel "voxels/props/4454_deskphone.kvx" { tile 4454 }
 

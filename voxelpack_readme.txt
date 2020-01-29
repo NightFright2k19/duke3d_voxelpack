@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Dec 2, 2019
+Release Date: Jan 29, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (106)
+> Borion (116)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -92,12 +92,15 @@ Contributions by:
      - 100-115 ............ Atomic Health
      - 140/141 ............ Lever switch off/on
      - 142-145 ............ Nuke button
+     - 556/559 ............ Armchair (+ broken version)
      - 563-565 ............ Water fountain
      - 569/615 ............ Toilet (+ broken version)
      - 571/573 ............ Urinal (+ broken version)
      - 606 ................ Spacesuit corpse
      - 669 ................ Vacuum cleaner
+     - 675-677 ............ Slimer egg
      - 685 ................ Stage light
+     - 753/869 ............ Geisha
      - 762 ................ Microphone
      - 765 ................ Vase
      - 911/939 ............ Cactus (+ stomp)
@@ -115,6 +118,7 @@ Contributions by:
      - 1008 ............... Neon5 sign
      - 1025 ............... Bottle7 (plant)
      - 1046 ............... "Arcade" sign
+     - 1049 ............... Electric meter
      - 1061/1078 .......... Double spotlight (+ broken version)
      - 1062/1063 .......... Rubber can
      - 1075 ............... Painting #1
@@ -138,6 +142,7 @@ Contributions by:
      - 4429 ............... Metal fence
      - 4438 ............... Mug
      - 4440 ............... Donuts
+     - 4444 ............... VHS camera
      - 4454 ............... Deskphone
      - 4483 ............... Broken switch #1
      - 4495 ............... "Wet Floor" sign
@@ -145,6 +150,7 @@ Contributions by:
      - 4580-4582 .......... Barrels
      - 4885 ............... Driver wheel
      - 4891 ............... "We Store Your Crap" sign
+     - 4930 ............... "E Pluribus Nukem" sign
      - 4954 ............... Broken switch #2
      - 4956 ............... "Funny Boner Comedy Club" sign
 
@@ -208,28 +214,29 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Dec 2, 2019)
--------------------------
+Version 1.3 (Jan 29, 2020)
+--------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
-     + Monsters: 1880 (Sentry drone), 1975 (Pigcop tank), 2350 (Gun turret)
+     + Monsters: 675 (Slimer egg), 1880 (Sentry drone), 1975 (Pigcop tank), 2350 (Gun turret)
      + Pickups: 25 (Shrinker), 32 (Expander), 45 (Expander ammo), 56 (scuba gear), 57 (jetpack),
                 100-115 (Atomic Health)
      + Projectiles: 1650-1653 (mortar)
-     + Props: 58 (spacesuit), 563-565 (water fountain), 569/615 (toilet), 571/573 (urinal), 
-              584 (sensor), 606 (spacesuit corpse), 669 (vacuum cleaner), 685 (stage light), 
-              762 (mike), 765 (vase), 911/939 (cactus + stomp), 913 (maskwall2), 914 (maskwall3), 
-              915 (gate), 916 (fire extinguisher), 920 (chain), 951 (box), 962 (fence), 
-              981 (hydrant), 990 (tires), 1014 (bottle), 1025 (bottle7), 1061/1078 (double spotlight),
-              1062/1063 (rubber can), 1075/1076 (painting #1/2), 1079-1081 (oozefilter), 
-              1232 (trash can), 1238 (metal barrel), 1240-1243 (firebarrel), 1247 (C-9 can), 
-              4360 (gunpowder barrel), 4367 (hatrack), 4370 (desk lamp), 4371 (police shield), 
-              4372 (coffee machine), 4426 (bowling pin), 4429 (fence), 4438 (mug), 4440 (donuts), 
-              4454 (deskphone), 4464 (mace), 4495 ("Wet Floor" sign), 4576 (shopping cart), 
-              4580-4582 (barrels), 4589 (warning sign), 4885 (driver wheel)
+     + Props: 58 (spacesuit), 556/559 (armchair), 563-565 (water fountain), 569/615 (toilet), 
+              571/573 (urinal), 584 (sensor), 606 (spacesuit corpse), 669 (vacuum cleaner), 
+              685 (stage light), 753/869 (geisha), 762 (mike), 765 (vase), 911/939 (cactus + stomp), 
+              913 (maskwall2), 914 (maskwall3), 915 (gate), 916 (fire extinguisher), 920 (chain), 
+              951 (box), 962 (fence), 981 (hydrant), 990 (tires), 1014 (bottle), 1025 (bottle7), 
+              1049 (electric meter), 1061/1078 (double spotlight), 1062/1063 (rubber can), 
+              1075/1076 (painting #1/2), 1079-1081 (oozefilter), 1232 (trash can), 1238 (metal barrel), 
+              1240-1243 (firebarrel), 1247 (C-9 can), 4360 (gunpowder barrel), 4367 (hatrack), 
+              4370 (desk lamp), 4371 (police shield), 4372 (coffee machine), 4426 (bowling pin), 
+              4429 (fence), 4438 (mug), 4440 (donuts), 4444 (VHS camera), 4454 (deskphone), 
+              4464 (mace), 4495 ("Wet Floor" sign), 4576 (shopping cart), 4580-4582 (barrels), 
+              4589 (warning sign), 4885 (driver wheel)
      + Signs: 937 ("Forbidden Videos & Books"), 961 ("Exit"), 1008 (neon4), 1046 ("Arcade"), 
               1172 ("Secured Area"), 1210 ("Guilty!"), 1211 ("Innocent?"), 4891 ("We Store Your Crap"),
-              4956 ("Funny Boner Comedy Club")
+              4930 ("E Pluribus Nukem"), 4956 ("Funny Boner Comedy Club")
      + Switches: 138/139 (slideswitch), 140/141 (leverswitch), 142-145 (nuke button), 
                  1111/1112 (handswitch), 1122/1123 (flipswitch), 1142/1143 (bighole switch), 
                  4483 (broken switch #1), 4954 (broken switch #2)
