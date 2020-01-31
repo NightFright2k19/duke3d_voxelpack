@@ -114,7 +114,7 @@ sprite   326 angoff     384        // tile1161 bottle14
 sprite   327 angoff     512        // tile1163 bottle16
 sprite   327 mdzoff     200000     // tile1163 bottle16
 sprite   327 roll      -1          // tile1163 bottle16
-sprite   335 angoff    -256        // tile4443 (flag)
+sprite   335 angoff    -512        // tile4443 (flag)
 sprite   335 mdzoff     1000000    // tile4443 (flag)
 sprite   335 pitch      1          // tile4443 (flag)
 sprite   851 angoff    -768        // tile0051 cola

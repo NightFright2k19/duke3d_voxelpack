@@ -237,6 +237,8 @@ sprite   170 angoff     768        // tile0557 chair2
 sprite   783 angoff    -256        // tile4443 (flag)
 sprite   185 mdxoff     5000       // tile0142 nukebutton
 sprite   185 pitch     -1          // tile0142 nukebutton
+// mhk diff sync 3
+// sprite   82 angoff      1024       // tile4443 (flag)
 
 
 // LIGHTS

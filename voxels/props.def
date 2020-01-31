@@ -35,6 +35,8 @@ voxel "voxels/props/0670_faucet2.kvx" { tile 670 }
 
 voxel "voxels/props/0685_stagelamp.kvx" { tile 685 }
 
+voxel "voxels/props/0697_pot3.kvx" { tile 697 }
+
 voxel "voxels/props/0716_pleasewait.kvx" { tile 716 }
 
 voxel "voxels/props/0753_geisha1.kvx" { tile 753 }
@@ -81,6 +83,7 @@ voxel "voxels/props/1025_bottle7.kvx" { tile 1025 }
 
 voxel "voxels/props/1037_table.kvx" { tile 1037 }
 
+voxel "voxels/props/1048_twocables.kvx" { tile 1048 }
 voxel "voxels/props/1049_electricmeter.kvx" { tile 1049 }
 
 voxel "voxels/props/1051_dryer.kvx" { tile 1051 }
@@ -104,6 +107,7 @@ voxel "voxels/props/1081_oozefilter3.kvx" { tile 1081 }
 
 voxel "voxels/props/1159_bottle12.kvx" { tile 1159 }
 
+voxel "voxels/props/1160_bottle13.kvx" { tile 1160 }
 voxel "voxels/props/1161_bottle14.kvx" { tile 1161 }
 voxel "voxels/props/1162_bottle15.kvx" { tile 1162 }
 voxel "voxels/props/1163_bottle16.kvx" { tile 1163 }
@@ -132,6 +136,7 @@ voxel "voxels/props/4429_fence1.kvx" { tile 4429 }
 voxel "voxels/props/4438_mug.kvx" { tile 4438 }
 
 voxel "voxels/props/4440_donuts.kvx" { tile 4440 }
+voxel "voxels/props/4443_usaflag.kvx" { tile 4443 }
 voxel "voxels/props/4444_vhscamera.kvx" { tile 4444 }
 
 voxel "voxels/props/4454_deskphone.kvx" { tile 4454 }
