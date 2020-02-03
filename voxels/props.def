@@ -64,6 +64,9 @@ voxel "voxels/props/0939_cactusstump.kvx" { tile 939 }
 
 voxel "voxels/props/0951_box.kvx" { tile 951 }
 voxel "voxels/props/0954_bottle1.kvx" { tile 954 }
+voxel "voxels/props/0955_bottle2.kvx" { tile 955 }
+voxel "voxels/props/0956_bottle3.kvx" { tile 956 }
+voxel "voxels/props/0957_bottle4.kvx" { tile 957 }
 
 voxel "voxels/props/0962_fence.kvx" { tile 962 }
 

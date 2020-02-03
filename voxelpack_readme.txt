@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Jan 31, 2020
+Release Date: Feb 3, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (120)
+> Borion (123)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -112,6 +112,9 @@ Contributions by:
      - 920 ................ Chain
      - 937 ................ "Forbidden Videos & Books" sign
      - 951 ................ Box
+     - 955 ................ Bottle2
+     - 956 ................ Bottle3
+     - 957 ................ Bottle4
      - 961 ................ "Exit" sign
      - 962 ................ Fence
      - 981 ................ Hydrant
@@ -218,8 +221,8 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Jan 31, 2020)
---------------------------
+Version 1.3 (Feb 3, 2020)
+-------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
      + Monsters: 675 (Slimer egg), 1880 (Sentry drone), 1975 (Pigcop tank), 2350 (Gun turret)
@@ -230,15 +233,15 @@ Version 1.3 (Jan 31, 2020)
               571/573 (urinal), 584 (sensor), 606 (spacesuit corpse), 669 (vacuum cleaner), 
               685 (stage light), 697 (pot3), 753/869 (geisha), 762 (mike), 765 (vase), 
               911/939 (cactus + stomp), 913 (maskwall2), 914 (maskwall3), 915 (gate), 
-              916 (fire extinguisher), 920 (chain), 951 (box), 962 (fence), 981 (hydrant), 
-              990 (tires), 1014 (bottle), 1025 (bottle7), 1048 (two cables), 1049 (electric meter), 
-              1061/1078 (double spotlight), 1062/1063 (rubber can), 1075/1076 (painting #1/2), 
-              1079-1081 (oozefilter), 1160 (bottle13), 1232 (trash can), 1238 (metal barrel), 
-              1240-1243 (firebarrel), 1247 (C-9 can), 4360 (gunpowder barrel), 4367 (hatrack), 
-              4370 (desk lamp), 4371 (police shield), 4372 (coffee machine), 4426 (bowling pin), 
-              4429 (fence), 4438 (mug), 4440 (donuts), 4443 (US flag), 4444 (VHS camera), 
-              4454 (deskphone), 4464 (mace), 4495 ("Wet Floor" sign), 4576 (shopping cart), 
-              4580-4582 (barrels), 4589 (warning sign), 4885 (driver wheel)
+              916 (fire extinguisher), 920 (chain), 951 (box), 955-957 (bottle2-4), 962 (fence), 
+              981 (hydrant), 990 (tires), 1014 (bottle), 1025 (bottle7), 1048 (two cables), 
+              1049 (electric meter), 1061/1078 (double spotlight), 1062/1063 (rubber can), 
+              1075/1076 (painting #1/2), 1079-1081 (oozefilter), 1160 (bottle13), 1232 (trash can), 
+              1238 (metal barrel), 1240-1243 (firebarrel), 1247 (C-9 can), 4360 (gunpowder barrel), 
+              4367 (hatrack), 4370 (desk lamp), 4371 (police shield), 4372 (coffee machine), 
+              4426 (bowling pin), 4429 (fence), 4438 (mug), 4440 (donuts), 4443 (US flag), 
+              4444 (VHS camera), 4454 (deskphone), 4464 (mace), 4495 ("Wet Floor" sign), 
+              4576 (shopping cart), 4580-4582 (barrels), 4589 (warning sign), 4885 (driver wheel)
      + Signs: 937 ("Forbidden Videos & Books"), 961 ("Exit"), 1008 (neon4), 1046 ("Arcade"), 
               1172 ("Secured Area"), 1210 ("Guilty!"), 1211 ("Innocent?"), 4891 ("We Store Your Crap"),
               4930 ("E Pluribus Nukem"), 4956 ("Funny Boner Comedy Club")
