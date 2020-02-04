@@ -2,7 +2,10 @@
 
 animtilerange 1009 1011 5 2
 
+voxel "voxels/signs/0728_banksign.kvx" { tile 728 }
+
 voxel "voxels/signs/0937_sexshopsign.kvx" { tile 937 }
+voxel "voxels/signs/0938_safault.kvx" { tile 938 }
 
 voxel "voxels/signs/0961_exit.kvx" { tile 961 }
 

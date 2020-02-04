@@ -2,6 +2,10 @@
 
 voxel "voxels/props/0058_spacesuit.kvx" { tile 58 }
 
+voxel "voxels/props/0551_lightdome1.kvx" { tile 551 }
+voxel "voxels/props/0552_lightdome2.kvx" { tile 552 }
+voxel "voxels/props/0553_lightdome3.kvx" { tile 553 }
+voxel "voxels/props/0554_lightdome4.kvx" { tile 554 }
 voxel "voxels/props/0556_armchair1.kvx" { tile 556 }
 voxel "voxels/props/0559_armchair3.kvx" { tile 559 }
 

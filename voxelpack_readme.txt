@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Feb 3, 2020
+Release Date: Feb 4, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (123)
+> Borion (129)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -92,6 +92,7 @@ Contributions by:
      - 100-115 ............ Atomic Health
      - 140/141 ............ Lever switch off/on
      - 142-145 ............ Nuke button
+     - 551-554 ............ Lightdome
      - 556/559 ............ Armchair (+ broken version)
      - 563-565 ............ Water fountain
      - 569/615 ............ Toilet (+ broken version)
@@ -101,6 +102,7 @@ Contributions by:
      - 675-677 ............ Slimer egg
      - 685 ................ Stage light
      - 697 ................ Pot3
+     - 728 ................ "Federal Loan and Trust" sign
      - 753/869 ............ Geisha
      - 762 ................ Microphone
      - 765 ................ Vase
@@ -111,6 +113,7 @@ Contributions by:
      - 916 ................ Fire extinguisher
      - 920 ................ Chain
      - 937 ................ "Forbidden Videos & Books" sign
+     - 938 ................ "San Andreas Fault" sign
      - 951 ................ Box
      - 955 ................ Bottle2
      - 956 ................ Bottle3
@@ -221,7 +224,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Feb 3, 2020)
+Version 1.3 (Feb 4, 2020)
 -------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
@@ -229,10 +232,10 @@ Version 1.3 (Feb 3, 2020)
      + Pickups: 25 (Shrinker), 32 (Expander), 45 (Expander ammo), 56 (scuba gear), 57 (jetpack),
                 100-115 (Atomic Health)
      + Projectiles: 1650-1653 (mortar)
-     + Props: 58 (spacesuit), 556/559 (armchair), 563-565 (water fountain), 569/615 (toilet), 
-              571/573 (urinal), 584 (sensor), 606 (spacesuit corpse), 669 (vacuum cleaner), 
-              685 (stage light), 697 (pot3), 753/869 (geisha), 762 (mike), 765 (vase), 
-              911/939 (cactus + stomp), 913 (maskwall2), 914 (maskwall3), 915 (gate), 
+     + Props: 58 (spacesuit), 551-554 (lightdome), 556/559 (armchair), 563-565 (water fountain), 
+              569/615 (toilet), 571/573 (urinal), 584 (sensor), 606 (spacesuit corpse), 
+              669 (vacuum cleaner), 685 (stage light), 697 (pot3), 753/869 (geisha), 762 (mike), 
+              765 (vase), 911/939 (cactus + stomp), 913 (maskwall2), 914 (maskwall3), 915 (gate), 
               916 (fire extinguisher), 920 (chain), 951 (box), 955-957 (bottle2-4), 962 (fence), 
               981 (hydrant), 990 (tires), 1014 (bottle), 1025 (bottle7), 1048 (two cables), 
               1049 (electric meter), 1061/1078 (double spotlight), 1062/1063 (rubber can), 
@@ -242,9 +245,10 @@ Version 1.3 (Feb 3, 2020)
               4426 (bowling pin), 4429 (fence), 4438 (mug), 4440 (donuts), 4443 (US flag), 
               4444 (VHS camera), 4454 (deskphone), 4464 (mace), 4495 ("Wet Floor" sign), 
               4576 (shopping cart), 4580-4582 (barrels), 4589 (warning sign), 4885 (driver wheel)
-     + Signs: 937 ("Forbidden Videos & Books"), 961 ("Exit"), 1008 (neon4), 1046 ("Arcade"), 
-              1172 ("Secured Area"), 1210 ("Guilty!"), 1211 ("Innocent?"), 4891 ("We Store Your Crap"),
-              4930 ("E Pluribus Nukem"), 4956 ("Funny Boner Comedy Club")
+     + Signs: 728 ("Federal Loan and Trust"), 937 ("Forbidden Videos & Books"), 938 ("San Andreas Fault"), 
+              961 ("Exit"), 1008 (neon4), 1046 ("Arcade"), 1172 ("Secured Area"), 1210 ("Guilty!"), 
+              1211 ("Innocent?"), 4891 ("We Store Your Crap"), 4930 ("E Pluribus Nukem"), 
+              4956 ("Funny Boner Comedy Club")
      + Switches: 138/139 (slideswitch), 140/141 (leverswitch), 142-145 (nuke button), 
                  1111/1112 (handswitch), 1122/1123 (flipswitch), 1142/1143 (bighole switch), 
                  4483 (broken switch #1), 4954 (broken switch #2)
