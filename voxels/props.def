@@ -118,6 +118,9 @@ voxel "voxels/props/1160_bottle13.kvx" { tile 1160 }
 voxel "voxels/props/1161_bottle14.kvx" { tile 1161 }
 voxel "voxels/props/1162_bottle15.kvx" { tile 1162 }
 voxel "voxels/props/1163_bottle16.kvx" { tile 1163 }
+voxel "voxels/props/1164_bottle17.kvx" { tile 1164 }
+voxel "voxels/props/1165_bottle18.kvx" { tile 1165 }
+voxel "voxels/props/1166_bottle19.kvx" { tile 1166 }
 
 voxel "voxels/props/1232_canwithsomething.kvx" { tile 1232 }
 voxel "voxels/props/1238_metalbarrel.kvx" { tile 1238 }
