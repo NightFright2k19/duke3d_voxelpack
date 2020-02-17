@@ -1,5 +1,7 @@
 // Voxel props
 
+animtilerange 670 671 3 1
+
 voxel "voxels/props/0058_spacesuit.kvx" { tile 58 }
 
 voxel "voxels/props/0551_lightdome1.kvx" { tile 551 }

@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Feb 10, 2020
+Release Date: Feb 17, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -227,7 +227,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Feb 10, 2020)
+Version 1.3 (Feb 17, 2020)
 --------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
@@ -257,6 +257,7 @@ Version 1.3 (Feb 10, 2020)
                  4483 (broken switch #1), 4954 (broken switch #2)
 
 > Updated:
+     + Voxel orientations: 40, 45, 670, 753, 869, 1008, 4438, 4443, 4444, 4546, 4547, 4548, 4569, 4576
      + Maphacks: Updated from latest Duke3D HRP SVN (r710); one switch hidden in E4L11
      + duke3d.def: Option to undefine HRP models (only when using VP with HRP)
      + eduke.con: Voxel rotation deactivated by default
