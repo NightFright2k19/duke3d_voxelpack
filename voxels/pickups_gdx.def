@@ -1,9 +1,5 @@
 // Voxel pickups with rotation (DukeGDX only)
 
-animtilerange 37 39 0 2
-animtilerange 100 115 2 2
-animtilerange 1348 1351 0 2
-
 voxel "voxels/pickups/0021_pistol.kvx" { tile 21 rotate }
 voxel "voxels/pickups/0022_chaingun.kvx" { tile 22 rotate }
 voxel "voxels/pickups/0023_rpg.kvx" { tile 23 rotate }
@@ -15,6 +11,8 @@ voxel "voxels/pickups/0028_shotgun.kvx" { tile 28 rotate }
 voxel "voxels/pickups/0029_devastator.kvx" { tile 29 rotate }
 
 voxel "voxels/pickups/0032_expander.kvx" { tile 32 rotate }
+
+animtilerange 37 39 0 2
 voxel "voxels/pickups/0037_freezerammo1.kvx" { tile 37 rotate }
 voxel "voxels/pickups/0038_freezerammo2.kvx" { tile 38 rotate }
 voxel "voxels/pickups/0039_freezerammo3.kvx" { tile 39 rotate }
@@ -40,6 +38,7 @@ voxel "voxels/pickups/0059_nightvision.kvx" { tile 59 rotate }
 voxel "voxels/pickups/0060_keycard.kvx" { tile 60 rotate }
 voxel "voxels/pickups/0061_boots.kvx" { tile 61 rotate }
 
+animtilerange 100 115 2 2
 voxel "voxels/pickups/0100_atomichealth1.kvx" { tile 100 }
 voxel "voxels/pickups/0101_atomichealth2.kvx" { tile 101 }
 voxel "voxels/pickups/0102_atomichealth3.kvx" { tile 102 }
@@ -57,6 +56,7 @@ voxel "voxels/pickups/0113_atomichealth14.kvx" { tile 113 }
 voxel "voxels/pickups/0114_atomichealth15.kvx" { tile 114 }
 voxel "voxels/pickups/0115_atomichealth16.kvx" { tile 115 }
 
+animtilerange 1348 1351 0 2
 voxel "voxels/pickups/1348_holoduke1.kvx" { tile 1348 rotate }
 voxel "voxels/pickups/1349_holoduke2.kvx" { tile 1349 rotate }
 voxel "voxels/pickups/1350_holoduke3.kvx" { tile 1350 rotate }

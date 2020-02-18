@@ -1,7 +1,5 @@
 // Voxel props
 
-animtilerange 670 671 3 1
-
 voxel "voxels/props/0058_spacesuit.kvx" { tile 58 }
 
 voxel "voxels/props/0551_lightdome1.kvx" { tile 551 }
@@ -37,10 +35,13 @@ voxel "voxels/props/0621_camera1.kvx" { tile 621 tile 622 tile 623 tile 624 tile
 
 voxel "voxels/props/0669_vacuumcleaner.kvx" { tile 669 }
 
+// animtilerange 670 671 3 1
 voxel "voxels/props/0670_faucet2.kvx" { tile 670 }
 
 voxel "voxels/props/0685_stagelamp.kvx" { tile 685 }
 
+voxel "voxels/props/0694_pot1.kvx" { tile 694 }
+voxel "voxels/props/0695_pot2.kvx" { tile 695 }
 voxel "voxels/props/0697_pot3.kvx" { tile 697 }
 
 voxel "voxels/props/0716_pleasewait.kvx" { tile 716 }
@@ -86,6 +87,8 @@ voxel "voxels/props/0990_tires.kvx" { tile 990 }
 
 voxel "voxels/props/1006_barstool.kvx" { tile 1006 }
 
+voxel "voxels/props/1012_bottle5.kvx" { tile 1012 }
+voxel "voxels/props/1013_bottle6.kvx" { tile 1013 }
 voxel "voxels/props/1014_gbottle.kvx" { tile 1014 }
 
 voxel "voxels/props/1025_bottle7.kvx" { tile 1025 }
@@ -106,6 +109,7 @@ voxel "voxels/props/1063_rubbercanbent.kvx" { tile 1063 }
 voxel "voxels/props/1067_clockbreak.kvx" { tile 1067 }
 voxel "voxels/props/1069_plug.kvx" { tile 1069 }
 
+voxel "voxels/props/1073_lifebuoy.kvx" { tile 1073 }
 voxel "voxels/props/1075_painting1.kvx" { tile 1075 }
 voxel "voxels/props/1076_painting2.kvx" { tile 1076 }
 voxel "voxels/props/1078_doublespotlight.kvx" { tile 1078 }
@@ -114,6 +118,7 @@ voxel "voxels/props/1079_oozefilter1.kvx" { tile 1079 }
 voxel "voxels/props/1080_oozefilter2.kvx" { tile 1080 }
 voxel "voxels/props/1081_oozefilter3.kvx" { tile 1081 }
 
+voxel "voxels/props/1158_bottle11.kvx" { tile 1158 }
 voxel "voxels/props/1159_bottle12.kvx" { tile 1159 }
 
 voxel "voxels/props/1160_bottle13.kvx" { tile 1160 }
@@ -156,6 +161,10 @@ voxel "voxels/props/4454_deskphone.kvx" { tile 4454 }
 voxel "voxels/props/4464_mace.kvx" { tile 4464 }
 
 voxel "voxels/props/4495_wetfloor.kvx" { tile 4495 }
+
+voxel "voxels/props/4537_foodobject8.kvx" { tile 4537 }
+voxel "voxels/props/4538_foodobject9.kvx" { tile 4538 }
+voxel "voxels/props/4539_foodobject10.kvx" { tile 4539 }
 
 voxel "voxels/props/4540_foodobject11.kvx" { tile 4540 }
 voxel "voxels/props/4541_foodobject12.kvx" { tile 4541 }
