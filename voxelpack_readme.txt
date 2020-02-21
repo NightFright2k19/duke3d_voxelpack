@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Feb 18, 2020
+Release Date: Feb 21, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -232,7 +232,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Feb 18, 2020)
+Version 1.3 (Feb 21, 2020)
 --------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
