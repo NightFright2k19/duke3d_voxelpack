@@ -129,6 +129,11 @@ voxel "voxels/props/1164_bottle17.kvx" { tile 1164 }
 voxel "voxels/props/1165_bottle18.kvx" { tile 1165 }
 voxel "voxels/props/1166_bottle19.kvx" { tile 1166 }
 
+voxel "voxels/props/1227_nukebarrel.kvx" { tile 1227 }
+voxel "voxels/props/1228_nukebarreldented.kvx" { tile 1228 }
+voxel "voxels/props/1229_nukebarrelleaked.kvx" { tile 1229 }
+
+voxel "voxels/props/1230_nukebarrelbreak.kvx" { tile 1230 }
 voxel "voxels/props/1232_canwithsomething.kvx" { tile 1232 }
 voxel "voxels/props/1238_metalbarrel.kvx" { tile 1238 }
 
