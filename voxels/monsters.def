@@ -1,4 +1,5 @@
 // Slimer Egg (675)
+voxel "voxels/monsters/0558_slimeregg0.kvx" { tile 558 }
 voxel "voxels/monsters/0675_slimeregg1.kvx" { tile 675 }
 voxel "voxels/monsters/0676_slimeregg2.kvx" { tile 676 }
 voxel "voxels/monsters/0677_slimeregg3.kvx" { tile 677 } 

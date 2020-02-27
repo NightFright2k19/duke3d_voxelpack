@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Feb 26, 2020
+Release Date: Feb 27, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (146)
+> Borion (147)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -99,7 +99,7 @@ Contributions by:
      - 571/573 ............ Urinal (+ broken version)
      - 606 ................ Spacesuit corpse
      - 669 ................ Vacuum cleaner
-     - 675-677 ............ Slimer egg
+     - 558/675-677 ........ Slimer egg
      - 685 ................ Stage light
      - 694 ................ Pot1
      - 695 ................ Pot2
@@ -233,11 +233,11 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Feb 26, 2020)
+Version 1.3 (Feb 27, 2020)
 --------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
-     + Monsters: 675 (Slimer egg), 1880 (Sentry drone), 1975 (Pigcop tank), 2350 (Gun turret)
+     + Monsters: 558/675 (Slimer egg), 1880 (Sentry drone), 1975 (Pigcop tank), 2350 (Gun turret)
      + Pickups: 25 (Shrinker), 32 (Expander), 45 (Expander ammo), 56 (scuba gear), 57 (jetpack),
                 100-115 (Atomic Health)
      + Projectiles: 1650-1653 (mortar)
