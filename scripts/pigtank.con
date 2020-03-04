@@ -1,6 +1,6 @@
 // Pigcop Tank
-action ATANKSPIN   0 2 5 1 4
+action ATANKSPIN      0 2 5 1  4
 action ATANKSHOOTING 10 2 5 1 10
-action ATANKWAIT 0 1 5 1 1
-action ATANKDESTRUCT 0 1 5 1 1
-action ATANKDEAD 0 1 5 1 1
+action ATANKWAIT      0 1 5 1  1
+action ATANKDESTRUCT  0 1 5 1  1
+action ATANKDEAD      0 1 5 1  1
