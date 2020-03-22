@@ -167,6 +167,7 @@ voxel "voxels/props/4464_mace.kvx" { tile 4464 }
 
 voxel "voxels/props/4495_wetfloor.kvx" { tile 4495 }
 
+voxel "voxels/props/4536_foodobject7.kvx" { tile 4536 }
 voxel "voxels/props/4537_foodobject8.kvx" { tile 4537 }
 voxel "voxels/props/4538_foodobject9.kvx" { tile 4538 }
 voxel "voxels/props/4539_foodobject10.kvx" { tile 4539 }

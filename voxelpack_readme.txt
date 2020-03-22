@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Feb 27, 2020
+Release Date: Mar 22, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (147)
+> Borion (148)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -164,7 +164,7 @@ Contributions by:
      - 4454 ............... Deskphone
      - 4483 ............... Broken switch #1
      - 4495 ............... "Wet Floor" sign
-     - 4537-4539 .......... Foodobject8-10
+     - 4536-4539 .......... Foodobject7-10
      - 4576 ............... Shopping cart
      - 4580-4582 .......... Barrels
      - 4885 ............... Driver wheel
@@ -233,7 +233,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Feb 27, 2020)
+Version 1.3 (Mar 22, 2020)
 --------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
@@ -254,7 +254,7 @@ Version 1.3 (Feb 27, 2020)
               1247 (C-9 can), 4360 (gunpowder barrel), 4367 (hatrack), 4370 (desk lamp), 4371 (police shield), 
               4372 (coffee machine), 4426 (bowling pin), 4429 (fence), 4438 (mug), 4440 (donuts), 
               4443 (US flag), 4444 (VHS camera), 4454 (deskphone), 4464 (mace), 4495 ("Wet Floor" sign), 
-              4537-4539 (foodobject8-10), 4576 (shopping cart), 4580-4582 (barrels), 4589 (warning sign), 
+              4536-4539 (foodobject7-10), 4576 (shopping cart), 4580-4582 (barrels), 4589 (warning sign), 
               4885 (driver wheel)
      + Signs: 728 ("Federal Loan and Trust"), 937 ("Forbidden Videos & Books"), 938 ("San Andreas Fault"), 
               961 ("Exit"), 1007 (neon3), 1008 (neon4), 1046 ("Arcade"), 1172 ("Secured Area"), 
