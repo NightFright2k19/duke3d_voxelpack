@@ -57,8 +57,10 @@ voxel "voxels/props/0779_sushiplate.kvx" { tile 779 }
 voxel "voxels/props/0901_stripeball.kvx" { tile 901 }
 voxel "voxels/props/0902_queball.kvx" { tile 902 }
 voxel "voxels/props/0904_constructionbarrier.kvx" { tile 904 tile 905 tile 906 tile 907 }
+voxel "voxels/props/0908_tree1.kvx" { tile 908 } 
 voxel "voxels/props/0909_treetrunk.kvx" { tile 909 }
 
+voxel "voxels/props/0910_tree2.kvx" { tile 910 }
 voxel "voxels/props/0911_cactus.kvx" { tile 911 }
 voxel "voxels/props/0913_maskwall2.kvx" { tile 913 }
 voxel "voxels/props/0914_maskwall3.kvx" { tile 914 }

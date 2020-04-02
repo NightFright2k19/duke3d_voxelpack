@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Mar 22, 2020
+Release Date: Apr 2, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (148)
+> Borion (150)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -108,6 +108,8 @@ Contributions by:
      - 753/869 ............ Geisha
      - 762 ................ Microphone
      - 765 ................ Vase
+     - 908 ................ Tree1
+     - 910 ................ Tree2
      - 911/939 ............ Cactus (+ stomp)
      - 913 ................ Maskwall2
      - 914 ................ Maskwall3
@@ -233,8 +235,8 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Mar 22, 2020)
---------------------------
+Version 1.3 (Apr 2, 2020)
+-------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
      + Monsters: 558/675 (Slimer egg), 1880 (Sentry drone), 1975 (Pigcop tank), 2350 (Gun turret)
@@ -244,8 +246,8 @@ Version 1.3 (Mar 22, 2020)
      + Props: 58 (spacesuit), 551-554 (lightdome), 556/559 (armchair), 563-565 (water fountain), 
               569/615 (toilet), 571/573 (urinal), 584 (sensor), 606 (spacesuit corpse), 
               669 (vacuum cleaner), 685 (stage light), 694 (pot1), 695 (pot2), 697 (pot3), 
-              753/869 (geisha), 762 (mike), 765 (vase), 911/939 (cactus + stomp), 913 (maskwall2), 
-              914 (maskwall3), 915 (gate), 916 (fire extinguisher), 920 (chain), 951 (box), 
+              753/869 (geisha), 762 (mike), 765 (vase), 908 (tree1), 910 (tree2), 911/939 (cactus + stomp),
+              913 (maskwall2), 914 (maskwall3), 915 (gate), 916 (fire extinguisher), 920 (chain), 951 (box), 
               955-957 (bottle2-4), 962 (fence), 981 (hydrant), 990 (tires), 1012 (bottle5), 
               1013 (bottle6), 1014 (bottle), 1025 (bottle7), 1048 (two cables), 1049 (electric meter), 
               1061/1078 (double spotlight), 1062/1063 (rubber can), 1073 (life buoy), 1075/1076 (painting #1/2), 
