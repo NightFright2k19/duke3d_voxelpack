@@ -43,6 +43,7 @@ voxel "voxels/props/0685_stagelamp.kvx" { tile 685 }
 voxel "voxels/props/0694_pot1.kvx" { tile 694 }
 voxel "voxels/props/0695_pot2.kvx" { tile 695 }
 voxel "voxels/props/0697_pot3.kvx" { tile 697 }
+voxel "voxels/props/0698_sushi.kvx" { tile 698 } 
 
 voxel "voxels/props/0716_pleasewait.kvx" { tile 716 }
 
