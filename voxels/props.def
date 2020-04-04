@@ -37,8 +37,10 @@ voxel "voxels/props/0669_vacuumcleaner.kvx" { tile 669 }
 
 // animtilerange 670 671 3 1
 voxel "voxels/props/0670_faucet2.kvx" { tile 670 }
+voxel "voxels/props/0678_scale.kvx" { tile 678 }
 
 voxel "voxels/props/0685_stagelamp.kvx" { tile 685 }
+voxel "voxels/props/0689_ivunit.kvx" { tile 689 }
 
 voxel "voxels/props/0694_pot1.kvx" { tile 694 }
 voxel "voxels/props/0695_pot2.kvx" { tile 695 }
@@ -79,6 +81,7 @@ voxel "voxels/props/0956_bottle3.kvx" { tile 956 }
 voxel "voxels/props/0957_bottle4.kvx" { tile 957 }
 
 voxel "voxels/props/0962_fence.kvx" { tile 962 }
+voxel "voxels/props/0969_hydroplant.kvx" { tile 969 }
 
 voxel "voxels/props/0977_pole.kvx" { tile 977 }
 voxel "voxels/props/0978_traffic_cone.kvx" { tile 978 }
@@ -88,6 +91,7 @@ voxel "voxels/props/0981_hydrant.kvx" { tile 981 }
 
 voxel "voxels/props/0990_tires.kvx" { tile 990 }
 
+voxel "voxels/props/1003_brokehydroplant.kvx" { tile 1003 }
 voxel "voxels/props/1006_barstool.kvx" { tile 1006 }
 
 voxel "voxels/props/1012_bottle5.kvx" { tile 1012 }

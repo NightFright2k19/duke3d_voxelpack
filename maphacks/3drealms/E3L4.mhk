@@ -63,6 +63,7 @@ sprite   393 notmd                 // tile0665 (surgical tools)
 sprite   244 angoff     512        // tile0055 steroids
 sprite   395 mdzoff     500000     // tile0678 scale
 sprite   395 pitch      1          // tile0678 scale
+sprite   395 angoff     -768       // tile0678 scale
 sprite   257 angoff     512        // tile0669 vacuum
 sprite   257 mdzoff     860000     // tile0669 vacuum
 sprite   257 roll      -1          // tile0669 vacuum

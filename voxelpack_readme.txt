@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Apr 2, 2020
+Release Date: Apr 4, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (151)
+> Borion (156)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -100,7 +100,9 @@ Contributions by:
      - 606 ................ Spacesuit corpse
      - 669 ................ Vacuum cleaner
      - 558/675-677 ........ Slimer egg
+     - 678 ................ Scale
      - 685 ................ Stage light
+     - 689 ................ IV unit
      - 694 ................ Pot1
      - 695 ................ Pot2
      - 697 ................ Pot3
@@ -120,11 +122,13 @@ Contributions by:
      - 937 ................ "Forbidden Videos & Books" sign
      - 938 ................ "San Andreas Fault" sign
      - 951 ................ Box
+     - 954 ................ Bottle1
      - 955 ................ Bottle2
      - 956 ................ Bottle3
      - 957 ................ Bottle4
      - 961 ................ "Exit" sign
      - 962 ................ Fence
+     - 969/1003 ........... Hydroplant (+ broken version)
      - 981 ................ Hydrant
      - 990 ................ Tires
      - 1008 ............... Neon5 sign
@@ -176,7 +180,7 @@ Contributions by:
      - 4954 ............... Broken switch #2
      - 4956 ............... "Funny Boner Comedy Club" sign
 
-> DotK3D (22)
+> DotK3D (21)
      - 561 ................ Soap
      - 572/991 ............ Shower part
      - 716 ................ "Please Wait" sign
@@ -185,7 +189,6 @@ Contributions by:
      - 864/865 ............ Powerswitch2 off/on
      - 904 ................ Wooden horse
      - 909 ................ Tree trunk
-     - 954 ................ Cocktail glass
      - 977 ................ Pole
      - 978 ................ Traffic cone
      - 979 ................ Hanglight
@@ -236,7 +239,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Apr 2, 2020)
+Version 1.3 (Apr 4, 2020)
 -------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
@@ -246,19 +249,19 @@ Version 1.3 (Apr 2, 2020)
      + Projectiles: 1650-1653 (mortar)
      + Props: 58 (spacesuit), 551-554 (lightdome), 556/559 (armchair), 563-565 (water fountain), 
               569/615 (toilet), 571/573 (urinal), 584 (sensor), 606 (spacesuit corpse), 
-              669 (vacuum cleaner), 685 (stage light), 694 (pot1), 695 (pot2), 697 (pot3), 698 (sushi plate),
-              753/869 (geisha), 762 (mike), 765 (vase), 908 (tree1), 910 (tree2), 911/939 (cactus + stomp),
-              913 (maskwall2), 914 (maskwall3), 915 (gate), 916 (fire extinguisher), 920 (chain), 951 (box), 
-              955-957 (bottle2-4), 962 (fence), 981 (hydrant), 990 (tires), 1012 (bottle5), 
-              1013 (bottle6), 1014 (bottle), 1025 (bottle7), 1048 (two cables), 1049 (electric meter), 
-              1061/1078 (double spotlight), 1062/1063 (rubber can), 1073 (life buoy), 1075/1076 (painting #1/2), 
-              1079-1081 (oozefilter), 1158 (bottle11), 1160 (bottle13), 1164-1166 (bottle17-19),
-              1227-1230 (nuke barrel), 1232 (trash can), 1238 (metal barrel), 1240-1243 (firebarrel), 
-              1247 (C-9 can), 4360 (gunpowder barrel), 4367 (hatrack), 4370 (desk lamp), 4371 (police shield), 
-              4372 (coffee machine), 4426 (bowling pin), 4429 (fence), 4438 (mug), 4440 (donuts), 
-              4443 (US flag), 4444 (VHS camera), 4454 (deskphone), 4464 (mace), 4495 ("Wet Floor" sign), 
-              4536-4539 (foodobject7-10), 4576 (shopping cart), 4580-4582 (barrels), 4589 (warning sign), 
-              4885 (driver wheel)
+              669 (vacuum cleaner), 678 (scale), 685 (stage light), 689 (IV unit), 694 (pot1), 695 (pot2), 
+              697 (pot3), 698 (sushi plate), 753/869 (geisha), 762 (mike), 765 (vase), 908 (tree1), 
+              910 (tree2), 911/939 (cactus + stomp), 913 (maskwall2), 914 (maskwall3), 915 (gate), 
+              916 (fire extinguisher), 920 (chain), 951 (box), 955-957 (bottle2-4), 962 (fence), 969 (hydroplant), 
+              981 (hydrant), 990 (tires), 1003 (broken hydroplant), 1012 (bottle5), 1013 (bottle6), 1014 (bottle), 
+              1025 (bottle7), 1048 (two cables), 1049 (electric meter), 1061/1078 (double spotlight), 
+              1062/1063 (rubber can), 1073 (life buoy), 1075/1076 (painting #1/2), 1079-1081 (oozefilter), 
+              1158 (bottle11), 1160 (bottle13), 1164-1166 (bottle17-19), 1227-1230 (nuke barrel), 1232 (trash can), 
+              1238 (metal barrel), 1240-1243 (firebarrel), 1247 (C-9 can), 4360 (gunpowder barrel), 4367 (hatrack), 
+              4370 (desk lamp), 4371 (police shield), 4372 (coffee machine), 4426 (bowling pin), 4429 (fence), 
+              4438 (mug), 4440 (donuts), 4443 (US flag), 4444 (VHS camera), 4454 (deskphone), 4464 (mace), 
+              4495 ("Wet Floor" sign), 4536-4539 (foodobject7-10), 4576 (shopping cart), 4580-4582 (barrels), 
+              4589 (warning sign), 4885 (driver wheel)
      + Signs: 728 ("Federal Loan and Trust"), 937 ("Forbidden Videos & Books"), 938 ("San Andreas Fault"), 
               961 ("Exit"), 1007 (neon3), 1008 (neon4), 1046 ("Arcade"), 1172 ("Secured Area"), 
               1210 ("Guilty!"), 1211 ("Innocent?"), 4891 ("We Store Your Crap"), 4930 ("E Pluribus Nukem"), 
@@ -268,8 +271,9 @@ Version 1.3 (Apr 2, 2020)
                  4483 (broken switch #1), 4954 (broken switch #2)
 
 > Updated:
+     + Props: 954 (bottle1)
      + Voxel orientations: 40, 45, 670, 753, 869, 1008, 4438, 4443, 4444, 4546, 4547, 4548, 4569, 4576
-     + Maphacks: Updated from latest Duke3D HRP SVN (r710); one switch hidden in E4L11
+     + Maphacks: Updated from latest Duke3D HRP SVN (r710); one switch hidden in E4L11; scale (#678) angoff defs added in E3L4
      + duke3d.def: Option to undefine HRP models (only when using VP with HRP)
      + eduke.con: Voxel rotation deactivated by default
      + rotation.con: 4 useless cases (AMMOBOX, AMMOLOTS, HEALTHBOX, INVENTORYBOX) removed
