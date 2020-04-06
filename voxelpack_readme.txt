@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (157)
+> Borion (159)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -118,6 +118,7 @@ Contributions by:
      - 914 ................ Maskwall3
      - 915 ................ Gate
      - 916 ................ Fire extinguisher
+     - 917 ................ Fire alarm
      - 919 ................ Meter2
      - 920 ................ Chain
      - 937 ................ "Forbidden Videos & Books" sign
@@ -130,7 +131,7 @@ Contributions by:
      - 961 ................ "Exit" sign
      - 962 ................ Fence
      - 969/1003 ........... Hydroplant (+ broken version)
-     - 981 ................ Hydrant
+     - 981/950 ............ Hydrant (+ broken version)
      - 990 ................ Tires
      - 1008 ............... Neon5 sign
      - 1012 ............... Bottle5
@@ -253,8 +254,8 @@ Version 1.3 (Apr 6, 2020)
               669 (vacuum cleaner), 678 (scale), 685 (stage light), 689 (IV unit), 694 (pot1), 695 (pot2), 
               697 (pot3), 698 (sushi plate), 753/869 (geisha), 762 (mike), 765 (vase), 908 (tree1), 
               910 (tree2), 911/939 (cactus + stomp), 913 (maskwall2), 914 (maskwall3), 915 (gate), 
-              916 (fire extinguisher), 919 (meter2), 920 (chain), 951 (box), 955-957 (bottle2-4), 962 (fence), 
-              969 (hydroplant), 981 (hydrant), 990 (tires), 1003 (broken hydroplant), 1012 (bottle5), 
+              916 (fire extinguisher), 917 (fire alarm), 919 (meter2), 920 (chain), 951 (box), 
+              955-957 (bottle2-4), 962 (fence), 969/1003 (hydroplant), 981/950 (hydrant), 990 (tires), 1012 (bottle5), 
               1013 (bottle6), 1014 (bottle), 1025 (bottle7), 1048 (two cables), 1049 (electric meter), 
               1061/1078 (double spotlight), 1062/1063 (rubber can), 1073 (life buoy), 1075/1076 (painting #1/2), 
               1079-1081 (oozefilter), 1158 (bottle11), 1160 (bottle13), 1164-1166 (bottle17-19), 
