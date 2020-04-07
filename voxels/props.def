@@ -28,6 +28,8 @@ voxel "voxels/props/0595_grate1.kvx" { tile 595 }
 voxel "voxels/props/0596_bgrate2.kvx" { tile 596 }
 
 voxel "voxels/props/0606_spacesuitcorpse.kvx" { tile 606 }
+voxel "voxels/props/0607_antenna1.kvx" { tile 607 }
+voxel "voxels/props/0608_antenna2.kvx" { tile 608 }
 
 voxel "voxels/props/0615_brokentoilet.kvx" { tile 615 }
 

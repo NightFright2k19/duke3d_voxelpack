@@ -108,7 +108,7 @@ sprite   294 mdzoff     700000     // tile0029 devistatorsprite
 sprite   294 pitch     -1          // tile0029 devistatorsprite
 sprite    77 angoff     512        // tile0057 jetpack (multiplayer)
 sprite   295 angoff    -512        // tile0060 accesscard red
-sprite   144 angoff    -128        // tile0607 antenna
+sprite   144 angoff    -384        // tile0607 antenna
 sprite   300 angoff     256        // tile0042 devistatorammo
 sprite   431 angoff    -128        // tile0028 shotgunsprite
 sprite   368 angoff     1024       // tile0023 rpgsprite

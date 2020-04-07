@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Apr 6, 2020
+Release Date: Apr 7, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (159)
+> Borion (161)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -98,6 +98,7 @@ Contributions by:
      - 569/615 ............ Toilet (+ broken version)
      - 571/573 ............ Urinal (+ broken version)
      - 606 ................ Spacesuit corpse
+     - 607/608 ............ Antenna
      - 669 ................ Vacuum cleaner
      - 558/675-677 ........ Slimer egg
      - 678 ................ Scale
@@ -241,7 +242,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Apr 6, 2020)
+Version 1.3 (Apr 7, 2020)
 -------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
@@ -250,7 +251,7 @@ Version 1.3 (Apr 6, 2020)
                 100-115 (Atomic Health)
      + Projectiles: 1650-1653 (mortar)
      + Props: 58 (spacesuit), 551-554 (lightdome), 556/559 (armchair), 563-565 (water fountain), 
-              569/615 (toilet), 571/573 (urinal), 584 (sensor), 606 (spacesuit corpse), 
+              569/615 (toilet), 571/573 (urinal), 584 (sensor), 606 (spacesuit corpse), 607/608 (antenna),
               669 (vacuum cleaner), 678 (scale), 685 (stage light), 689 (IV unit), 694 (pot1), 695 (pot2), 
               697 (pot3), 698 (sushi plate), 753/869 (geisha), 762 (mike), 765 (vase), 908 (tree1), 
               910 (tree2), 911/939 (cactus + stomp), 913 (maskwall2), 914 (maskwall3), 915 (gate), 
@@ -275,7 +276,8 @@ Version 1.3 (Apr 6, 2020)
 > Updated:
      + Props: 954 (bottle1)
      + Voxel orientations: 40, 45, 670, 753, 869, 1008, 4438, 4443, 4444, 4546, 4547, 4548, 4569, 4576
-     + Maphacks: Updated from latest Duke3D HRP SVN (r710); one switch hidden in E4L11; scale (#678) angoff defs added in E3L4
+     + Maphacks: Updated from latest Duke3D HRP SVN (r710); one switch hidden in E4L11; scale (#678) angoff defs added in E3L4;
+                 antenna (#607) angoff defs updated in E3L7
      + duke3d.def: Option to undefine HRP models (only when using VP with HRP)
      + eduke.con: Voxel rotation deactivated by default
      + rotation.con: 4 useless cases (AMMOBOX, AMMOLOTS, HEALTHBOX, INVENTORYBOX) removed
