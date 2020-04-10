@@ -20,7 +20,7 @@ voxel "voxels/props/0569_toilet.kvx" { tile 569 }
 voxel "voxels/props/0571_urinal.kvx" { tile 571 }
 voxel "voxels/props/0572_showerpart.kvx" { tile 572 tile 991 }
 voxel "voxels/props/0573_brokenurinal.kvx" { tile 573 }
-voxel "voxels/props/0574_faucet.kvx" { tile 574 }
+voxel "voxels/props/0574_faucet.kvx" { scale .9 tile 574 }
 
 voxel "voxels/props/0584_sensor.kvx" { tile 584 }
 
@@ -37,8 +37,9 @@ voxel "voxels/props/0621_camera1.kvx" { tile 621 tile 622 tile 623 tile 624 tile
 
 voxel "voxels/props/0669_vacuumcleaner.kvx" { tile 669 }
 
-// animtilerange 670 671 3 1
-voxel "voxels/props/0670_faucet2.kvx" { tile 670 }
+animtilerange 670 671 3 1
+voxel "voxels/props/0670_faucet2.kvx" { scale .9 tile 670 }
+voxel "voxels/props/0671_faucet3.kvx" { scale .9 tile 671 }
 voxel "voxels/props/0678_scale.kvx" { tile 678 }
 
 voxel "voxels/props/0685_stagelamp.kvx" { tile 685 }

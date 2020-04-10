@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Apr 8, 2020
+Release Date: Apr 10, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (161)
+> Borion (164)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -97,6 +97,7 @@ Contributions by:
      - 563-565 ............ Water fountain
      - 569/615 ............ Toilet (+ broken version)
      - 571/573 ............ Urinal (+ broken version)
+     - 574/670/671 ........ Faucet
      - 606 ................ Spacesuit corpse
      - 607/608 ............ Antenna
      - 669 ................ Vacuum cleaner
@@ -201,10 +202,9 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> mxrtxn (16)
+> mxrtxn (15)
      - 584 ................ Sensor
      - 621 ................ Security camera
-     - 670 ................ Running water tap
      - 1014 ............... Bottle
      - 1238 ............... Metal barrel
      - 4569 ............... Burger box
@@ -242,8 +242,8 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Apr 8, 2020)
--------------------------
+Version 1.3 (Apr 10, 2020)
+--------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
      + Monsters: 558/675 (Slimer egg), 1880 (Sentry drone), 1975 (Pigcop tank), 2350 (Gun turret)
@@ -252,8 +252,8 @@ Version 1.3 (Apr 8, 2020)
      + Projectiles: 1650-1653 (mortar)
      + Props: 58 (spacesuit), 551-554 (lightdome), 556/559 (armchair), 563-565 (water fountain), 
               569/615 (toilet), 571/573 (urinal), 584 (sensor), 606 (spacesuit corpse), 607/608 (antenna),
-              669 (vacuum cleaner), 678 (scale), 685 (stage light), 689 (IV unit), 694 (pot1), 695 (pot2), 
-              697 (pot3), 698 (sushi plate), 753/869 (geisha), 762 (mike), 765 (vase), 908 (tree1), 
+              669 (vacuum cleaner), 671 (faucet3), 678 (scale), 685 (stage light), 689 (IV unit), 694 (pot1), 
+              695 (pot2), 697 (pot3), 698 (sushi plate), 753/869 (geisha), 762 (mike), 765 (vase), 908 (tree1), 
               910 (tree2), 911/939 (cactus + stomp), 913 (maskwall2), 914 (maskwall3), 915 (gate), 
               916 (fire extinguisher), 917 (fire alarm), 919 (meter2), 920 (chain), 951 (box), 
               955-957 (bottle2-4), 962 (fence), 969/1003 (hydroplant), 981/950 (hydrant), 990 (tires), 1012 (bottle5), 
@@ -274,7 +274,7 @@ Version 1.3 (Apr 8, 2020)
                  4483 (broken switch #1), 4954 (broken switch #2)
 
 > Updated:
-     + Props: 954 (bottle1)
+     + Props: 574/670 (faucet1+2), 954 (bottle1)
      + Voxel orientations: 40, 45, 670, 753, 869, 1008, 4438, 4443, 4444, 4546, 4547, 4548, 4569, 4576
      + Maphacks: Updated from latest Duke3D HRP SVN (r710); one switch hidden in E4L11; scale (#678) angoff defs added in E3L4;
                  antenna (#607) angoff defs updated in E3L7
@@ -343,7 +343,7 @@ Version 1.0 (Feb 12, 2012)
                 47 (pipebomb box), 49 (shotgun ammo), 51 (health +10), 52 (health +30),
                 53 (medkit), 54 (armor), 55 (steroids), 59 (nightvision goggles), 
                 60 (keycard)
-     + Props: 547 (faucet), 595 (grate1), 596 (bgrate2), 901 (stripeball), 902 (queball),
+     + Props: 574 (faucet), 595 (grate1), 596 (bgrate2), 901 (stripeball), 902 (queball),
               1051 (dryer), 1052 (towel dispenser), 1053 (toilet paper), 1069 (plug)
      + Switches: 130/131 (access switch red/green), 132/133 (slotdoor red/green),
                  134/135 (lightswitch red/green), 162/163 (dipswitch red/green),
