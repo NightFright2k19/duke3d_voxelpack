@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (164)
+> Borion (168)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -176,6 +176,8 @@ Contributions by:
      - 4483 ............... Broken switch #1
      - 4495 ............... "Wet Floor" sign
      - 4536-4539 .......... Foodobject7-10
+     - 4546-4548 .......... Foodobject17-19
+     - 4569 ............... Burger box
      - 4576 ............... Shopping cart
      - 4580-4582 .......... Barrels
      - 4885 ............... Driver wheel
@@ -202,17 +204,15 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> mxrtxn (15)
+> mxrtxn (11)
      - 584 ................ Sensor
      - 621 ................ Security camera
      - 1014 ............... Bottle
      - 1238 ............... Metal barrel
-     - 4569 ............... Burger box
      - 4370 ............... Desk lamp
      - 4371 ............... Police shield
      - 4426 ............... Bowling pin
      - 4540-4542 .......... Foodobject11-13
-     - 4546-4548 .......... Foodobject17-19
      - 4589 ............... Warning sign
 
 > Shodanbot (5)
@@ -274,7 +274,8 @@ Version 1.3 (Apr 10, 2020)
                  4483 (broken switch #1), 4954 (broken switch #2)
 
 > Updated:
-     + Props: 574/670 (faucet1+2), 954 (bottle1)
+     + Props: 574/670 (faucet1+2), 954 (bottle1), 4540-4542 (foodobject11-13), 4546-4548 (foodobject17-19),
+              4569 (burger box)
      + Voxel orientations: 40, 45, 670, 753, 869, 1008, 4438, 4443, 4444, 4546, 4547, 4548, 4569, 4576
      + Maphacks: Updated from latest Duke3D HRP SVN (r710); one switch hidden in E4L11; scale (#678) angoff defs added in E3L4;
                  antenna (#607) angoff defs updated in E3L7
