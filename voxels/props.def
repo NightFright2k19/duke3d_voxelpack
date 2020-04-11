@@ -157,6 +157,8 @@ voxel "voxels/props/1243_firebarrel4.kvx" { tile 1243 }
 
 voxel "voxels/props/1247_seenine.kvx" { tile 1247 }
 
+voxel "voxels/props/1353_spacemarine.kvx" { tile 1353 }
+
 voxel "voxels/props/4360_gunpowderbarrel.kvx" { tile 4360 }
 voxel "voxels/props/4367_hatrack.kvx" { tile 4367 }
 
