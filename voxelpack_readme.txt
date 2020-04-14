@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (165)
+> Borion (166)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -139,6 +139,7 @@ Contributions by:
      - 1012 ............... Bottle5
      - 1013 ............... Bottle6
      - 1025 ............... Bottle7 (plant)
+     - 1045 ............... Donuts
      - 1046 ............... "Arcade" sign
      - 1048 ............... Two cables
      - 1049 ............... Electric meter
@@ -258,7 +259,7 @@ Version 1.3 (Apr 14, 2020)
               910 (tree2), 911/939 (cactus + stomp), 913 (maskwall2), 914 (maskwall3), 915 (gate), 
               916 (fire extinguisher), 917 (fire alarm), 919 (meter2), 920 (chain), 951 (box), 
               955-957 (bottle2-4), 962 (fence), 969/1003 (hydroplant), 981/950 (hydrant), 990 (tires), 1012 (bottle5), 
-              1013 (bottle6), 1014 (bottle), 1025 (bottle7), 1048 (two cables), 1049 (electric meter), 
+              1013 (bottle6), 1014 (bottle), 1025 (bottle7), 1045 (donuts), 1048 (two cables), 1049 (electric meter), 
               1061/1078 (double spotlight), 1062/1063 (rubber can), 1073 (life buoy), 1075/1076 (painting #1/2), 
               1079-1081 (oozefilter), 1158 (bottle11), 1160 (bottle13), 1164-1166 (bottle17-19), 
               1227-1230 (nuke barrel), 1232 (trash can), 1238 (metal barrel), 1240-1243 (firebarrel), 
