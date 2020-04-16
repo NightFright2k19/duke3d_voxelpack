@@ -74,8 +74,8 @@ voxel "voxels/props/0915_gate.kvx" { tile 915 }
 voxel "voxels/props/0916_fireextinguisher.kvx" { tile 916 }
 voxel "voxels/props/0917_firealarm.kvx" { tile 917 }
 voxel "voxels/props/0918_meter3.kvx" { tile 918 }
-
 voxel "voxels/props/0919_meter2.kvx" { tile 919 }
+
 voxel "voxels/props/0920_chain.kvx" { tile 920 }
 
 voxel "voxels/props/0939_cactusstump.kvx" { tile 939 }

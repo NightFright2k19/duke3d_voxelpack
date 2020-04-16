@@ -2,6 +2,9 @@
 
 voxel "voxels/signs/0728_banksign.kvx" { tile 728 }
 
+voxel "voxels/signs/0925_neon1.kvx" { tile 925 }
+voxel "voxels/signs/0926_neon2.kvx" { tile 926 }
+
 voxel "voxels/signs/0937_sexshopsign.kvx" { tile 937 }
 voxel "voxels/signs/0938_safault.kvx" { tile 938 }
 
