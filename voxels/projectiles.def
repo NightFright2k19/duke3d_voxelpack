@@ -4,3 +4,5 @@ voxel "voxels/projectiles/1650_mortar.kvx" { tile 1650 }
 voxel "voxels/projectiles/1651_mortar.kvx" { tile 1651 }
 voxel "voxels/projectiles/1652_mortar.kvx" { tile 1652 }
 voxel "voxels/projectiles/1653_mortar.kvx" { tile 1653 }
+
+voxel "voxels/projectiles/2566_tripbomb.kvx" { tile 2566 }
