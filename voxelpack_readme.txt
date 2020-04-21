@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Apr 17, 2020
+Release Date: Apr 21, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (170)
+> Borion (171)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -103,6 +103,7 @@ Contributions by:
      - 669 ................ Vacuum cleaner
      - 558/675-677 ........ Slimer egg
      - 678 ................ Scale
+     - 680-684 ............ Chair3
      - 685 ................ Stage light
      - 689 ................ IV unit
      - 694 ................ Pot1
@@ -248,7 +249,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Apr 17, 2020)
+Version 1.3 (Apr 21, 2020)
 --------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
@@ -258,9 +259,9 @@ Version 1.3 (Apr 17, 2020)
      + Projectiles: 1650-1653 (mortar), 2566 (tripbomb)
      + Props: 58 (spacesuit), 551-554 (lightdome), 556/559 (armchair), 563-565 (water fountain), 
               569/615 (toilet), 571/573 (urinal), 584 (sensor), 606 (spacesuit corpse), 607/608 (antenna),
-              669 (vacuum cleaner), 671 (faucet3), 678 (scale), 685 (stage light), 689 (IV unit), 694 (pot1), 
-              695 (pot2), 697 (pot3), 698 (sushi plate), 753/869 (geisha), 762 (mike), 765 (vase), 908 (tree1), 
-              910 (tree2), 911/939 (cactus + stomp), 913 (maskwall2), 914 (maskwall3), 915 (gate), 
+              669 (vacuum cleaner), 671 (faucet3), 678 (scale), 680-684 (chair3), 685 (stage light), 689 (IV unit),
+              694 (pot1), 695 (pot2), 697 (pot3), 698 (sushi plate), 753/869 (geisha), 762 (mike), 765 (vase), 
+              908 (tree1), 910 (tree2), 911/939 (cactus + stomp), 913 (maskwall2), 914 (maskwall3), 915 (gate), 
               916 (fire extinguisher), 917 (fire alarm), 918 (meter3), 919 (meter2), 920 (chain), 925 (neon1),
               926 (neon2), 951 (box), 955-957 (bottle2-4), 962 (fence), 969/1003 (hydroplant), 981/950 (hydrant), 
               990 (tires), 1012 (bottle5), 1013 (bottle6), 1014 (bottle), 1025 (bottle7), 1045 (donuts), 
