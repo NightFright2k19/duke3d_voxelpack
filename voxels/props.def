@@ -169,6 +169,7 @@ voxel "voxels/props/4370_desklamp.kvx" { tile 4370 }
 voxel "voxels/props/4371_plate1.kvx" { tile 4371 }
 voxel "voxels/props/4372_coffeemachine.kvx" { tile 4372 }
 voxel "voxels/props/4373_cups.kvx" { tile 4373 }
+voxel "voxels/props/4377_policelightpole.kvx" { tile 4377 }
 
 voxel "voxels/props/4426_bowlingpin.kvx" { tile 4426 }
 voxel "voxels/props/4429_fence1.kvx" { tile 4429 }
@@ -184,6 +185,8 @@ voxel "voxels/props/4454_deskphone.kvx" { tile 4454 }
 voxel "voxels/props/4464_mace.kvx" { tile 4464 }
 
 voxel "voxels/props/4495_wetfloor.kvx" { tile 4495 }
+
+voxel "voxels/props/4524_steedhooks.kvx" { tile 4524 }
 
 voxel "voxels/props/4536_foodobject7.kvx" { tile 4536 }
 voxel "voxels/props/4537_foodobject8.kvx" { tile 4537 }

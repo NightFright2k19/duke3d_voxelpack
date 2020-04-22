@@ -238,6 +238,9 @@ sprite   186 mdxoff     5000       // tile0142 nukebutton
 sprite   186 pitch     -1          // tile0142 nukebutton
 // mhk diff sync 3
 // sprite   83 angoff      1024       // tile4443 (flag)
+// mhk diff sync 4
+sprite   477 angoff    -512        // tile4377 policelightpole
+sprite   478 angoff    -512        // tile4377 policelightpole
 
 // LIGHTS
 

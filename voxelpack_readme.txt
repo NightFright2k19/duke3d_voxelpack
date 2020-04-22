@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Apr 21, 2020
+Release Date: Apr 22, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (171)
+> Borion (173)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -174,6 +174,7 @@ Contributions by:
      - 4360 ............... Gunpowder barrel
      - 4367 ............... Hatrack
      - 4372 ............... coffee machine
+     - 4377 ............... Police light pole
      - 4429 ............... Metal fence
      - 4438 ............... Mug
      - 4440 ............... Donuts
@@ -182,6 +183,7 @@ Contributions by:
      - 4454 ............... Deskphone
      - 4483 ............... Broken switch #1
      - 4495 ............... "Wet Floor" sign
+     - 4524 ............... "Steed" hooks
      - 4536-4539 .......... Foodobject7-10
      - 4576 ............... Shopping cart
      - 4580-4582 .......... Barrels
@@ -249,7 +251,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Apr 21, 2020)
+Version 1.3 (Apr 22, 2020)
 --------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
@@ -269,10 +271,10 @@ Version 1.3 (Apr 21, 2020)
               1073 (life buoy), 1075/1076 (painting #1/2), 1079-1081 (oozefilter), 1158 (bottle11), 1160 (bottle13), 
               1164-1166 (bottle17-19), 1227-1230 (nuke barrel), 1232 (trash can), 1238 (metal barrel), 
               1240-1243 (firebarrel), 1247 (C-9 can), 1353 (Space Marine), 4360 (gunpowder barrel), 4367 (hatrack), 
-              4370 (desk lamp), 4371 (police shield), 4372 (coffee machine), 4426 (bowling pin), 4429 (fence), 
-              4438 (mug), 4440 (donuts), 4443 (US flag), 4444 (VHS camera), 4454 (deskphone), 4464 (mace), 
-              4495 ("Wet Floor" sign), 4536-4539 (foodobject7-10), 4576 (shopping cart), 4580-4582 (barrels), 
-              4589 (warning sign), 4885 (driver wheel)
+              4370 (desk lamp), 4371 (police shield), 4372 (coffee machine), 4377 (police light pole), 
+              4426 (bowling pin), 4429 (fence), 4438 (mug), 4440 (donuts), 4443 (US flag), 4444 (VHS camera), 
+              4454 (deskphone), 4464 (mace), 4495 ("Wet Floor" sign), 4524 ("Steed" hooks), 4536-4539 (foodobject7-10), 
+              4576 (shopping cart), 4580-4582 (barrels), 4589 (warning sign), 4885 (driver wheel)
      + Signs: 728 ("Federal Loan and Trust"), 937 ("Forbidden Videos & Books"), 938 ("San Andreas Fault"), 
               961 ("Exit"), 1007 (neon3), 1008 (neon4), 1046 ("Arcade"), 1172 ("Secured Area"), 
               1210 ("Guilty!"), 1211 ("Innocent?"), 4891 ("We Store Your Crap"), 4930 ("E Pluribus Nukem"), 
@@ -284,8 +286,8 @@ Version 1.3 (Apr 21, 2020)
 > Updated:
      + Props: 574/670 (faucet1+2), 954 (bottle1)
      + Voxel orientations: 40, 45, 670, 753, 869, 1008, 4438, 4443, 4444, 4546, 4547, 4548, 4569, 4576
-     + Maphacks: Updated from latest Duke3D HRP SVN (r710); E1L1/NW2 (neon1 updated), E3L4 (scale (#678) angoff added),
-                 E3L7 (antenna (#607) angoff updated), E4L11 (one switch hidden)
+     + Maphacks: Based on Duke3D HRP SVN (r710); E1L1/NW2 (#925 neon1 updated), E3L4 (#678 scale angoff added),
+                 E3L7 (#607 antenna angoff updated), E4L5 (#4377 policelightpole added) E4L11 (one switch hidden)
      + duke3d.def: Option to undefine HRP models (only when using VP with HRP)
      + eduke.con: Voxel rotation deactivated by default
      + rotation.con: 4 useless cases (AMMOBOX, AMMOLOTS, HEALTHBOX, INVENTORYBOX) removed
