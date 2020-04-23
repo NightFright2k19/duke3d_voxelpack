@@ -181,6 +181,8 @@ voxel "voxels/props/4443_usaflag.kvx" { tile 4443 }
 voxel "voxels/props/4444_vhscamera.kvx" { tile 4444 }
 
 voxel "voxels/props/4454_deskphone.kvx" { tile 4454 }
+voxel "voxels/props/4458_gumballmachine1.kvx" { tile 4458 }
+voxel "voxels/props/4459_gumballmachine2.kvx" { tile 4459 }
 
 voxel "voxels/props/4464_mace.kvx" { tile 4464 }
 
