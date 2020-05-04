@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Apr 23, 2020
+Release Date: May 4, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -194,6 +194,10 @@ Contributions by:
      - 4954 ............... Broken switch #2
      - 4956 ............... "Funny Boner Comedy Club" sign
 
+> DJP (2)
+     - 691 ................ Cleaver
+     - 692 ................ Knife
+
 > DotK3D (21)
      - 561 ................ Soap
      - 572/991 ............ Shower part
@@ -252,8 +256,8 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Apr 23, 2020)
---------------------------
+Version 1.3 (May 4, 2020)
+-------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
      + Monsters: 558/675 (Slimer egg), 1880 (Sentry drone), 1975 (Pigcop tank), 2350 (Gun turret)
@@ -263,11 +267,11 @@ Version 1.3 (Apr 23, 2020)
      + Props: 58 (spacesuit), 551-554 (lightdome), 556/559 (armchair), 563-565 (water fountain), 
               569/615 (toilet), 571/573 (urinal), 584 (sensor), 606 (spacesuit corpse), 607/608 (antenna),
               669 (vacuum cleaner), 671 (faucet3), 678 (scale), 680-684 (chair3), 685 (stage light), 689 (IV unit),
-              694 (pot1), 695 (pot2), 697 (pot3), 698 (sushi plate), 753/869 (geisha), 762 (mike), 765 (vase), 
-              908 (tree1), 910 (tree2), 911/939 (cactus + stomp), 913 (maskwall2), 914 (maskwall3), 915 (gate), 
-              916 (fire extinguisher), 917 (fire alarm), 918 (meter3), 919 (meter2), 920 (chain), 925 (neon1),
-              926 (neon2), 951 (box), 955-957 (bottle2-4), 962 (fence), 969/1003 (hydroplant), 981/950 (hydrant), 
-              990 (tires), 1012 (bottle5), 1013 (bottle6), 1014 (bottle), 1025 (bottle7), 1045 (donuts), 
+              691 (cleaver), 692 (knife), 694 (pot1), 695 (pot2), 697 (pot3), 698 (sushi plate), 753/869 (geisha), 
+              762 (mike), 765 (vase), 908 (tree1), 910 (tree2), 911/939 (cactus + stomp), 913 (maskwall2), 
+              914 (maskwall3), 915 (gate), 916 (fire extinguisher), 917 (fire alarm), 918 (meter3), 919 (meter2), 
+              920 (chain), 925 (neon1), 926 (neon2), 951 (box), 955-957 (bottle2-4), 962 (fence), 969/1003 (hydroplant), 
+              981/950 (hydrant), 990 (tires), 1012 (bottle5), 1013 (bottle6), 1014 (bottle), 1025 (bottle7), 1045 (donuts), 
               1048 (two cables), 1049 (electric meter), 1061/1078 (double spotlight), 1062/1063 (rubber can), 
               1073 (life buoy), 1075/1076 (painting #1/2), 1079-1081 (oozefilter), 1158 (bottle11), 1160 (bottle13), 
               1164-1166 (bottle17-19), 1227-1230 (nuke barrel), 1232 (trash can), 1238 (metal barrel), 
