@@ -5,75 +5,75 @@
 // Maphacks for Ep.1-4 are located in the 3drealms folder
 
 mapinfo {
-   maptitle "High Times"
-   mapfile  "E5L1.map"
-   //author "Allen H. Blum III"
-   mapmd4   459c71d47b5beaa058253e162fd5a5c2 // 2016-09-23 (World Tour)
-   mapmd4   5c566fa23f208c5caf3b96e59d742845 // 2016-10-26 (NUKEMDAVE ips)
-   mhkfile  "maphacks/worldtour/E5L1_worldtour.mhk"
+  maptitle "High Times"
+  //author "Allen H. Blum III"
+  mapfile  "E5L1.map"
+  mapmd4   459c71d47b5beaa058253e162fd5a5c2 // 2016-09-23 (World Tour)
+  mapmd4   5c566fa23f208c5caf3b96e59d742845 // 2016-10-26 (NUKEMDAVE ips)
+  mhkfile  "maphacks/worldtour/E5L1_worldtour.mhk"
 }
 mapinfo {
-   maptitle "Red Ruckus"
-   mapfile  "E5L2.map"
-   //author "Richard Bailey Gray (The Levelord)"
-   mapmd4   2a3b4f8792e624f68a1c7fcea8a195cb // 2016-09-23 (World Tour)
-   mapmd4   7e551ce1fa4bf683d82eedd02f213b3e // 2016-10-25 (NUKEMDAVE ips)
-   mhkfile  "maphacks/worldtour/E5L2_worldtour.mhk"
+  maptitle "Red Ruckus"
+  //author "Richard Bailey Gray (The Levelord)"
+  mapfile  "E5L2.map"
+  mapmd4   2a3b4f8792e624f68a1c7fcea8a195cb // 2016-09-23 (World Tour)
+  mapmd4   7e551ce1fa4bf683d82eedd02f213b3e // 2016-10-25 (NUKEMDAVE ips)
+  mhkfile  "maphacks/worldtour/E5L2_worldtour.mhk"
 }
 
 mapinfo {
-   maptitle "Bloody Hell"
-   mapfile  "E5L3.map"
-   //author "Richard Bailey Gray (The Levelord)"
-   mapmd4   b4a0bc6de0e30ae0765c99c7cd5035e3 // 2016-09-23 (World Tour)
-   mapmd4   1f95463441f5bcfc722ade02f30cd8eb // 2016-10-27 (NUKEMDAVE ips)
-   mhkfile  "maphacks/worldtour/E5L3_worldtour.mhk"
+  maptitle "Bloody Hell"
+  //author "Richard Bailey Gray (The Levelord)"
+  mapfile  "E5L3.map"
+  mapmd4   b4a0bc6de0e30ae0765c99c7cd5035e3 // 2016-09-23 (World Tour)
+  mapmd4   1f95463441f5bcfc722ade02f30cd8eb // 2016-10-27 (NUKEMDAVE ips)
+  mhkfile  "maphacks/worldtour/E5L3_worldtour.mhk"
 }
 mapinfo {
-   maptitle "Mirage Barrage"
-   mapfile  "E5L4.map"
-   //author "Allen H. Blum III"
-   mapmd4   b97f041bb2e586e4cbec6672e4c9f4d7 // 2016-09-23 (World Tour)
-   mapmd4   31234932c234e95c2b2a9a4c22a71404 // 2016-10-26 (NUKEMDAVE ips)
-   mhkfile  "maphacks/worldtour/E5L4_worldtour.mhk"
+  maptitle "Mirage Barrage"
+  //author "Allen H. Blum III"
+  mapfile  "E5L4.map"
+  mapmd4   b97f041bb2e586e4cbec6672e4c9f4d7 // 2016-09-23 (World Tour)
+  mapmd4   31234932c234e95c2b2a9a4c22a71404 // 2016-10-26 (NUKEMDAVE ips)
+  mhkfile  "maphacks/worldtour/E5L4_worldtour.mhk"
 }
 mapinfo {
-   maptitle "Tour de Nukem"
-   mapfile  "E5L5.map"
-   //author "Richard Bailey Gray (The Levelord)"
-   mapmd4   6e5fd1940f56afe2568b8d3a1df05f49 // 2016-09-23 (World Tour)
-   mapmd4   d5413d40f248e824f7a6a6e3aacc36c9 // 2016-10-26 (NUKEMDAVE ips)
-   mhkfile  "maphacks/worldtour/E5L5_worldtour.mhk"
+  maptitle "Tour de Nukem"
+  //author "Richard Bailey Gray (The Levelord)"
+  mapfile  "E5L5.map"
+  mapmd4   6e5fd1940f56afe2568b8d3a1df05f49 // 2016-09-23 (World Tour)
+  mapmd4   d5413d40f248e824f7a6a6e3aacc36c9 // 2016-10-26 (NUKEMDAVE ips)
+  mhkfile  "maphacks/worldtour/E5L5_worldtour.mhk"
 }
 mapinfo {
-   maptitle "Golden Carnage"
-   mapfile  "E5L6.map"
-   //author "Allen H. Blum III"
-   mapmd4   3356233dd9a37d897ee9110d52719a75 // 2016-09-23 (World Tour)
-   mapmd4   c4427d6be58a48c05c509f93836ed31f // 2016-10-26 (NUKEMDAVE ips)
-   mhkfile  "maphacks/worldtour/E5L6_worldtour.mhk"
+  maptitle "Golden Carnage"
+  //author "Allen H. Blum III"
+  mapfile  "E5L6.map"
+  mapmd4   3356233dd9a37d897ee9110d52719a75 // 2016-09-23 (World Tour)
+  mapmd4   c4427d6be58a48c05c509f93836ed31f // 2016-10-26 (NUKEMDAVE ips)
+  mhkfile  "maphacks/worldtour/E5L6_worldtour.mhk"
 }
 mapinfo {
-   maptitle "Hollywood Inferno"
-   mapfile  "E5L7.map"
-   //author "Allen H. Blum III"
-   mapmd4   6af5bd9299cedcda186924e6eacaa5b1 // 2016-09-23 (World Tour)
-   mapmd4   a11dab8960869cd17b4aa404e1c8df88 // 2016-10-26 (NUKEMDAVE ips)
-   mhkfile  "maphacks/worldtour/E5L7_worldtour.mhk"
+  maptitle "Hollywood Inferno"
+  //author "Allen H. Blum III"
+  mapfile  "E5L7.map"
+  mapmd4   6af5bd9299cedcda186924e6eacaa5b1 // 2016-09-23 (World Tour)
+  mapmd4   a11dab8960869cd17b4aa404e1c8df88 // 2016-10-26 (NUKEMDAVE ips)
+  mhkfile  "maphacks/worldtour/E5L7_worldtour.mhk"
 }
 mapinfo {
-   maptitle "Prima Arena"
-   mapfile  "E5L8.map"
-   //author "Richard Bailey Gray (The Levelord)"
-   mapmd4   698c0917d670155441c40e8b6918a426 // 2016-09-23 (World Tour b351)
-   mapmd4   19fab089bd7dc6d79ff688e87ebf0865 // 2016-10-25 (b351, NUKEMDAVE ips)
-   mhkfile  "maphacks/worldtour/E5L8_worldtour-old.mhk"
+  maptitle "Prima Arena"
+  //author "Richard Bailey Gray (The Levelord)"
+  mapfile  "E5L8.map"
+  mapmd4   698c0917d670155441c40e8b6918a426 // 2016-09-23 (World Tour b351)
+  mapmd4   19fab089bd7dc6d79ff688e87ebf0865 // 2016-10-25 (b351, NUKEMDAVE ips)
+  mhkfile  "maphacks/worldtour/E5L8_worldtour-old.mhk"
 }
 mapinfo {
-   maptitle "Prima Arena"
-   mapfile  "E5L8.map"
-   //author "Richard Bailey Gray (The Levelord)"
-   mapmd4   e8ddfa0c3d210135d3f27fd5ed430d1e // 2016-10-26 (World Tour b386)
- //mapmd4   aa699002bcb0a4138db0c1c1e734c29a // 2016-10-25 (b386, NUKEMDAVE ips)
-   mhkfile  "maphacks/worldtour/E5L8_worldtour.mhk"
+  maptitle "Prima Arena"
+  //author "Richard Bailey Gray (The Levelord)"
+  mapfile  "E5L8.map"
+  mapmd4   e8ddfa0c3d210135d3f27fd5ed430d1e // 2016-10-26 (World Tour b386)
+  //mapmd4 aa699002bcb0a4138db0c1c1e734c29a // 2016-10-25 (b386, NUKEMDAVE ips)
+  mhkfile  "maphacks/worldtour/E5L8_worldtour.mhk"
 }

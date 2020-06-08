@@ -1,8 +1,8 @@
 // Maphacks for Duke: Nuclear Winter HRP
 
 // Title    : Santa's Corporate HQ
-// Filename : E2L4.MAP
 // Author   : Simply Silly Software
+// Filename : E2L4.MAP
 // mapmd4   : 26c354978e28448d5b50c519a4ecedc2 // 2014-02-20 (Megaton)
 
 
@@ -10,15 +10,15 @@
 //         <-> nwl4-megaton.mhk
 //         <-> nwl4-r24.mhk
 
-// Curr. HRP: r5.3.573
+// Curr. HRP: r5.4.726
 
 // / 26-474 / 517-549
 sprite   474 angoff    -512        // tile0028 shotgunsprite
 sprite   522 angoff    -384        // tile0052 sixpack (multiplayer)
 sprite    58 angoff    -512        // tile0049 shotgunammo
 sprite    57 angoff    -384        // tile0041 batteryammo
-sprite    33 mdzoff     300000     // tile0052 sixpack
 sprite    33 pitch      1          // tile0052 sixpack
+sprite    33 mdzoff     300000     // tile0052 sixpack
 sprite    50 angoff    -128        // tile0052 sixpack
 sprite    34 angoff    -256        // tile0052 sixpack
 sprite    35 angoff    -256        // tile0052 sixpack
@@ -26,21 +26,21 @@ sprite    49 angoff    -512        // tile0052 sixpack
 sprite    51 angoff    -640        // tile0052 sixpack
 sprite   532 angoff    -512        // tile0040 ammo (multiplayer)
 sprite   533 angoff    -512        // tile0040 ammo (multiplayer)
-sprite    32 mdzoff     900000     // tile0041 batteryammo
 sprite    32 roll       1          // tile0041 batteryammo
+sprite    32 mdzoff     900000     // tile0041 batteryammo
 sprite    31 angoff     768        // tile0049 shotgunammo
 sprite   534 angoff     1024       // tile0040 ammo (multiplayer)
 sprite   535 angoff     256        // tile0040 ammo (multiplayer)
 sprite    48 angoff    -512        // tile0052 sixpack
 sprite    30 angoff    -256        // tile0049 shotgunammo
-sprite    30 mdzoff     700000     // tile0049 shotgunammo
 sprite    30 pitch     -1          // tile0049 shotgunammo
 sprite    30 roll      -1          // tile0049 shotgunammo
+sprite    30 mdzoff     700000     // tile0049 shotgunammo
 sprite    47 angoff    -256        // tile0049 shotgunammo
 sprite    52 angoff    -512        // tile0053 firstaid
 sprite   216 angoff     768        // tile0557 chair2
 sprite   435 angoff    -512        // tile4370 desklamp
-sprite   217 angoff     512        // tile0060 accesscard yellow
+sprite   217 angoff     512        // tile0060 accesscard [yellow]
 sprite   220 angoff    -512        // tile0557 chair2
 sprite   219 angoff    -512        // tile4370 desklamp
 sprite   218 angoff     512        // tile1045 donuts
@@ -48,8 +48,8 @@ sprite    55 angoff     256        // tile0026 heavyhbomb
 sprite   224 angoff     768        // tile0557 chair2
 sprite   225 angoff     64         // tile0557 chair2
 sprite   226 angoff     384        // tile0556 chair1
-sprite   226 mdzoff     300000     // tile0556 chair1
 sprite   226 pitch     -1          // tile0556 chair1
+sprite   226 mdzoff     300000     // tile0556 chair1
 sprite   227 angoff     512        // tile0556 chair1
 sprite   228 angoff     576        // tile0556 chair1
 sprite   229 angoff     1024       // tile0556 chair1
@@ -63,35 +63,35 @@ sprite   258 notmd                 // tile1425 (tile1405 duke)
 sprite   231 notmd                 // tile1425 (tile1405 duke)
 sprite   523 angoff     768        // tile0052 sixpack (multiplayer)
 sprite   197 angoff    -512        // tile0556 chair1
-sprite   197 mdzoff     200000     // tile0556 chair1
 sprite   197 pitch      1          // tile0556 chair1
+sprite   197 mdzoff     200000     // tile0556 chair1
 sprite   434 angoff     512        // tile4370 desklamp
 sprite    80 angoff    -512        // tile0049 shotgunammo
-sprite    80 mdzoff     500000     // tile0049 shotgunammo
 sprite    80 pitch      1          // tile0049 shotgunammo
+sprite    80 mdzoff     500000     // tile0049 shotgunammo
 sprite   543 angoff     768        // tile0044 rpgammo (multiplayer)
-sprite   543 mdzoff     1200000    // tile0044 rpgammo (multiplayer)
 sprite   543 pitch     -1          // tile0044 rpgammo (multiplayer)
+sprite   543 mdzoff     1200000    // tile0044 rpgammo (multiplayer)
 sprite   524 angoff    -896        // tile0052 sixpack (multiplayer)
 sprite   544 angoff     1024       // tile0022 chaingunsprite (multiplayer)
 sprite   545 angoff     1024       // tile0041 batteryammo (multiplayer)
-sprite   374 angoff     0          // tile0060 accesscard blue
+sprite   374 angoff     0          // tile0060 accesscard [blue]
 sprite   526 angoff    -256        // tile0052 sixpack (multiplayer)
 sprite   547 angoff    -256        // tile0028 shotgunsprite (multiplayer)
-sprite    26 mdzoff     1500000    // tile0053 firstaid
 sprite    26 pitch     -1          // tile0053 firstaid
+sprite    26 mdzoff     1500000    // tile0053 firstaid
 sprite   527 angoff     768        // tile0052 sixpack (multiplayer)
 sprite   537 angoff     1024       // tile0040 ammo (multiplayer)
 sprite    36 angoff     512        // tile0042 devistatorammo
-sprite    36 mdxoff     100        // tile0042 devistatorammo
-sprite    36 pitch     -128        // tile0042 devistatorammo
 //sprite    36 pitch     -192        // tile0042 devistatorammo
+sprite    36 pitch     -128        // tile0042 devistatorammo
+sprite    36 mdxoff     100        // tile0042 devistatorammo
 sprite   542 angoff    -512        // tile0042 devistatorammo (multiplayer)
-sprite   542 mdxoff     100        // tile0042 devistatorammo (multiplayer)
 sprite   542 pitch     -128        // tile0042 devistatorammo (multiplayer)
+sprite   542 mdxoff     100        // tile0042 devistatorammo (multiplayer)
 sprite    37 angoff     1024       // tile0047 hbombammo
-sprite    37 mdxoff     120        // tile0047 hbombammo
 sprite    37 pitch     -128        // tile0047 hbombammo
+sprite    37 mdxoff     120        // tile0047 hbombammo
 sprite   528 angoff    -320        // tile0052 sixpack (multiplayer)
 sprite   176 angoff     768        // tile0023 rpgsprite
 sprite   175 angoff     1024       // tile0044 rpgammo
@@ -104,13 +104,13 @@ sprite   529 angoff     256        // tile0052 sixpack (multiplayer)
 sprite   548 angoff     1024       // tile0022 chaingunsprite (multiplayer)
 sprite   517 angoff     1024       // tile0047 hbombammo (multiplayer)
 sprite   541 angoff     1024       // tile0042 devistatorammo (multiplayer)
-sprite   393 angoff    -512        // tile0060 accesscard red
+sprite   393 angoff    -512        // tile0060 accesscard [red]
 sprite    72 angoff     960        // tile0047 hbombammo
+sprite   400 pitch      1          // tile0407 fansprite
 sprite   400 mdxoff     20000      // tile0407 fansprite
 sprite   400 mdzoff     15000      // tile0407 fansprite
-sprite   400 pitch      1          // tile0407 fansprite
 sprite   539 angoff     512        // tile0023 rpgsprite (multiplayer)
 sprite   540 angoff    -768        // tile0044 rpgammo (multiplayer)
 sprite    46 angoff    -512        // tile0049 shotgunammo
-sprite    46 mdzoff     900000     // tile0049 shotgunammo
 sprite    46 roll       1          // tile0049 shotgunammo
+sprite    46 mdzoff     900000     // tile0049 shotgunammo

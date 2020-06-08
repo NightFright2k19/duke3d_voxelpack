@@ -1,13 +1,13 @@
 // Maphacks by NightFright for use with the Duke It Out In D.C. HRP
 
 // Title    : Dread October
-// Filename : DUKEDC8.MAP
 // Author   : Robert Travis
+// Filename : DUKEDC8.MAP
 // mapmd4   : df86273026725e7b92b4ac43138bbda8 // 2014-02-20 (Megaton)
 
 //         <-> DUKEDC8.mhk
 
-// Curr. HRP: r5.3.645
+// Curr. HRP: r5.4.726
 
 // 0-5 / /  7-416 / 508-727
 sprite   119 angoff     256        // tile0049 shotgunammo
@@ -26,45 +26,45 @@ sprite   318 angoff    -128        // tile1247 seenine
 sprite   317 angoff     384        // tile1247 seenine
 sprite   751 angoff    -768        // tile0052 sixpack (multiplayer)
 sprite   279 angoff    -384        // tile0049 shotgunammo
-sprite   279 mdzoff     900000     // tile0049 shotgunammo
 sprite   279 pitch     -1          // tile0049 shotgunammo
-sprite   576 angoff     1024       // tile3769 (dukedc streetlight)
-sprite   590 angoff     1024       // tile3769 (dukedc streetlight)
+sprite   279 mdzoff     900000     // tile0049 shotgunammo
+sprite   576 angoff     1024       // tile3769 [dukedc streetlight]
+sprite   590 angoff     1024       // tile3769 [dukedc streetlight]
 sprite   132 angoff     512        // tile0028 shotgunsprite
-sprite   587 angoff    -512        // tile3769 (dukedc streetlight)
-sprite   584 angoff     512        // tile3769 (dukedc streetlight)
-sprite   586 angoff    -512        // tile3769 (dukedc streetlight)
-sprite   585 angoff     512        // tile3769 (dukedc streetlight)
-sprite   581 angoff    -512        // tile3769 (dukedc streetlight)
-sprite   578 angoff     512        // tile3769 (dukedc streetlight)
-sprite   580 angoff    -512        // tile3769 (dukedc streetlight)
-sprite   579 angoff     512        // tile3769 (dukedc streetlight)
+sprite   587 angoff    -512        // tile3769 [dukedc streetlight]
+sprite   584 angoff     512        // tile3769 [dukedc streetlight]
+sprite   586 angoff    -512        // tile3769 [dukedc streetlight]
+sprite   585 angoff     512        // tile3769 [dukedc streetlight]
+sprite   581 angoff    -512        // tile3769 [dukedc streetlight]
+sprite   578 angoff     512        // tile3769 [dukedc streetlight]
+sprite   580 angoff    -512        // tile3769 [dukedc streetlight]
+sprite   579 angoff     512        // tile3769 [dukedc streetlight]
 sprite   757 angoff     768        // tile0052 sixpack (multiplayer)
 sprite   756 angoff    -768        // tile0052 sixpack (multiplayer)
 sprite   755 angoff     768        // tile0037 freezeammo (multiplayer)
 sprite   527 angoff     256        // tile0479 (satellite dish)
-sprite   527 mdzoff     100000     // tile0479 (satellite dish)
 sprite   527 pitch     -1          // tile0479 (satellite dish)
+sprite   527 mdzoff     100000     // tile0479 (satellite dish)
 sprite   758 angoff     512        // tile0049 shotgunammo (multiplayer)
 sprite    99 angoff    -256        // tile0024 freezesprite
-sprite    99 mdzoff     900000     // tile0024 freezesprite
 sprite    99 pitch     -1          // tile0024 freezesprite
+sprite    99 mdzoff     900000     // tile0024 freezesprite
 sprite   752 angoff     768        // tile0052 sixpack (multiplayer)
-sprite   554 angoff    -512        // tile0060 accesscard yellow
+sprite   554 angoff    -512        // tile0060 accesscard [yellow]
 sprite    89 angoff    -512        // tile0041 batteryammo
 sprite   763 angoff     512        // tile0022 chaingunsprite (multiplayer)
-sprite   763 mdzoff     500000     // tile0022 chaingunsprite (multiplayer)
 sprite   763 roll      -1          // tile0022 chaingunsprite (multiplayer)
+sprite   763 mdzoff     500000     // tile0022 chaingunsprite (multiplayer)
 sprite    84 angoff     256        // tile0059 heatsensor
 sprite    85 angoff     512        // tile0052 sixpack
 sprite    58 angoff    -512        // tile0052 sixpack
 //sprite    59 angoff     1024       // tile0029 devistatorsprite
 sprite     5 angoff    -256        // tile0047 hbombammo
-sprite     5 mdzoff     900000     // tile0047 hbombammo
 sprite     5 pitch     -1          // tile0047 hbombammo
+sprite     5 mdzoff     900000     // tile0047 hbombammo
 sprite    44 angoff    -256        // tile0052 sixpack
-sprite    44 mdzoff     900000     // tile0052 sixpack
 sprite    44 pitch     -1          // tile0052 sixpack
+sprite    44 mdzoff     900000     // tile0052 sixpack
 sprite     4 angoff    -512        // tile0049 shotgunammo
 sprite    43 angoff    -512        // tile0055 steroids
 sprite    41 angoff     384        // tile1768 headjib1
@@ -81,19 +81,19 @@ sprite     2 angoff     512        // tile0044 rpgammo
 sprite   212 angoff     384        // tile0556 chair1
 sprite   210 angoff     512        // tile0556 chair1
 sprite   208 angoff     640        // tile0556 chair1
-sprite   370 angoff     1024       // tile3665 (dukedc potus flag)
-sprite   215 angoff     1024       // tile3664 (dukedc us flag)
+sprite   370 angoff     1024       // tile3665 [dukedc potus flag]
+sprite   215 angoff     1024       // tile3664 [dukedc us flag]
 //sprite     9 angoff     0          // tile0023 rpgsprite
-sprite   557 angoff    -512        // tile0060 accesscard red
-sprite   558 angoff     512        // tile0060 accesscard blue
-sprite   558 mdxoff     5000       // tile0060 accesscard blue
-sprite   558 pitch      1          // tile0060 accesscard blue
+sprite   557 angoff    -512        // tile0060 accesscard [red]
+sprite   558 angoff     512        // tile0060 accesscard [blue]
+sprite   558 pitch      1          // tile0060 accesscard [blue]
+sprite   558 mdxoff     5000       // tile0060 accesscard [blue]
 sprite     0 angoff     1024       // tile0049 shotgunammo
-sprite     0 mdzoff     900000     // tile0049 shotgunammo
 sprite     0 pitch     -1          // tile0049 shotgunammo
+sprite     0 mdzoff     900000     // tile0049 shotgunammo
 sprite    81 angoff     256        // tile0025 shrinkersprite
-sprite    81 mdzoff     300000     // tile0025 shrinkersprite
 sprite    81 roll       1          // tile0025 shrinkersprite
+sprite    81 mdzoff     300000     // tile0025 shrinkersprite
 sprite   766 angoff     256        // tile0046 crystalammo (multiplayer)
 sprite    79 angoff     512        // tile0052 sixpack
 sprite   459 angoff     64         // tile0619 pipe1
@@ -102,8 +102,8 @@ sprite     1 angoff    -512        // tile0042 devistatorammo
 sprite   412 angoff    -896        // tile0695 pot2
 sprite   410 angoff    -128        // tile0694 pot1
 sprite   416 angoff    -512        // tile0691 (cleaver)
-sprite   390 mdzoff     300000     // tile1166 bottle19
 sprite   390 pitch      1          // tile1166 bottle19
+sprite   390 mdzoff     300000     // tile1166 bottle19
 sprite    78 angoff    -512        // tile0052 sixpack
 sprite   395 angoff     1024       // tile1160 bottle13
 sprite   768 angoff     1024       // tile0040 ammo (multiplayer)

@@ -1,8 +1,8 @@
 // Maphacks for Duke: Nuclear Winter HRP
 
 // Title    : Christmas Village
-// Filename : nwl6.map
 // Author   : Simply Silly Software
+// Filename : nwl6.map
 // mapmd4   : 5001c7ee52732ec954fc47c743166530 // 2011-03-22 (NW Plus, r24)
 
 
@@ -10,7 +10,7 @@
 //         <-> nwl6-2014-02-20.mhk
 //         <-> nwl6-megaton.mhk
 
-// Curr. HRP: r5.3.573
+// Curr. HRP: r5.4.726
 
 // 10-497 / 498-601
 sprite   143 notmd                 // tile1056 (tile1055 (film reel))
@@ -23,206 +23,206 @@ sprite   553 angoff     384        // tile0044 rpgammo
 sprite    12 angoff    -768        // tile0022 chaingunsprite (multiplayer)
 sprite   364 angoff     1024       // tile1061 (streetlight)
 sprite   582 angoff    -768        // tile0052 sixpack
-sprite   582 mdzoff     500000     // tile0052 sixpack
 sprite   582 roll       1          // tile0052 sixpack
+sprite   582 mdzoff     500000     // tile0052 sixpack
 sprite   581 angoff     1024       // tile0052 sixpack
 sprite    11 angoff     448        // tile0029 devistatorsprite (multiplayer)
 sprite   601 angoff     576        // tile0042 devistatorammo
 sprite   587 angoff     512        // tile0052 sixpack
-sprite   587 mdzoff     500000     // tile0052 sixpack
 sprite   587 pitch     -1          // tile0052 sixpack
 sprite   587 roll      -1          // tile0052 sixpack
+sprite   587 mdzoff     500000     // tile0052 sixpack
 sprite   588 angoff     768        // tile0049 shotgunammo
-sprite   588 mdzoff     900000     // tile0049 shotgunammo
 sprite   588 pitch     -1          // tile0049 shotgunammo
+sprite   588 mdzoff     900000     // tile0049 shotgunammo
 sprite   586 angoff     1024       // tile0052 sixpack
-sprite   586 mdzoff     250000     // tile0052 sixpack
 sprite   586 pitch     -2          // tile0052 sixpack
+sprite   586 mdzoff     250000     // tile0052 sixpack
 sprite   591 angoff     1024       // tile0041 batteryammo
 sprite   590 angoff     1024       // tile0023 rpgsprite
 sprite   589 angoff     1024       // tile0052 sixpack
 sprite    10 angoff    -512        // tile0044 rpgammo (multiplayer)
 
-sprite   498 angoff     512        // tile0060 accesscard red
+sprite   498 angoff     512        // tile0060 accesscard [red]
 sprite    73 angoff    -384        // tile0052 sixpack
 
 
 
 
 sprite   558 angoff     1024       // tile0051 cola
-sprite   558 mdzoff     700000     // tile0051 cola
 sprite   558 roll      -1          // tile0051 cola
+sprite   558 mdzoff     700000     // tile0051 cola
 sprite   562 angoff     1024       // tile0049 shotgunammo
 sprite   559 angoff     768        // tile0051 cola
 sprite   561 angoff     512        // tile0049 shotgunammo
-sprite   561 mdzoff     500000     // tile0049 shotgunammo
 sprite   561 roll       1          // tile0049 shotgunammo
+sprite   561 mdzoff     500000     // tile0049 shotgunammo
 sprite   560 angoff     512        // tile0051 cola
 
 sprite   599 angoff    -512        // tile0051 cola
-sprite   408 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   408 pitch     -1          // tile0914 maskwall3 (fence)
-sprite   409 mdzoff     200000     // tile0544 (iron bar)
+sprite   408 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   409 pitch      1          // tile0544 (iron bar)
-sprite   413 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   409 mdzoff     200000     // tile0544 (iron bar)
 sprite   413 pitch     -1          // tile0914 maskwall3 (fence)
 sprite   413 roll      -1          // tile0914 maskwall3 (fence)
-sprite   412 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   413 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   412 pitch     -1          // tile0914 maskwall3 (fence)
-sprite   414 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   412 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   414 pitch     -1          // tile0914 maskwall3 (fence)
 sprite   414 roll       1          // tile0914 maskwall3 (fence)
-sprite   410 mdzoff     200000     // tile0544 (iron bar)
+sprite   414 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   410 pitch      1          // tile0544 (iron bar)
-sprite   428 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   410 mdzoff     200000     // tile0544 (iron bar)
 sprite   428 pitch     -1          // tile0914 maskwall3 (fence)
-sprite   427 mdzoff     200000     // tile0544 (iron bar)
+sprite   428 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   427 pitch      1          // tile0544 (iron bar)
-sprite   425 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   427 mdzoff     200000     // tile0544 (iron bar)
 sprite   425 pitch     -1          // tile0914 maskwall3 (fence)
 sprite   425 roll      -1          // tile0914 maskwall3 (fence)
-sprite   424 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   425 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   424 pitch     -1          // tile0914 maskwall3 (fence)
-sprite   415 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   424 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   415 pitch     -1          // tile0914 maskwall3 (fence)
 sprite   415 roll       1          // tile0914 maskwall3 (fence)
-sprite   416 mdzoff     200000     // tile0544 (iron bar)
+sprite   415 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   416 pitch      1          // tile0544 (iron bar)
-sprite   439 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   416 mdzoff     200000     // tile0544 (iron bar)
 sprite   439 pitch     -1          // tile0914 maskwall3 (fence)
-sprite   440 mdzoff     200000     // tile0544 (iron bar)
+sprite   439 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   440 pitch      1          // tile0544 (iron bar)
-sprite   442 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   440 mdzoff     200000     // tile0544 (iron bar)
 sprite   442 pitch     -1          // tile0914 maskwall3 (fence)
 sprite   442 roll      -1          // tile0914 maskwall3 (fence)
-sprite   443 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   442 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   443 pitch     -1          // tile0914 maskwall3 (fence)
-sprite   430 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   443 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   430 pitch     -1          // tile0914 maskwall3 (fence)
 sprite   430 roll       1          // tile0914 maskwall3 (fence)
-sprite   431 mdzoff     200000     // tile0544 (iron bar)
+sprite   430 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   431 pitch      1          // tile0544 (iron bar)
+sprite   431 mdzoff     200000     // tile0544 (iron bar)
 sprite   597 angoff    -128        // tile0051 cola
-sprite   482 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   482 pitch     -1          // tile0914 maskwall3 (fence)
-sprite   481 mdxoff     136000     // tile0544 (iron bar)
-//sprite   481 mdzoff     200000     // tile0544 (iron bar)
+sprite   482 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   481 pitch      1          // tile0544 (iron bar)
 sprite   481 roll       1024       // tile0544 (iron bar)
-sprite   484 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   481 mdxoff     136000     // tile0544 (iron bar)
+//sprite   481 mdzoff     200000     // tile0544 (iron bar)
 sprite   484 pitch     -1          // tile0914 maskwall3 (fence)
 sprite   484 roll       1          // tile0914 maskwall3 (fence)
-sprite   458 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   484 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   458 pitch     -1          // tile0914 maskwall3 (fence)
-sprite   480 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   458 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   480 pitch     -1          // tile0914 maskwall3 (fence)
 sprite   480 roll      -1          // tile0914 maskwall3 (fence)
-sprite   479 mdzoff     200000     // tile0544 (iron bar)
+sprite   480 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   479 pitch      1          // tile0544 (iron bar)
-sprite   469 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   479 mdzoff     200000     // tile0544 (iron bar)
 sprite   469 pitch     -1          // tile0914 maskwall3 (fence)
-sprite   468 mdxoff     136000     // tile0544 (iron bar)
-//sprite   468 mdzoff     200000     // tile0544 (iron bar)
+sprite   469 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   468 pitch      1          // tile0544 (iron bar)
 sprite   468 roll       1024       // tile0544 (iron bar)
-sprite   471 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   468 mdxoff     136000     // tile0544 (iron bar)
+//sprite   468 mdzoff     200000     // tile0544 (iron bar)
 sprite   471 pitch     -1          // tile0914 maskwall3 (fence)
 sprite   471 roll       1          // tile0914 maskwall3 (fence)
-sprite   486 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   471 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   486 pitch     -1          // tile0914 maskwall3 (fence)
-sprite   467 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   486 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   467 pitch     -1          // tile0914 maskwall3 (fence)
 sprite   467 roll      -1          // tile0914 maskwall3 (fence)
-sprite   466 mdzoff     200000     // tile0544 (iron bar)
+sprite   467 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   466 pitch      1          // tile0544 (iron bar)
-sprite   454 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   466 mdzoff     200000     // tile0544 (iron bar)
 sprite   454 pitch     -1          // tile0914 maskwall3 (fence)
-sprite   453 mdxoff     136000     // tile0544 (iron bar)
-//sprite   453 mdzoff     200000     // tile0544 (iron bar)
+sprite   454 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   453 pitch      1          // tile0544 (iron bar)
 sprite   453 roll       1024       // tile0544 (iron bar)
-sprite   456 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   453 mdxoff     136000     // tile0544 (iron bar)
+//sprite   453 mdzoff     200000     // tile0544 (iron bar)
 sprite   456 pitch     -1          // tile0914 maskwall3 (fence)
 sprite   456 roll       1          // tile0914 maskwall3 (fence)
-sprite   488 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   456 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   488 pitch     -1          // tile0914 maskwall3 (fence)
-sprite   452 mdzoff     33000      // tile0914 maskwall3 (fence)
+sprite   488 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   452 pitch     -1          // tile0914 maskwall3 (fence)
 sprite   452 roll      -1          // tile0914 maskwall3 (fence)
-sprite   451 mdzoff     200000     // tile0544 (iron bar)
+sprite   452 mdzoff     33000      // tile0914 maskwall3 (fence)
 sprite   451 pitch      1          // tile0544 (iron bar)
+sprite   451 mdzoff     200000     // tile0544 (iron bar)
 sprite   598 angoff     512        // tile0051 cola
 sprite   563 angoff     256        // tile0049 shotgunammo
-sprite   564 mdzoff     300000     // tile0047 hbombammo
 sprite   564 pitch     -5          // tile0047 hbombammo
 sprite   564 roll       1          // tile0047 hbombammo
-sprite   499 angoff     0          // tile0060 accesscard blue
+sprite   564 mdzoff     300000     // tile0047 hbombammo
 
+sprite   499 angoff     0          // tile0060 accesscard [blue]
 sprite   593 angoff    -256        // tile0028 shotgunsprite
 sprite   592 angoff     768        // tile0052 sixpack
-sprite   592 mdzoff     1200000    // tile0052 sixpack
 sprite   592 pitch     -1          // tile0052 sixpack
+sprite   592 mdzoff     1200000    // tile0052 sixpack
 
-sprite    75 mdzoff     900000     // tile0049 shotgunammo
 sprite    75 roll       1          // tile0049 shotgunammo
+sprite    75 mdzoff     900000     // tile0049 shotgunammo
 sprite   208 angoff     1024       // tile4413 mailbag
-sprite   208 mdzoff     200000     // tile4413 mailbag
 sprite   208 pitch     -1          // tile4413 mailbag
 sprite   208 roll      -1          // tile4413 mailbag
+sprite   208 mdzoff     200000     // tile4413 mailbag
 sprite   211 angoff     1024       // tile4413 mailbag
 sprite   209 angoff     1024       // tile4413 mailbag
-sprite   209 mdzoff     200000     // tile4413 mailbag
 sprite   209 pitch      1          // tile4413 mailbag
+sprite   209 mdzoff     200000     // tile4413 mailbag
 sprite   210 angoff     1024       // tile4413 mailbag
 sprite   207 angoff     1024       // tile4413 mailbag
 sprite   212 angoff     1024       // tile4413 mailbag
-sprite   212 mdzoff     200000     // tile4413 mailbag
 sprite   212 pitch     -1          // tile4413 mailbag
+sprite   212 mdzoff     200000     // tile4413 mailbag
 sprite   213 angoff     1024       // tile4413 mailbag
 sprite   216 angoff     1024       // tile4413 mailbag
-sprite   216 mdzoff     300000     // tile4413 mailbag
 sprite   216 roll      -1          // tile4413 mailbag
+sprite   216 mdzoff     300000     // tile4413 mailbag
 sprite   214 angoff     1024       // tile4413 mailbag
 sprite   215 angoff     1024       // tile4413 mailbag
 sprite    76 angoff     1024       // tile0044 rpgammo
-sprite    76 mdzoff     600000     // tile0044 rpgammo
 sprite    76 pitch     -1          // tile0044 rpgammo
 sprite    76 roll       1          // tile0044 rpgammo
-sprite   201 mdzoff     200000     // tile4413 mailbag
+sprite    76 mdzoff     600000     // tile0044 rpgammo
 sprite   201 roll       1          // tile4413 mailbag
-sprite   202 mdzoff     200000     // tile4413 mailbag
+sprite   201 mdzoff     200000     // tile4413 mailbag
 sprite   202 roll      -1          // tile4413 mailbag
+sprite   202 mdzoff     200000     // tile4413 mailbag
 sprite   217 angoff     0          // tile4413 mailbag
 sprite   200 angoff     0          // tile4413 mailbag
-sprite   203 mdzoff     200000     // tile4413 mailbag
 sprite   203 pitch     -1          // tile4413 mailbag
+sprite   203 mdzoff     200000     // tile4413 mailbag
 sprite   204 angoff     0          // tile4413 mailbag
 sprite   199 angoff     0          // tile4413 mailbag
-sprite   206 mdzoff     500000     // tile4413 mailbag
 sprite   206 pitch      1          // tile4413 mailbag
+sprite   206 mdzoff     500000     // tile4413 mailbag
 sprite   205 angoff     0          // tile4413 mailbag
 sprite    78 angoff     1024       // tile0052 sixpack
 sprite    79 angoff     1024       // tile0052 sixpack
 sprite    77 angoff     768        // tile0052 sixpack
 sprite   198 angoff     512        // tile4413 mailbag
-//sprite   --- angoff     0          // tile0060 accesscard red
-sprite   147 mdzoff     500000     // tile3786 (nwinter present)
-sprite   147 pitch     -1          // tile3786 (nwinter present)
-sprite   148 mdzoff     200000     // tile3782 (nwinter present)
-sprite   148 roll      -1          // tile3782 (nwinter present)
-sprite   146 mdzoff     700000     // tile3786 (nwinter present)
-sprite   146 roll      -1          // tile3786 (nwinter present)
+//sprite   --- angoff     0          // tile0060 accesscard [red]
+sprite   147 pitch     -1          // tile3786 [nwinter present]
+sprite   147 mdzoff     500000     // tile3786 [nwinter present]
+sprite   148 roll      -1          // tile3782 [nwinter present]
+sprite   148 mdzoff     200000     // tile3782 [nwinter present]
+sprite   146 roll      -1          // tile3786 [nwinter present]
+sprite   146 mdzoff     700000     // tile3786 [nwinter present]
 sprite   514 angoff    -384        // tile1160 bottle13
 sprite   517 angoff    -512        // tile1160 bottle13
 sprite   516 angoff    -768        // tile1160 bottle13
 sprite   515 angoff    -512        // tile1160 bottle13
-sprite   515 mdzoff     200000     // tile1160 bottle13
 sprite   515 roll      -1          // tile1160 bottle13
-sprite   518 mdzoff     300000     // tile1163 bottle16
+sprite   515 mdzoff     200000     // tile1160 bottle13
 sprite   518 pitch     -1          // tile1163 bottle16
+sprite   518 mdzoff     300000     // tile1163 bottle16
 sprite   519 angoff     512        // tile1163 bottle16
-sprite   519 mdzoff     200000     // tile1163 bottle16
 sprite   519 pitch      1          // tile1163 bottle16
+sprite   519 mdzoff     200000     // tile1163 bottle16
 sprite   523 angoff     1024       // tile1165 bottle18
 sprite   521 angoff     512        // tile1165 bottle18
 sprite   622 notmd                 // tile0162 dipswitch
@@ -231,17 +231,17 @@ sprite    17 angoff     512        // tile1165 bottle18
 sprite    18 angoff     512        // tile1165 bottle18
 sprite    19 angoff     512        // tile1165 bottle18
 sprite    20 angoff    -512        // tile1165 bottle18
-sprite    20 mdzoff     500000     // tile1165 bottle18
 sprite    20 roll      -1          // tile1165 bottle18
+sprite    20 mdzoff     500000     // tile1165 bottle18
 sprite   507 angoff     1024       // tile4400 teddybear
 
-sprite   503 mdzoff     500000     // tile4370 desklamp
 sprite   503 roll      -1          // tile4370 desklamp
+sprite   503 mdzoff     500000     // tile4370 desklamp
 
 
 
 
-sprite   545 angoff     512        // tile0060 accesscard yellow
+sprite   545 angoff     512        // tile0060 accesscard [yellow]
 sprite   555 angoff     256        // tile0052 sixpack
 sprite   554 angoff     768        // tile0052 sixpack
 

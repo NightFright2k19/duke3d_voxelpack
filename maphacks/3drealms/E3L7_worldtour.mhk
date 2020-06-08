@@ -1,13 +1,13 @@
 // Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
 
 // Title    : Fahrenheit
-// Filename : E3L7.map
 // Author   : Richard Bailey Gray (The Levelord)
+// Filename : E3L7.map
 // mapmd4   : 3fa1edb6e1d096520d5ac1d744399972 // 2016-09-23 (World Tour)
 
 //         <-> E3L7_polymost.mhk
 
-// Curr. HRP: r5.3.662
+// Curr. HRP: r5.4.726
 
 // 0-35 | 38-204 | | 237-348 | 356-438
 sprite   397 angoff     192        // tile0052 sixpack
@@ -19,20 +19,20 @@ sprite   346 angoff    -128        // tile1232 canwithsomething
 sprite   348 angoff    -128        // tile1232 canwithsomething
 sprite   173 angoff     256        // tile0052 sixpack
 sprite   200 angoff    -512        // tile0049 shotgunammo
-sprite   200 mdzoff     1200000    // tile0049 shotgunammo
 sprite   200 pitch     -1          // tile0049 shotgunammo
+sprite   200 mdzoff     1200000    // tile0049 shotgunammo
 sprite    35 angoff     640        // tile0051 cola
-sprite    35 mdzoff     400000     // tile0051 cola
 sprite    35 pitch     -1          // tile0051 cola
+sprite    35 mdzoff     400000     // tile0051 cola
 sprite    34 angoff     896        // tile0051 cola
 sprite   265 angoff     1024       // tile0047 hbombammo
-sprite   265 mdzoff     900000     // tile0047 hbombammo
 sprite   265 pitch     -1          // tile0047 hbombammo
+sprite   265 mdzoff     900000     // tile0047 hbombammo
 sprite    38 angoff     1024       // tile0028 shotgunsprite
 sprite   341 angoff     1024       // tile0025 shrinkersprite
 sprite   419 angoff    -768        // tile0049 shotgunammo
 sprite   418 angoff     512        // tile0053 firstaid
-sprite   133 angoff     1024       // tile0060 accesscard blue
+sprite   133 angoff     1024       // tile0060 accesscard [blue]
 sprite   201 angoff    -768        // tile0054 shield
 sprite    45 angoff    -512        // tile0040 ammo
 // mhk diff sync 1
@@ -40,12 +40,12 @@ sprite   192 angoff    -896        // tile0052 sixpack
 sprite   107 angoff    -640        // tile0040 ammo
 sprite   202 angoff     512        // tile0057 jetpack (multiplayer)
 sprite   191 angoff     512        // tile0053 firstaid
-sprite   191 mdzoff     600000     // tile0053 firstaid
 sprite   191 roll       1          // tile0053 firstaid
+sprite   191 mdzoff     600000     // tile0053 firstaid
 sprite   345 angoff    -256        // tile0027 tripbombsprite
-sprite   333 mdzoff     300000     // tile1025 bottle7 (plant)
 sprite   333 pitch     -2          // tile1025 bottle7 (plant)
 sprite   333 roll      -1          // tile1025 bottle7 (plant)
+sprite   333 mdzoff     300000     // tile1025 bottle7 (plant)
 sprite   306 notmd                 // tile0745 (wooden board)
 sprite   307 notmd                 // tile0745 (wooden board)
 sprite   329 angoff     1024       // tile1165 bottle18
@@ -72,43 +72,43 @@ sprite    40 angoff    -768        // tile0046 crystalammo
 sprite    39 angoff    -768        // tile0046 crystalammo
 sprite   108 angoff    -512        // tile0049 shotgunammo
 sprite   109 angoff    -256        // tile0041 batteryammo
-sprite   428 angoff    -512        // tile0060 accesscard yellow
+sprite   428 angoff    -512        // tile0060 accesscard [yellow]
 sprite   203 angoff     384        // tile1232 canwithsomething
 sprite   190 angoff     1024       // tile0052 sixpack
 sprite   204 angoff     896        // tile1232 canwithsomething
 sprite   362 angoff     1024       // tile0563 waterfountain
-sprite   362 mdzoff     160000     // tile0563 waterfountain
 sprite   362 pitch     -1          // tile0563 waterfountain
+sprite   362 mdzoff     160000     // tile0563 waterfountain
 sprite   238 angoff    -576        // tile0685 cameralight
 sprite   241 angoff    -192        // tile0685 cameralight
 sprite   343 angoff     512        // tile0041 batteryammo
-sprite   242 mdzoff     500000     // tile0908 tree1
 sprite   242 pitch      1          // tile0908 tree1
 sprite   242 roll       1          // tile0908 tree1
-sprite   240 mdzoff     500000     // tile0556 chair1
+sprite   242 mdzoff     500000     // tile0908 tree1
 sprite   240 pitch      1          // tile0556 chair1
 sprite   240 roll      -2          // tile0556 chair1
+sprite   240 mdzoff     500000     // tile0556 chair1
 // mhk diff sync 2
 sprite   357 angoff     1024       // tile0037 freezeammo
 sprite   358 angoff     1024       // tile0037 freezeammo
 sprite   296 angoff    -256        // tile0022 chaingunsprite
 sprite   244 angoff    -896        // tile0762 mike
-sprite   237 mdzoff     500000     // tile0556 chair1
 sprite   237 pitch      2          // tile0556 chair1
 sprite   237 roll      -1          // tile0556 chair1
-sprite   243 mdzoff     500000     // tile0910 tree2
+sprite   237 mdzoff     500000     // tile0556 chair1
 sprite   243 roll       1          // tile0910 tree2
+sprite   243 mdzoff     500000     // tile0910 tree2
 sprite   137 angoff    -896        // tile0685 cameralight
 sprite   239 angoff    -128        // tile0686 moviecamera
-sprite   239 mdzoff     400000     // tile0686 moviecamera
 sprite   239 pitch      1          // tile0686 moviecamera
+sprite   239 mdzoff     400000     // tile0686 moviecamera
 sprite   344 angoff    -256        // tile0027 tripbombsprite
 sprite   291 angoff    -256        // tile0029 devistatorsprite
-sprite   291 mdzoff     700000     // tile0029 devistatorsprite
 sprite   291 pitch     -1          // tile0029 devistatorsprite
+sprite   291 mdzoff     700000     // tile0029 devistatorsprite
 sprite    76 angoff     512        // tile0057 jetpack (multiplayer)
-sprite   292 angoff    -512        // tile0060 accesscard red
-sprite   143 angoff    -384        // tile0607 antenna
+sprite   292 angoff    -512        // tile0060 accesscard [red]
+sprite   143 angoff    -384        // tile0607 antenna (VP edit)
 sprite   297 angoff     256        // tile0042 devistatorammo
 sprite   427 angoff    -128        // tile0028 shotgunsprite
 sprite   364 angoff     1024       // tile0023 rpgsprite

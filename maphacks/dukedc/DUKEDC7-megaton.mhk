@@ -1,30 +1,30 @@
 // Maphacks by NightFright for use with the Duke It Out In D.C. HRP
 
 // Title    : Brown Water
-// Filename : DUKEDC7.MAP
 // Author   : Shawn Swift
+// Filename : DUKEDC7.MAP
 // mapmd4   : 47e77edad105f7363650f462e8fa7166 // 2014-02-20 (Megaton)
 // mapmd4   : 4980480b9f7eecae4d43bccee56ae65d // 2014-11-07 (Megaton)
 
 //         <-> DUKEDC7.mhk
 
-// Curr. HRP: r5.3.645
+// Curr. HRP: r5.4.726
 
 // 21-88 /  / 124-548
 sprite   176 angoff     512        // tile0028 shotgunsprite
 sprite   174 angoff     256        // tile0049 shotgunammo
 sprite   175 angoff     768        // tile0052 sixpack
 sprite   142 angoff    -512        // tile0041 batteryammo
-sprite   142 mdzoff     500000     // tile0041 batteryammo
 sprite   142 roll      -1          // tile0041 batteryammo
+sprite   142 mdzoff     500000     // tile0041 batteryammo
 sprite   147 angoff     1024       // tile0049 shotgunammo
 sprite   146 angoff    -768        // tile0049 shotgunammo
 sprite   363 angoff    -768        // tile1227 nukebarrel
 sprite   364 angoff     896        // tile1227 nukebarrel
 sprite   365 angoff     512        // tile1227 nukebarrel
 sprite   145 angoff    -128        // tile0049 shotgunammo
-sprite   145 mdzoff     500000     // tile0049 shotgunammo
 sprite   145 pitch     -1          // tile0049 shotgunammo
+sprite   145 mdzoff     500000     // tile0049 shotgunammo
 sprite   548 angoff    -128        // tile0052 sixpack
 sprite   124 angoff    -256        // tile1348 holoduke
 sprite   602 angoff    -640        // tile0054 shield (multiplayer)
@@ -41,7 +41,7 @@ sprite   143 angoff     768        // tile1238 explodingbarrel
 sprite   192 angoff    -196        // tile1238 explodingbarrel
 sprite   193 angoff     512        // tile0994 pipe5
 sprite   189 angoff    -768        // tile0022 chaingunsprite
-sprite   190 angoff    -256        // tile0060 accesscard blue
+sprite   190 angoff    -256        // tile0060 accesscard [blue]
 sprite    88 angoff     768        // tile0618 pipe3
 sprite    70 angoff     512        // tile0052 sixpack
 sprite   600 angoff    -512        // tile0044 rpgammo (multiplayer)
@@ -62,8 +62,8 @@ sprite   592 angoff     512        // tile0040 ammo (multiplayer)
 sprite   593 angoff     512        // tile0040 ammo (multiplayer)
 sprite   570 angoff     768        // tile0052 sixpack (multiplayer)
 sprite   442 angoff     512        // tile0054 shield
-sprite   442 mdzoff     900000     // tile0054 shield
 sprite   442 pitch     -1          // tile0054 shield
+sprite   442 mdzoff     900000     // tile0054 shield
 sprite   588 angoff     1024       // tile0028 shotgunsprite (multiplayer)
 sprite   138 angoff     256        // tile0044 rpgammo
 sprite   594 angoff    -512        // tile0040 ammo (multiplayer)
@@ -74,24 +74,24 @@ sprite   589 angoff     1024       // tile0022 chaingunsprite (multiplayer)
 sprite   584 angoff     512        // tile0061 boots (multiplayer)
 sprite   141 angoff    -512        // tile0041 batteryammo
 sprite   140 angoff    -512        // tile0052 sixpack
-sprite   140 mdzoff     600000     // tile0052 sixpack
 sprite   140 pitch     -1          // tile0052 sixpack
+sprite   140 mdzoff     600000     // tile0052 sixpack
 sprite   581 angoff     512        // tile0055 steroids (multiplayer)
 sprite   590 angoff     512        // tile0049 shotgunammo (multiplayer)
-sprite   236 angoff     512        // tile0060 accesscard red
+sprite   236 angoff     512        // tile0060 accesscard [red]
 sprite   243 angoff    -512        // tile1045 donuts
 sprite   243 pitch     -140        // tile1045 donuts
 sprite   242 angoff    -384        // tile0557 chair2
 sprite   241 angoff     768        // tile0556 chair1
 sprite   240 angoff    -512        // tile0557 chair2
 sprite   586 angoff     1024       // tile0049 shotgunammo (multiplayer)
-sprite   586 mdzoff     900000     // tile0049 shotgunammo (multiplayer)
 sprite   586 pitch     -1          // tile0049 shotgunammo (multiplayer)
+sprite   586 mdzoff     900000     // tile0049 shotgunammo (multiplayer)
 sprite   441 angoff     128        // tile0053 firstaid
-sprite   331 angoff    -768        // tile0060 accesscard yellow
-sprite   331 mdyoff     26500      // tile0060 accesscard yellow
-sprite   331 pitch      3          // tile0060 accesscard yellow
-sprite   331 roll       1          // tile0060 accesscard yellow
+sprite   331 angoff    -768        // tile0060 accesscard [yellow]
+sprite   331 pitch      3          // tile0060 accesscard [yellow]
+sprite   331 roll       1          // tile0060 accesscard [yellow]
+sprite   331 mdyoff     26500      // tile0060 accesscard [yellow]
 sprite   439 angoff     256        // tile0025 shrinkersprite
 sprite   608 angoff     1024       // tile0046 crystalammo (multiplayer)
 sprite   609 angoff     1024       // tile0046 crystalammo (multiplayer)
@@ -104,22 +104,22 @@ sprite    25 angoff     512        // tile0049 shotgunammo
 sprite    26 angoff     512        // tile0054 shield
 sprite   210 angoff    -768        // tile0047 hbombammo
 sprite   445 angoff     512        // tile0052 sixpack
-sprite   221 mdzoff     20000      // tile0574 (tile0670 (faucet))
 sprite   221 pitch     -4          // tile0574 (tile0670 (faucet))
 sprite   221 roll       3          // tile0574 (tile0670 (faucet))
+sprite   221 mdzoff     20000      // tile0574 (tile0670 (faucet))
 sprite   607 angoff     768        // tile0055 steroids (multiplayer)
-sprite   291 mdzoff     95000      // tile0563 waterfountain
 sprite   291 pitch     -1          // tile0563 waterfountain
+sprite   291 mdzoff     95000      // tile0563 waterfountain
 sprite   440 angoff     768        // tile0052 sixpack
 sprite   298 angoff     1024       // tile0557 chair2
 sprite   299 angoff     896        // tile0557 chair2
 sprite   297 angoff    -128        // tile1045 donuts
-sprite   294 angoff    -128        // tile3649 (dukedc deskphone)
-sprite   296 mdxoff     20000      // tile3664 (dukedc us flag)
-sprite   296 pitch     -1          // tile3664 (dukedc us flag)
-sprite   295 angoff     1024       // tile3665 (dukedc potus flag)
-sprite   295 mdxoff     20000      // tile3665 (dukedc potus flag)
-sprite   295 pitch     -1          // tile3665 (dukedc potus flag)
+sprite   294 angoff    -128        // tile3649 [dukedc deskphone]
+sprite   296 pitch     -1          // tile3664 [dukedc us flag]
+sprite   296 mdxoff     20000      // tile3664 [dukedc us flag]
+sprite   295 angoff     1024       // tile3665 [dukedc potus flag]
+sprite   295 pitch     -1          // tile3665 [dukedc potus flag]
+sprite   295 mdxoff     20000      // tile3665 [dukedc potus flag]
 sprite   126 angoff    -512        // tile0029 devistatorsprite
 sprite   606 angoff     1024       // tile0022 chaingunsprite (multiplayer)
 sprite   604 angoff    -320        // tile0042 devistatorammo (multiplayer)

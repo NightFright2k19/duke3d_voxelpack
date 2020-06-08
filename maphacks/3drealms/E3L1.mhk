@@ -1,13 +1,13 @@
 // Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
 
 // Title    : Raw Meat
-// Filename : E3L1.MAP
 // Author   : Richard Bailey Gray (The Levelord)
+// Filename : E3L1.MAP
 // mapmd4   : bf886fce1a2aa54ae2bcac5e9cdd727b // 1996-12-11 (1.3D + Atomic GRP)
 
 //         <-> E3L1_worldtour.mhk
 
-// Curr. HRP: r5.3.661
+// Curr. HRP: r5.4.726
 
 // 0-509 / 524-601 / 606-680
 sprite   608 angoff     512        // tile0029 devistatorsprite
@@ -27,17 +27,17 @@ sprite   578 angoff    -768        // tile0051 cola
 sprite   468 angoff     384        // tile0716 waittobeseated
 sprite   482 angoff    -256        // tile0753 statue (geisha)
 sprite    89 angoff    -768        // tile0049 shotgunammo
-sprite    89 mdzoff     700000     // tile0049 shotgunammo
 sprite    89 pitch     -1          // tile0049 shotgunammo
 sprite    89 roll       1          // tile0049 shotgunammo
+sprite    89 mdzoff     700000     // tile0049 shotgunammo
 sprite   664 angoff    -512        // tile0051 cola
 sprite   492 angoff     512        // tile0028 shotgunsprite
-sprite   221 mdzoff     150000     // tile0957 bottle4 (cocktail glass)
 sprite   221 pitch     -1          // tile0957 bottle4 (cocktail glass)
 sprite   221 roll       1          // tile0957 bottle4 (cocktail glass)
-sprite   220 mdzoff     200000     // tile0697 pot3
+sprite   221 mdzoff     150000     // tile0957 bottle4 (cocktail glass)
 sprite   220 pitch      1          // tile0697 pot3
 sprite   220 roll      -1          // tile0697 pot3
+sprite   220 mdzoff     200000     // tile0697 pot3
 sprite    78 angoff     1024       // tile0057 jetpack
 sprite   642 notmd                 // tile0132 slotdoor
 sprite   497 angoff     512        // tile0025 shrinkersprite
@@ -45,15 +45,15 @@ sprite   227 angoff    -512        // tile0956 bottle3
 sprite   407 angoff     384        // tile0994 pipe5
 sprite   499 angoff    -256        // tile0055 steroids
 sprite   500 angoff    -512        // tile0053 firstaid
-sprite   242 mdzoff     150000     // tile0957 bottle4 (cocktail glass)
 sprite   242 pitch     -1          // tile0957 bottle4 (cocktail glass)
 sprite   242 roll       1          // tile0957 bottle4 (cocktail glass)
-sprite   243 mdzoff     200000     // tile0697 pot3
+sprite   242 mdzoff     150000     // tile0957 bottle4 (cocktail glass)
 sprite   243 pitch      2          // tile0697 pot3
 sprite   243 roll      -1          // tile0697 pot3
+sprite   243 mdzoff     200000     // tile0697 pot3
 sprite   575 angoff    -512        // tile0022 chaingunsprite (multiplayer)
-sprite   575 mdzoff    -660000     // tile0022 chaingunsprite (multiplayer)
 sprite   575 pitch      1          // tile0022 chaingunsprite (multiplayer)
+sprite   575 mdzoff    -660000     // tile0022 chaingunsprite (multiplayer)
 sprite    30 angoff    -512        // tile0052 sixpack
 sprite   640 angoff    -128        // tile0046 crystalammo
 sprite    31 angoff    -256        // tile0052 sixpack
@@ -61,15 +61,15 @@ sprite   656 angoff    -256        // tile0059 heatsensor
 sprite   119 angoff    -512        // tile0753 statue (geisha)
 sprite   612 angoff    -512        // tile0041 batteryammo
 sprite   104 angoff     384        // tile1334 fem6 padbabe
-sprite   104 mdxoff    -13000      // tile1334 fem6 padbabe
 sprite   104 pitch      1          // tile1334 fem6 padbabe
+sprite   104 mdxoff    -13000      // tile1334 fem6 padbabe
 sprite   439 angoff     512        // tile1079 oozfilter
 sprite   436 angoff    -384        // tile1079 oozfilter
 sprite   429 angoff     256        // tile1323 fem5 polebabe
 sprite   432 angoff    -640        // tile1079 oozfilter
 sprite   437 angoff    -896        // tile1079 oozfilter
-sprite    87 angoff     768        // tile0603 naked1 hangbabe // Polymer HRP
-//sprite    87 angoff    -768        // tile0603 naked1 hangbabe // Polymost HRP
+sprite    87 angoff     768        // tile0603 naked1 hangbabe [Polymer HRP]
+//sprite    87 angoff    -768        // tile0603 naked1 hangbabe [Polymost HRP]
 sprite   442 angoff     1024       // tile1079 oozfilter
 sprite   441 angoff     768        // tile1079 oozfilter
 sprite   261 angoff     512        // tile0044 rpgammo (multiplayer)
@@ -82,20 +82,20 @@ sprite   611 angoff     1024       // tile0049 shotgunammo
 sprite   658 angoff     512        // tile0051 cola
 sprite   657 angoff     1024       // tile0041 batteryammo
 sprite   659 angoff     1024       // tile0051 cola
-sprite   659 mdzoff     400000     // tile0051 cola
 sprite   659 pitch     -1          // tile0051 cola
+sprite   659 mdzoff     400000     // tile0051 cola
 sprite   236 notmd                 // tile0164 dipswitch2
-sprite   452 angoff     512        // tile0060 accesscard blue
+sprite   452 angoff     512        // tile0060 accesscard [blue]
 sprite   554 angoff     1024       // tile0049 shotgunammo
+sprite   554 pitch      256        // tile0049 shotgunammo
 sprite   554 mdxoff     55         // tile0049 shotgunammo
 sprite   554 mdzoff    -2500       // tile0049 shotgunammo
-sprite   554 pitch      256        // tile0049 shotgunammo
 sprite   154 angoff     64         // tile1395 fem7 dancer
-sprite   406 mdxoff     8          // tile0407 fansprite // Polymer HRP
-sprite   406 mdzoff    -4096       // tile0407 fansprite // Polymer HRP
-sprite   406 pitch      1024       // tile0407 fansprite // Polymer HRP
-sprite   524 mdzoff     200000     // tile0023 rpgsprite
+sprite   406 pitch      1024       // tile0407 fansprite [Polymer HRP]
+sprite   406 mdxoff     8          // tile0407 fansprite [Polymer HRP]
+sprite   406 mdzoff    -4096       // tile0407 fansprite [Polymer HRP]
 sprite   524 roll       1          // tile0023 rpgsprite
+sprite   524 mdzoff     200000     // tile0023 rpgsprite
 sprite   284 angoff    -256        // tile1160 bottle13
 sprite   300 angoff     256        // tile0779 sushiplate4 (eye)
 sprite   299 angoff     768        // tile0779 sushiplate4 (eye)
@@ -109,55 +109,55 @@ sprite   146 notmd                 // tile0164 dipswitch2
 sprite   570 angoff     512        // tile0059 heatsensor
 sprite    40 notmd                 // tile0164 dipswitch2
 sprite   625 angoff     512        // tile0041 batteryammo
-sprite   625 mdzoff     200000     // tile0041 batteryammo
 sprite   625 roll       1          // tile0041 batteryammo
+sprite   625 mdzoff     200000     // tile0041 batteryammo
 sprite   623 angoff     512        // tile0041 batteryammo
 sprite   624 angoff     1024       // tile0047 hbombammo
 sprite   569 angoff     512        // tile0027 tripbombsprite
-sprite   157 notmd                 // tile0407 fansprite // Polymer HRP
-sprite   248 angoff     1024       // tile2259 (tile2255 jibs3)
+sprite   157 notmd                 // tile0407 fansprite [Polymer HRP]
+sprite   248 angoff     1024       // tile2259 (tile2255 jibs3 (heart))
 sprite   304 angoff     1024       // tile2264 (tile2260 jibs4)
 sprite   303 angoff     384        // tile2249 (tile2245 jibs1)
-sprite   303 mdzoff     400000     // tile2249 (tile2245 jibs1)
 sprite   303 roll      -1          // tile2249 (tile2245 jibs1)
+sprite   303 mdzoff     400000     // tile2249 (tile2245 jibs1)
 sprite   267 angoff     512        // tile0052 sixpack
 sprite   619 angoff     256        // tile2269 (tile2265 jibs5)
 sprite   533 angoff    -912        // tile2264 (tile2260 jibs4)
-sprite   533 mdzoff     100000     // tile2264 (tile2260 jibs4)
 sprite   533 pitch     -1          // tile2264 (tile2260 jibs4)
 sprite   533 roll      -3          // tile2264 (tile2260 jibs4)
+sprite   533 mdzoff     100000     // tile2264 (tile2260 jibs4)
 sprite   622 angoff     1024       // tile0052 sixpack
 sprite   621 angoff     1024       // tile0049 shotgunammo
 sprite   620 angoff     1024       // tile0037 freezeammo
 sprite   564 angoff     1024       // tile0054 shield
-sprite   564 mdzoff     100000     // tile0054 shield
 sprite   564 pitch      1          // tile0054 shield
+sprite   564 mdzoff     100000     // tile0054 shield
 sprite   562 angoff    -512        // tile0044 rpgammo
 sprite   563 angoff     512        // tile0044 rpgammo
 sprite   567 angoff     1024       // tile0040 ammo
 sprite   545 angoff     256        // tile0052 sixpack
 sprite   546 angoff     256        // tile0052 sixpack
 sprite   678 angoff    -256        // tile0041 batteryammo
-sprite   592 angoff     256        // tile0603 naked1 hangbabe // Polymer HRP
-//sprite   592 angoff     768        // tile0603 naked1 hangbabe // Polymost HRP
-//sprite   592 mdxoff     425000     // tile0603 naked1 hangbabe // Polymost HRP
-//sprite   592 pitch      1          // tile0603 naked1 hangbabe // Polymost HRP
+sprite   592 angoff     256        // tile0603 naked1 hangbabe [Polymer HRP]
+//sprite   592 angoff     768        // tile0603 naked1 hangbabe [Polymost HRP]
+//sprite   592 pitch      1          // tile0603 naked1 hangbabe [Polymost HRP]
+//sprite   592 mdxoff     425000     // tile0603 naked1 hangbabe [Polymost HRP]
 // mhk diff sync 2
 sprite   577 angoff    -512        // tile0053 firstaid (multiplayer)
-sprite   577 mdzoff    -600        // tile0053 firstaid (multiplayer)
 sprite   577 pitch     -512        // tile0053 firstaid (multiplayer)
-sprite   593 angoff     1024       // tile0603 naked1 hangbabe // Polymer HRP
-//sprite   593 angoff    -512        // tile0603 naked1 hangbabe // Polymost HRP
-//sprite   593 mdxoff     425000     // tile0603 naked1 hangbabe // Polymost HRP
-//sprite   593 pitch      1          // tile0603 naked1 hangbabe // Polymost HRP
+sprite   577 mdzoff    -600        // tile0053 firstaid (multiplayer)
+sprite   593 angoff     1024       // tile0603 naked1 hangbabe [Polymer HRP]
+//sprite   593 angoff    -512        // tile0603 naked1 hangbabe [Polymost HRP]
+//sprite   593 pitch      1          // tile0603 naked1 hangbabe [Polymost HRP]
+//sprite   593 mdxoff     425000     // tile0603 naked1 hangbabe [Polymost HRP]
 sprite   679 angoff    -512        // tile0049 shotgunammo
 sprite   680 angoff    -256        // tile0049 shotgunammo
-sprite   591 angoff    -256        // tile0603 naked1 hangbabe // Polymer HRP
-//sprite   591 angoff     256        // tile0603 naked1 hangbabe // Polymost HRP
-//sprite   591 mdxoff     425000     // tile0603 naked1 hangbabe // Polymost HRP
-//sprite   591 pitch      1          // tile0603 naked1 hangbabe // Polymost HRP
+sprite   591 angoff    -256        // tile0603 naked1 hangbabe [Polymer HRP]
+//sprite   591 angoff     256        // tile0603 naked1 hangbabe [Polymost HRP]
+//sprite   591 pitch      1          // tile0603 naked1 hangbabe [Polymost HRP]
+//sprite   591 mdxoff     425000     // tile0603 naked1 hangbabe [Polymost HRP]
 sprite   677 angoff     768        // tile0042 devistatorammo
-sprite   457 angoff     1024       // tile0060 accesscard red
+sprite   457 angoff     1024       // tile0060 accesscard [red]
 sprite   632 angoff     256        // tile0056 airtank
 sprite   574 angoff    -512        // tile0028 shotgunsprite (multiplayer)
 sprite   552 angoff    -512        // tile0021 firstgunsprite

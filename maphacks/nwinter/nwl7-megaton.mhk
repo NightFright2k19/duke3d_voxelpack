@@ -1,14 +1,14 @@
 // Maphacks for Duke: Nuclear Winter HRP
 
 // Title    : Here Comes Santa Claws
-// Filename : E2L7.MAP
 // Author   : Simply Silly Software - 'Combatant'
+// Filename : E2L7.MAP
 // mapmd4   : 097c39b4fbfeb459e4771681cc31864c // 2014-02-20 (Megaton)
 
 //         <-> nwl7-1997.mhk
 //         <-> nwl7-r24.mhk
 
-// Curr. HRP: r5.3.573
+// Curr. HRP: r5.4.726
 
 // 0-79 / 97-101 / / 130 / 165-431
 sprite   411 angoff     384        // tile0028 shotgunsprite
@@ -18,9 +18,9 @@ sprite    19 angoff    -384        // tile0044 rpgammo
 sprite    20 angoff    -320        // tile0052 sixpack
 sprite   101 angoff     1024       // tile0049 shotgunammo
 sprite   412 angoff    -512        // tile0049 shotgunammo
-sprite   412 mdzoff     700000     // tile0049 shotgunammo
 sprite   412 pitch     -1          // tile0049 shotgunammo
 sprite   412 roll       1          // tile0049 shotgunammo
+sprite   412 mdzoff     700000     // tile0049 shotgunammo
 sprite   493 angoff     256        // tile0028 shotgunsprite (multiplayer)
 sprite   477 angoff     256        // tile0040 ammo (multiplayer)
 sprite    21 angoff     896        // tile0052 sixpack
@@ -28,8 +28,8 @@ sprite   413 angoff    -332        // tile0053 firstaid
 sprite   414 angoff    -768        // tile0023 rpgsprite
 sprite   415 angoff     832        // tile0049 shotgunammo
 sprite   471 angoff    -384        // tile0052 sixpack (multiplayer)
-sprite   471 mdzoff     300000     // tile0052 sixpack (multiplayer)
 sprite   471 pitch     -1          // tile0052 sixpack (multiplayer)
+sprite   471 mdzoff     300000     // tile0052 sixpack (multiplayer)
 sprite   416 angoff    -448        // tile0049 shotgunammo
 sprite   417 angoff     384        // tile0052 sixpack
 sprite    98 angoff     1024       // tile0054 shield
@@ -42,155 +42,157 @@ sprite   470 angoff     128        // tile0052 sixpack (multiplayer)
 sprite   491 roll      -80         // tile0041 batteryammo (multiplayer)
 sprite   492 roll      -80         // tile0049 shotgunammo (multiplayer)
 sprite   426 angoff     512        // tile0051 cola
-sprite   426 mdzoff     900000     // tile0051 cola
 sprite   426 pitch     -1          // tile0051 cola
+sprite   426 mdzoff     900000     // tile0051 cola
 sprite   427 angoff    -640        // tile0049 shotgunammo
 sprite     4 angoff     1024       // tile0046 crystalammo
 sprite     3 angoff    -896        // tile0046 crystalammo
 sprite    97 angoff     1024       // tile0025 shrinkersprite
-sprite    97 mdzoff     900000     // tile0025 shrinkersprite
 sprite    97 pitch     -1          // tile0025 shrinkersprite
+sprite    97 mdzoff     900000     // tile0025 shrinkersprite
 sprite    62 angoff     512        // tile0052 sixpack
-sprite    62 mdzoff     200000     // tile0052 sixpack
 sprite    62 pitch      1          // tile0052 sixpack
+sprite    62 mdzoff     200000     // tile0052 sixpack
 sprite    63 angoff    -512        // tile0041 batteryammo
 sprite   481 angoff    -256        // tile0040 ammo (multiplayer)
-sprite   424 mdzoff     700000     // tile0022 chaingunsprite
 sprite   424 pitch     -1          // tile0022 chaingunsprite
+sprite   424 mdzoff     700000     // tile0022 chaingunsprite
 sprite   420 angoff    -512        // tile0055 steroids
 sprite   422 angoff     512        // tile0059 heatsensor
 sprite   421 angoff     256        // tile0051 cola
-sprite   421 mdzoff     500000     // tile0051 cola
 sprite   421 roll      -1          // tile0051 cola
+sprite   421 mdzoff     500000     // tile0051 cola
 sprite    14 angoff     1024       // tile0049 shotgunammo
-sprite    14 mdzoff     500000     // tile0049 shotgunammo
 sprite    14 pitch      1          // tile0049 shotgunammo
 sprite    14 roll       1          // tile0049 shotgunammo
-sprite   279 mdzoff     900000     // tile3786 (nwinter present)
-sprite   279 pitch     -1          // tile3786 (nwinter present)
-sprite   279 roll      -1          // tile3786 (nwinter present)
-sprite   280 mdzoff     900000     // tile3786 (nwinter present)
-sprite   280 pitch     -1          // tile3786 (nwinter present)
-sprite   280 roll      -1          // tile3786 (nwinter present)
-sprite   260 mdzoff     900000     // tile3786 (nwinter present)
-sprite   260 pitch     -1          // tile3786 (nwinter present)
-sprite   260 roll      -1          // tile3786 (nwinter present)
-sprite   281 mdzoff     900000     // tile3786 (nwinter present)
-sprite   281 pitch     -1          // tile3786 (nwinter present)
-sprite   281 roll      -1          // tile3786 (nwinter present)
-sprite   261 mdzoff     900000     // tile3786 (nwinter present)
-sprite   261 pitch     -1          // tile3786 (nwinter present)
-sprite   261 roll      -1          // tile3786 (nwinter present)
-sprite   262 mdzoff     900000     // tile3786 (nwinter present)
-sprite   262 pitch     -1          // tile3786 (nwinter present)
-sprite   262 roll      -1          // tile3786 (nwinter present)
-sprite   386 mdzoff     900000     // tile3786 (nwinter present)
-sprite   386 pitch     -1          // tile3786 (nwinter present)
-sprite   386 roll      -1          // tile3786 (nwinter present)
-sprite   282 mdzoff     900000     // tile3786 (nwinter present)
-sprite   282 pitch     -1          // tile3786 (nwinter present)
-sprite   282 roll      -1          // tile3786 (nwinter present)
+sprite    14 mdzoff     500000     // tile0049 shotgunammo
+sprite   279 pitch     -1          // tile3786 [nwinter present]
+sprite   279 roll      -1          // tile3786 [nwinter present]
+sprite   279 mdzoff     900000     // tile3786 [nwinter present]
+sprite   280 pitch     -1          // tile3786 [nwinter present]
+sprite   280 roll      -1          // tile3786 [nwinter present]
+sprite   280 mdzoff     900000     // tile3786 [nwinter present]
+sprite   260 pitch     -1          // tile3786 [nwinter present]
+sprite   260 roll      -1          // tile3786 [nwinter present]
+sprite   260 mdzoff     900000     // tile3786 [nwinter present]
+sprite   281 pitch     -1          // tile3786 [nwinter present]
+sprite   281 roll      -1          // tile3786 [nwinter present]
+sprite   281 mdzoff     900000     // tile3786 [nwinter present]
+sprite   261 pitch     -1          // tile3786 [nwinter present]
+sprite   261 roll      -1          // tile3786 [nwinter present]
+sprite   261 mdzoff     900000     // tile3786 [nwinter present]
+sprite   262 pitch     -1          // tile3786 [nwinter present]
+sprite   262 roll      -1          // tile3786 [nwinter present]
+sprite   262 mdzoff     900000     // tile3786 [nwinter present]
+sprite   386 pitch     -1          // tile3786 [nwinter present]
+sprite   386 roll      -1          // tile3786 [nwinter present]
+sprite   386 mdzoff     900000     // tile3786 [nwinter present]
+sprite   282 pitch     -1          // tile3786 [nwinter present]
+sprite   282 roll      -1          // tile3786 [nwinter present]
+sprite   282 mdzoff     900000     // tile3786 [nwinter present]
 sprite   423 angoff     1024       // tile0049 shotgunammo
-sprite   423 mdzoff     500000     // tile0049 shotgunammo
 sprite   423 pitch      1          // tile0049 shotgunammo
 sprite   423 roll      -2          // tile0049 shotgunammo
+sprite   423 mdzoff     500000     // tile0049 shotgunammo
 /*
-sprite   266 mdzoff     500000     // tile3783 (nwinter rocking horse)
-sprite   266 pitch     -1          // tile3783 (nwinter rocking horse)
-sprite   266 roll       1          // tile3783 (nwinter rocking horse)
-sprite   265 mdzoff     300000     // tile3783 (nwinter rocking horse)
-sprite   265 pitch     -1          // tile3783 (nwinter rocking horse)
-sprite   265 roll       1          // tile3783 (nwinter rocking horse)
-sprite   264 mdzoff     300000     // tile3783 (nwinter rocking horse)
-sprite   264 pitch     -1          // tile3783 (nwinter rocking horse)
-sprite   264 roll       1          // tile3783 (nwinter rocking horse)
-sprite   263 mdzoff     300000     // tile3783 (nwinter rocking horse)
-sprite   263 pitch     -1          // tile3783 (nwinter rocking horse)
-sprite   263 roll       1          // tile3783 (nwinter rocking horse)
-sprite   210 mdzoff     300000     // tile3783 (nwinter rocking horse)
-sprite   210 pitch     -1          // tile3783 (nwinter rocking horse)
-sprite   210 roll       1          // tile3783 (nwinter rocking horse)
-sprite   278 mdzoff     300000     // tile3783 (nwinter rocking horse)
-sprite   278 pitch     -1          // tile3783 (nwinter rocking horse)
-sprite   278 roll       1          // tile3783 (nwinter rocking horse)
-sprite   274 mdzoff     300000     // tile3783 (nwinter rocking horse)
-sprite   274 pitch     -1          // tile3783 (nwinter rocking horse)
-sprite   274 roll       1          // tile3783 (nwinter rocking horse)
-sprite   273 mdzoff     300000     // tile3783 (nwinter rocking horse)
-sprite   273 pitch     -1          // tile3783 (nwinter rocking horse)
-sprite   273 roll       1          // tile3783 (nwinter rocking horse)
-sprite   272 mdzoff     300000     // tile3783 (nwinter rocking horse)
-sprite   272 pitch     -1          // tile3783 (nwinter rocking horse)
-sprite   272 roll       1          // tile3783 (nwinter rocking horse)
-sprite   271 mdzoff     300000     // tile3783 (nwinter rocking horse)
-sprite   271 pitch     -1          // tile3783 (nwinter rocking horse)
-sprite   271 roll       1          // tile3783 (nwinter rocking horse)
-sprite   270 mdzoff     500000     // tile3783 (nwinter rocking horse)
-sprite   270 pitch     -1          // tile3783 (nwinter rocking horse)
-sprite   270 roll       1          // tile3783 (nwinter rocking horse)
-sprite   269 mdzoff     500000     // tile3783 (nwinter rocking horse)
-sprite   269 pitch     -1          // tile3783 (nwinter rocking horse)
-sprite   269 roll       1          // tile3783 (nwinter rocking horse)
-sprite   268 mdzoff     500000     // tile3783 (nwinter rocking horse)
-sprite   268 pitch     -1          // tile3783 (nwinter rocking horse)
-sprite   268 roll       1          // tile3783 (nwinter rocking horse)
-sprite   267 mdzoff     500000     // tile3783 (nwinter rocking horse)
-sprite   267 pitch     -1          // tile3783 (nwinter rocking horse)
-sprite   267 roll       1          // tile3783 (nwinter rocking horse)
+sprite   266 pitch     -1          // tile3783 [nwinter rocking horse]
+sprite   266 roll       1          // tile3783 [nwinter rocking horse]
+sprite   266 mdzoff     500000     // tile3783 [nwinter rocking horse]
+sprite   265 pitch     -1          // tile3783 [nwinter rocking horse]
+sprite   265 roll       1          // tile3783 [nwinter rocking horse]
+sprite   265 mdzoff     300000     // tile3783 [nwinter rocking horse]
+sprite   264 pitch     -1          // tile3783 [nwinter rocking horse]
+sprite   264 roll       1          // tile3783 [nwinter rocking horse]
+sprite   264 mdzoff     300000     // tile3783 [nwinter rocking horse]
+sprite   263 pitch     -1          // tile3783 [nwinter rocking horse]
+sprite   263 roll       1          // tile3783 [nwinter rocking horse]
+sprite   263 mdzoff     300000     // tile3783 [nwinter rocking horse]
+sprite   210 pitch     -1          // tile3783 [nwinter rocking horse]
+sprite   210 roll       1          // tile3783 [nwinter rocking horse]
+sprite   210 mdzoff     300000     // tile3783 [nwinter rocking horse]
+sprite   278 pitch     -1          // tile3783 [nwinter rocking horse]
+sprite   278 roll       1          // tile3783 [nwinter rocking horse]
+sprite   278 mdzoff     300000     // tile3783 [nwinter rocking horse]
+sprite   274 pitch     -1          // tile3783 [nwinter rocking horse]
+sprite   274 roll       1          // tile3783 [nwinter rocking horse]
+sprite   274 mdzoff     300000     // tile3783 [nwinter rocking horse]
+sprite   273 pitch     -1          // tile3783 [nwinter rocking horse]
+sprite   273 roll       1          // tile3783 [nwinter rocking horse]
+sprite   273 mdzoff     300000     // tile3783 [nwinter rocking horse]
+sprite   272 pitch     -1          // tile3783 [nwinter rocking horse]
+sprite   272 roll       1          // tile3783 [nwinter rocking horse]
+sprite   272 mdzoff     300000     // tile3783 [nwinter rocking horse]
+sprite   271 pitch     -1          // tile3783 [nwinter rocking horse]
+sprite   271 roll       1          // tile3783 [nwinter rocking horse]
+sprite   271 mdzoff     300000     // tile3783 [nwinter rocking horse]
+sprite   270 pitch     -1          // tile3783 [nwinter rocking horse]
+sprite   270 roll       1          // tile3783 [nwinter rocking horse]
+sprite   270 mdzoff     500000     // tile3783 [nwinter rocking horse]
+sprite   269 pitch     -1          // tile3783 [nwinter rocking horse]
+sprite   269 roll       1          // tile3783 [nwinter rocking horse]
+sprite   269 mdzoff     500000     // tile3783 [nwinter rocking horse]
+sprite   268 pitch     -1          // tile3783 [nwinter rocking horse]
+sprite   268 roll       1          // tile3783 [nwinter rocking horse]
+sprite   268 mdzoff     500000     // tile3783 [nwinter rocking horse]
+sprite   267 pitch     -1          // tile3783 [nwinter rocking horse]
+sprite   267 roll       1          // tile3783 [nwinter rocking horse]
+sprite   267 mdzoff     500000     // tile3783 [nwinter rocking horse]
 */
-sprite   206 angoff    -768        // tile0060 accesscard red
+sprite   206 angoff    -768        // tile0060 accesscard [red]
 sprite    60 angoff    -512        // tile0049 shotgunammo
-sprite    60 mdzoff     500000     // tile0049 shotgunammo
 sprite    60 pitch     -1          // tile0049 shotgunammo
+sprite    60 mdzoff     500000     // tile0049 shotgunammo
 sprite    13 angoff    -256        // tile0053 firstaid
-sprite    13 mdzoff     800000     // tile0053 firstaid
 sprite    13 pitch      1          // tile0053 firstaid
 sprite    13 roll       1          // tile0053 firstaid
-sprite   365 mdzoff     300000     // tile3786 (nwinter present)
-sprite   365 pitch     -3          // tile3786 (nwinter present)
-sprite   365 roll      -1          // tile3786 (nwinter present)
-sprite    57 mdzoff     200000     // tile4540 foodobject11 (burger)
+sprite    13 mdzoff     800000     // tile0053 firstaid
+sprite   365 pitch     -3          // tile3786 [nwinter present]
+sprite   365 roll      -1          // tile3786 [nwinter present]
+sprite   365 mdzoff     300000     // tile3786 [nwinter present]
 sprite    57 roll      -1          // tile4540 foodobject11 (burger)
-sprite    58 mdzoff     500000     // tile4540 foodobject11 (burger)
+sprite    57 mdzoff     200000     // tile4540 foodobject11 (burger)
 sprite    58 pitch     -1          // tile4540 foodobject11 (burger)
+sprite    58 mdzoff     500000     // tile4540 foodobject11 (burger)
+sprite    59 roll       1          // tile4540 foodobject11 (burger)
 sprite    59 mdzoff     500000     // tile4540 foodobject11 (burger)
-sprite    59 roll       1          // tile4540 foodobject11 (burger)
-sprite    56 mdxoff     50000      // tile4540 foodobject11 (burger)
 sprite    56 pitch     -1          // tile4540 foodobject11 (burger)
-sprite    59 mdzoff     300000     // tile4540 foodobject11 (burger)
-sprite    59 roll       1          // tile4540 foodobject11 (burger)
+sprite    56 mdxoff     9999999    // tile4540 foodobject11 (burger)
+sprite    52 roll      -1          // tile4540 foodobject11 (burger)
+sprite    52 mdzoff     150000     // tile4540 foodobject11 (burger)
+sprite    55 roll       1          // tile4540 foodobject11 (burger)
+sprite    55 mdzoff     300000     // tile4540 foodobject11 (burger)
 sprite    49 angoff    -512        // tile4548 foodobject19
 sprite    46 angoff    -768        // tile4548 foodobject19
 sprite    48 angoff     1024       // tile4548 foodobject19
 sprite   475 angoff     512        // tile0052 sixpack (multiplayer)
-sprite    35 mdzoff     200000     // tile4540 foodobject11 (burger)
 sprite    35 pitch     -1          // tile4540 foodobject11 (burger)
 sprite    35 roll      -1          // tile4540 foodobject11 (burger)
+sprite    35 mdzoff     200000     // tile4540 foodobject11 (burger)
 sprite    26 angoff    -768        // tile4548 foodobject19
-sprite    26 mdzoff     900000     // tile4548 foodobject19
 sprite    26 roll      -1          // tile4548 foodobject19
+sprite    26 mdzoff     900000     // tile4548 foodobject19
 sprite    31 angoff     1024       // tile4548 foodobject19
 sprite    24 angoff    -896        // tile1045 donuts
-sprite    24 mdzoff     900000     // tile1045 donuts
 sprite    24 roll      -1          // tile1045 donuts
+sprite    24 mdzoff     900000     // tile1045 donuts
 sprite    23 angoff     1024       // tile1045 donuts
 sprite    22 angoff     768        // tile1045 donuts
-sprite    22 mdzoff     500000     // tile1045 donuts
 sprite    22 roll       1          // tile1045 donuts
-sprite   380 mdxoff     8000       // tile0595 grate1
+sprite    22 mdzoff     500000     // tile1045 donuts
 sprite   380 pitch      1          // tile0595 grate1
+sprite   380 mdxoff     8000       // tile0595 grate1
 sprite   486 angoff     1024       // tile0029 devistatorsprite (multiplayer)
 sprite   487 angoff     1024       // tile0042 devistatorammo (multiplayer)
 sprite   488 angoff     1024       // tile0042 devistatorammo (multiplayer)
 sprite   474 angoff    -384        // tile0052 sixpack (multiplayer)
-sprite   130 angoff    -768        // tile0060 accesscard blue
+sprite   130 angoff    -768        // tile0060 accesscard [blue]
 sprite   165 angoff    -128        // tile0556 chair1
 sprite   166 angoff    -512        // tile0556 chair1
 sprite   407 angoff     384        // tile0516 satelite (dish)
 sprite   410 nomdanim              // tile1345 (tile1337 (helicopter))
 sprite   410 angoff     256        // tile1345 (tile1337 (helicopter))
-sprite   410 mdzoff     200000     // tile1345 (tile1337 (helicopter))
 sprite   410 pitch     -1          // tile1345 (tile1337 (helicopter))
-sprite     1 mdzoff     300000     // tile0100 atomichealth
+sprite   410 mdzoff     200000     // tile1345 (tile1337 (helicopter))
 sprite     1 pitch     -1          // tile0100 atomichealth
 sprite     1 roll       1          // tile0100 atomichealth
+sprite     1 mdzoff     300000     // tile0100 atomichealth

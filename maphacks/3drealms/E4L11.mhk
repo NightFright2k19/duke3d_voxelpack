@@ -1,12 +1,12 @@
 // Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
 
 // Title    : Area 51
-// Filename : E4L11.MAP
 // Author   : Randall S Pitchford II
+// Filename : E4L11.MAP
 // mapmd4   : 3a82e3d183f39ff72600df5b62737394 // 1996-12-11 (1.3D + Atomic GRP)
 
 
-// Curr. HRP: r5.3.661
+// Curr. HRP: r5.4.726
 
 sprite   254 angoff    -512        // tile0047 hbombammo
 sprite    92 angoff    -512        // tile0026 heavyhbomb
@@ -46,10 +46,11 @@ sprite   263 angoff    -768        // tile0051 cola
 sprite   599 angoff     832        // tile0046 crystalammo (multiplayer)
 sprite   282 angoff     704        // tile0046 crystalammo (multiplayer)
 sprite   513 angoff    -512        // tile0054 shield
-sprite   513 mdzoff     1200000    // tile0054 shield
 sprite   513 pitch     -1          // tile0054 shield
+sprite   513 mdzoff     1200000    // tile0054 shield
+sprite   705 notmd                 // tile0547 crack2
 sprite   292 angoff     1024       // tile0041 batteryammo
-sprite   311 angoff    -512        // tile0060 accesscard blue
+sprite   311 angoff    -512        // tile0060 accesscard [blue]
 sprite   608 angoff    -768        // tile0051 cola
 sprite    90 angoff     1024       // tile0047 hbombammo
 sprite   609 angoff     768        // tile0051 cola
@@ -59,14 +60,14 @@ sprite   306 angoff     768        // tile0028 shotgunsprite
 sprite   281 angoff     512        // tile0037 freezeammo
 sprite   280 angoff     512        // tile0037 freezeammo
 sprite   683 notmd                 // tile0164 dipswitch2
-sprite   683 mdzoff     250000     // tile0164 dipswitch2
-sprite   683 pitch     -1          // tile0164 dipswitch2
+//sprite   683 pitch     -1          // tile0164 dipswitch2
+//sprite   683 mdzoff     250000     // tile0164 dipswitch2
 sprite   297 angoff     768        // tile1348 holoduke
 sprite   299 angoff     768        // tile0055 steroids
 sprite   252 angoff    -256        // tile0059 heatsensor
-sprite   252 mdzoff     2000       // tile0059 heatsensor
 sprite   252 pitch      64         // tile0059 heatsensor
 sprite   252 roll       64         // tile0059 heatsensor
+sprite   252 mdzoff     2000       // tile0059 heatsensor
 sprite   296 angoff     768        // tile0052 sixpack
 sprite   293 angoff     256        // tile0052 sixpack
 sprite   295 angoff    -512        // tile0027 tripbombsprite
@@ -77,9 +78,9 @@ sprite   301 angoff    -768        // tile0053 firstaid
 sprite   615 notmd                 // tile4105 (panel)
 sprite   616 notmd                 // tile4098 (panel)
 sprite   198 angoff     768        // tile0029 devistatorsprite
-sprite   198 mdzoff     330000     // tile0029 devistatorsprite
 sprite   198 pitch      1          // tile0029 devistatorsprite
 sprite   198 roll      -1          // tile0029 devistatorsprite
+sprite   198 mdzoff     330000     // tile0029 devistatorsprite
 sprite   611 angoff    -256        // tile0052 sixpack
 sprite   267 angoff    -512        // tile0052 sixpack
 sprite   277 angoff    -512        // tile0052 sixpack
@@ -88,13 +89,13 @@ sprite   486 notmd                 // tile1226 bloodpool
 sprite   656 angoff     512        // tile0024 freezesprite
 sprite   574 notmd                 // tile4884 (broken light)
 sprite   441 angoff    -256        // tile0689 ivunit
-sprite   499 mdzoff     150000     // tile4427 hotmeat
 sprite   499 roll      -1          // tile4427 hotmeat
+sprite   499 mdzoff     150000     // tile4427 hotmeat
 sprite   303 angoff    -32         // tile4444 tripodcamera
 sprite   442 angoff     256        // tile0678 scale
 sprite   410 notmd                 // tile1226 bloodpool
 sprite   406 notmd                 // tile0162 dipswitch
-sprite   469 angoff     512        // tile0060 accesscard red
+sprite   469 angoff     512        // tile0060 accesscard [red]
 sprite   711 angoff     1024       // tile0041 batteryammo
 sprite   563 angoff    -512        // tile0052 sixpack
 sprite   423 notmd                 // tile0164 dipswitch2
@@ -143,10 +144,7 @@ sprite   687 angoff     128        // tile0051 cola
 sprite   688 angoff    -128        // tile0051 cola
 sprite    69 notmd                 // tile4439 (pen & paper)
 sprite   584 angoff     1024       // tile0028 shotgunsprite
-sprite   690 angoff     1024       // tile0060 accesscard yellow
-
-// Forcing floor aligned model to be rendered as sprite
-sprite   705 notmd                 // tile????
+sprite   690 angoff     1024       // tile0060 accesscard [yellow]
 
 
 // LIGHTS

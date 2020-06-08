@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: May 4, 2020
+Release Date: Jun 8, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -256,7 +256,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (May 4, 2020)
+Version 1.3 (Jun 8, 2020)
 -------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
@@ -291,8 +291,8 @@ Version 1.3 (May 4, 2020)
 > Updated:
      + Props: 574/670 (faucet1+2), 954 (bottle1)
      + Voxel orientations: 40, 45, 670, 753, 869, 1008, 4438, 4443, 4444, 4546, 4547, 4548, 4569, 4576
-     + Maphacks: Based on Duke3D HRP SVN (r710); E1L1/NW2 (#925 neon1 updated), E3L4 (#678 scale angoff added),
-                 E3L7 (#607 antenna angoff updated), E4L5 (#4377 policelightpole added) E4L11 (one switch hidden)
+     + Maphacks: Based on Duke3D HRP SVN r727; E1L1/NW2 (#925 neon1 updated), E3L4 (#678 scale angoff added),
+                 E3L7 (#607 antenna angoff updated), E4L5 (#4377 policelightpole added), E4L8 (#4443 flag updated)
      + duke3d.def: Option to undefine HRP models (only when using VP with HRP)
      + eduke.con: Voxel rotation deactivated by default
      + rotation.con: 4 useless cases (AMMOBOX, AMMOLOTS, HEALTHBOX, INVENTORYBOX) removed

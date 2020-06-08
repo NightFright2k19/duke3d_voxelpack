@@ -1,11 +1,11 @@
 // Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
 
 // Title    : Toxic Dump
-// Filename : E1L4.MAP
 // Author   : Allen H. Blum III
+// Filename : E1L4.MAP
 // mapmd4   : 37c1ba00a22baa6d8dfa69e265b964d8 // 1996-12-11 (Atomic GRP)
 
-// Curr. HRP: r5.3.664
+// Curr. HRP: r5.4.726
 
 sprite   957 angoff     1024       // tile0056 airtank
 sprite   771 away1                 // tile0845 (uss dallas sign)
@@ -16,8 +16,8 @@ sprite   970 angoff    -512        // tile0047 hbombammo
 sprite   970 pitch      80         // tile0047 hbombammo
 sprite     1 angoff     384        // tile1294 podfem1
 sprite   220 angoff     384        // tile1227 nukebarrel
-sprite   220 mdzoff     100000     // tile1227 nukebarrel
 sprite   220 roll       1          // tile1227 nukebarrel
+sprite   220 mdzoff     100000     // tile1227 nukebarrel
 sprite   222 angoff     896        // tile1227 nukebarrel
 sprite   221 angoff     640        // tile1227 nukebarrel
 sprite   225 angoff     128        // tile0052 sixpack
@@ -25,47 +25,47 @@ sprite   962 angoff     1024       // tile0023 rpgsprite
 sprite    86 angoff    -512        // tile1348 holoduke
 sprite   142 angoff    -256        // tile0044 rpgammo
 sprite   143 angoff    -256        // tile0044 rpgammo
-sprite   247 angoff    -256        // tile0060 accesscard blue
-sprite   247 mdzoff     500000     // tile0060 accesscard blue
-sprite   247 pitch     -1          // tile0060 accesscard blue
+sprite   247 angoff    -256        // tile0060 accesscard [blue]
+sprite   247 pitch     -1          // tile0060 accesscard [blue]
+sprite   247 mdzoff     500000     // tile0060 accesscard [blue]
 sprite   274 angoff    -512        // tile0022 chaingunsprite
-sprite   274 mdzoff     300000     // tile0022 chaingunsprite
 sprite   274 pitch      1          // tile0022 chaingunsprite
 sprite   274 roll      -1          // tile0022 chaingunsprite
+sprite   274 mdzoff     300000     // tile0022 chaingunsprite
 sprite   255 angoff    -768        // tile0041 batteryammo
-sprite   255 mdzoff     100000     // tile0041 batteryammo
 sprite   255 pitch      1          // tile0041 batteryammo
+sprite   255 mdzoff     100000     // tile0041 batteryammo
 sprite   257 angoff     1024       // tile0049 shotgunammo
-sprite   257 mdzoff     200000     // tile0049 shotgunammo
 sprite   257 pitch     -3          // tile0049 shotgunammo
 sprite   257 roll      -1          // tile0049 shotgunammo
+sprite   257 mdzoff     200000     // tile0049 shotgunammo
 sprite   258 angoff     512        // tile0049 shotgunammo
-sprite   258 mdzoff     700000     // tile0049 shotgunammo
 sprite   258 pitch     -1          // tile0049 shotgunammo
 sprite   258 roll      -1          // tile0049 shotgunammo
+sprite   258 mdzoff     700000     // tile0049 shotgunammo
 sprite  1067 angoff     1024       // tile0041 batteryammo
-sprite  1067 mdzoff     500000     // tile0041 batteryammo
 sprite  1067 roll      -1          // tile0041 batteryammo
+sprite  1067 mdzoff     500000     // tile0041 batteryammo
 sprite   294 angoff    -512        // tile0056 airtank
 sprite  1172 angoff    -768        // tile1294 podfem1
 sprite   761 angoff     768        // tile1227 nukebarrel
 sprite  1003 angoff     768        // tile1227 nukebarrel
 sprite   763 angoff     768        // tile1227 nukebarrel
 sprite   764 angoff     768        // tile1227 nukebarrel
-sprite  1069 mdzoff     500000     // tile0028 shotgunsprite
 sprite  1069 roll       1          // tile0028 shotgunsprite
+sprite  1069 mdzoff     500000     // tile0028 shotgunsprite
 sprite   256 angoff     640        // tile0052 sixpack
-sprite   210 angoff     1024       // tile0060 accesscard red
+sprite   210 angoff     1024       // tile0060 accesscard [red]
 sprite  1049 angoff     1024       // tile0041 batteryammo
-sprite  1049 mdzoff     150000     // tile0041 batteryammo
 sprite  1049 roll      -1          // tile0041 batteryammo
+sprite  1049 mdzoff     150000     // tile0041 batteryammo
 sprite   991 angoff     128        // tile0054 shield
-sprite   991 mdzoff     250000     // tile0054 shield
 sprite   991 roll      -1          // tile0054 shield
-sprite   985 mdyoff     10000      // tile1038 (pipe)
-sprite   985 mdzoff     100000     // tile1038 (pipe)
+sprite   991 mdzoff     250000     // tile0054 shield
 sprite   985 pitch      2          // tile1038 (pipe)
 sprite   985 roll      -1          // tile1038 (pipe)
+sprite   985 mdyoff     10000      // tile1038 (pipe)
+sprite   985 mdzoff     100000     // tile1038 (pipe)
 sprite   986 notmd                 // tile0136 spacedoorswitch
 sprite    22 angoff    -256        // tile0052 sixpack
 sprite   176 angoff     512        // tile0557 chair2
@@ -81,11 +81,11 @@ sprite   913 pitch      64         // tile0022 chaingunsprite
 sprite   913 roll       32         // tile0022 chaingunsprite
 sprite   161 angoff    -384        // tile0559 brokenchair
 sprite  1166 angoff     512        // tile0049 shotgunammo
-sprite  1166 mdzoff     200000     // tile0049 shotgunammo
 sprite  1166 pitch     -4          // tile0049 shotgunammo
 sprite  1166 roll      -1          // tile0049 shotgunammo
-sprite   164 mdzoff     800000     // tile0559 brokenchair
+sprite  1166 mdzoff     200000     // tile0049 shotgunammo
 sprite   164 pitch      1          // tile0559 brokenchair
+sprite   164 mdzoff     800000     // tile0559 brokenchair
 sprite   254 angoff    -128        // tile0041 batteryammo
 sprite    67 angoff    -768        // tile0055 steroids
 sprite  1083 angoff    -768        // tile0051 cola
@@ -98,9 +98,9 @@ sprite  1082 angoff    -512        // tile0052 sixpack
 sprite  1167 angoff    -768        // tile0049 shotgunammo
 sprite  1050 angoff     1024       // tile0056 airtank
 sprite  1014 angoff    -512        // tile0047 hbombammo
-sprite  1014 mdzoff     200000     // tile0047 hbombammo
 sprite  1014 pitch      1          // tile0047 hbombammo
 sprite  1014 roll       1          // tile0047 hbombammo
+sprite  1014 mdzoff     200000     // tile0047 hbombammo
 sprite   158 angoff     768        // tile0049 shotgunammo
 sprite   163 angoff    -512        // tile0556 chair1
 sprite  1013 angoff    -512        // tile1348 holoduke
@@ -108,15 +108,15 @@ sprite  1033 angoff    -448        // tile0041 batteryammo
 sprite   625 angoff     512        // tile0053 firstaid
 sprite    60 angoff    -768        // tile0054 shield
 sprite    59 angoff     1024       // tile0056 airtank
-sprite    59 mdzoff     300000     // tile0056 airtank
 sprite    59 pitch     -1          // tile0056 airtank
 sprite    59 roll      -1          // tile0056 airtank
+sprite    59 mdzoff     300000     // tile0056 airtank
 sprite   908 angoff     256        // tile0049 shotgunammo
-sprite   908 mdzoff     800000     // tile0049 shotgunammo
 sprite   908 roll       1          // tile0049 shotgunammo
+sprite   908 mdzoff     800000     // tile0049 shotgunammo
 sprite   905 angoff    -768        // tile0028 shotgunsprite (multiplayer)
-sprite   905 mdzoff     800000     // tile0028 shotgunsprite (multiplayer)
 sprite   905 roll       1          // tile0028 shotgunsprite (multiplayer)
+sprite   905 mdzoff     800000     // tile0028 shotgunsprite (multiplayer)
 sprite  1162 angoff     768        // tile0052 sixpack
 //sprite   835 angoff    -256        // tile0044 rpgammo
 //sprite   906 angoff    -256        // tile0044 rpgammo
@@ -134,19 +134,19 @@ sprite   931 angoff     896        // tile0052 sixpack
 sprite   907 angoff     1024       // tile0049 shotgunammo
 sprite   292 angoff     1024       // tile0041 batteryammo
 sprite   293 angoff    -768        // tile0022 chaingunsprite (multiplayer)
-//sprite  1078 mdxoff    -42500      // tile0407 fansprite // PolymostHRP
-sprite  1078 mdxoff    -40000      // tile0407 fansprite // Polymer HRP
-sprite  1078 mdzoff     90000      // tile0407 fansprite // Polymer HRP
 sprite  1078 pitch     -1          // tile0407 fansprite
+sprite  1078 mdxoff    -40000      // tile0407 fansprite [Polymer HRP]
+//sprite  1078 mdxoff    -42500      // tile0407 fansprite [Polymost HRP]
+sprite  1078 mdzoff     90000      // tile0407 fansprite [Polymer HRP]
 sprite   919 angoff    -256        // tile0052 sixpack
 sprite   251 angoff    -384        // tile0041 batteryammo
 sprite   899 pitch      144        // tile0061 boots
 sprite   266 angoff    -512        // tile0041 batteryammo
-sprite   266 mdzoff     200000     // tile0041 batteryammo
 sprite   266 pitch      4          // tile0041 batteryammo
 sprite   266 roll      -1          // tile0041 batteryammo
-sprite   265 mdzoff     500000     // tile0041 batteryammo
+sprite   266 mdzoff     200000     // tile0041 batteryammo
 sprite   265 roll      -1          // tile0041 batteryammo
+sprite   265 mdzoff     500000     // tile0041 batteryammo
 
 
 // LIGHTS

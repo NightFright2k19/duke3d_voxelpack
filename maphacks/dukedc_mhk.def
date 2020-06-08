@@ -8,222 +8,222 @@
 // Hacks for the original addon maps are loaded from DC HRP for the time being.
 
 mapinfo {
-   maptitle "Duke it out in D.C. - Demo"
-   mapfile  "DEMO.MAP"
-   //author "Robert Travis"
-   mapmd4   eacda190286b72f6eda418a6a36dc305 // 1997-02-21 (SSI)
-   mhkfile  "maphacks/dukedc/DCDEMO.mhk"
+  maptitle "Duke it out in D.C. - Demo"
+  //author "Robert Travis"
+  mapfile  "DEMO.MAP"
+  mapmd4   eacda190286b72f6eda418a6a36dc305 // 1997-02-21 (SSI)
+  mhkfile  "maphacks/dukedc/DCDEMO.mhk"
 }
 
 mapinfo {
-   maptitle "Hell to the Chief"
-   mapfile  "DUKEDC1.MAP"
-   //author "Robert Travis"
-   mapmd4   0cc6a03fe1dab97f6c845cf5bb273981 // 1997-02-21 (SSI)
-   mhkfile  "maphacks/dukedc/DUKEDC1.mhk"
+  maptitle "Hell to the Chief"
+  //author "Robert Travis"
+  mapfile  "DUKEDC1.MAP"
+  mapmd4   0cc6a03fe1dab97f6c845cf5bb273981 // 1997-02-21 (SSI)
+  mhkfile  "maphacks/dukedc/DUKEDC1.mhk"
 }
 mapinfo {
-   maptitle "Hell to the Chief"
-   mapfile  "DUKEDC1.MAP"
-   //author "Robert Travis"
-   mapmd4   d925c6c3cf13439fea426a70f041cf56 // 2014-02-20 (Megaton)
-   mhkfile  "maphacks/dukedc/DUKEDC1-2014-02-20.mhk"
+  maptitle "Hell to the Chief"
+  //author "Robert Travis"
+  mapfile  "DUKEDC1.MAP"
+  mapmd4   d925c6c3cf13439fea426a70f041cf56 // 2014-02-20 (Megaton)
+  mhkfile  "maphacks/dukedc/DUKEDC1-2014-02-20.mhk"
 }
 mapinfo {
-   maptitle "Hell to the Chief"
-   mapfile  "DUKEDC1.MAP"
-   //author "Robert Travis"
-   mapmd4   ca9b73741f04f45c53aa350eeb7ea107 // 2014-11-04 (NUKEMDAVE)
-   mapmd4   409a4403c74b7836cb9be1de87ec861c // 2014-11-06 (Megaton 1.4.2)
-   //mhkfile  "maphacks/dukedc/DUKEDC1-2014-11-04.mhk"
-   mhkfile  "maphacks/dukedc/DUKEDC1-megaton.mhk"
-}
-
-mapinfo {
-   maptitle "Memorial Service"
-   mapfile  "DUKEDC2.MAP"
-   //author "Robert Travis"
-   mapmd4   7fe371bf74f70fe5b884e1edb5590512 // 1997-02-21 (SSI)
-   mhkfile  "maphacks/dukedc/DUKEDC2.mhk"
-}
-mapinfo {
-   maptitle "Memorial Service"
-   mapfile  "DUKEDC2.MAP"
-   //author "Robert Travis"
-   mapmd4   687ed014bd89544584a671e35805c0e8 // 2014-02-20 (Megaton)
-   mhkfile  "maphacks/dukedc/DUKEDC2-2014-02-20.mhk"
-}
-mapinfo {
-   maptitle "Memorial Service"
-   mapfile  "DUKEDC2.MAP"
-   //author "Robert Travis"
-   mapmd4   c8dd4d07093cfb302b8b6be44d22a730 // 2014-11-04 (Megaton 1.4.2)
-   //mhkfile  "maphacks/dukedc/DUKEDC2-2014-11-04.mhk"
-   mhkfile  "maphacks/dukedc/DUKEDC2-megaton.mhk"
+  maptitle "Hell to the Chief"
+  //author "Robert Travis"
+  mapfile  "DUKEDC1.MAP"
+  mapmd4   ca9b73741f04f45c53aa350eeb7ea107 // 2014-11-04 (NUKEMDAVE)
+  mapmd4   409a4403c74b7836cb9be1de87ec861c // 2014-11-06 (Megaton 1.4.2)
+  //mhkfile  "maphacks/dukedc/DUKEDC1-2014-11-04.mhk"
+  mhkfile  "maphacks/dukedc/DUKEDC1-megaton.mhk"
 }
 
 mapinfo {
-   maptitle "Nuked Files"
-   mapfile  "DUKEDC3.MAP"
-   //author "Robert Travis"
-   mapmd4   8721ffcf29fc57af104f87a2c993bd33 // 1997-02-21 (SSI)
-   mhkfile  "maphacks/dukedc/DUKEDC3.mhk"
+  maptitle "Memorial Service"
+  //author "Robert Travis"
+  mapfile  "DUKEDC2.MAP"
+  mapmd4   7fe371bf74f70fe5b884e1edb5590512 // 1997-02-21 (SSI)
+  mhkfile  "maphacks/dukedc/DUKEDC2.mhk"
 }
 mapinfo {
-   maptitle "Nuked Files"
-   mapfile  "DUKEDC3.MAP"
-   //author "Robert Travis"
-   mapmd4   0e99477c1b17a6d1e4ecbf7c7d4e3604 // 2014-02-20 (Megaton)
-   mhkfile  "maphacks/dukedc/DUKEDC3-2014-02-20.mhk"
+  maptitle "Memorial Service"
+  //author "Robert Travis"
+  mapfile  "DUKEDC2.MAP"
+  mapmd4   687ed014bd89544584a671e35805c0e8 // 2014-02-20 (Megaton)
+  mhkfile  "maphacks/dukedc/DUKEDC2-2014-02-20.mhk"
 }
 mapinfo {
-   maptitle "Nuked Files"
-   mapfile  "DUKEDC3.MAP"
-   //author "Robert Travis"
-   mapmd4   9f991658bc136170069cd2f8dad15c52 // 2014-11-04 (NUKEMDAVE)
-   mapmd4   643dbf30e7d24ec38b8b455e52fbbe51 // 2014-11-06 (Megaton 1.4.2)
-   mhkfile  "maphacks/dukedc/DUKEDC3-2014-11-04.mhk"
-}
-mapinfo {
-   maptitle "Nuked Files"
-   mapfile  "DUKEDC3.MAP"
-   //author "Robert Travis"
-   mapmd4   447ae380a0484e2d606efce8499253a0 // 2014-11-14 (Megaton 1.4.3)
-   //mhkfile  "maphacks/dukedc/DUKEDC3-2014-11-14.mhk"
-   mhkfile  "maphacks/dukedc/DUKEDC3-megaton.mhk"
+  maptitle "Memorial Service"
+  //author "Robert Travis"
+  mapfile  "DUKEDC2.MAP"
+  mapmd4   c8dd4d07093cfb302b8b6be44d22a730 // 2014-11-04 (Megaton 1.4.2)
+  //mhkfile  "maphacks/dukedc/DUKEDC2-2014-11-04.mhk"
+  mhkfile  "maphacks/dukedc/DUKEDC2-megaton.mhk"
 }
 
 mapinfo {
-   maptitle "Smithsonian Terror"
-   mapfile  "DUKEDC4.MAP"
-   //author "Robert Travis"
-   mapmd4   2572eb90c4141080dbbd67458f4c4e35 // 1997-02-21 (SSI)
-   mhkfile  "maphacks/dukedc/DUKEDC4.mhk"
+  maptitle "Nuked Files"
+  //author "Robert Travis"
+  mapfile  "DUKEDC3.MAP"
+  mapmd4   8721ffcf29fc57af104f87a2c993bd33 // 1997-02-21 (SSI)
+  mhkfile  "maphacks/dukedc/DUKEDC3.mhk"
 }
 mapinfo {
-   maptitle "Smithsonian Terror"
-   mapfile  "DUKEDC4.MAP"
-   //author "Robert Travis"
-   mapmd4   3cee822653bb0fbb4180b14fb83d8314 // 2014-02-20 (Megaton)
-   mhkfile  "maphacks/dukedc/DUKEDC4-2014-02-20.mhk"
+  maptitle "Nuked Files"
+  //author "Robert Travis"
+  mapfile  "DUKEDC3.MAP"
+  mapmd4   0e99477c1b17a6d1e4ecbf7c7d4e3604 // 2014-02-20 (Megaton)
+  mhkfile  "maphacks/dukedc/DUKEDC3-2014-02-20.mhk"
 }
 mapinfo {
-   maptitle "Smithsonian Terror"
-   mapfile  "DUKEDC4.MAP"
-   //author "Robert Travis"
-   mapmd4   e183129fffdb06afa8f6a0901a437821 // 2014-11-04 (NUKEMDAVE)
-   mapmd4   5e27af1f4611a6f9a3687b76bd188e99 // 2014-11-06 (Megaton 1.4.2)
-   mapmd4   b5c26fbf7c626747d1e5dafdfd3fdfbc // 2014-12-03 (Megaton 1.4.5)
-   //mhkfile  "maphacks/dukedc/DUKEDC4-2014-11-04.mhk"
-   mhkfile  "maphacks/dukedc/DUKEDC4-megaton.mhk"
-}
-
-mapinfo {
-   maptitle "Capitol Punishment"
-   mapfile  "DUKEDC5.MAP"
-   //author "Robert Travis"
-   mapmd4   949146d004008112076252d68c16ec72 // 1997-02-21 (SSI)
-   mhkfile  "maphacks/dukedc/DUKEDC5.mhk"
+  maptitle "Nuked Files"
+  //author "Robert Travis"
+  mapfile  "DUKEDC3.MAP"
+  mapmd4   9f991658bc136170069cd2f8dad15c52 // 2014-11-04 (NUKEMDAVE)
+  mapmd4   643dbf30e7d24ec38b8b455e52fbbe51 // 2014-11-06 (Megaton 1.4.2)
+  mhkfile  "maphacks/dukedc/DUKEDC3-2014-11-04.mhk"
 }
 mapinfo {
-   maptitle "Capitol Punishment"
-   mapfile  "DUKEDC5.MAP"
-   //author "Robert Travis"
-   mapmd4   9f4fcde58729f3c8da3bffb2c42faae2 // 2014-02-20 (Megaton)
-   mhkfile  "maphacks/dukedc/DUKEDC5-2014-02-20.mhk"
-}
-mapinfo {
-   maptitle "Capitol Punishment"
-   mapfile  "DUKEDC5.MAP"
-   //author "Robert Travis"
-   mapmd4   95a4dfe1e08660123d95e19aa963346d // 2014-11-04 (NUKEMDAVE)
-   mapmd4   50f86cfedb06c965264f54e2f1d2cd56 // 2014-11-07 (Megaton 1.4.2)
-   //mhkfile  "maphacks/dukedc/DUKEDC5-2014-11-04.mhk"
-   mhkfile  "maphacks/dukedc/DUKEDC5-megaton.mhk"
+  maptitle "Nuked Files"
+  //author "Robert Travis"
+  mapfile  "DUKEDC3.MAP"
+  mapmd4   447ae380a0484e2d606efce8499253a0 // 2014-11-14 (Megaton 1.4.3)
+  //mhkfile  "maphacks/dukedc/DUKEDC3-2014-11-14.mhk"
+  mhkfile  "maphacks/dukedc/DUKEDC3-megaton.mhk"
 }
 
 mapinfo {
-   maptitle "Metro Mayhem"
-   mapfile  "DUKEDC6.MAP"
-   //author "Robert Travis"
-   mapmd4   0c8e27eb0bf1ecdb9a24708f7557cf53 // 1997-02-21 (SSI)
-   mhkfile  "maphacks/dukedc/DUKEDC6.mhk"
+  maptitle "Smithsonian Terror"
+  //author "Robert Travis"
+  mapfile  "DUKEDC4.MAP"
+  mapmd4   2572eb90c4141080dbbd67458f4c4e35 // 1997-02-21 (SSI)
+  mhkfile  "maphacks/dukedc/DUKEDC4.mhk"
 }
 mapinfo {
-   maptitle "Metro Mayhem"
-   mapfile  "DUKEDC6.MAP"
-   //author "Robert Travis"
-   mapmd4   6f7e28417783d869ca6ef8a7ed8d92b5 // 2014-02-20 (Megaton)
-   //mhkfile  "maphacks/dukedc/DUKEDC6-2014-02-20.mhk"
-   mhkfile  "maphacks/dukedc/DUKEDC6-megaton.mhk"
-}
-
-mapinfo {
-   maptitle "Brown Water"
-   mapfile  "DUKEDC7.MAP"
-   //author "Robert Travis & Shawn Swift & Charlie Wiederhold"
-   mapmd4   613ef6c13b6869e20bf6e2e9558e1d7e // 1997-02-21 (SSI)
-   mhkfile  "maphacks/dukedc/DUKEDC7.mhk"
+  maptitle "Smithsonian Terror"
+  //author "Robert Travis"
+  mapfile  "DUKEDC4.MAP"
+  mapmd4   3cee822653bb0fbb4180b14fb83d8314 // 2014-02-20 (Megaton)
+  mhkfile  "maphacks/dukedc/DUKEDC4-2014-02-20.mhk"
 }
 mapinfo {
-   maptitle "Brown Water"
-   mapfile  "DUKEDC7.MAP"
-   //author "Robert Travis & Shawn Swift & Charlie Wiederhold"
-   mapmd4   47e77edad105f7363650f462e8fa7166 // 2014-02-20 (Megaton)
-   mapmd4   4980480b9f7eecae4d43bccee56ae65d // 2014-11-07 (Megaton 1.4.2)
-   //mhkfile  "maphacks/dukedc/DUKEDC7-2014-02-20.mhk"
-   mhkfile  "maphacks/dukedc/DUKEDC7-megaton.mhk"
+  maptitle "Smithsonian Terror"
+  //author "Robert Travis"
+  mapfile  "DUKEDC4.MAP"
+  mapmd4   e183129fffdb06afa8f6a0901a437821 // 2014-11-04 (NUKEMDAVE)
+  mapmd4   5e27af1f4611a6f9a3687b76bd188e99 // 2014-11-06 (Megaton 1.4.2)
+  mapmd4   b5c26fbf7c626747d1e5dafdfd3fdfbc // 2014-12-03 (Megaton 1.4.5)
+  //mhkfile  "maphacks/dukedc/DUKEDC4-2014-11-04.mhk"
+  mhkfile  "maphacks/dukedc/DUKEDC4-megaton.mhk"
 }
 
 mapinfo {
-   maptitle "Dread October"
-   mapfile  "DUKEDC8.MAP"
-   //author "Robert Travis & Shawn Swift & Charlie Wiederhold"
-   mapmd4   fdcff37db5a2662e140a2c18861772a6 // 1997-02-21 (SSI)
-   mhkfile  "maphacks/dukedc/DUKEDC8.mhk"
+  maptitle "Capitol Punishment"
+  //author "Robert Travis"
+  mapfile  "DUKEDC5.MAP"
+  mapmd4   949146d004008112076252d68c16ec72 // 1997-02-21 (SSI)
+  mhkfile  "maphacks/dukedc/DUKEDC5.mhk"
 }
 mapinfo {
-   maptitle "Dread October"
-   mapfile  "DUKEDC8.MAP"
-   //author "Robert Travis & Shawn Swift & Charlie Wiederhold"
-   mapmd4   df86273026725e7b92b4ac43138bbda8 // 2014-02-20 (Megaton)
-   //mhkfile  "maphacks/dukedc/DUKEDC8-2014-02-20.mhk"
-   mhkfile  "maphacks/dukedc/DUKEDC8-megaton.mhk"
-}
-
-mapinfo {
-   maptitle "Nuke Proof"
-   mapfile  "DUKEDC9.MAP"
-   //author "Robert Travis & Shawn Swift & Charlie Wiederhold"
-   mapmd4   087e3709ca60a70c8ab3c8ab28255aed // 1997-02-21 (SSI)
-   mhkfile  "maphacks/dukedc/DUKEDC9.mhk"
+  maptitle "Capitol Punishment"
+  //author "Robert Travis"
+  mapfile  "DUKEDC5.MAP"
+  mapmd4   9f4fcde58729f3c8da3bffb2c42faae2 // 2014-02-20 (Megaton)
+  mhkfile  "maphacks/dukedc/DUKEDC5-2014-02-20.mhk"
 }
 mapinfo {
-   maptitle "Nuke Proof"
-   mapfile  "DUKEDC9.MAP"
-   //author "Robert Travis & Shawn Swift & Charlie Wiederhold"
-   mapmd4   6f4764ba967f9fb2bb98d8420c964b54 // 2014-02-20 (Megaton)
-   mapmd4   909082db2cb969aefaf03978071498f0 // 2014-03-20 (Megaton)
-   mapmd4   b7b49eaa1b7620c07ed83193bd00cdfa // 2014-11-07 (Megaton 1.4.2)
-   //mhkfile  "maphacks/dukedc/DUKEDC9-2014-02-20.mhk"
-   mhkfile  "maphacks/dukedc/DUKEDC9-megaton.mhk"
+  maptitle "Capitol Punishment"
+  //author "Robert Travis"
+  mapfile  "DUKEDC5.MAP"
+  mapmd4   95a4dfe1e08660123d95e19aa963346d // 2014-11-04 (NUKEMDAVE)
+  mapmd4   50f86cfedb06c965264f54e2f1d2cd56 // 2014-11-07 (Megaton 1.4.2)
+  //mhkfile  "maphacks/dukedc/DUKEDC5-2014-11-04.mhk"
+  mhkfile  "maphacks/dukedc/DUKEDC5-megaton.mhk"
 }
 
 mapinfo {
-   maptitle "Top Secret"
-   mapfile  "DUKEDCSL.MAP"
-   //author "Charlie Wiederhold & Robert Travis"
-   mapmd4   fdd97d5d6b9c627288c74dfd9dd37835 // 1997-02-21 (SSI)
-   mhkfile  "maphacks/dukedc/DUKEDCSL.mhk"
+  maptitle "Metro Mayhem"
+  //author "Robert Travis"
+  mapfile  "DUKEDC6.MAP"
+  mapmd4   0c8e27eb0bf1ecdb9a24708f7557cf53 // 1997-02-21 (SSI)
+  mhkfile  "maphacks/dukedc/DUKEDC6.mhk"
 }
 mapinfo {
-   maptitle "Top Secret"
-   mapfile  "DUKEDCSL.MAP"
-   //author "Charlie Wiederhold & Robert Travis"
-   mapmd4   0143f3529cb96044b421a8e9cc163c63 // 2014-02-20 (Megaton)
-   mapmd4   4fde93122732621fd3494363a7784988 // 2014-03-20 (Megaton)
-   mapmd4   06c91d79fa8dece97c600acdd81df28f // 2014-12-03 07:15 (NUKEMDAVE)
-   mapmd4   0b1a17d585b46a0f3f770447beb18d6a // 2014-12-03 19:29 (Megaton 1.4.5)
-   //mhkfile  "maphacks/dukedc/DUKEDCSL-2014-02-20.mhk"
-   mhkfile  "maphacks/dukedc/DUKEDCSL-megaton.mhk"
+  maptitle "Metro Mayhem"
+  //author "Robert Travis"
+  mapfile  "DUKEDC6.MAP"
+  mapmd4   6f7e28417783d869ca6ef8a7ed8d92b5 // 2014-02-20 (Megaton)
+  //mhkfile  "maphacks/dukedc/DUKEDC6-2014-02-20.mhk"
+  mhkfile  "maphacks/dukedc/DUKEDC6-megaton.mhk"
+}
+
+mapinfo {
+  maptitle "Brown Water"
+  //author "Robert Travis & Shawn Swift & Charlie Wiederhold"
+  mapfile  "DUKEDC7.MAP"
+  mapmd4   613ef6c13b6869e20bf6e2e9558e1d7e // 1997-02-21 (SSI)
+  mhkfile  "maphacks/dukedc/DUKEDC7.mhk"
+}
+mapinfo {
+  maptitle "Brown Water"
+  //author "Robert Travis & Shawn Swift & Charlie Wiederhold"
+  mapfile  "DUKEDC7.MAP"
+  mapmd4   47e77edad105f7363650f462e8fa7166 // 2014-02-20 (Megaton)
+  mapmd4   4980480b9f7eecae4d43bccee56ae65d // 2014-11-07 (Megaton 1.4.2)
+  //mhkfile  "maphacks/dukedc/DUKEDC7-2014-02-20.mhk"
+  mhkfile  "maphacks/dukedc/DUKEDC7-megaton.mhk"
+}
+
+mapinfo {
+  maptitle "Dread October"
+  //author "Robert Travis & Shawn Swift & Charlie Wiederhold"
+  mapfile  "DUKEDC8.MAP"
+  mapmd4   fdcff37db5a2662e140a2c18861772a6 // 1997-02-21 (SSI)
+  mhkfile  "maphacks/dukedc/DUKEDC8.mhk"
+}
+mapinfo {
+  maptitle "Dread October"
+  //author "Robert Travis & Shawn Swift & Charlie Wiederhold"
+  mapfile  "DUKEDC8.MAP"
+  mapmd4   df86273026725e7b92b4ac43138bbda8 // 2014-02-20 (Megaton)
+  //mhkfile  "maphacks/dukedc/DUKEDC8-2014-02-20.mhk"
+  mhkfile  "maphacks/dukedc/DUKEDC8-megaton.mhk"
+}
+
+mapinfo {
+  maptitle "Nuke Proof"
+  //author "Robert Travis & Shawn Swift & Charlie Wiederhold"
+  mapfile  "DUKEDC9.MAP"
+  mapmd4   087e3709ca60a70c8ab3c8ab28255aed // 1997-02-21 (SSI)
+  mhkfile  "maphacks/dukedc/DUKEDC9.mhk"
+}
+mapinfo {
+  maptitle "Nuke Proof"
+  //author "Robert Travis & Shawn Swift & Charlie Wiederhold"
+  mapfile  "DUKEDC9.MAP"
+  mapmd4   6f4764ba967f9fb2bb98d8420c964b54 // 2014-02-20 (Megaton)
+  mapmd4   909082db2cb969aefaf03978071498f0 // 2014-03-20 (Megaton)
+  mapmd4   b7b49eaa1b7620c07ed83193bd00cdfa // 2014-11-07 (Megaton 1.4.2)
+  //mhkfile  "maphacks/dukedc/DUKEDC9-2014-02-20.mhk"
+  mhkfile  "maphacks/dukedc/DUKEDC9-megaton.mhk"
+}
+
+mapinfo {
+  maptitle "Top Secret"
+  //author "Charlie Wiederhold & Robert Travis"
+  mapfile  "DUKEDCSL.MAP"
+  mapmd4   fdd97d5d6b9c627288c74dfd9dd37835 // 1997-02-21 (SSI)
+  mhkfile  "maphacks/dukedc/DUKEDCSL.mhk"
+}
+mapinfo {
+  maptitle "Top Secret"
+  //author "Charlie Wiederhold & Robert Travis"
+  mapfile  "DUKEDCSL.MAP"
+  mapmd4   0143f3529cb96044b421a8e9cc163c63 // 2014-02-20 (Megaton)
+  mapmd4   4fde93122732621fd3494363a7784988 // 2014-03-20 (Megaton)
+  mapmd4   06c91d79fa8dece97c600acdd81df28f // 2014-12-03 07:15 (NUKEMDAVE)
+  mapmd4   0b1a17d585b46a0f3f770447beb18d6a // 2014-12-03 19:29 (Megaton 1.4.5)
+  //mhkfile  "maphacks/dukedc/DUKEDCSL-2014-02-20.mhk"
+  mhkfile  "maphacks/dukedc/DUKEDCSL-megaton.mhk"
 }

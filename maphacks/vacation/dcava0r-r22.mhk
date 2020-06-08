@@ -1,0 +1,27 @@
+// Maphacks for Duke Caribbean: Life's A Beach Plus - Vacation HRP
+
+// Title    : Shark's Cove
+// Author   : N.E. 'HangNail' Voigt
+// Filename : dcava0r.map
+// mapmd4   : 265ac674a40485fa92411cbcb888ba18 // 2011-03-22 (Vaca Plus r22)
+
+// Curr. HRP: r5.4.726
+
+// Vaca Plus Maphacks by Evan 'Hendricks266' Ramos
+
+// shark fins
+sprite   583 notmd                 // tile2390 scrap6
+sprite   584 notmd                 // tile2390 scrap6
+sprite   585 notmd                 // tile2390 scrap6
+
+// dragon figurines
+sprite   488 nomdanim              // tile3591 [vaca tile3585 (rubber dragon)]
+sprite   489 nomdanim              // tile3591 [vaca tile3585 (rubber dragon)]
+sprite   490 nomdanim              // tile3591 [vaca tile3585 (rubber dragon)]
+sprite   491 nomdanim              // tile3591 [vaca tile3585 (rubber dragon)]
+
+// Commander figurines
+sprite   476 nomdanim              // tile1930 (tile1920 commander)
+sprite   477 nomdanim              // tile1930 (tile1920 commander)
+sprite   478 nomdanim              // tile1930 (tile1920 commander)
+sprite   479 nomdanim              // tile1930 (tile1920 commander)

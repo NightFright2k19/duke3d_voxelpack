@@ -1,8 +1,8 @@
 // Maphacks for Duke: Nuclear Winter HRP
 
 // Title    : The Backdoor
-// Filename : E2L5.MAP
 // Author   : Simply Silly Software
+// Filename : E2L5.MAP
 // mapmd4   : aa52c5932d22b87fdd126d64903c5fd6 // 2014-02-20 (Megaton)
 // mapmd4   : d1d3b02d44fd259ae827c92aa89c725a // 2014-11-06 (Megaton 1.4.2)
 // mapmd4   : b4f59987e1e5546a54aa8296e0cdb8dd // 2014-11-16 (Megaton 1.4.3)
@@ -10,30 +10,30 @@
 //         <-> nwl5-1997.mhk
 //         <-> nwl5-r24.mhk
 
-// Curr. HRP: r5.3.573
+// Curr. HRP: r5.4.726
 
 // 16-616 / 627-636 / / 637-710 | 722-771
 sprite    49 angoff     1024       // tile0056 airtank
 sprite   722 angoff     640        // tile0057 jetpack (multiplayer)
 sprite   723 angoff    -448        // tile0057 jetpack (multiplayer)
 sprite    16 angoff     512        // tile0026 heavyhbomb
+sprite    16 pitch      1          // tile0026 heavyhbomb
 sprite    16 mdxoff    -8000       // tile0026 heavyhbomb
 sprite    16 mdzoff     200000     // tile0026 heavyhbomb
-sprite    16 pitch      1          // tile0026 heavyhbomb
 sprite    17 angoff     512        // tile0023 rpgsprite
 sprite    50 angoff     0          // tile0049 shotgunammo
 sprite   743 angoff     1024       // tile0052 sixpack (multiplayer)
 sprite   750 angoff    -768        // tile0040 ammo (multiplayer)
 sprite   709 angoff    -768        // tile0051 cola
-sprite   709 mdzoff     100000     // tile0051 cola
 sprite   709 pitch      1          // tile0051 cola
+sprite   709 mdzoff     100000     // tile0051 cola
 sprite   760 angoff     512        // tile0022 chaingunsprite (multiplayer)
 sprite   744 angoff     512        // tile0055 steroids (multiplayer)
 sprite   748 angoff     640        // tile0052 sixpack (multiplayer)
 sprite   751 angoff     256        // tile0040 ammo (multiplayer)
 sprite   710 angoff    -128        // tile0054 shield
-sprite   710 mdzoff     200000     // tile0054 shield
 sprite   710 pitch      1          // tile0054 shield
+sprite   710 mdzoff     200000     // tile0054 shield
 sprite   637 angoff     512        // tile0052 sixpack
 sprite   737 angoff     512        // tile0047 hbombammo (multiplayer)
 sprite   761 angoff     1024       // tile0041 batteryammo (multiplayer)
@@ -52,12 +52,12 @@ sprite    36 angoff    -256        // tile0046 crystalammo
 sprite    37 angoff     1024       // tile0046 crystalammo
 sprite   749 angoff    -512        // tile0055 steroids (multiplayer)
 sprite    41 angoff    -256        // tile0049 shotgunammo
-sprite    41 mdzoff     900000     // tile0049 shotgunammo
 sprite    41 pitch     -1          // tile0049 shotgunammo
+sprite    41 mdzoff     900000     // tile0049 shotgunammo
 sprite   742 angoff     768        // tile0052 sixpack (multiplayer)
 sprite    34 angoff     1024       // tile0046 crystalammo
-sprite    34 mdzoff     500000     // tile0046 crystalammo
 sprite    34 pitch      1          // tile0046 crystalammo
+sprite    34 mdzoff     500000     // tile0046 crystalammo
 sprite   754 angoff    -512        // tile0040 ammo (multiplayer)
 sprite   753 angoff    -512        // tile0040 ammo (multiplayer)
 sprite   662 angoff     640        // tile0051 cola
@@ -68,7 +68,7 @@ sprite   661 angoff     1024       // tile0051 cola
 sprite   665 angoff    -768        // tile0051 cola
 sprite   733 angoff     768        // tile0057 jetpack (multiplayer)
 sprite   740 angoff    -768        // tile0052 sixpack (multiplayer)
-sprite   616 angoff    -512        // tile0060 accesscard blue
+sprite   616 angoff    -512        // tile0060 accesscard [blue]
 sprite   741 angoff    -768        // tile0052 sixpack (multiplayer)
 sprite   636 angoff     0          // tile0041 batteryammo
 sprite   770 angoff    -512        // tile0049 shotgunammo (multiplayer)

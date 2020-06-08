@@ -7,249 +7,249 @@
 
 
 mapinfo {
-   maptitle "Déjà Vu Demo"
-   mapfile  "E2L1.map"
-   //author "Allen H. Blum III & Simply Silly Software"
-   mapmd4   5c97335c239c76788fee27924afecdd2 // 1997-12-15
-   mhkfile  "maphacks/nwinter/nwl1demo-1997.mhk"
+  maptitle "Déjà Vu Demo"
+  //author "Allen H. Blum III & Simply Silly Software"
+  mapfile  "E2L1.map"
+  mapmd4   5c97335c239c76788fee27924afecdd2 // 1997-12-15
+  mhkfile  "maphacks/nwinter/nwl1demo-1997.mhk"
 }
 mapinfo {
-   maptitle "Déjà Vu Demo"
-   mapfile  "nwl1demo.map"
-   //author "Allen H. Blum III & Simply Silly Software"
-   mapmd4   5aeadce1b93cc74bc0ab352b3c7081ac // 2011-03-25 (NW Plus r25)
-   mhkfile  "maphacks/nwinter/nwl1demo-r25.mhk"
-}
-
-mapinfo {
-   maptitle "Déjà Vu"
-   mapfile  "E2L1.MAP"
-   //author "Allen H. Blum III & Simply Silly Software"
-   mapmd4   1fcc16d422ce32d9e579124a432f4479 // 1997-12-15 (GRP)
-   mhkfile  "maphacks/nwinter/nwl1-1997.mhk"
-}
-mapinfo {
-   maptitle "Déjà Vu"
-   mapfile  "E2L1.MAP"
-   //author "Allen H. Blum III & Simply Silly Software"
-   mapmd4   558112aa9fb259c35581844fe65f0b35 // 2014-02-20 (Megaton)
-   mhkfile  "maphacks/nwinter/nwl1-2014-02-20.mhk"
-}
-mapinfo {
-   maptitle "Déjà Vu"
-   mapfile  "E2L1.MAP"
-   //author "Allen H. Blum III & Simply Silly Software"
-   mapmd4   56b6c2dd53a1edafb098c151c4fe6321 // 2014-11-04 (NUKEMDAVE)
-   mhkfile  "maphacks/nwinter/nwl1-2014-11-04.mhk"
-}
-mapinfo {
-   maptitle "Déjà Vu"
-   mapfile  "E2L1.MAP"
-   //author "Allen H. Blum III & Simply Silly Software"
-   mapmd4   60707c339d769436f653f2ffe2cfb6dd // 2014-11-06 (NUKEMDAVE)
-   mapmd4   a354caa552b6bd7a3bfe8f0f92e3f4ab // 2014-11-08 (Megaton 1.4.2)
-   mapmd4   44d0969509a537976a9ac40017f47e49 // 2014-11-12 (NUKEMDAVE)
-   mapmd4   dda14edb6b2c7842dbfa6701549962c0 // 2014-11-14 (Megaton 1.4.3)
-   mhkfile  "maphacks/nwinter/nwl1-megaton.mhk"
-}
-mapinfo {
-   maptitle "Déjà Vu"
-   mapfile  "nwl1.map"
-   //author "Allen H. Blum III & Simply Silly Software"
-   mapmd4   ea6f6084ff74d37a0f134406ba4e73d2 // 2011-03-25 (NW Plus r25)
-   mhkfile  "maphacks/nwinter/nwl1-r25.mhk"
+  maptitle "Déjà Vu Demo"
+  //author "Allen H. Blum III & Simply Silly Software"
+  mapfile  "nwl1demo.map"
+  mapmd4   5aeadce1b93cc74bc0ab352b3c7081ac // 2011-03-25 (NW Plus r25)
+  mhkfile  "maphacks/nwinter/nwl1demo-r25.mhk"
 }
 
 mapinfo {
-   maptitle "Where It All Began"
-   mapfile  "E2L2.MAP"
-   //author "Allen H. Blum III & Simply Silly Software"
-   mapmd4   d6d30cb84acc5c47e1596280cf81ba37 // 1997-12-15 (GRP)
-   mhkfile  "maphacks/nwinter/nwl2-1997.mhk"
+  maptitle "Déjà Vu"
+  //author "Allen H. Blum III & Simply Silly Software"
+  mapfile  "E2L1.MAP"
+  mapmd4   1fcc16d422ce32d9e579124a432f4479 // 1997-12-15 (GRP)
+  mhkfile  "maphacks/nwinter/nwl1-1997.mhk"
 }
 mapinfo {
-   maptitle "Where It All Began"
-   mapfile  "E2L2.MAP"
-   //author "Allen H. Blum III & Simply Silly Software"
-   mapmd4   28d76286a6badc8a8f523dbce124709a // 2014-02-20 (Megaton)
-   mapmd4   5549fe7e7cbd600ff993d7396b09ade4 // 2014-11-04 (Megaton 1.4.2)
-   mapmd4   90027e7ac3b711326dd3e6bf78e184b3 // 2014-11-25 (Megaton 1.4.3)
-   mhkfile  "maphacks/nwinter/nwl2-megaton.mhk"
+  maptitle "Déjà Vu"
+  //author "Allen H. Blum III & Simply Silly Software"
+  mapfile  "E2L1.MAP"
+  mapmd4   558112aa9fb259c35581844fe65f0b35 // 2014-02-20 (Megaton)
+  mhkfile  "maphacks/nwinter/nwl1-2014-02-20.mhk"
 }
 mapinfo {
-   maptitle "Where It All Began"
-   mapfile  "nwl2.map"
-   //author "Allen H. Blum III & Simply Silly Software"
-   mapmd4   0e170886cf0741f5873a6c821e2b5a34 // 2011-03-22 (NW Plus r24)
-   mapmd4   8d79d07c4c55aca3f4528c0b5f32cdec // 2013-03-31 (NW Plus r70)
-   mhkfile  "maphacks/nwinter/nwl2-r70.mhk"
-}
-
-mapinfo {
-   maptitle "Land of Forgotten Toys"
-   mapfile  "E2L3.MAP"
-   //author "Simply Silly Software"
-   mapmd4   8b2dc4571fb56fda7d2bad9521ccc345 // 1997-12-15 (GRP)
-   mhkfile  "maphacks/nwinter/nwl3-1997.mhk"
+  maptitle "Déjà Vu"
+  //author "Allen H. Blum III & Simply Silly Software"
+  mapfile  "E2L1.MAP"
+  mapmd4   56b6c2dd53a1edafb098c151c4fe6321 // 2014-11-04 (NUKEMDAVE)
+  mhkfile  "maphacks/nwinter/nwl1-2014-11-04.mhk"
 }
 mapinfo {
-   maptitle "Land of Forgotten Toys"
-   mapfile  "E2L3.MAP"
-   //author "Simply Silly Software"
-   mapmd4   bf548cec04686c14264d3478e0c345f0 // 2014-02-20 (Megaton)
-   mhkfile  "maphacks/nwinter/nwl3-2014-02-20.mhk"
+  maptitle "Déjà Vu"
+  //author "Allen H. Blum III & Simply Silly Software"
+  mapfile  "E2L1.MAP"
+  mapmd4   60707c339d769436f653f2ffe2cfb6dd // 2014-11-06 (NUKEMDAVE)
+  mapmd4   a354caa552b6bd7a3bfe8f0f92e3f4ab // 2014-11-08 (Megaton 1.4.2)
+  mapmd4   44d0969509a537976a9ac40017f47e49 // 2014-11-12 (NUKEMDAVE)
+  mapmd4   dda14edb6b2c7842dbfa6701549962c0 // 2014-11-14 (Megaton 1.4.3)
+  mhkfile  "maphacks/nwinter/nwl1-megaton.mhk"
 }
 mapinfo {
-   maptitle "Land of Forgotten Toys"
-   mapfile  "E2L3.MAP"
-   //author "Simply Silly Software"
-   mapmd4   a62d2e1cff4c89d019e83e259090a8be // 2014-11-07 (NUKEMDAVE)
-   mapmd4   4f9b4496b243591538c68c23df3de8a1 // 2014-11-08 (Megaton 1.4.2)
-   mapmd4   0364d4eaaad5ec7ab55396f32b6535f1 // 2014-11-16 02:01 (NUKEMDAVE)
-   mapmd4   f0047669181acce28e9b9f9fae864109 // 2014-11-16 18:37 (NUKEMDAVE)
-   mapmd4   f7186cbb314835b0dc56ac24c3791a6c // 2014-11-20 (Megaton 1.4.3)
-   mhkfile  "maphacks/nwinter/nwl3-megaton.mhk"
-}
-mapinfo {
-   maptitle "Land of Forgotten Toys"
-   mapfile  "nwl3.map"
-   //author "Simply Silly Software"
-   mapmd4   1dcf70a08f652970a70e1290db57255b // 2011-03-22 (NW Plus r24)
-   mhkfile  "maphacks/nwinter/nwl3-r24.mhk"
+  maptitle "Déjà Vu"
+  //author "Allen H. Blum III & Simply Silly Software"
+  mapfile  "nwl1.map"
+  mapmd4   ea6f6084ff74d37a0f134406ba4e73d2 // 2011-03-25 (NW Plus r25)
+  mhkfile  "maphacks/nwinter/nwl1-r25.mhk"
 }
 
 mapinfo {
-   maptitle "Santa's Corporate HQ"
-   mapfile  "E2L4.MAP"
-   //author "Simply Silly Software"
-   mapmd4   1ea3163102cc0c209c16e1ed2d4dc048 // 1997-12-15 (GRP)
-   mhkfile  "maphacks/nwinter/nwl4-1997.mhk"
+  maptitle "Where It All Began"
+  //author "Allen H. Blum III & Simply Silly Software"
+  mapfile  "E2L2.MAP"
+  mapmd4   d6d30cb84acc5c47e1596280cf81ba37 // 1997-12-15 (GRP)
+  mhkfile  "maphacks/nwinter/nwl2-1997.mhk"
 }
 mapinfo {
-   maptitle "Santa's Corporate HQ"
-   mapfile  "E2L4.MAP"
-   //author "Simply Silly Software"
-   mapmd4   26c354978e28448d5b50c519a4ecedc2 // 2014-02-20 (Megaton)
-   mhkfile  "maphacks/nwinter/nwl4-2014-02-20.mhk"
+  maptitle "Where It All Began"
+  //author "Allen H. Blum III & Simply Silly Software"
+  mapfile  "E2L2.MAP"
+  mapmd4   28d76286a6badc8a8f523dbce124709a // 2014-02-20 (Megaton)
+  mapmd4   5549fe7e7cbd600ff993d7396b09ade4 // 2014-11-04 (Megaton 1.4.2)
+  mapmd4   90027e7ac3b711326dd3e6bf78e184b3 // 2014-11-25 (Megaton 1.4.3)
+  mhkfile  "maphacks/nwinter/nwl2-megaton.mhk"
 }
 mapinfo {
-   maptitle "Santa's Corporate HQ"
-   mapfile  "E2L4.MAP"
-   //author "Simply Silly Software"
-   mapmd4   00d16b21138c21cc9c388de5c94843e8 // 2014-11-04 (Megaton 1.4.2)
-   mapmd4   39218a34e2227402a3e79caa68a1fb26 // 2014-11-26 (Megaton 1.4.3)
-   mhkfile  "maphacks/nwinter/nwl4-megaton.mhk"
-}
-mapinfo {
-   maptitle "Santa's Corporate HQ"
-   mapfile  "nwl4.map"
-   //author "Simply Silly Software"
-   mapmd4   c3b3fcdb8c089ce4b820daf1fd0c1ad7 // 2011-03-22 (NW Plus r24)
-   mhkfile  "maphacks/nwinter/nwl4-r24.mhk"
+  maptitle "Where It All Began"
+  //author "Allen H. Blum III & Simply Silly Software"
+  mapfile  "nwl2.map"
+  mapmd4   0e170886cf0741f5873a6c821e2b5a34 // 2011-03-22 (NW Plus r24)
+  mapmd4   8d79d07c4c55aca3f4528c0b5f32cdec // 2013-03-31 (NW Plus r70)
+  mhkfile  "maphacks/nwinter/nwl2-r70.mhk"
 }
 
 mapinfo {
-   maptitle "The Backdoor"
-   mapfile  "E2L5.MAP"
-   //author "Simply Silly Software"
-   mapmd4   b325856109f206b49135c321536a62d5 // 1997-12-15 (GRP)
-   mhkfile  "maphacks/nwinter/nwl5-1997.mhk"
+  maptitle "Land of Forgotten Toys"
+  //author "Simply Silly Software"
+  mapfile  "E2L3.MAP"
+  mapmd4   8b2dc4571fb56fda7d2bad9521ccc345 // 1997-12-15 (GRP)
+  mhkfile  "maphacks/nwinter/nwl3-1997.mhk"
 }
 mapinfo {
-   maptitle "The Backdoor"
-   mapfile  "E2L5.MAP"
-   //author "Simply Silly Software"
-   mapmd4   aa52c5932d22b87fdd126d64903c5fd6 // 2014-02-20 (Megaton)
-   mapmd4   d1d3b02d44fd259ae827c92aa89c725a // 2014-11-06 (Megaton 1.4.2)
-   mapmd4   b4f59987e1e5546a54aa8296e0cdb8dd // 2014-11-16 (Megaton 1.4.3)
-   mhkfile  "maphacks/nwinter/nwl5-megaton.mhk"
+  maptitle "Land of Forgotten Toys"
+  //author "Simply Silly Software"
+  mapfile  "E2L3.MAP"
+  mapmd4   bf548cec04686c14264d3478e0c345f0 // 2014-02-20 (Megaton)
+  mhkfile  "maphacks/nwinter/nwl3-2014-02-20.mhk"
 }
 mapinfo {
-   maptitle "The Backdoor"
-   mapfile  "nwl5.map"
-   //author "Simply Silly Software"
-   mapmd4   418c20d08fb63793b1e2ded80bd108ee // 2011-03-22 (NW Plus r24)
-   mhkfile  "maphacks/nwinter/nwl5-r24.mhk"
-}
-
-mapinfo {
-   maptitle "Christmas Village"
-   mapfile  "E2L6.MAP"
-   //author "Simply Silly Software"
-   mapmd4   b5bf80bfbcf956621639f4e6ffc689c4 // 1997-12-15 (GRP)
-   mhkfile  "maphacks/nwinter/nwl6-1997.mhk"
+  maptitle "Land of Forgotten Toys"
+  //author "Simply Silly Software"
+  mapfile  "E2L3.MAP"
+  mapmd4   a62d2e1cff4c89d019e83e259090a8be // 2014-11-07 (NUKEMDAVE)
+  mapmd4   4f9b4496b243591538c68c23df3de8a1 // 2014-11-08 (Megaton 1.4.2)
+  mapmd4   0364d4eaaad5ec7ab55396f32b6535f1 // 2014-11-16 02:01 (NUKEMDAVE)
+  mapmd4   f0047669181acce28e9b9f9fae864109 // 2014-11-16 18:37 (NUKEMDAVE)
+  mapmd4   f7186cbb314835b0dc56ac24c3791a6c // 2014-11-20 (Megaton 1.4.3)
+  mhkfile  "maphacks/nwinter/nwl3-megaton.mhk"
 }
 mapinfo {
-   maptitle "Christmas Village"
-   mapfile  "E2L6.MAP"
-   //author "Simply Silly Software"
-   mapmd4   fa72f5e890a558730cfd84c4a10f7581 // 2014-02-20 (Megaton)
-   mapmd4   bcc98b9facd90cd16b058a0d65b0c056 // 2014-03-20 (Megaton)
-   mhkfile  "maphacks/nwinter/nwl6-2014-02-20.mhk"
-}
-mapinfo {
-   maptitle "Christmas Village"
-   mapfile  "E2L6.MAP"
-   //author "Simply Silly Software"
-   mapmd4   f10ad3a59a0abcd262ef7d863b4e4bac // 2014-11-21 (Megaton 1.4.3)
-   mhkfile  "maphacks/nwinter/nwl6-megaton.mhk"
-}
-mapinfo {
-   maptitle "Christmas Village"
-   mapfile  "nwl6.map"
-   //author "Simply Silly Software"
-   mapmd4   5001c7ee52732ec954fc47c743166530 // 2011-03-22 (NW Plus r24)
-   mhkfile  "maphacks/nwinter/nwl6-r24.mhk"
+  maptitle "Land of Forgotten Toys"
+  //author "Simply Silly Software"
+  mapfile  "nwl3.map"
+  mapmd4   1dcf70a08f652970a70e1290db57255b // 2011-03-22 (NW Plus r24)
+  mhkfile  "maphacks/nwinter/nwl3-r24.mhk"
 }
 
 mapinfo {
-   maptitle "Here Comes Santa Claws"
-   mapfile  "E2L7.MAP"
-   //author "Simply Silly Software"
-   mapmd4   d3d62fe977db1a05db2d435849feb211 // 1997-12-15 (GRP)
-   mhkfile  "maphacks/nwinter/nwl7-1997.mhk"
+  maptitle "Santa's Corporate HQ"
+  //author "Simply Silly Software"
+  mapfile  "E2L4.MAP"
+  mapmd4   1ea3163102cc0c209c16e1ed2d4dc048 // 1997-12-15 (GRP)
+  mhkfile  "maphacks/nwinter/nwl4-1997.mhk"
 }
 mapinfo {
-   maptitle "Here Comes Santa Claws"
-   mapfile  "E2L7.MAP"
-   //author "Simply Silly Software"
-   mapmd4   097c39b4fbfeb459e4771681cc31864c // 2014-02-20 (Megaton)
-   mhkfile  "maphacks/nwinter/nwl7-megaton.mhk"
+  maptitle "Santa's Corporate HQ"
+  //author "Simply Silly Software"
+  mapfile  "E2L4.MAP"
+  mapmd4   26c354978e28448d5b50c519a4ecedc2 // 2014-02-20 (Megaton)
+  mhkfile  "maphacks/nwinter/nwl4-2014-02-20.mhk"
 }
 mapinfo {
-   maptitle "Here Comes Santa Claws"
-   mapfile  "nwl7.map"
-   //author "Simply Silly Software"
-   mapmd4   2b70e9a3972356760bb0aab62cec580a // 2011-03-22 (NW Plus r24)
-   mhkfile  "maphacks/nwinter/nwl7-r24.mhk"
-}
-
-mapinfo {
-   maptitle "Santamatch"
-   mapfile  "E2L8.MAP"
-   //author "Simply Silly Software"
-   mapmd4   bf9742997a4d77cda7462200e6ae6256 // 1997-12-15 (GRP)
-   mhkfile  "maphacks/nwinter/nwl8-1997.mhk"
+  maptitle "Santa's Corporate HQ"
+  //author "Simply Silly Software"
+  mapfile  "E2L4.MAP"
+  mapmd4   00d16b21138c21cc9c388de5c94843e8 // 2014-11-04 (Megaton 1.4.2)
+  mapmd4   39218a34e2227402a3e79caa68a1fb26 // 2014-11-26 (Megaton 1.4.3)
+  mhkfile  "maphacks/nwinter/nwl4-megaton.mhk"
 }
 mapinfo {
-   maptitle "Santamatch"
-   mapfile  "E2L8.MAP"
-   //author "Simply Silly Software"
-   mapmd4   8964feda769c3a1845bd350626ca02a4 // 2014-02-20 (Megaton)
-   mhkfile  "maphacks/nwinter/nwl8-megaton.mhk"
-}
-mapinfo {
-   maptitle "Santamatch"
-   mapfile  "nwl8.map"
-   //author "Simply Silly Software"
-   mapmd4   72a78dddd76cc597f3d2501e2df35d81 // 2011-03-22 (NW Plus r24)
-   mhkfile  "maphacks/nwinter/nwl8-r24.mhk"
+  maptitle "Santa's Corporate HQ"
+  //author "Simply Silly Software"
+  mapfile  "nwl4.map"
+  mapmd4   c3b3fcdb8c089ce4b820daf1fd0c1ad7 // 2011-03-22 (NW Plus r24)
+  mhkfile  "maphacks/nwinter/nwl4-r24.mhk"
 }
 
 mapinfo {
-   maptitle "Nuclear Winter Zoo"
-   mapfile  "_nwzoo.map"
-   //author "Allen H. Blum III & Evan 'Hendricks266' Ramos"
-   mapmd4   fbcc52b39ea54787c664c5072000428e // 2011-03-08 (NW Plus r18)
-   mhkfile  "maphacks/nwinter/_nwzoo-r18.mhk"
+  maptitle "The Backdoor"
+  //author "Simply Silly Software"
+  mapfile  "E2L5.MAP"
+  mapmd4   b325856109f206b49135c321536a62d5 // 1997-12-15 (GRP)
+  mhkfile  "maphacks/nwinter/nwl5-1997.mhk"
+}
+mapinfo {
+  maptitle "The Backdoor"
+  //author "Simply Silly Software"
+  mapfile  "E2L5.MAP"
+  mapmd4   aa52c5932d22b87fdd126d64903c5fd6 // 2014-02-20 (Megaton)
+  mapmd4   d1d3b02d44fd259ae827c92aa89c725a // 2014-11-06 (Megaton 1.4.2)
+  mapmd4   b4f59987e1e5546a54aa8296e0cdb8dd // 2014-11-16 (Megaton 1.4.3)
+  mhkfile  "maphacks/nwinter/nwl5-megaton.mhk"
+}
+mapinfo {
+  maptitle "The Backdoor"
+  //author "Simply Silly Software"
+  mapfile  "nwl5.map"
+  mapmd4   418c20d08fb63793b1e2ded80bd108ee // 2011-03-22 (NW Plus r24)
+  mhkfile  "maphacks/nwinter/nwl5-r24.mhk"
+}
+
+mapinfo {
+  maptitle "Christmas Village"
+  //author "Simply Silly Software"
+  mapfile  "E2L6.MAP"
+  mapmd4   b5bf80bfbcf956621639f4e6ffc689c4 // 1997-12-15 (GRP)
+  mhkfile  "maphacks/nwinter/nwl6-1997.mhk"
+}
+mapinfo {
+  maptitle "Christmas Village"
+  //author "Simply Silly Software"
+  mapfile  "E2L6.MAP"
+  mapmd4   fa72f5e890a558730cfd84c4a10f7581 // 2014-02-20 (Megaton)
+  mapmd4   bcc98b9facd90cd16b058a0d65b0c056 // 2014-03-20 (Megaton)
+  mhkfile  "maphacks/nwinter/nwl6-2014-02-20.mhk"
+}
+mapinfo {
+  maptitle "Christmas Village"
+  //author "Simply Silly Software"
+  mapfile  "E2L6.MAP"
+  mapmd4   f10ad3a59a0abcd262ef7d863b4e4bac // 2014-11-21 (Megaton 1.4.3)
+  mhkfile  "maphacks/nwinter/nwl6-megaton.mhk"
+}
+mapinfo {
+  maptitle "Christmas Village"
+  //author "Simply Silly Software"
+  mapfile  "nwl6.map"
+  mapmd4   5001c7ee52732ec954fc47c743166530 // 2011-03-22 (NW Plus r24)
+  mhkfile  "maphacks/nwinter/nwl6-r24.mhk"
+}
+
+mapinfo {
+  maptitle "Here Comes Santa Claws"
+  //author "Simply Silly Software"
+  mapfile  "E2L7.MAP"
+  mapmd4   d3d62fe977db1a05db2d435849feb211 // 1997-12-15 (GRP)
+  mhkfile  "maphacks/nwinter/nwl7-1997.mhk"
+}
+mapinfo {
+  maptitle "Here Comes Santa Claws"
+  //author "Simply Silly Software"
+  mapfile  "E2L7.MAP"
+  mapmd4   097c39b4fbfeb459e4771681cc31864c // 2014-02-20 (Megaton)
+  mhkfile  "maphacks/nwinter/nwl7-megaton.mhk"
+}
+mapinfo {
+  maptitle "Here Comes Santa Claws"
+  //author "Simply Silly Software"
+  mapfile  "nwl7.map"
+  mapmd4   2b70e9a3972356760bb0aab62cec580a // 2011-03-22 (NW Plus r24)
+  mhkfile  "maphacks/nwinter/nwl7-r24.mhk"
+}
+
+mapinfo {
+  maptitle "Santamatch"
+  //author "Simply Silly Software"
+  mapfile  "E2L8.MAP"
+  mapmd4   bf9742997a4d77cda7462200e6ae6256 // 1997-12-15 (GRP)
+  mhkfile  "maphacks/nwinter/nwl8-1997.mhk"
+}
+mapinfo {
+  maptitle "Santamatch"
+  //author "Simply Silly Software"
+  mapfile  "E2L8.MAP"
+  mapmd4   8964feda769c3a1845bd350626ca02a4 // 2014-02-20 (Megaton)
+  mhkfile  "maphacks/nwinter/nwl8-megaton.mhk"
+}
+mapinfo {
+  maptitle "Santamatch"
+  //author "Simply Silly Software"
+  mapfile  "nwl8.map"
+  mapmd4   72a78dddd76cc597f3d2501e2df35d81 // 2011-03-22 (NW Plus r24)
+  mhkfile  "maphacks/nwinter/nwl8-r24.mhk"
+}
+
+mapinfo {
+  maptitle "Nuclear Winter Zoo"
+  //author "Allen H. Blum III & Evan 'Hendricks266' Ramos"
+  mapfile  "_nwzoo.map"
+  mapmd4   fbcc52b39ea54787c664c5072000428e // 2011-03-08 (NW Plus r18)
+  mhkfile  "maphacks/nwinter/_nwzoo-r18.mhk"
 }

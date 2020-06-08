@@ -1,13 +1,13 @@
 // Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
 
 // Title    : L.A. Rumble
-// Filename : E3L4.MAP
 // Author   : Richard Bailey Gray (The Levelord)
+// Filename : E3L4.MAP
 // mapmd4   : 621bd88331cdc4953e31dea07cbe9dab // 1996-12-11 (1.3D + Atomic GRP)
 
 //         <-> E3L4_worldtour.mhk
 
-// Curr. HRP: r5.3.662
+// Curr. HRP: r5.4.726
 
 // 0-142 / / 188-258 / 264-354 / 356-360 / 362-367 / / 391-403 / / 441-537
 sprite   237 angoff    -512        // tile0052 sixpack
@@ -17,9 +17,9 @@ sprite   275 angoff     640        // tile0028 shotgunsprite
 sprite   506 angoff    -320        // tile0024 freezesprite
 sprite   240 angoff    -256        // tile0052 sixpack
 sprite   274 angoff    -512        // tile0022 chaingunsprite
-sprite   274 mdzoff     900000     // tile0022 chaingunsprite
 sprite   274 pitch     -1          // tile0022 chaingunsprite
 sprite   274 roll       1          // tile0022 chaingunsprite
+sprite   274 mdzoff     900000     // tile0022 chaingunsprite
 sprite   537 angoff    -768        // tile0044 rpgammo
 sprite   283 angoff     1024       // tile0023 rpgsprite
 sprite   516 angoff     1024       // tile0037 freezeammo
@@ -54,21 +54,21 @@ sprite   508 angoff     256        // tile0057 jetpack (multiplayer)
 sprite    60 angoff     1024       // tile0052 sixpack
 sprite    61 angoff     1024       // tile0042 devistatorammo
 sprite    87 notmd                 // tile0164 dipswitch2
-sprite   267 mdzoff     200000     // tile0574 (tile0670 (faucet))
 sprite   267 pitch     -1          // tile0574 (tile0670 (faucet))
+sprite   267 mdzoff     200000     // tile0574 (tile0670 (faucet))
 sprite   141 angoff    -640        // tile1358 fetus
 sprite   142 angoff     896        // tile1358 fetus
 sprite   394 angoff     896        // tile1358 fetus
 sprite   393 notmd                 // tile0665 (surgical tools)
 sprite   244 angoff     512        // tile0055 steroids
-sprite   395 mdzoff     500000     // tile0678 scale
+sprite   395 angoff     -768       // tile0678 scale (VP addition)
 sprite   395 pitch      1          // tile0678 scale
-sprite   395 angoff     -768       // tile0678 scale
+sprite   395 mdzoff     500000     // tile0678 scale
 sprite   257 angoff     512        // tile0669 vacuum
-sprite   257 mdzoff     860000     // tile0669 vacuum
 sprite   257 roll      -1          // tile0669 vacuum
+sprite   257 mdzoff     860000     // tile0669 vacuum
 sprite   367 notmd                 // tile2301 wallblood1
-sprite   475 angoff     1024       // tile0060 accesscard blue
+sprite   475 angoff     1024       // tile0060 accesscard [blue]
 sprite   135 angoff     768        // tile0053 firstaid
 sprite   136 angoff    -768        // tile0029 devistatorsprite
 sprite   127 angoff     768        // tile0042 devistatorammo
@@ -91,26 +91,26 @@ sprite   354 notmd                 // tile0586 (spreadsheet)
 sprite   353 angoff     128        // tile1045 donuts
 sprite   113 angoff     512        // tile0046 crystalammo
 sprite    76 angoff     1024       // tile0563 waterfountain
-sprite    76 mdzoff     150000     // tile0563 waterfountain
 sprite    76 pitch     -1          // tile0563 waterfountain
+sprite    76 mdzoff     150000     // tile0563 waterfountain
 sprite    58 angoff     512        // tile0042 devistatorammo
 sprite   289 angoff    -512        // tile0557 chair2
-sprite   289 mdzoff     100000     // tile0557 chair2
 sprite   289 pitch     -3          // tile0557 chair2
 sprite   289 roll       4          // tile0557 chair2
+sprite   289 mdzoff     100000     // tile0557 chair2
 sprite   276 angoff     1024       // tile0023 rpgsprite
 sprite   339 angoff     512        // tile0057 jetpack
 sprite   449 angoff     512        // tile0052 sixpack
 sprite   448 angoff     512        // tile0042 devistatorammo
 sprite   443 angoff     512        // tile0044 rpgammo
-sprite    59 angoff     512        // tile0060 accesscard red
+sprite    59 angoff     512        // tile0060 accesscard [red]
 sprite   334 notmd                 // tile0745 (wooden board)
 sprite   335 notmd                 // tile0745 (wooden board)
 sprite   333 angoff    -256        // tile0955 bottle2
 sprite   298 angoff     896        // tile1014 bottle8
 sprite   309 angoff     384        // tile1163 bottle16
-sprite   317 angoff     640        // tile1163 bottle19
-sprite   318 angoff    -384        // tile1163 bottle19
+sprite   317 angoff     640        // tile1166 bottle19
+sprite   318 angoff    -384        // tile1166 bottle19
 sprite   307 angoff    -128        // tile1163 bottle16
 sprite   306 angoff    -128        // tile1162 bottle15
 sprite   305 angoff    -128        // tile1162 bottle15
@@ -122,8 +122,8 @@ sprite   302 angoff    -512        // tile1161 bottle14
 sprite   311 angoff    -512        // tile1164 bottle17
 sprite   310 angoff    -512        // tile1164 bottle17
 sprite   299 angoff     1024       // tile1160 bottle13
-sprite   299 mdzoff     200000     // tile1160 bottle13
 sprite   299 roll      -1          // tile1160 bottle13
+sprite   299 mdzoff     200000     // tile1160 bottle13
 sprite   301 angoff     1024       // tile1160 bottle13
 sprite   400 notmd                 // tile2997 (greyfont 5)
 sprite   401 notmd                 // tile2999 (greyfont 7)

@@ -1,13 +1,13 @@
 // Maphacks by NightFright for use with the Duke It Out In D.C. HRP
 
 // Title    : Dread October
-// Filename : DUKEDC8.MAP
 // Author   : Robert Travis
+// Filename : DUKEDC8.MAP
 // mapmd4   : fdcff37db5a2662e140a2c18861772a6 // 1997-02-21 (SSI)
 
 //         <-> DUKEDC8-megaton.mhk
 
-// Curr. HRP: r5.3.645
+// Curr. HRP: r5.4.726
 
 // 0-5 / / 15-424 / 517-736
 sprite   127 angoff     256        // tile0049 shotgunammo
@@ -26,31 +26,31 @@ sprite   326 angoff    -128        // tile1247 seenine
 sprite   325 angoff     384        // tile1247 seenine
 
 sprite   287 angoff    -384        // tile0049 shotgunammo
-sprite   287 mdzoff     900000     // tile0049 shotgunammo
 sprite   287 pitch     -1          // tile0049 shotgunammo
-sprite   585 angoff     1024       // tile3769 (dukedc streetlight)
-sprite   599 angoff     1024       // tile3769 (dukedc streetlight)
+sprite   287 mdzoff     900000     // tile0049 shotgunammo
+sprite   585 angoff     1024       // tile3769 [dukedc streetlight]
+sprite   599 angoff     1024       // tile3769 [dukedc streetlight]
 sprite   140 angoff     512        // tile0028 shotgunsprite
-sprite   596 angoff    -512        // tile3769 (dukedc streetlight)
-sprite   593 angoff     512        // tile3769 (dukedc streetlight)
-sprite   595 angoff    -512        // tile3769 (dukedc streetlight)
-sprite   594 angoff     512        // tile3769 (dukedc streetlight)
-sprite   590 angoff    -512        // tile3769 (dukedc streetlight)
-sprite   587 angoff     512        // tile3769 (dukedc streetlight)
-sprite   589 angoff    -512        // tile3769 (dukedc streetlight)
-sprite   588 angoff     512        // tile3769 (dukedc streetlight)
+sprite   596 angoff    -512        // tile3769 [dukedc streetlight]
+sprite   593 angoff     512        // tile3769 [dukedc streetlight]
+sprite   595 angoff    -512        // tile3769 [dukedc streetlight]
+sprite   594 angoff     512        // tile3769 [dukedc streetlight]
+sprite   590 angoff    -512        // tile3769 [dukedc streetlight]
+sprite   587 angoff     512        // tile3769 [dukedc streetlight]
+sprite   589 angoff    -512        // tile3769 [dukedc streetlight]
+sprite   588 angoff     512        // tile3769 [dukedc streetlight]
 
 
 
 sprite   536 angoff     256        // tile0479 (satellite dish)
-sprite   536 mdzoff     100000     // tile0479 (satellite dish)
 sprite   536 pitch     -1          // tile0479 (satellite dish)
+sprite   536 mdzoff     100000     // tile0479 (satellite dish)
 
 sprite   107 angoff    -256        // tile0024 freezesprite
-sprite   107 mdzoff     900000     // tile0024 freezesprite
 sprite   107 pitch     -1          // tile0024 freezesprite
+sprite   107 mdzoff     900000     // tile0024 freezesprite
 
-sprite   563 angoff    -512        // tile0060 accesscard yellow
+sprite   563 angoff    -512        // tile0060 accesscard [yellow]
 sprite    97 angoff    -512        // tile0041 batteryammo
 
 
@@ -60,11 +60,11 @@ sprite    93 angoff     512        // tile0052 sixpack
 sprite    66 angoff    -512        // tile0052 sixpack
 //sprite    67 angoff     1024       // tile0029 devistatorsprite
 sprite     5 angoff    -256        // tile0047 hbombammo
-sprite     5 mdzoff     900000     // tile0047 hbombammo
 sprite     5 pitch     -1          // tile0047 hbombammo
+sprite     5 mdzoff     900000     // tile0047 hbombammo
 sprite    52 angoff    -256        // tile0052 sixpack
-sprite    52 mdzoff     900000     // tile0052 sixpack
 sprite    52 pitch     -1          // tile0052 sixpack
+sprite    52 mdzoff     900000     // tile0052 sixpack
 sprite     4 angoff    -512        // tile0049 shotgunammo
 sprite    51 angoff    -512        // tile0055 steroids
 sprite    49 angoff     384        // tile1768 headjib1
@@ -81,19 +81,19 @@ sprite     2 angoff     512        // tile0044 rpgammo
 sprite   220 angoff     384        // tile0556 chair1
 sprite   218 angoff     512        // tile0556 chair1
 sprite   216 angoff     640        // tile0556 chair1
-sprite   378 angoff     1024       // tile3665 (dukedc potus flag)
-sprite   223 angoff     1024       // tile3664 (dukedc us flag)
+sprite   378 angoff     1024       // tile3665 [dukedc potus flag]
+sprite   223 angoff     1024       // tile3664 [dukedc us flag]
 //sprite    17 angoff     0          // tile0023 rpgsprite
-sprite   566 angoff    -512        // tile0060 accesscard red
-sprite   567 angoff     512        // tile0060 accesscard blue
-sprite   567 mdxoff     5000       // tile0060 accesscard blue
-sprite   567 pitch      1          // tile0060 accesscard blue
+sprite   566 angoff    -512        // tile0060 accesscard [red]
+sprite   567 angoff     512        // tile0060 accesscard [blue]
+sprite   567 pitch      1          // tile0060 accesscard [blue]
+sprite   567 mdxoff     5000       // tile0060 accesscard [blue]
 sprite     0 angoff     1024       // tile0049 shotgunammo
-sprite     0 mdzoff     900000     // tile0049 shotgunammo
 sprite     0 pitch     -1          // tile0049 shotgunammo
+sprite     0 mdzoff     900000     // tile0049 shotgunammo
 sprite    89 angoff     256        // tile0025 shrinkersprite
-sprite    89 mdzoff     300000     // tile0025 shrinkersprite
 sprite    89 roll       1          // tile0025 shrinkersprite
+sprite    89 mdzoff     300000     // tile0025 shrinkersprite
 
 sprite    87 angoff     512        // tile0052 sixpack
 sprite   467 angoff     64         // tile0619 pipe1
@@ -102,8 +102,8 @@ sprite     1 angoff    -512        // tile0042 devistatorammo
 sprite   420 angoff    -896        // tile0695 pot2
 sprite   418 angoff    -128        // tile0694 pot1
 sprite   424 angoff    -512        // tile0691 (cleaver)
-sprite   398 mdzoff     300000     // tile1166 bottle19
 sprite   398 pitch      1          // tile1166 bottle19
+sprite   398 mdzoff     300000     // tile1166 bottle19
 sprite    86 angoff    -512        // tile0052 sixpack
 sprite   403 angoff     1024       // tile1160 bottle13
 

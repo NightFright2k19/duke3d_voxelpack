@@ -1,15 +1,15 @@
 // Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
 
 // Title    : Zoo Map"
-// Filename : _ZOO.MAP
 // Author   : Allen H. Blum III
+// Filename : _ZOO.MAP
 // mapmd4   : d35c4fdc5dbe9882ccf6b6c4814185c0 // 1996-04-19
 
 //         <-> _ZOO.mhk
 //         <-> _nwzoo-r18.mhk
 //         <-> _vacazoo-r19.mhk
 
-// Curr. HRP: r5.3.630
+// Curr. HRP: r5.4.726
 
 sprite    75 notmd                 // tile1687 (tile1680 liztroop)
 sprite    74 notmd                 // tile2127 (tile2120 lizman)
@@ -29,9 +29,9 @@ sprite     0 notmd                 // tile0677 (tile0675 egg)
 sprite    46 notmd                 // tile2632 (tile2630 boss1 (battlelord))
 sprite    92 angoff    -768        // tile0056 airtank
 sprite    93 nomdanim              // tile2176 (tile2165 lizmanjump)
-sprite   168 mdzoff     900000     // tile1317 fem2 pole dancer
 sprite   168 pitch      1          // tile1317 fem2 pole dancer
 sprite   168 roll       1          // tile1317 fem2 pole dancer
+sprite   168 mdzoff     900000     // tile1317 fem2 pole dancer
 sprite   197 angoff     1024       // tile0603 naked1 hangbabe
 sprite   160 angoff    -512        // tile0058 (spacesuit)
 
@@ -43,24 +43,24 @@ sprite   166 angoff     1024       // tile0054 shield
 sprite   161 angoff     1024       // tile0051 cola
 sprite   162 angoff     1024       // tile0052 sixpack
 sprite   163 angoff     1024       // tile0053 firstaid
-sprite   177 mdzoff     700000     // tile0025 shrinkersprite
 sprite   177 roll       1          // tile0025 shrinkersprite
+sprite   177 mdzoff     700000     // tile0025 shrinkersprite
 sprite   151 angoff     1024       // tile0029 devistatorsprite
-sprite   151 mdzoff     500000     // tile0029 devistatorsprite
 sprite   151 roll       1          // tile0029 devistatorsprite
+sprite   151 mdzoff     500000     // tile0029 devistatorsprite
 sprite   150 angoff     1024       // tile0042 devistatorammo
 sprite   149 angoff     1024       // tile0042 devistatorammo
 sprite   191 angoff     1024       // tile0023 rpgsprite
-sprite   191 mdzoff     500000     // tile0023 rpgsprite
 sprite   191 roll       1          // tile0023 rpgsprite
+sprite   191 mdzoff     500000     // tile0023 rpgsprite
 sprite   192 angoff     1024       // tile0044 rpgammo
 sprite   193 angoff     1024       // tile0044 rpgammo
 sprite   188 angoff     1024       // tile0022 chaingunsprite
-sprite   188 mdzoff     700000     // tile0022 chaingunsprite
 sprite   188 roll       1          // tile0022 chaingunsprite
+sprite   188 mdzoff     700000     // tile0022 chaingunsprite
 sprite   189 angoff     1024       // tile0041 batteryammo
-sprite   189 mdzoff     500000     // tile0041 batteryammo
 sprite   189 roll       1          // tile0041 batteryammo
+sprite   189 mdzoff     500000     // tile0041 batteryammo
 sprite   190 angoff     1024       // tile0041 batteryammo
 sprite   154 angoff     1024       // tile0028 shotgunsprite
 sprite   155 angoff     1024       // tile0049 shotgunammo

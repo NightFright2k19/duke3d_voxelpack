@@ -1,13 +1,13 @@
 // Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
 
 // Title    : Movie Set
-// Filename : E3L5.map
 // Author   : Richard Bailey Gray (The Levelord)
+// Filename : E3L5.map
 // mapmd4   : 9d88b0c73f274c15cbfb5cde3f1ed815 // 2016-09-23 (World Tour)
 
 //         <-> E3L5_polymost.mhk
 
-// Curr. HRP: r5.3.662
+// Curr. HRP: r5.4.726
 
 // 0-261 | 262-287 | | 294-328 | | 340-477 | 479-488
 sprite   466 angoff     512        // tile0052 sixpack
@@ -16,8 +16,8 @@ sprite   366 angoff     256        // tile0042 devistatorammo
 sprite   408 angoff     768        // tile0047 hbombammo
 sprite   478 angoff     384        // tile1343 (helicopter scrap)
 sprite     8 angoff    -768        // tile0052 sixpack
-sprite   340 mdzoff     550000     // tile0958 (lights)
 sprite   340 pitch     -1          // tile0958 (lights)
+sprite   340 mdzoff     550000     // tile0958 (lights)
 sprite   413 angoff    -768        // tile0037 freezeammo
 sprite   302 angoff    -384        // tile1341 (helicopter scrap)
 sprite   414 angoff     384        // tile0037 freezeammo
@@ -35,10 +35,10 @@ sprite    19 notmd                 // tile0132 slotdoor
 sprite   361 angoff     256        // tile0021 firstgunsprite
 sprite    24 angoff     1024       // tile0059 heatsensor
 sprite   187 notmd                 // tile0132 slotdoor
-sprite   258 angoff     0          // tile0060 accesscard blue
+sprite   258 angoff     0          // tile0060 accesscard [blue]
 sprite   389 angoff    -512        // tile0051 cola
-sprite   372 mdzoff     500000     // tile0044 rpgammo
 sprite   372 pitch     -1          // tile0044 rpgammo
+sprite   372 mdzoff     500000     // tile0044 rpgammo
 sprite   159 angoff    -384        // tile0685 cameralight
 sprite   158 angoff     768        // tile0685 cameralight
 sprite   369 angoff     128        // tile0042 devistatorammo
@@ -66,25 +66,25 @@ sprite   281 nomdanim              // tile2201 lizmanhead1
 sprite   278 notmd                 // tile2301 wallblood1
 sprite   279 nomdanim              // tile2249 (tile2245 jibs1)
 sprite   279 angoff     256        // tile2249 (tile2245 jibs1)
-sprite    71 angoff     0          // tile0060 accesscard yellow
+sprite    71 angoff     0          // tile0060 accesscard [yellow]
 sprite   174 angoff    -256        // tile0685 cameralight
 sprite   171 angoff    -64         // tile0685 cameralight
 sprite     4 angoff    -768        // tile0052 sixpack
 sprite    73 angoff    -960        // tile0680 chair3
-sprite   287 mdzoff     400000     // tile0916 fireext
 sprite   287 pitch      1          // tile0916 fireext
+sprite   287 mdzoff     400000     // tile0916 fireext
 sprite   175 angoff    -96         // tile0685 cameralight
 sprite   411 angoff     512        // tile0025 shrinkersprite
-sprite   411 mdzoff     1500000    // tile0025 shrinkersprite
 sprite   411 pitch     -1          // tile0025 shrinkersprite
+sprite   411 mdzoff     1500000    // tile0025 shrinkersprite
 sprite   360 angoff     1024       // tile0023 rpgsprite
 sprite   388 angoff     256        // tile0051 cola
 sprite   415 angoff    -512        // tile0046 crystalammo
 sprite   102 notmd                 // tile0132 slotdoor
 sprite    39 angoff    -768        // tile0059 heatsensor
-sprite   285 mdzoff     200000     // tile0686 moviecamera
 sprite   285 pitch      1          // tile0686 moviecamera
-sprite   105 angoff     512        // tile0060 accesscard red
+sprite   285 mdzoff     200000     // tile0686 moviecamera
+sprite   105 angoff     512        // tile0060 accesscard [red]
 sprite   409 angoff     1024       // tile0027 tripbombsprite
 sprite     0 angoff    -512        // tile0059 heatsensor
 sprite   391 angoff    -512        // tile0044 rpgammo

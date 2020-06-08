@@ -1,16 +1,19 @@
 // Maphacks for Duke Caribbean: Life's A Beach Plus - Vacation HRP
 
 // Title    : Mr. Splashy's
-// Filename : vaca3.map
 // Author   : Robert Travis
+// Filename : vaca3.map
 // mapmd4   : 5c2648a1178b01243ac6f763f6e74e0b // 2011-03-22 (Vaca Plus r24)
 
-// Curr. HRP: r5.4.*
+// Curr. HRP: r5.4.726
 
 // Vaca Plus Maphacks by Evan 'Hendricks266' Ramos
 
 // secret switch on cola machine
-sprite  1126 notmd
+sprite  1126 notmd                 // tile0132 slotdoor
 
 // wall-aligned tikigod
-sprite  1194 notmd
+sprite  1194 notmd                 // tile3700 [vaca plus tikigod]
+sprite  1194 away1                 // tile3700 [vaca plus tikigod]
+sprite  1205 notmd                 // tile3700 [vaca plus tikigod]
+sprite  1205 away1                 // tile3700 [vaca plus tikigod]

@@ -1,12 +1,12 @@
 // Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
 
 // Title    : The Queen
-// Filename : E4L10.MAP
 // Author   : Randall S Pitchford II
+// Filename : E4L10.MAP
 // mapmd4   : baa499ec699df9df82c942adeb3207f7 // 1996-12-11 (1.3D + Atomic GRP)
 
 
-// Curr. HRP: r5.3.661
+// Curr. HRP: r5.4.726
 
 sprite  1112 angoff     768        // tile2254 (tile2250 jibs2 (eye))
 sprite  1113 notmd                 // tile2301 wallblood1
@@ -16,11 +16,11 @@ sprite    12 notmd                 // tile2301 wallblood1
 sprite    21 notmd                 // tile5093
 sprite    22 notmd                 // tile5093
 sprite   933 angoff     512        // tile0023 rpgsprite
-sprite   933 mdzoff     1200000    // tile0023 rpgsprite
 sprite   933 pitch      1          // tile0023 rpgsprite
+sprite   933 mdzoff     1200000    // tile0023 rpgsprite
 sprite   934 angoff    -512        // tile0023 rpgsprite
-sprite   934 mdzoff     1200000    // tile0023 rpgsprite
 sprite   934 pitch      1          // tile0023 rpgsprite
+sprite   934 mdzoff     1200000    // tile0023 rpgsprite
 sprite   297 angoff    -768        // tile0028 shotgunsprite (multiplayer)
 sprite   298 angoff     768        // tile0028 shotgunsprite (multiplayer)
 sprite   299 angoff     256        // tile0028 shotgunsprite (multiplayer)
@@ -64,13 +64,13 @@ sprite   678 angoff     1024       // tile0052 sixpack
 sprite   316 angoff     512        // tile0047 hbombammo
 sprite   684 angoff     1024       // tile0042 devistatorammo
 sprite   671 angoff     1024       // tile0052 sixpack
-sprite   671 mdzoff     1200000    // tile0052 sixpack
 sprite   671 pitch     -1          // tile0052 sixpack
+sprite   671 mdzoff     1200000    // tile0052 sixpack
 sprite   669 angoff     512        // tile0029 devistatorsprite (multiplayer)
 sprite   700 angoff     1024       // tile0042 devistatorammo
 sprite   315 angoff    -512        // tile0047 hbombammo
-sprite   670 mdzoff     1200000    // tile0052 sixpack
 sprite   670 pitch     -1          // tile0052 sixpack
+sprite   670 mdzoff     1200000    // tile0052 sixpack
 sprite   388 angoff    -512        // tile0029 devistatorsprite (multiplayer)
 sprite   320 angoff     768        // tile0042 devistatorammo
 sprite   578 angoff     512        // tile0044 rpgammo
@@ -80,8 +80,8 @@ sprite   903 angoff     1024       // tile0029 devistatorsprite
 sprite   566 angoff     768        // tile0052 sixpack
 sprite   579 angoff    -832        // tile0023 rpgsprite
 //sprite   579 angoff     0          // tile0023 rpgsprite
-//sprite   579 mdzoff    -730000     // tile0023 rpgsprite
 //sprite   579 roll      -1          // tile0023 rpgsprite
+//sprite   579 mdzoff    -730000     // tile0023 rpgsprite
 sprite   567 angoff    -256        // tile0052 sixpack
 sprite   705 notmd                 // tile5102 (green alien wall texture)
 sprite   706 notmd                 // tile5102 (green alien wall texture)
@@ -95,13 +95,13 @@ sprite   314 angoff    -256        // tile0041 batteryammo
 sprite   840 angoff    -256        // tile0054 shield
 sprite   624 angoff     768        // tile0057 jetpack
 sprite   374 angoff    -640        // tile0054 shield
-sprite   789 angoff     0          // tile0060 accesscard blue
+sprite   789 angoff     0          // tile0060 accesscard [blue]
 sprite   838 angoff    -384        // tile0042 devistatorammo
 sprite   837 angoff    -640        // tile0042 devistatorammo
 sprite   776 angoff     1024       // tile0053 firstaid
 sprite   839 angoff     768        // tile0052 sixpack
-sprite   839 mdzoff     1200000    // tile0052 sixpack
 sprite   839 pitch     -1          // tile0052 sixpack
+sprite   839 mdzoff     1200000    // tile0052 sixpack
 sprite   150 angoff     1024       // tile0061 boots
 sprite   317 angoff    -256        // tile0042 devistatorammo
 sprite   833 angoff    -512        // tile0044 rpgammo
@@ -122,13 +122,13 @@ sprite    29 angoff     1024       // tile0057 jetpack
 sprite   322 angoff     1024       // tile0049 shotgunammo
 sprite   561 angoff    -256        // tile0057 jetpack
 sprite   825 angoff    -640        // tile0054 shield
-sprite   823 angoff     0          // tile0060 accesscard red
+sprite   823 angoff     0          // tile0060 accesscard [red]
 sprite   835 angoff     640        // tile0042 devistatorammo
 sprite   834 angoff     384        // tile0042 devistatorammo
 sprite   836 angoff    -256        // tile0052 sixpack
-sprite   836 mdzoff     1200000    // tile0023 rpgsprite
 sprite   836 pitch     -1          // tile0023 rpgsprite
-sprite   842 angoff     0          // tile0060 accesscard yellow
+sprite   836 mdzoff     1200000    // tile0023 rpgsprite
+sprite   842 angoff     0          // tile0060 accesscard [yellow]
 sprite   843 angoff     128        // tile0052 sixpack
 sprite   844 angoff     512        // tile0055 steroids
 sprite  1051 angoff    -448        // tile0044 rpgammo

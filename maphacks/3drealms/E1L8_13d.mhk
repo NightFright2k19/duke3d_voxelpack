@@ -1,14 +1,14 @@
 // Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
 
 // Title    : User Map
-// Filename : E1L8.MAP
 // Author   : Allen H. Blum III
+// Filename : E1L8.MAP
 // mapmd4   : 38f0de348d3d1e34c1a48f8fb4f6365c // 1996-04-19 (1.3D GRP)
 
 
 //         <-> E1L8.mhk
 
-// Curr. HRP: r5.3.644
+// Curr. HRP: r5.4.726
 
 sprite    21 angoff     640        // tile0054 shield
 sprite    22 angoff     896        // tile0055 steroids

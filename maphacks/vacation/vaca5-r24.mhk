@@ -1,11 +1,13 @@
 // Maphacks for Duke Caribbean: Life's A Beach Plus - Vacation HRP
 
 // Title    : Lost Lagoon
-// Filename : vaca5.map
 // Author   : Robert Travis
+// Filename : vaca5.map
 // mapmd4   : 6a22c0a5792139d0be781da832eff81b // 2011-03-22 (Vaca Plus r24)
 
-// Curr. HRP: r5.4.*
+// Curr. HRP: r5.4.726
+
+// Vaca Plus Maphacks by Evan 'Hendricks266' Ramos
 
 /* *** Comments by Hendricks266 ***
   endlevel nuke is floating in mid air
@@ -15,8 +17,7 @@
   should be at x -49728 y -54144 z -17708
 */
 
-// Vaca Plus Maphacks by Evan 'Hendricks266' Ramos
-
 // small obelisk switches
-sprite   259 notmd2
-sprite   380 notmd2
+sprite   259 notmd                 // tile0132 slotdoor
+sprite   380 notmd                 // tile0132 slotdoor
+//sprite   840 notmd                 // tile0132 slotdoor

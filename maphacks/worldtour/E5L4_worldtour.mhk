@@ -1,12 +1,12 @@
 // Maphacks for the Duke Nukem 3D High Resolution Pack (HRP) / Voxel Pack
 
 // Title    : Mirage Barrage
-// Filename : E5L4.map
 // Author   : Allen H. Blum III
+// Filename : E5L4.map
 // mapmd4   : b97f041bb2e586e4cbec6672e4c9f4d7 // 2016-09-23 (World Tour)
 // mapmd4   : 31234932c234e95c2b2a9a4c22a71404 // 2016-10-26 (NUKEMDAVE ips)
 
-// Curr. HRP: r5.4.709
+// Curr. HRP: r5.4.726
 
 sprite  1260 away1                 // tile0126 (walllight)
 sprite  1141 away1                 // tile0126 (walllight)
@@ -18,11 +18,11 @@ sprite  1146 away1                 // tile0126 (walllight)
 sprite  1147 away1                 // tile0126 (walllight)
 sprite  1148 away1                 // tile0126 (walllight)
 sprite   526 angoff     512        // tile0041 batteryammo
-sprite   526 mdzoff     700000     // tile0041 batteryammo
 sprite   526 roll       1          // tile0041 batteryammo
+sprite   526 mdzoff     700000     // tile0041 batteryammo
 sprite   525 angoff     768        // tile0022 chaingunsprite
-sprite   525 mdzoff     500000     // tile0022 chaingunsprite
 sprite   525 pitch     -1          // tile0022 chaingunsprite
+sprite   525 mdzoff     500000     // tile0022 chaingunsprite
 sprite   718 angoff     1024       // tile0041 batteryammo
 sprite   682 angoff    -640        // tile0052 sixpack
 sprite   985 angoff    -256        // tile1348 holoduke
@@ -44,8 +44,8 @@ sprite   689 angoff    -512        // tile0054 shield
 sprite   563 angoff    -512        // tile0047 hbombammo
 sprite   563 roll      -80         // tile0047 hbombammo
 sprite   702 angoff     512        // tile0028 shotgunsprite
-sprite   702 mdzoff     400000     // tile0028 shotgunsprite
 sprite   702 roll       1          // tile0028 shotgunsprite
+sprite   702 mdzoff     400000     // tile0028 shotgunsprite
 sprite   704 angoff    -512        // tile0049 shotgunammo
 sprite   704 roll      -88         // tile0049 shotgunammo
 sprite   690 angoff     1024       // tile0052 sixpack
@@ -103,7 +103,7 @@ sprite  1293 away1                 // tile0126 (walllight)
 sprite   700 angoff     512        // tile0052 sixpack
 sprite   709 angoff     512        // tile0049 shotgunammo
 sprite   996 angoff    -512        // tile0100 atomichealth
-sprite  1183 angoff    -512        // tile5846 (worldtour serious sam)
+sprite  1183 angoff    -512        // tile5846 [worldtour serious sam]
 sprite   680 angoff    -768        // tile0100 atomichealth
 sprite   681 angoff    -512        // tile0053 firstaid
 sprite   681 roll      -88         // tile0053 firstaid
@@ -129,69 +129,69 @@ sprite   986 angoff    -128        // tile0055 steroids
 sprite   701 angoff     640        // tile0052 sixpack
 sprite  1167 away1                 // tile0126 (walllight)
 sprite  1168 away1                 // tile0126 (walllight)
-sprite    52 angoff     256        // tile0060 accesscard blue
+sprite    52 angoff     256        // tile0060 accesscard [blue]
 sprite   790 angoff    -512        // tile0052 sixpack
 sprite   728 angoff     512        // tile0028 shotgunsprite
 sprite   729 angoff    -512        // tile0049 shotgunammo
-sprite   729 mdzoff     300000     // tile0049 shotgunammo
 sprite   729 pitch     -1          // tile0049 shotgunammo
 sprite   729 roll      -1          // tile0049 shotgunammo
-sprite   730 mdzoff     600000     // tile0049 shotgunammo
+sprite   729 mdzoff     300000     // tile0049 shotgunammo
 sprite   730 pitch     -1          // tile0049 shotgunammo
+sprite   730 mdzoff     600000     // tile0049 shotgunammo
 sprite   733 angoff     512        // tile0040 ammo
 sprite   992 angoff     512        // tile0027 tripbombsprite
 sprite   780 angoff    -512        // tile0041 batteryammo
 sprite  1178 angoff     1024       // tile0047 hbombammo
-sprite  1178 mdzoff     500000     // tile0047 hbombammo
 sprite  1178 pitch      1          // tile0047 hbombammo
-sprite   205 mdzoff     350000     // tile0621 camera1
+sprite  1178 mdzoff     500000     // tile0047 hbombammo
 sprite   205 pitch     -1          // tile0621 camera1
+sprite   205 mdzoff     350000     // tile0621 camera1
 sprite   734 angoff    -512        // tile0052 sixpack
 sprite   770 angoff     512        // tile0040 ammo
+sprite   206 pitch      1          // tile0621 camera1
 sprite   206 mdxoff     60000      // tile0621 camera1
 sprite   206 mdzoff     50000      // tile0621 camera1
-sprite   206 pitch      1          // tile0621 camera1
 sprite   732 angoff     256        // tile0047 hbombammo
-sprite   732 mdzoff     500000     // tile0047 hbombammo
 sprite   732 roll      -1          // tile0047 hbombammo
+sprite   732 mdzoff     500000     // tile0047 hbombammo
 sprite   781 angoff     1024       // tile0041 batteryammo
 sprite   736 angoff     1024       // tile0052 sixpack
-sprite   736 mdzoff     500000     // tile0052 sixpack
 sprite   736 pitch     -1          // tile0052 sixpack
+sprite   736 mdzoff     500000     // tile0052 sixpack
 sprite   897 angoff    -768        // tile0049 shotgunammo
 sprite   984 angoff     1024       // tile1348 holoduke (multiplayer)
 sprite   895 angoff    -512        // tile0052 sixpack
 sprite   737 angoff     256        // tile0052 sixpack
-sprite   913 away1                 // tile5773 (worldtour hieroglyph air)
-sprite   190 mdzoff     10000      // tile0162 dipswitch
+sprite   913 away1                 // tile5773 [worldtour hieroglyph air]
 sprite   190 pitch     -1          // tile0162 dipswitch
+sprite   190 mdzoff     10000      // tile0162 dipswitch
 sprite   782 angoff     768        // tile0041 batteryammo
 sprite   763 angoff    -768        // tile0052 sixpack
 sprite   772 angoff     512        // tile0040 ammo
 sprite   777 angoff    -256        // tile0049 shotgunammo
-sprite   777 mdzoff     200000     // tile0049 shotgunammo
 sprite   777 pitch      1          // tile0049 shotgunammo
 sprite   777 roll       1          // tile0049 shotgunammo
+sprite   777 mdzoff     200000     // tile0049 shotgunammo
 sprite   885 away1                 // tile1155 (handprintswitch)
 sprite   889 angoff     256        // tile0049 shotgunammo
-sprite   785 mdzoff     500000     // tile0054 shield
 sprite   785 roll      -1          // tile0054 shield
+sprite   785 mdzoff     500000     // tile0054 shield
 sprite   743 angoff    -256        // tile0052 sixpack
-sprite   978 angoff     512        // tile5134 flamethrowersprite
-sprite   980 angoff     256        // tile5135 flamethrowerammo
-sprite   979 angoff     768        // tile5135 flamethrowerammo
+sprite   978 angoff     512        // tile5134 [worldtour flamethrowersprite]
+sprite   980 angoff     256        // tile5135 [worldtour flamethrowerammo]
+sprite   979 angoff     768        // tile5135 [worldtour flamethrowerammo]
 sprite   742 angoff    -512        // tile0052 sixpack
-sprite   742 mdzoff     500000     // tile0052 sixpack
 sprite   742 pitch     -1          // tile0052 sixpack
-sprite   886 away1                 // tile5774 (worldtour hieroglyph fire)
-sprite   199 mdzoff     10000      // tile0162 dipswitch
+sprite   742 mdzoff     500000     // tile0052 sixpack
+sprite   886 away1                 // tile5774 [worldtour hieroglyph fire]
 sprite   199 pitch     -1          // tile0162 dipswitch
+sprite   199 mdzoff     10000      // tile0162 dipswitch
 sprite   744 angoff     1024       // tile0047 hbombammo
-sprite   744 mdzoff     500000     // tile0047 hbombammo
 sprite   744 pitch     -1          // tile0047 hbombammo
+sprite   744 mdzoff     500000     // tile0047 hbombammo
 sprite   786 angoff     512        // tile0047 hbombammo
-sprite   786 mdzoff     500000     // tile0047 hbombammo
 sprite   786 pitch     -1          // tile0047 hbombammo
+sprite   786 mdzoff     500000     // tile0047 hbombammo
 sprite   745 angoff     512        // tile0052 sixpack
 sprite   746 angoff     256        // tile0052 sixpack
 sprite   977 angoff     512        // tile0100 atomichealth
@@ -201,19 +201,19 @@ sprite   747 angoff     896        // tile0052 sixpack
 sprite   974 angoff     512        // tile0024 freezesprite
 sprite   975 angoff     128        // tile0037 freezeammo
 sprite   976 angoff     896        // tile0037 freezeammo
-sprite   887 away1                 // tile5772 (worldtour hieroglyph water)
-sprite   186 mdzoff     10000      // tile0162 dipswitch
+sprite   887 away1                 // tile5772 [worldtour hieroglyph water]
 sprite   186 pitch     -1          // tile0162 dipswitch
+sprite   186 mdzoff     10000      // tile0162 dipswitch
 sprite  1175 angoff     1024       // tile0053 firstaid
-sprite  1175 mdzoff     500000     // tile0053 firstaid
 sprite  1175 roll       1          // tile0053 firstaid
+sprite  1175 mdzoff     500000     // tile0053 firstaid
 sprite   973 angoff     256        // tile0044 rpgammo
 sprite   787 angoff     512        // tile0023 rpgsprite
 sprite   308 away1                 // tile1648 (tile1646 shrinkspark)
 sprite   748 angoff     768        // tile0044 rpgammo (multiplayer)
 sprite   749 angoff     256        // tile0052 sixpack
-sprite   784 mdzoff     700000     // tile0041 batteryammo
 sprite   784 roll       1          // tile0041 batteryammo
+sprite   784 mdzoff     700000     // tile0041 batteryammo
 sprite   775 angoff     256        // tile0040 ammo
 sprite   788 angoff     768        // tile0040 ammo
 sprite   789 angoff    -512        // tile0100 atomichealth
@@ -221,42 +221,42 @@ sprite   750 angoff     768        // tile0052 sixpack
 sprite   779 angoff     768        // tile0049 shotgunammo
 sprite   970 angoff     1024       // tile0025 shrinkersprite
 sprite   971 angoff     512        // tile0046 crystalammo (multiplayer)
-sprite   971 mdzoff     700000     // tile0046 crystalammo (multiplayer)
 sprite   971 pitch     -1          // tile0046 crystalammo (multiplayer)
+sprite   971 mdzoff     700000     // tile0046 crystalammo (multiplayer)
 sprite   972 angoff     512        // tile0046 crystalammo
-sprite   972 mdzoff     600000     // tile0046 crystalammo
 sprite   972 pitch      1          // tile0046 crystalammo
-sprite   888 away1                 // tile5771 (worldtour hieroglyph earth)
-sprite   204 mdzoff     10000      // tile0162 dipswitch
+sprite   972 mdzoff     600000     // tile0046 crystalammo
+sprite   888 away1                 // tile5771 [worldtour hieroglyph earth]
 sprite   204 pitch     -1          // tile0162 dipswitch
-sprite   228 mdzoff     10000      // tile0162 dipswitch
+sprite   204 mdzoff     10000      // tile0162 dipswitch
 sprite   228 pitch     -1          // tile0162 dipswitch
+sprite   228 mdzoff     10000      // tile0162 dipswitch
 sprite   896 angoff    -256        // tile0052 sixpack
 sprite   982 angoff     1024       // tile0041 batteryammo
 sprite   898 angoff     256        // tile0049 shotgunammo
 sprite   776 angoff     384        // tile0049 shotgunammo
 sprite   987 angoff     512        // tile0055 steroids
 sprite   735 angoff     512        // tile0052 sixpack
+sprite   812 roll      -512        // tile0029 devistatorsprite
 sprite   812 mdyoff    -50         // tile0029 devistatorsprite
 sprite   812 mdzoff    -4000       // tile0029 devistatorsprite
-sprite   812 roll      -512        // tile0029 devistatorsprite
 sprite   817 angoff     512        // tile0042 devistatorammo
-sprite   817 mdzoff     200000     // tile0042 devistatorammo
 sprite   817 roll       1          // tile0042 devistatorammo
+sprite   817 mdzoff     200000     // tile0042 devistatorammo
 sprite   818 angoff     512        // tile0042 devistatorammo
-sprite   818 mdzoff     200000     // tile0042 devistatorammo
 sprite   818 roll      -1          // tile0042 devistatorammo
+sprite   818 mdzoff     200000     // tile0042 devistatorammo
 sprite   814 angoff     512        // tile0028 shotgunsprite
-sprite   814 mdzoff     200000     // tile0028 shotgunsprite
 sprite   814 pitch     -1          // tile0028 shotgunsprite
+sprite   814 mdzoff     200000     // tile0028 shotgunsprite
 sprite   815 angoff    -512        // tile0049 shotgunammo
-sprite   815 mdzoff     150000     // tile0049 shotgunammo
 sprite   815 pitch     -1          // tile0049 shotgunammo
 sprite   815 roll      -2          // tile0049 shotgunammo
+sprite   815 mdzoff     150000     // tile0049 shotgunammo
 sprite   816 angoff    -512        // tile0049 shotgunammo
-sprite   816 mdzoff     150000     // tile0049 shotgunammo
 sprite   816 pitch     -1          // tile0049 shotgunammo
 sprite   816 roll       2          // tile0049 shotgunammo
+sprite   816 mdzoff     150000     // tile0049 shotgunammo
 sprite   820 angoff     384        // tile0052 sixpack
 sprite   832 angoff     640        // tile0042 devistatorammo
 sprite   991 angoff    -512        // tile0027 tripbombsprite
@@ -270,7 +270,7 @@ sprite   822 angoff    -640        // tile0052 sixpack
 sprite   831 angoff    -384        // tile0042 devistatorammo
 sprite   821 angoff     896        // tile0052 sixpack
 sprite   833 angoff    -896        // tile0042 devistatorammo
-sprite   993 angoff     0          // tile5134 flamethrowersprite (multiplayer)
-sprite   994 angoff     512        // tile5135 flamethrowerammo (multiplayer)
-sprite   995 angoff    -512        // tile5135 flamethrowerammo (multiplayer)
+sprite   993 angoff     0          // tile5134 (multiplayer) [worldtour flamethrowersprite]
+sprite   994 angoff     512        // tile5135 (multiplayer) [worldtour flamethrowerammo]
+sprite   995 angoff    -512        // tile5135 (multiplayer) [worldtour flamethrowerammo]
 sprite  1192 angoff     0          // tile0142 nukebutton
