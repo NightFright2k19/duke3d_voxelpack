@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Jun 8, 2020
+Release Date: Jul 21, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -256,8 +256,8 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Jun 8, 2020)
--------------------------
+Version 1.3 (Jul 21, 2020)
+--------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
      + Monsters: 558/675 (Slimer egg), 1880 (Sentry drone), 1975 (Pigcop tank), 2350 (Gun turret)
