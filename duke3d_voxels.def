@@ -16,3 +16,6 @@ include voxels/props.def
 include voxels/signs.def
 include voxels/switches.def
 
+// Duke Caribbean
+// include voxels/vacation.def
+

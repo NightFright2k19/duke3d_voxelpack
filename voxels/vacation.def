@@ -1,0 +1,8 @@
+// Duke Caribbean definitions
+
+include voxels/vacation/pickups.def
+include voxels/vacation/props.def
+
+// DukeGDX definitions (with rotation)
+// include voxels/vacation/pickups_gdx.def
+

@@ -8,6 +8,8 @@ include voxels/props.def
 include voxels/signs.def
 include voxels/switches.def
 
-// Voxel pickups rotation
+// DukeGDX definitions (with rotation)
 // include voxels/pickups_gdx.def
 
+// Duke Caribbean
+// include voxels/vacation.def

@@ -1,0 +1,19 @@
+// Voxel pickups (Duke Caribbean, DukeGDX only)
+
+voxel "voxels/vacation/pickups/0021_waterpistol.kvx" { tile 21 rotate }
+voxel "voxels/vacation/pickups/0025_voodooring.kvx" { tile 25 rotate }
+voxel "voxels/vacation/pickups/0027_voodootripbomb.kvx" { tile 27 rotate }
+voxel "voxels/vacation/pickups/0028_supersoakem.kvx" { tile 28 rotate }
+
+voxel "voxels/vacation/pickups/0040_waterpistolammo.kvx" { tile 40 rotate }
+voxel "voxels/vacation/pickups/0041_triplepoisonshooterammo.kvx" { tile 41 rotate }
+voxel "voxels/vacation/pickups/0049_supersoakemammo.kvx" { tile 49 rotate }
+
+voxel "voxels/vacation/pickups/0051_banana.kvx" { tile 51 rotate }
+voxel "voxels/vacation/pickups/0052_bananabunch.kvx" { tile 52 rotate }
+voxel "voxels/vacation/pickups/0053_bananacrate.kvx" { tile 53 rotate }
+voxel "voxels/vacation/pickups/0054_suntanlotion.kvx" { tile 54 rotate }
+voxel "voxels/vacation/pickups/0055_hotsauce.kvx" { tile 55 rotate }
+voxel "voxels/vacation/pickups/0059_sunglasses.kvx" { tile 59 rotate }
+
+voxel "voxels/vacation/pickups/0060_creditcard.kvx" { tile 60 rotate }
