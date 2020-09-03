@@ -12,4 +12,4 @@ include voxels/switches.def
 // include voxels/pickups_gdx.def
 
 // Duke Caribbean
-// include voxels/vacation.def
+includeif vacation.grp voxels/vacation.def
