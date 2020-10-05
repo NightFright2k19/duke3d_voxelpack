@@ -1,5 +1,9 @@
 // Voxel props (Duke Caribbean)
 
+voxel "voxels/vacation/props/0955_bluedrink.kvx" { tile 955 }
 voxel "voxels/vacation/props/0956_cocktail.kvx" { tile 956 }
+
+voxel "voxels/vacation/props/3695_parasol.kvx" { tile 3695 }
+
 voxel "voxels/vacation/props/3791_coolbox.kvx" { tile 3791 }
 voxel "voxels/vacation/props/3792_radio.kvx" { tile 3792 }

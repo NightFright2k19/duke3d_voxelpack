@@ -1,9 +1,17 @@
 // Voxel pickups (Duke Caribbean)
 
 voxel "voxels/vacation/pickups/0021_waterpistol.kvx" { tile 21 }
+voxel "voxels/vacation/pickups/0022_triplepoisonshooter.kvx" { tile 22 }
+voxel "voxels/vacation/pickups/0023_coconutlauncher.kvx" { tile 23 }
+voxel "voxels/vacation/pickups/0024_icecrusher.kvx" { tile 24 }
 voxel "voxels/vacation/pickups/0025_voodooring.kvx" { tile 25 }
 voxel "voxels/vacation/pickups/0027_voodootripbomb.kvx" { tile 27 }
 voxel "voxels/vacation/pickups/0028_supersoakem.kvx" { tile 28 }
+
+animtilerange 37 39 0 2
+voxel "voxels/vacation/pickups/0037_icecrusherammo1.kvx" { tile 37 }
+voxel "voxels/vacation/pickups/0038_icecrusherammo2.kvx" { tile 38 }
+voxel "voxels/vacation/pickups/0039_icecrusherammo3.kvx" { tile 39 }
 
 voxel "voxels/vacation/pickups/0040_waterpistolammo.kvx" { tile 40 }
 voxel "voxels/vacation/pickups/0041_triplepoisonshooterammo.kvx" { tile 41 }
@@ -14,6 +22,7 @@ voxel "voxels/vacation/pickups/0052_bananabunch.kvx" { tile 52 }
 voxel "voxels/vacation/pickups/0053_bananacrate.kvx" { tile 53 }
 voxel "voxels/vacation/pickups/0054_suntanlotion.kvx" { tile 54 }
 voxel "voxels/vacation/pickups/0055_hotsauce.kvx" { tile 55 }
+voxel "voxels/vacation/pickups/0056_snorkle.kvx" { tile 56 }
 voxel "voxels/vacation/pickups/0059_sunglasses.kvx" { tile 59 }
 
 voxel "voxels/vacation/pickups/0060_creditcard.kvx" { tile 60 }

@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Sep 2, 2020
+Release Date: Oct 5, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -216,7 +216,7 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> mxrtxn (32)
+> mxrtxn (41)
      - 584 ................ Sensor
      - 621 ................ Security camera
      - 1014 ............... Bottle
@@ -231,9 +231,13 @@ Contributions by:
 
      Caribbean:
      - 21 ................. Water pistol
+     - 22 ................. Triple poison shooter
+     - 23 ................. Coconut launcher
+     - 24 ................. Ice crusher
      - 25 ................. Voodoo ring
      - 27 ................. Voodoo trip bomb
      - 28 ................. Super Soak'em
+     - 37-39 .............. Ice crusher ammo
      - 40 ................. Water pistol ammo
      - 41 ................. Triple poison shooter ammo
      - 49 ................. Super Soak'em ammo
@@ -242,9 +246,12 @@ Contributions by:
      - 53 ................. Crate of bananas
      - 54 ................. Suntan lotion
      - 55 ................. Hot sauce
+     - 56 ................. Snorkle
      - 59 ................. Sunglasses
      - 60 ................. Credit card
+     - 955 ................ Blue drink
      - 956 ................ Cocktail
+     - 3695 ............... Parasol
      - 3791 ............... Cooling box
      - 3792 ............... Radio
 
@@ -275,7 +282,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Sep 2, 2020)
+Version 1.3 (Oct 5, 2020)
 -------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
@@ -306,10 +313,11 @@ Version 1.3 (Sep 2, 2020)
      + Switches: 138/139 (slideswitch), 140/141 (leverswitch), 142-145 (nuke button), 
                  1111/1112 (handswitch), 1122/1123 (flipswitch), 1142/1143 (bighole switch), 
                  4483 (broken switch #1), 4954 (broken switch #2)
-     + Vacation: 21 (water pistol), 25 (voodoo ring), 27 (voodoo trip bomb), 28 (Super Soak'em), 40 (water pistol ammo), 
+     + Vacation: 21 (water pistol), 22 (triple poison shooter), 23 (coconut launcher), 24 (ice crusher), 25 (voodoo ring), 
+                 27 (voodoo trip bomb), 28 (Super Soak'em), 37-39 (ice crusher ammo), 40 (water pistol ammo), 
                  41 (triple poison shooter ammo), 49 (Super Soak'em ammo), 51 (banana), 52 (bunch of bananas),
-                 53 (crate of bananas), 54 (suntan lotion), 55 (hot sauce), 59 (sunglasses), 60 (credit card), 
-                 956 (cocktail), 3791 (cooling box), 3792 (radio)
+                 53 (crate of bananas), 54 (suntan lotion), 55 (hot sauce), 56 (snorkle), 59 (sunglasses), 60 (credit card), 
+                 955 (blue drink), 956 (cocktail), 3695 (parasol), 3791 (cooling box), 3792 (radio)
 
 > Updated:
      + Props: 574/670 (faucet1+2), 954 (bottle1)
