@@ -173,6 +173,9 @@ voxel "voxels/props/4372_coffeemachine.kvx" { tile 4372 }
 voxel "voxels/props/4373_cups.kvx" { tile 4373 }
 voxel "voxels/props/4377_policelightpole.kvx" { tile 4377 }
 
+voxel "voxels/props/4407_annoying_mouse_A.kvx" { tile 4407 }
+voxel "voxels/props/4408_annoying_mouse_B.kvx" { tile 4408 }
+
 voxel "voxels/props/4426_bowlingpin.kvx" { tile 4426 }
 voxel "voxels/props/4429_fence1.kvx" { tile 4429 }
 
