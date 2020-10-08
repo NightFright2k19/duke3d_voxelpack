@@ -83,6 +83,8 @@ voxel "voxels/props/0920_chain.kvx" { tile 920 }
 
 voxel "voxels/props/0939_cactusstump.kvx" { tile 939 }
 
+voxel "voxels/props/0944_pipe.kvx" { tile 944 }
+
 voxel "voxels/props/0950_brokehydrant.kvx" { tile 950 }
 voxel "voxels/props/0951_box.kvx" { tile 951 }
 voxel "voxels/props/0954_bottle1.kvx" { tile 954 }
@@ -101,7 +103,14 @@ voxel "voxels/props/0981_hydrant.kvx" { tile 981 }
 
 voxel "voxels/props/0990_tires.kvx" { tile 990 }
 
+voxel "voxels/props/0995_pipe.kvx" { tile 995 }
+voxel "voxels/props/0996_pipe.kvx" { tile 996 }
+voxel "voxels/props/0997_damaged_pipe.kvx" { tile 997 }
+
 voxel "voxels/props/1003_brokehydroplant.kvx" { tile 1003 }
+
+voxel "voxels/props/1005_damaged_pipe.kvx" { tile 1005 }
+
 voxel "voxels/props/1006_barstool.kvx" { tile 1006 }
 
 voxel "voxels/props/1012_bottle5.kvx" { tile 1012 }
@@ -161,6 +170,8 @@ voxel "voxels/props/1242_firebarrel3.kvx" { tile 1242 }
 voxel "voxels/props/1243_firebarrel4.kvx" { tile 1243 }
 
 voxel "voxels/props/1247_seenine.kvx" { tile 1247 }
+
+voxel "voxels/props/1260_damaged_pipe.kvx" { tile 1260 }
 
 voxel "voxels/props/1353_spacemarine.kvx" { tile 1353 }
 
