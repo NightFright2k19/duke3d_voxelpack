@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Oct 5, 2020
+Release Date: Oct 8, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -216,6 +216,11 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
+> Dzierzan (8)
+     - 944/995/996 ........ Pipes
+     - 997/1005/1260 ...... Broken pipes
+     - 4407/4408 .......... Annoying mouse
+
 > mxrtxn (41)
      - 584 ................ Sensor
      - 621 ................ Security camera
@@ -282,7 +287,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Oct 5, 2020)
+Version 1.3 (Oct 8, 2020)
 -------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
@@ -296,16 +301,17 @@ Version 1.3 (Oct 5, 2020)
               691 (cleaver), 692 (knife), 694 (pot1), 695 (pot2), 697 (pot3), 698 (sushi plate), 753/869 (geisha), 
               762 (mike), 765 (vase), 908 (tree1), 910 (tree2), 911/939 (cactus + stomp), 913 (maskwall2), 
               914 (maskwall3), 915 (gate), 916 (fire extinguisher), 917 (fire alarm), 918 (meter3), 919 (meter2), 
-              920 (chain), 925 (neon1), 926 (neon2), 951 (box), 955-957 (bottle2-4), 962 (fence), 969/1003 (hydroplant), 
-              981/950 (hydrant), 990 (tires), 1012 (bottle5), 1013 (bottle6), 1014 (bottle), 1025 (bottle7), 1045 (donuts), 
-              1048 (two cables), 1049 (electric meter), 1061/1078 (double spotlight), 1062/1063 (rubber can), 
-              1073 (life buoy), 1075/1076 (painting #1/2), 1079-1081 (oozefilter), 1158 (bottle11), 1160 (bottle13), 
-              1164-1166 (bottle17-19), 1227-1230 (nuke barrel), 1232 (trash can), 1238 (metal barrel), 
-              1240-1243 (firebarrel), 1247 (C-9 can), 1353 (Space Marine), 4360 (gunpowder barrel), 4367 (hatrack), 
-              4370 (desk lamp), 4371 (police shield), 4372 (coffee machine), 4377 (police light pole), 
-              4426 (bowling pin), 4429 (fence), 4438 (mug), 4440 (donuts), 4443 (US flag), 4444 (VHS camera), 
-              4454 (deskphone), 4458/4459 (gumball machine), 4464 (mace), 4495 ("Wet Floor" sign), 4524 ("Steed" hooks), 
-              4536-4539 (foodobject7-10), 4576 (shopping cart), 4580-4582 (barrels), 4589 (warning sign), 4885 (driver wheel)
+              920 (chain), 925 (neon1), 926 (neon2), 944/995/996 (pipes), 951 (box), 955-957 (bottle2-4), 962 (fence),
+              969/1003 (hydroplant), 981/950 (hydrant), 990 (tires), 997/1005/1260 (broken pipes), 1012 (bottle5), 
+              1013 (bottle6), 1014 (bottle), 1025 (bottle7), 1045 (donuts), 1048 (two cables), 1049 (electric meter), 
+              1061/1078 (double spotlight), 1062/1063 (rubber can), 1073 (life buoy), 1075/1076 (painting #1/2), 
+              1079-1081 (oozefilter), 1158 (bottle11), 1160 (bottle13), 1164-1166 (bottle17-19), 1227-1230 (nuke barrel),
+              1232 (trash can), 1238 (metal barrel), 1240-1243 (firebarrel), 1247 (C-9 can), 1353 (Space Marine), 
+              4360 (gunpowder barrel), 4367 (hatrack), 4370 (desk lamp), 4371 (police shield), 4372 (coffee machine), 
+              4377 (police light pole), 4426 (bowling pin), 4429 (fence), 4438 (mug), 4440 (donuts), 4443 (US flag), 
+              4444 (VHS camera), 4454 (deskphone), 4458/4459 (gumball machine), 4464 (mace), 4495 ("Wet Floor" sign), 
+              4524 ("Steed" hooks), 4536-4539 (foodobject7-10), 4576 (shopping cart), 4580-4582 (barrels), 
+              4589 (warning sign), 4885 (driver wheel)
      + Signs: 728 ("Federal Loan and Trust"), 937 ("Forbidden Videos & Books"), 938 ("San Andreas Fault"), 
               961 ("Exit"), 1007 (neon3), 1008 (neon4), 1046 ("Arcade"), 1172 ("Secured Area"), 
               1210 ("Guilty!"), 1211 ("Innocent?"), 4891 ("We Store Your Crap"), 4930 ("E Pluribus Nukem"), 
