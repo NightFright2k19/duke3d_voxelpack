@@ -21,3 +21,6 @@ voxel "voxels/monsters/1975_tank_wreck.kvx" { tile 1996 scale .94 }
 voxel "voxels/monsters/2350_turret1.kvx" { tile0 2350 tile1 2354 }
 voxel "voxels/monsters/2355_turret2.kvx" { tile0 2355 tile1 2359 }
 voxel "voxels/monsters/2360_turret3.kvx" { tile0 2360 tile1 2364 }
+
+// Cannon (1810)
+voxel "voxels/monsters/1810_cannon.kvx" { tile0 1810 tile1 1816 }
