@@ -188,6 +188,8 @@ voxel "voxels/props/4372_coffeemachine.kvx" { tile 4372 }
 voxel "voxels/props/4373_cups.kvx" { tile 4373 }
 voxel "voxels/props/4377_policelightpole.kvx" { tile 4377 }
 
+voxel "voxels/props/4388_bin.kvx" { tile 4388 }
+
 voxel "voxels/props/4407_mouse1.kvx" { tile 4407 }
 voxel "voxels/props/4408_mouse2.kvx" { tile 4408 }
 
