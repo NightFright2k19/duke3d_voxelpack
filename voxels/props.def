@@ -210,6 +210,8 @@ voxel "voxels/props/4464_mace.kvx" { tile 4464 }
 
 voxel "voxels/props/4495_wetfloor.kvx" { tile 4495 }
 
+voxel "voxels/props/4496_broom.kvx" { tile 4496 }
+
 voxel "voxels/props/4524_steedhooks.kvx" { tile 4524 }
 
 voxel "voxels/props/4536_foodobject7.kvx" { tile 4536 }
