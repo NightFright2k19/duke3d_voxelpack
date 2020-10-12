@@ -222,7 +222,7 @@ voxel "voxels/props/4546_foodobject17.kvx" { tile 4546 }
 voxel "voxels/props/4547_foodobject18.kvx" { tile 4547 }
 voxel "voxels/props/4548_foodobject19.kvx" { tile 4548 }
 
-voxel "voxels/props/4550_small_red_lamp.kvx" { tile 4550 }
+voxel "voxels/props/4550_redlamp.kvx" { tile 4550 }
 
 voxel "voxels/props/4569_burgerbox.kvx" { tile 4569 }
 
