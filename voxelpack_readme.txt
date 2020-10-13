@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Oct 12, 2020
+Release Date: Oct 13, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -217,7 +217,7 @@ Contributions by:
      - 4373 ............... Cups
 
 > Dzierzan (14)
-     - 944/995/996 ........ Pipes
+     - 994-996 ............ Pipes
      - 997/1005/1260 ...... Broken pipes
      - 1810 ............... Cannon
      - 1817 ............... Cannonball
@@ -293,7 +293,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Oct 12, 2020)
+Version 1.3 (Oct 13, 2020)
 --------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
@@ -307,7 +307,7 @@ Version 1.3 (Oct 12, 2020)
               691 (cleaver), 692 (knife), 694 (pot1), 695 (pot2), 697 (pot3), 698 (sushi plate), 753/869 (geisha), 
               762 (mike), 765 (vase), 908 (tree1), 910 (tree2), 911/939 (cactus + stomp), 913 (maskwall2), 
               914 (maskwall3), 915 (gate), 916 (fire extinguisher), 917 (fire alarm), 918 (meter3), 919 (meter2), 
-              920 (chain), 925 (neon1), 926 (neon2), 944/995/996 (pipes), 951 (box), 955-957 (bottle2-4), 962 (fence),
+              920 (chain), 925 (neon1), 926 (neon2), 994-996 (pipes), 951 (box), 955-957 (bottle2-4), 962 (fence),
               969/1003 (hydroplant), 981/950 (hydrant), 990 (tires), 997/1005/1260 (broken pipes), 1012 (bottle5), 
               1013 (bottle6), 1014 (bottle), 1025 (bottle7), 1045 (donuts), 1048 (two cables), 1049 (electric meter), 
               1061/1078 (double spotlight), 1062/1063 (rubber can), 1073 (life buoy), 1075/1076 (painting #1/2), 
