@@ -223,6 +223,8 @@ voxel "voxels/props/4548_foodobject19.kvx" { tile 4548 }
 
 voxel "voxels/props/4550_redlamp.kvx" { tile 4550 }
 
+voxel "voxels/props/4552_can_with_worms.kvx" { tile 4552 }
+
 voxel "voxels/props/4569_burgerbox.kvx" { tile 4569 }
 
 voxel "voxels/props/4576_shoppingcart.kvx" { tile 4576 }
