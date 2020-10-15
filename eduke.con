@@ -5,7 +5,7 @@ include game.con
 
 // Voxel animations
 include scripts/freezeammo.con
-include scripts/holoduke.con
+// include scripts/holoduke.con
 
 // Voxel pickups rotation
 // include scripts/rotation.con

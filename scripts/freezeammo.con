@@ -1,5 +1,5 @@
 // Freezer ammo animation
-action FREEZEAMMO_FRAMES 0 3 1 1 1
+action FREEZEAMMO_FRAMES 0 3 1 1 6
 actor FREEZEAMMO 0 FREEZEAMMO_FRAMES
    fall
    ifmove RESPAWN_ACTOR_FLAG
