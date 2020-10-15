@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Oct 13, 2020
+Release Date: Oct 15, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -216,7 +216,8 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (14)
+> Dzierzan (16)
+     - 543 ................ Panel
      - 994-996 ............ Pipes
      - 997/1005/1260 ...... Broken pipes
      - 1810 ............... Cannon
@@ -226,6 +227,7 @@ Contributions by:
      - 4457 ............... Rope
      - 4496 ............... Broom
      - 4550 ............... Red lamp
+     - 4552 ............... Worms can
 
 > mxrtxn (41)
      - 584 ................ Sensor
@@ -293,7 +295,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Oct 13, 2020)
+Version 1.3 (Oct 15, 2020)
 --------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
@@ -301,7 +303,7 @@ Version 1.3 (Oct 13, 2020)
      + Pickups: 25 (Shrinker), 32 (Expander), 45 (Expander ammo), 56 (scuba gear), 57 (jetpack),
                 100-115 (Atomic Health)
      + Projectiles: 1650-1653 (mortar), 2566 (tripbomb)
-     + Props: 58 (spacesuit), 551-554 (lightdome), 556/559 (armchair), 563-565 (water fountain), 
+     + Props: 58 (spacesuit), 543 (panel), 551-554 (lightdome), 556/559 (armchair), 563-565 (water fountain), 
               569/615 (toilet), 571/573 (urinal), 584 (sensor), 606 (spacesuit corpse), 607/608 (antenna),
               669 (vacuum cleaner), 671 (faucet3), 678 (scale), 680-684 (chair3), 685 (stage light), 689 (IV unit),
               691 (cleaver), 692 (knife), 694 (pot1), 695 (pot2), 697 (pot3), 698 (sushi plate), 753/869 (geisha), 
@@ -317,8 +319,8 @@ Version 1.3 (Oct 13, 2020)
               4371 (police shield), 4372 (coffee machine), 4377 (police light pole), 4426 (bowling pin), 4429 (fence),
               4438 (mug), 4440 (donuts), 4443 (US flag), 4444 (VHS camera), 4454 (deskphone), 4457 (rope), 
               4458/4459 (gumball machine), 4464 (mace), 4495 ("Wet Floor" sign), 4496 (broom), 4524 ("Steed" hooks), 
-              4536-4539 (foodobject7-10), 4550 (red lamp), 4576 (shopping cart), 4580-4582 (barrels), 4589 (warning sign), 
-              4885 (driver wheel)
+              4536-4539 (foodobject7-10), 4550 (red lamp), 4552 (worms can), 4576 (shopping cart), 4580-4582 (barrels),
+              4589 (warning sign), 4885 (driver wheel)
      + Signs: 728 ("Federal Loan and Trust"), 937 ("Forbidden Videos & Books"), 938 ("San Andreas Fault"), 
               961 ("Exit"), 1007 (neon3), 1008 (neon4), 1046 ("Arcade"), 1172 ("Secured Area"), 
               1210 ("Guilty!"), 1211 ("Innocent?"), 4891 ("We Store Your Crap"), 4930 ("E Pluribus Nukem"), 
@@ -336,7 +338,8 @@ Version 1.3 (Oct 13, 2020)
      + Props: 574/670 (faucet1+2), 954 (bottle1)
      + Voxel orientations: 40, 45, 670, 753, 869, 1008, 4438, 4443, 4444, 4546, 4547, 4548, 4569, 4576
      + Maphacks: Based on Duke3D HRP SVN r727; E1L1/NW2 (#925 neon1 updated), E3L4 (#678 scale angoff added),
-                 E3L7 (#607 antenna angoff updated), E4L5 (#4377 policelightpole added), E4L8 (#4443 flag updated)
+                 E3L7 (#607 antenna angoff updated), E4L2 (#476-478 foodobject18 updated + #572 wormscan added), 
+                 E4L5 (#4377 policelightpole added), E4L8 (#4443 flag updated)
      + duke3d.def: Option to undefine HRP models (only when using VP with HRP)
      + eduke.con: Voxel rotation deactivated by default
      + rotation.con: 4 useless cases (AMMOBOX, AMMOLOTS, HEALTHBOX, INVENTORYBOX) removed

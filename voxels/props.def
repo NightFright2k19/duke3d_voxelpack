@@ -2,7 +2,7 @@
 
 voxel "voxels/props/0058_spacesuit.kvx" { tile 58 }
 
-voxel "voxels/props/0543_panel.kvx" { tile 0543 }
+voxel "voxels/props/0543_panel.kvx" { tile 543 }
 
 voxel "voxels/props/0551_lightdome1.kvx" { tile 551 }
 voxel "voxels/props/0552_lightdome2.kvx" { tile 552 }
@@ -224,8 +224,7 @@ voxel "voxels/props/4547_foodobject18.kvx" { tile 4547 }
 voxel "voxels/props/4548_foodobject19.kvx" { tile 4548 }
 
 voxel "voxels/props/4550_redlamp.kvx" { tile 4550 }
-
-voxel "voxels/props/4552_can_with_worms.kvx" { tile 4552 }
+voxel "voxels/props/4552_canwithworms.kvx" { tile 4552 }
 
 voxel "voxels/props/4569_burgerbox.kvx" { tile 4569 }
 
