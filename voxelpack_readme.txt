@@ -345,6 +345,9 @@ Version 1.3 (Oct 15, 2020)
      + rotation.con: 4 useless cases (AMMOBOX, AMMOLOTS, HEALTHBOX, INVENTORYBOX) removed
      + pickups.def: Corrected animtilerange for HoloDuke
 
+> Removed:
+    + freezeammo.con, holoduke.con (contain deprecated code, no longer needed)
+
 
 Version 1.21 (Mar 24, 2018)
 ---------------------------

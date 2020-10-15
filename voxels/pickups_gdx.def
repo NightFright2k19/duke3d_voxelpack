@@ -12,7 +12,7 @@ voxel "voxels/pickups/0029_devastator.kvx" { tile 29 rotate }
 
 voxel "voxels/pickups/0032_expander.kvx" { tile 32 rotate }
 
-animtilerange 37 39 0 2
+animtilerange 37 39 2 2
 voxel "voxels/pickups/0037_freezerammo1.kvx" { tile 37 rotate }
 voxel "voxels/pickups/0038_freezerammo2.kvx" { tile 38 rotate }
 voxel "voxels/pickups/0039_freezerammo3.kvx" { tile 39 rotate }
