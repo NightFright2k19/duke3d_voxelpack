@@ -56,7 +56,6 @@ voxel "voxels/pickups/0113_atomichealth14.kvx" { tile 113 }
 voxel "voxels/pickups/0114_atomichealth15.kvx" { tile 114 }
 voxel "voxels/pickups/0115_atomichealth16.kvx" { tile 115 }
 
-animtilerange 1348 1351 0 2
 voxel "voxels/pickups/1348_holoduke1.kvx" { tile 1348 }
 voxel "voxels/pickups/1349_holoduke2.kvx" { tile 1349 }
 voxel "voxels/pickups/1350_holoduke3.kvx" { tile 1350 }
