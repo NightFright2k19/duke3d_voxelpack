@@ -8,7 +8,7 @@ voxel "voxels/vacation/pickups/0025_voodooring.kvx" { tile 25 rotate }
 voxel "voxels/vacation/pickups/0027_voodootripbomb.kvx" { tile 27 rotate }
 voxel "voxels/vacation/pickups/0028_supersoakem.kvx" { tile 28 rotate }
 
-animtilerange 37 39 0 2
+animtilerange 37 39 2 2
 voxel "voxels/vacation/pickups/0037_icecrusherammo1.kvx" { tile 37 rotate }
 voxel "voxels/vacation/pickups/0038_icecrusherammo2.kvx" { tile 38 rotate }
 voxel "voxels/vacation/pickups/0039_icecrusherammo3.kvx" { tile 39 rotate }
