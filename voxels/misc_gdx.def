@@ -1,0 +1,5 @@
+voxel "voxels/misc/3190_marker_red.kvx" { tile0 3190 tile1 3196 rotate }
+
+voxel "voxels/misc/3200_marker_yellow.kvx" { tile0 3200 tile1 3206 rotate }
+
+voxel "voxels/misc/3210_marker_green.kvx" { tile0 3210 tile1 3216 rotate }

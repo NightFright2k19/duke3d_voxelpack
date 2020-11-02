@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Oct 26, 2020
+Release Date: Nov 2, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -216,13 +216,16 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (16)
+> Dzierzan (19)
      - 543 ................ Panel
      - 994-996 ............ Pipes
      - 997/1005/1260 ...... Broken pipes
      - 1810 ............... Cannon
      - 1817 ............... Cannonball
      - 1818 ............... Cannonballs
+     - 3190 ............... Red marker
+     - 3200 ............... Yellow marker
+     - 3210 ............... Green marker
      - 4407/4408 .......... Annoying mouse
      - 4457 ............... Rope
      - 4496 ............... Broom
@@ -295,10 +298,11 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Oct 26, 2020)
---------------------------
+Version 1.3 (Nov 2, 2020)
+-------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
+     + Misc: 3190/3200/3210 (red/yellow/green marker)
      + Monsters: 558/675 (Slimer egg), 1880 (Sentry drone), 1975 (Pigcop tank), 2350 (Gun turret)
      + Pickups: 25 (Shrinker), 32 (Expander), 45 (Expander ammo), 56 (scuba gear), 57 (jetpack),
                 100-115 (Atomic Health)
