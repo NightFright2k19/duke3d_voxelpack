@@ -176,6 +176,30 @@ voxel "voxels/props/1810_cannon.kvx" { tile0 1810 tile1 1816 }
 voxel "voxels/props/1817_cannonball.kvx" { tile 1817 }
 voxel "voxels/props/1818_cannonballs.kvx" { tile 1818 }
 
+voxel "voxels/props/3190_marker_red.kvx" { tile 3190 rotate }
+voxel "voxels/props/3190_marker_red.kvx" { tile 3191 rotate }
+voxel "voxels/props/3190_marker_red.kvx" { tile 3192 rotate }
+voxel "voxels/props/3190_marker_red.kvx" { tile 3193 rotate }
+voxel "voxels/props/3190_marker_red.kvx" { tile 3194 rotate }
+voxel "voxels/props/3190_marker_red.kvx" { tile 3195 rotate }
+voxel "voxels/props/3190_marker_red.kvx" { tile 3196 rotate }
+
+voxel "voxels/props/3200_marker_yellow.kvx" { tile 3200 rotate }
+voxel "voxels/props/3200_marker_yellow.kvx" { tile 3201 rotate }
+voxel "voxels/props/3200_marker_yellow.kvx" { tile 3202 rotate }
+voxel "voxels/props/3200_marker_yellow.kvx" { tile 3203 rotate }
+voxel "voxels/props/3200_marker_yellow.kvx" { tile 3204 rotate }
+voxel "voxels/props/3200_marker_yellow.kvx" { tile 3205 rotate }
+voxel "voxels/props/3200_marker_yellow.kvx" { tile 3206 rotate }
+
+voxel "voxels/props/3210_marker_green.kvx" { tile 3210 rotate }
+voxel "voxels/props/3210_marker_green.kvx" { tile 3211 rotate }
+voxel "voxels/props/3210_marker_green.kvx" { tile 3212 rotate }
+voxel "voxels/props/3210_marker_green.kvx" { tile 3213 rotate }
+voxel "voxels/props/3210_marker_green.kvx" { tile 3214 rotate }
+voxel "voxels/props/3210_marker_green.kvx" { tile 3215 rotate }
+voxel "voxels/props/3210_marker_green.kvx" { tile 3216 rotate }
+
 voxel "voxels/props/4360_gunpowderbarrel.kvx" { tile 4360 }
 voxel "voxels/props/4367_hatrack.kvx" { tile 4367 }
 
