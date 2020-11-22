@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Nov 2, 2020
+Release Date: Nov 22, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -216,13 +216,15 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (19)
+> Dzierzan (21)
      - 543 ................ Panel
+     - 544 ................ Connection
      - 994-996 ............ Pipes
      - 997/1005/1260 ...... Broken pipes
      - 1810 ............... Cannon
      - 1817 ............... Cannonball
      - 1818 ............... Cannonballs
+     - 2200 ............... Poo
      - 3190 ............... Red marker
      - 3200 ............... Yellow marker
      - 3210 ............... Green marker
@@ -298,8 +300,8 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Nov 2, 2020)
--------------------------
+Version 1.3 (Nov 22, 2020)
+--------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
      + Misc: 3190/3200/3210 (red/yellow/green marker)
@@ -307,7 +309,7 @@ Version 1.3 (Nov 2, 2020)
      + Pickups: 25 (Shrinker), 32 (Expander), 45 (Expander ammo), 56 (scuba gear), 57 (jetpack),
                 100-115 (Atomic Health)
      + Projectiles: 1650-1653 (mortar), 2566 (tripbomb)
-     + Props: 58 (spacesuit), 543 (panel), 551-554 (lightdome), 556/559 (armchair), 563-565 (water fountain), 
+     + Props: 58 (spacesuit), 543 (panel), 544 (connection, 551-554 (lightdome), 556/559 (armchair), 563-565 (water fountain), 
               569/615 (toilet), 571/573 (urinal), 584 (sensor), 606 (spacesuit corpse), 607/608 (antenna),
               669 (vacuum cleaner), 671 (faucet3), 678 (scale), 680-684 (chair3), 685 (stage light), 689 (IV unit),
               691 (cleaver), 692 (knife), 694 (pot1), 695 (pot2), 697 (pot3), 698 (sushi plate), 753/869 (geisha), 
@@ -319,7 +321,7 @@ Version 1.3 (Nov 2, 2020)
               1061/1078 (double spotlight), 1062/1063 (rubber can), 1073 (life buoy), 1075/1076 (painting #1/2), 
               1079-1081 (oozefilter), 1158 (bottle11), 1160 (bottle13), 1164-1166 (bottle17-19), 1227-1230 (nuke barrel),
               1232 (trash can), 1238 (metal barrel), 1240-1243 (firebarrel), 1247 (C-9 can), 1353 (Space Marine), 
-              1810 (cannon), 1817/1818 (cannonballs), 4360 (gunpowder barrel), 4367 (hatrack), 4370 (desk lamp), 
+              1810 (cannon), 1817/1818 (cannonballs), 2200 (poo), 4360 (gunpowder barrel), 4367 (hatrack), 4370 (desk lamp), 
               4371 (police shield), 4372 (coffee machine), 4377 (police light pole), 4426 (bowling pin), 4429 (fence),
               4438 (mug), 4440 (donuts), 4443 (US flag), 4444 (VHS camera), 4454 (deskphone), 4457 (rope), 
               4458/4459 (gumball machine), 4464 (mace), 4495 ("Wet Floor" sign), 4496 (broom), 4524 ("Steed" hooks), 

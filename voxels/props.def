@@ -4,7 +4,7 @@ voxel "voxels/props/0058_spacesuit.kvx" { tile 58 }
 
 voxel "voxels/props/0543_panel.kvx" { tile 543 }
 
-voxel "voxels/props/0544_connection.kvx" { tile 0544 }
+voxel "voxels/props/0544_connection.kvx" { tile 544 }
 
 voxel "voxels/props/0551_lightdome1.kvx" { tile 551 }
 voxel "voxels/props/0552_lightdome2.kvx" { tile 552 }
