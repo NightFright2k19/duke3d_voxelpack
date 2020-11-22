@@ -176,6 +176,8 @@ voxel "voxels/props/1810_cannon.kvx" { tile0 1810 tile1 1816 }
 voxel "voxels/props/1817_cannonball.kvx" { tile 1817 }
 voxel "voxels/props/1818_cannonballs.kvx" { tile 1818 }
 
+voxel "voxels/props/2200_poo.kvx" { tile 2200 }
+
 voxel "voxels/props/4360_gunpowderbarrel.kvx" { tile 4360 }
 voxel "voxels/props/4367_hatrack.kvx" { tile 4367 }
 
