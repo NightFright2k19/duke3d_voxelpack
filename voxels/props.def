@@ -170,9 +170,8 @@ voxel "voxels/props/1242_firebarrel3.kvx" { tile 1242 }
 voxel "voxels/props/1243_firebarrel4.kvx" { tile 1243 }
 voxel "voxels/props/1247_seenine.kvx" { tile 1247 }
 
-voxel "voxels/props/1267_rat.kvx" { tile0 1267 tile1 1270 }
-
 voxel "voxels/props/1260_damagedpipe3.kvx" { tile 1260 }
+voxel "voxels/props/1267_rat.kvx" { tile0 1267 tile1 1270 }
 
 voxel "voxels/props/1353_spacemarine.kvx" { tile 1353 }
 

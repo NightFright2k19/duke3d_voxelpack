@@ -217,11 +217,12 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (21)
+> Dzierzan (22)
      - 543 ................ Panel
      - 544 ................ Connection
      - 994-996 ............ Pipes
      - 997/1005/1260 ...... Broken pipes
+     - 1267 ............... Rat
      - 1810 ............... Cannon
      - 1817 ............... Cannonball
      - 1818 ............... Cannonballs
@@ -321,7 +322,7 @@ Version 1.3 (Nov 24, 2020)
               1013 (bottle6), 1014 (bottle), 1025 (bottle7), 1045 (donuts), 1048 (two cables), 1049 (electric meter), 
               1061/1078 (double spotlight), 1062/1063 (rubber can), 1073 (life buoy), 1075/1076 (painting #1/2), 
               1079-1081 (oozefilter), 1158 (bottle11), 1160 (bottle13), 1164-1166 (bottle17-19), 1227-1230 (nuke barrel),
-              1232 (trash can), 1238 (metal barrel), 1240-1243 (firebarrel), 1247 (C-9 can), 1353 (Space Marine), 
+              1232 (trash can), 1238 (metal barrel), 1240-1243 (firebarrel), 1247 (C-9 can), 1267 (rat), 1353 (Space Marine), 
               1390-1393 (fire vase), 1810 (cannon), 1817/1818 (cannonballs), 2200 (poo), 4360 (gunpowder barrel), 
               4367 (hatrack), 4370 (desk lamp), 4371 (police shield), 4372 (coffee machine), 4377 (police light pole), 
               4426 (bowling pin), 4429 (fence), 4438 (mug), 4440 (donuts), 4443 (US flag), 4444 (VHS camera), 
