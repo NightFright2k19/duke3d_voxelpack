@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Nov 22, 2020
+Release Date: Nov 24, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (175)
+> Borion (179)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -166,6 +166,7 @@ Contributions by:
      - 1240-1243 .......... Fire barrel
      - 1247 ............... C-9 cannister
      - 1353 ............... Space Marine
+     - 1390-1393 .......... Fire vase
      - 1650-1653 .......... Mortar
      - 1880 ............... Sentry drone
      - 1975 ............... Pigcop tank
@@ -300,7 +301,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Nov 22, 2020)
+Version 1.3 (Nov 24, 2020)
 --------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
@@ -321,12 +322,12 @@ Version 1.3 (Nov 22, 2020)
               1061/1078 (double spotlight), 1062/1063 (rubber can), 1073 (life buoy), 1075/1076 (painting #1/2), 
               1079-1081 (oozefilter), 1158 (bottle11), 1160 (bottle13), 1164-1166 (bottle17-19), 1227-1230 (nuke barrel),
               1232 (trash can), 1238 (metal barrel), 1240-1243 (firebarrel), 1247 (C-9 can), 1353 (Space Marine), 
-              1810 (cannon), 1817/1818 (cannonballs), 2200 (poo), 4360 (gunpowder barrel), 4367 (hatrack), 4370 (desk lamp), 
-              4371 (police shield), 4372 (coffee machine), 4377 (police light pole), 4426 (bowling pin), 4429 (fence),
-              4438 (mug), 4440 (donuts), 4443 (US flag), 4444 (VHS camera), 4454 (deskphone), 4457 (rope), 
-              4458/4459 (gumball machine), 4464 (mace), 4495 ("Wet Floor" sign), 4496 (broom), 4524 ("Steed" hooks), 
-              4536-4539 (foodobject7-10), 4550 (red lamp), 4552 (worms can), 4576 (shopping cart), 4580-4582 (barrels),
-              4589 (warning sign), 4885 (driver wheel)
+              1390-1393 (fire vase), 1810 (cannon), 1817/1818 (cannonballs), 2200 (poo), 4360 (gunpowder barrel), 
+              4367 (hatrack), 4370 (desk lamp), 4371 (police shield), 4372 (coffee machine), 4377 (police light pole), 
+              4426 (bowling pin), 4429 (fence), 4438 (mug), 4440 (donuts), 4443 (US flag), 4444 (VHS camera), 
+              4454 (deskphone), 4457 (rope), 4458/4459 (gumball machine), 4464 (mace), 4495 ("Wet Floor" sign), 
+              4496 (broom), 4524 ("Steed" hooks), 4536-4539 (foodobject7-10), 4550 (red lamp), 4552 (worms can), 
+              4576 (shopping cart), 4580-4582 (barrels), 4589 (warning sign), 4885 (driver wheel)
      + Signs: 728 ("Federal Loan and Trust"), 937 ("Forbidden Videos & Books"), 938 ("San Andreas Fault"), 
               961 ("Exit"), 1007 (neon3), 1008 (neon4), 1046 ("Arcade"), 1172 ("Secured Area"), 
               1210 ("Guilty!"), 1211 ("Innocent?"), 4891 ("We Store Your Crap"), 4930 ("E Pluribus Nukem"), 
