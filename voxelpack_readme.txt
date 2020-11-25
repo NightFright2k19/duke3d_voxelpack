@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      1.3
-Release Date: Nov 24, 2020
+Release Date: Nov 25, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -217,9 +217,10 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (22)
+> Dzierzan (23)
      - 543 ................ Panel
      - 544 ................ Connection
+     - 557 ................ Armchair2
      - 994-996 ............ Pipes
      - 997/1005/1260 ...... Broken pipes
      - 1267 ............... Rat
@@ -302,7 +303,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 1.3 (Nov 24, 2020)
+Version 1.3 (Nov 25, 2020)
 --------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
@@ -311,11 +312,11 @@ Version 1.3 (Nov 24, 2020)
      + Pickups: 25 (Shrinker), 32 (Expander), 45 (Expander ammo), 56 (scuba gear), 57 (jetpack),
                 100-115 (Atomic Health)
      + Projectiles: 1650-1653 (mortar), 2566 (tripbomb)
-     + Props: 58 (spacesuit), 543 (panel), 544 (connection, 551-554 (lightdome), 556/559 (armchair), 563-565 (water fountain), 
-              569/615 (toilet), 571/573 (urinal), 584 (sensor), 606 (spacesuit corpse), 607/608 (antenna),
-              669 (vacuum cleaner), 671 (faucet3), 678 (scale), 680-684 (chair3), 685 (stage light), 689 (IV unit),
-              691 (cleaver), 692 (knife), 694 (pot1), 695 (pot2), 697 (pot3), 698 (sushi plate), 753/869 (geisha), 
-              762 (mike), 765 (vase), 908 (tree1), 910 (tree2), 911/939 (cactus + stomp), 913 (maskwall2), 
+     + Props: 58 (spacesuit), 543 (panel), 544 (connection, 551-554 (lightdome), 556/559 (armchair), 557 (armchair2), 
+              563-565 (water fountain), 569/615 (toilet), 571/573 (urinal), 584 (sensor), 606 (spacesuit corpse), 
+              607/608 (antenna), 669 (vacuum cleaner), 671 (faucet3), 678 (scale), 680-684 (chair3), 685 (stage light), 
+              689 (IV unit), 691 (cleaver), 692 (knife), 694 (pot1), 695 (pot2), 697 (pot3), 698 (sushi plate), 
+              753/869 (geisha), 762 (mike), 765 (vase), 908 (tree1), 910 (tree2), 911/939 (cactus + stomp), 913 (maskwall2), 
               914 (maskwall3), 915 (gate), 916 (fire extinguisher), 917 (fire alarm), 918 (meter3), 919 (meter2), 
               920 (chain), 925 (neon1), 926 (neon2), 994-996 (pipes), 951 (box), 955-957 (bottle2-4), 962 (fence),
               969/1003 (hydroplant), 981/950 (hydrant), 990 (tires), 997/1005/1260 (broken pipes), 1012 (bottle5), 
