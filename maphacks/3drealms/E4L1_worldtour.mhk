@@ -28,9 +28,9 @@ sprite   355 angoff     1024       // tile0051 cola
 sprite   356 angoff     1024       // tile0051 cola
 sprite   575 notmd                 // tile4396 topsecret
 sprite   602 angoff     640        // tile0994 pipe5
-sprite    94 notmd                 // tile4387 (tabletop)
-sprite   787 notmd                 // tile4387 (tabletop)
-sprite   100 notmd                 // tile4387 (tabletop)
+// sprite    94 notmd                 // tile4387 (tabletop)
+// sprite   787 notmd                 // tile4387 (tabletop)
+// sprite   100 notmd                 // tile4387 (tabletop)
 sprite   350 angoff    -768        // tile0049 shotgunammo
 sprite    89 angoff     1024       // tile0051 cola
 sprite   825 angoff     1024       // tile0051 cola
