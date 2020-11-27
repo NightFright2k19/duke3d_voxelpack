@@ -2,6 +2,8 @@
 
 voxel "voxels/props/0058_spacesuit.kvx" { tile 58 }
 
+voxel "voxels/props/0480_observatory.kvx" { tile 480 }
+
 voxel "voxels/props/0543_panel.kvx" { tile 543 }
 
 voxel "voxels/props/0544_connection.kvx" { tile 544 }

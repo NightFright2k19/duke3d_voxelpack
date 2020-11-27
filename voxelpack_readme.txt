@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (179)
+> Borion (180)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -92,6 +92,7 @@ Contributions by:
      - 100-115 ............ Atomic Health
      - 140/141 ............ Lever switch off/on
      - 142-145 ............ Nuke button
+     - 480 ................ Observatory
      - 551-554 ............ Lightdome
      - 556-557/559 ........ Armchair (+ broken version)
      - 563-565 ............ Water fountain
@@ -314,7 +315,7 @@ Version 2.0 (Nov 27, 2020)
      + Pickups: 25 (Shrinker), 32 (Expander), 45 (Expander ammo), 56 (scuba gear), 57 (jetpack),
                 100-115 (Atomic Health)
      + Projectiles: 1650-1653 (mortar), 2566 (tripbomb)
-     + Props: 58 (spacesuit), 543 (panel), 544 (connection, 551-554 (lightdome), 556-557/559 (armchair), 
+     + Props: 58 (spacesuit), 480 (observatory), 543 (panel), 544 (connection), 551-554 (lightdome), 556-557/559 (armchair), 
               563-565 (water fountain), 569/615 (toilet), 571/573 (urinal), 584 (sensor), 606 (spacesuit corpse), 
               607/608 (antenna), 669 (vacuum cleaner), 671 (faucet3), 678 (scale), 680-684 (chair3), 685 (stage light), 
               689 (IV unit), 691 (cleaver), 692 (knife), 694 (pot1), 695 (pot2), 697 (pot3), 698 (sushi plate), 
