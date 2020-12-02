@@ -130,7 +130,7 @@ sprite    91 angoff    -256        // tile0057 jetpack (multiplayer)
 sprite   759 angoff     928        // tile0052 sixpack
 sprite   760 angoff     96         // tile0052 sixpack
 sprite   758 angoff    -96         // tile0052 sixpack
-
+sprite   754 angoff    1024        // tile0487 spaceshuttle
 
 // LIGHTS
 

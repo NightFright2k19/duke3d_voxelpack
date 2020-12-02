@@ -102,6 +102,7 @@ sprite   378 mdzoff     300000     // tile0041 batteryammo (multiplayer)
 sprite    82 angoff     1024       // tile0052 sixpack
 sprite    86 notmd                 // tile0602 solarpanel
 sprite    87 notmd                 // tile0602 solarpanel
+sprite    22 angoff    -612        // tile0487 spaceshuttle
 
 
 // LIGHTS
