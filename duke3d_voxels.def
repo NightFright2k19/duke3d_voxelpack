@@ -1,4 +1,4 @@
-echo "Duke3D Voxel Pack v2.0 RC1"
+echo "Duke3D Voxel Pack v2.0 RC2"
 
 // Palette tints
 tint { pal 1 red 100 green 120 blue 148 flags 1 }

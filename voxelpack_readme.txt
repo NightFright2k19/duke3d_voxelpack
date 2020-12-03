@@ -3,7 +3,7 @@
 Duke Nukem 3D Voxel Pack
 ========================
 
-Version:      2.0 (Release Candidate #1)
+Version:      2.0 (Release Candidate #2)
 Release Date: Dec 3, 2020
 Authors:      ReaperMan & Duke4.net Community
 
@@ -306,6 +306,12 @@ and:
 ============================================================================================
 CHANGELOG
 ============================================================================================
+
+Version 2.0 RC2 (Dec 3, 2020)
+-----------------------------
+> Updated:
+     + Maphacks: E3L1 (#753 geisha statue)
+
 
 Version 2.0 RC1 (Dec 3, 2020)
 -----------------------------

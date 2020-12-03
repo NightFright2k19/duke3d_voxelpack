@@ -25,7 +25,7 @@ sprite   609 angoff    -512        // tile1348 holoduke
 sprite   543 angoff     512        // tile0047 hbombammo
 sprite   578 angoff    -768        // tile0051 cola
 sprite   468 angoff     384        // tile0716 waittobeseated
-sprite   482 angoff    -256        // tile0753 statue (geisha)
+sprite   482 angoff    256        // tile0753 statue (geisha)
 sprite    89 angoff    -768        // tile0049 shotgunammo
 sprite    89 pitch     -1          // tile0049 shotgunammo
 sprite    89 roll       1          // tile0049 shotgunammo
@@ -58,7 +58,7 @@ sprite    30 angoff    -512        // tile0052 sixpack
 sprite   640 angoff    -128        // tile0046 crystalammo
 sprite    31 angoff    -256        // tile0052 sixpack
 sprite   656 angoff    -256        // tile0059 heatsensor
-sprite   119 angoff    -512        // tile0753 statue (geisha)
+// sprite   119 angoff    -512        // tile0753 statue (geisha)
 sprite   612 angoff    -512        // tile0041 batteryammo
 sprite   104 angoff     384        // tile1334 fem6 padbabe
 sprite   104 pitch      1          // tile1334 fem6 padbabe
