@@ -109,20 +109,20 @@ sprite   800 angoff     512        // tile0569 toilet
 sprite   801 angoff     512        // tile0569 toilet
 
 sprite   719 angoff     64         // tile0602 solarpanel
-//sprite    70 angoff    -512        // tile0041 batteryammo
-sprite   714 angoff     480        // tile0487 spaceshuttle
-sprite   714 roll      -125        // tile0487 spaceshuttle
+// sprite    70 angoff    -512        // tile0041 batteryammo
+sprite   714 angoff     -64        // tile0487 spaceshuttle
+// sprite   714 roll      -125        // tile0487 spaceshuttle
 sprite   713 angoff     256        // tile0516 satelite (dish)
 //sprite   686 angoff     640        // tile0058 (spacesuit)
 sprite   686 angoff    -256        // tile0058 (spacesuit)
-sprite   684 angoff     196        // tile0487 spaceshuttle
-sprite   684 roll      -50         // tile0487 spaceshuttle
+sprite   684 angoff    -256        // tile0487 spaceshuttle
+// sprite   684 roll      -50         // tile0487 spaceshuttle
 sprite   685 notmd                 // tile0479 (satellite dish)
 sprite   698 angoff     768        // tile0516 satelite (dish)
 sprite   699 angoff    -256        // tile0479 (satellite dish)
 sprite    79 angoff     512        // tile0029 devistatorsprite
 sprite   705 angoff    -384        // tile0556 chair1
-//sprite   786 angoff     512        // tile0487 spaceshuttle
+// sprite   786 angoff     512        // tile0487 spaceshuttle
 sprite   785 notmd                 // tile0489 satellite
 sprite   786 notmd                 // tile0487 spaceshuttle
 sprite   732 angoff     128        // tile0489 satellite

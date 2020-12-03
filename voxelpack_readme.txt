@@ -3,8 +3,8 @@
 Duke Nukem 3D Voxel Pack
 ========================
 
-Version:      2.0 (pre-release)
-Release Date: Nov 30, 2020
+Version:      2.0 (Release Candidate #1)
+Release Date: Dec 3, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -218,7 +218,8 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (22)
+> Dzierzan (23)
+     - 487 ................ Space shuttle
      - 543 ................ Panel
      - 544 ................ Connection
      - 994-996 ............ Pipes
@@ -306,8 +307,8 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 (Nov 30, 2020)
---------------------------
+Version 2.0 RC1 (Dec 3, 2020)
+-----------------------------
 > Added:
      + Support for BuildGDX via dukegdx.def
      + Misc: 3190/3200/3210 (red/yellow/green marker)
@@ -315,10 +316,10 @@ Version 2.0 (Nov 30, 2020)
      + Pickups: 25 (Shrinker), 32 (Expander), 45 (Expander ammo), 56 (scuba gear), 57 (jetpack),
                 100-115 (Atomic Health)
      + Projectiles: 1650-1653 (mortar), 2566 (tripbomb)
-     + Props: 58 (spacesuit), 480 (observatory), 543 (panel), 544 (connection), 551-554 (lightdome), 556-557/559 (armchair), 
-              563-565 (water fountain), 569/615 (toilet), 571/573 (urinal), 584 (sensor), 606 (spacesuit corpse), 
-              607/608 (antenna), 669 (vacuum cleaner), 671 (faucet3), 678 (scale), 680-684 (chair3), 685 (stage light), 
-              689 (IV unit), 691 (cleaver), 692 (knife), 694 (pot1), 695 (pot2), 697 (pot3), 698 (sushi plate), 
+     + Props: 58 (spacesuit), 480 (observatory), 487 (space shuttle), 543 (panel), 544 (connection), 551-554 (lightdome), 
+              556-557/559 (armchair), 563-565 (water fountain), 569/615 (toilet), 571/573 (urinal), 584 (sensor), 
+              606 (spacesuit corpse), 607/608 (antenna), 669 (vacuum cleaner), 671 (faucet3), 678 (scale), 680-684 (chair3), 
+              685 (stage light), 689 (IV unit), 691 (cleaver), 692 (knife), 694 (pot1), 695 (pot2), 697 (pot3), 698 (sushi plate), 
               753/869 (geisha), 762 (mike), 765 (vase), 908 (tree1), 910 (tree2), 911/939 (cactus + stomp), 913 (maskwall2), 
               914 (maskwall3), 915 (gate), 916 (fire extinguisher), 917 (fire alarm), 918 (meter3), 919 (meter2), 
               920 (chain), 925 (neon1), 926 (neon2), 994-996 (pipes), 951 (box), 955-957 (bottle2-4), 962 (fence),
@@ -350,13 +351,14 @@ Version 2.0 (Nov 30, 2020)
      + Props: 574/670 (faucet1+2), 954 (bottle1)
      + Voxel orientations: 40, 45, 670, 753, 869, 1008, 4438, 4443, 4444, 4546, 4547, 4548, 4569, 4576
      + Maphacks: Based on Duke3D HRP SVN r727; 
-                 E1L1/NW2 (#925 / neon1 updated), 
-                 E2L8 (#521, 594, 596-598 / dead astronaut updated),
-                 E3L4 (#678 / scale angoff added), 
-                 E3L7 (#607 / antenna updated), 
-                 E4L2 (#476-478 / foodobject18 updated + #572 / wormscan added), 
-                 E4L5 (#4377 / policelightpole added), 
-                 E4L8 (#4443 / flag updated)
+                 E1L1/NW2 (#925 / neon1), 
+                 E2L8 (#521, 594, 596-598 / dead astronaut),
+                 E3L4 (#678 / scale), 
+                 E3L7 (#607 / antenna), 
+                 E4L2 (#476-478 / foodobject18 + #572 / wormscan), 
+                 E4L5 (#4377 / policelightpole), 
+                 E4L8 (#4443 / flag)
+                 DUKEDC4 (#487 / shuttle)
      + duke3d.def: Option to undefine HRP models (only when using VP with HRP)
      + eduke.con: Voxel rotation deactivated by default
      + rotation.con: 4 useless cases (AMMOBOX, AMMOLOTS, HEALTHBOX, INVENTORYBOX) removed
