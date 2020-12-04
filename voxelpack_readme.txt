@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Dec 3, 2020
+Release Date: Dec 4, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -218,7 +218,7 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (23)
+> Dzierzan (24)
      - 487 ................ Space shuttle
      - 543 ................ Panel
      - 544 ................ Connection
@@ -232,6 +232,7 @@ Contributions by:
      - 3190 ............... Red marker
      - 3200 ............... Yellow marker
      - 3210 ............... Green marker
+     - 3400 ............... "Duf Beer" zeppelin
      - 4407/4408 .......... Annoying mouse
      - 4457 ............... Rope
      - 4496 ............... Broom
@@ -307,8 +308,11 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Dec 3, 2020)
+Version 2.0 RC2 (Dec 4, 2020)
 -----------------------------
+> Added:
+     + Props: 3400 ("Duf Beer" zeppelin)
+
 > Updated:
      + Maphacks: E3L1 (#753 geisha statue)
 
