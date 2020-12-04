@@ -190,6 +190,8 @@ voxel "voxels/props/1818_cannonballs.kvx" { tile 1818 }
 
 voxel "voxels/props/2200_poo.kvx" { tile 2200 }
 
+voxel "voxels/props/3400_dufbeer.kvx" { tile 3400 }
+
 voxel "voxels/props/4360_gunpowderbarrel.kvx" { tile 4360 }
 voxel "voxels/props/4367_hatrack.kvx" { tile 4367 }
 
