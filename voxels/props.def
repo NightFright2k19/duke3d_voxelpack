@@ -101,6 +101,8 @@ voxel "voxels/props/0957_bottle4.kvx" { tile 957 }
 voxel "voxels/props/0962_fence.kvx" { tile 962 }
 voxel "voxels/props/0969_hydroplant.kvx" { tile 969 }
 
+voxel "voxels/props/0976_airvent.kvx" { tile 976 }
+
 voxel "voxels/props/0977_pole.kvx" { tile 977 }
 voxel "voxels/props/0978_traffic_cone.kvx" { tile 978 }
 voxel "voxels/props/0979_hanglight.kvx" { tile 979 }
