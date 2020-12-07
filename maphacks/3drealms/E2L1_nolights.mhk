@@ -1,0 +1,108 @@
+// Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
+
+// Title    : Spaceport
+// Author   : Allen H. Blum III
+// Filename : E2L1.MAP
+// mapmd4   : 91003239cfe780bf4c1de08e0a2b7cc2 // 1996-12-11 (1.3D + Atomic GRP)
+
+
+// Curr. HRP: r5.4.726
+
+sprite   373 angoff     1024       // tile0023 rpgsprite
+sprite   109 away1                 // tile0499 viewscreen2
+sprite   391 notmd                 // tile0568 femmag1
+sprite   422 angoff     256        // tile0055 steroids
+sprite   395 angoff    -512        // tile0044 rpgammo
+sprite   395 pitch      1          // tile0044 rpgammo
+sprite   395 mdzoff     200000     // tile0044 rpgammo
+sprite   396 angoff    -512        // tile0054 shield (multiplayer)
+sprite   396 pitch      1          // tile0054 shield (multiplayer)
+sprite   396 mdzoff     100000     // tile0054 shield (multiplayer)
+sprite    46 angoff    -256        // tile0051 cola
+sprite    46 roll       1          // tile0051 cola
+sprite    46 mdzoff     500000     // tile0051 cola
+sprite   376 angoff    -512        // tile0037 freezeammo (multiplayer)
+sprite   376 roll       1          // tile0037 freezeammo (multiplayer)
+sprite   376 mdzoff     100000     // tile0037 freezeammo (multiplayer)
+sprite   375 angoff    -512        // tile0037 freezeammo (multiplayer)
+sprite   375 roll      -1          // tile0037 freezeammo (multiplayer)
+sprite   375 mdzoff     100000     // tile0037 freezeammo (multiplayer)
+sprite   156 angoff     256        // tile0028 shotgunsprite
+sprite    23 pitch      1          // tile0563 waterfountain
+sprite    23 mdzoff     310000     // tile0563 waterfountain
+sprite    85 angoff     512        // tile0052 sixpack
+sprite    37 away1                 // tile0613 (authorized personnel sign)
+sprite   284 angoff    -256        // tile0049 shotgunammo
+sprite   284 pitch     -1          // tile0049 shotgunammo
+sprite   284 roll       2          // tile0049 shotgunammo
+sprite   284 mdzoff     200000     // tile0049 shotgunammo
+sprite   367 angoff     768        // tile1348 holoduke
+sprite   372 angoff     640        // tile0046 crystalammo (multiplayer)
+sprite   371 angoff     896        // tile0046 crystalammo (multiplayer)
+sprite   371 roll       1          // tile0046 crystalammo (multiplayer)
+sprite   371 mdzoff     200000     // tile0046 crystalammo (multiplayer)
+sprite    22 roll      -60         // tile0487 spaceshuttle
+sprite    83 angoff     512        // tile0052 sixpack
+sprite   291 angoff     64         // tile0044 rpgammo
+sprite    60 pitch      1          // tile0024 freezesprite (multiplayer)
+sprite    60 mdzoff     700000     // tile0024 freezesprite (multiplayer)
+sprite    30 angoff     1024       // tile0041 batteryammo
+sprite    30 pitch     -3          // tile0041 batteryammo
+sprite    30 roll      -2          // tile0041 batteryammo
+sprite    30 mdzoff     100000     // tile0041 batteryammo
+sprite    29 pitch      3          // tile0041 batteryammo
+sprite    29 roll      -2          // tile0041 batteryammo
+sprite    29 mdzoff     100000     // tile0041 batteryammo
+sprite   280 angoff    -512        // tile0054 shield
+sprite   165 angoff    -512        // tile0056 airtank
+sprite   374 angoff     512        // tile0022 chaingunsprite
+sprite    31 angoff    -512        // tile0059 heatsensor
+sprite   155 angoff     704        // tile0053 firstaid
+sprite    40 angoff     1024       // tile0047 hbombammo
+sprite   180 angoff     0          // tile0060 accesscard [blue]
+sprite   379 pitch     -1          // tile0049 shotgunammo
+sprite   379 mdzoff     700000     // tile0049 shotgunammo
+sprite    69 angoff    -512        // tile0057 jetpack
+sprite    84 angoff    -320        // tile0052 sixpack
+sprite   292 angoff     1024       // tile0040 ammo
+sprite   116 angoff     256        // tile1247 seenine
+sprite   118 angoff     384        // tile1247 seenine
+sprite   118 pitch      1          // tile1247 seenine
+sprite   118 mdzoff     100000     // tile1247 seenine
+sprite   119 angoff    -64         // tile1247 seenine
+sprite   117 angoff    -128        // tile1247 seenine
+sprite   390 angoff     512        // tile0049 shotgunammo
+sprite   235 angoff     736        // tile0047 hbombammo
+sprite   235 pitch      1          // tile0047 hbombammo
+sprite   235 mdzoff     300000     // tile0047 hbombammo
+sprite    45 angoff     480        // tile0052 sixpack
+sprite   399 pitch      128        // tile0029 devistatorsprite
+sprite   399 mdzoff     4000       // tile0029 devistatorsprite
+sprite   289 roll       1          // tile0100 atomichealth
+sprite   289 mdzoff     400000     // tile0100 atomichealth
+sprite    81 angoff     128        // tile0059 heatsensor
+sprite    80 angoff    -192        // tile0052 sixpack
+sprite   386 angoff    -832        // tile0027 tripbombsprite (multiplayer)
+sprite   387 angoff     1024       // tile0027 tripbombsprite (multiplayer)
+sprite   385 angoff     832        // tile0027 tripbombsprite (multiplayer)
+sprite   110 angoff    -512        // tile0057 jetpack
+sprite   318 angoff     512        // tile0060 accesscard [red]
+sprite    54 angoff     512        // tile0054 shield
+sprite    54 pitch     -1          // tile0054 shield
+sprite    54 mdzoff     1200000    // tile0054 shield
+sprite    55 angoff    -512        // tile0052 sixpack
+sprite    55 pitch     -1          // tile0052 sixpack
+sprite    55 mdzoff     1200000    // tile0052 sixpack
+sprite   377 angoff     512        // tile0041 batteryammo (multiplayer)
+sprite   377 roll      -1          // tile0041 batteryammo (multiplayer)
+sprite   377 mdzoff     300000     // tile0041 batteryammo (multiplayer)
+sprite   378 angoff    -512        // tile0041 batteryammo (multiplayer)
+sprite   378 roll      -1          // tile0041 batteryammo (multiplayer)
+sprite   378 mdzoff     300000     // tile0041 batteryammo (multiplayer)
+sprite    82 angoff     1024       // tile0052 sixpack
+sprite    86 notmd                 // tile0602 solarpanel
+sprite    87 notmd                 // tile0602 solarpanel
+sprite    22 angoff    -612        // tile0487 spaceshuttle
+
+
+// LIGHTS

@@ -1,0 +1,130 @@
+// Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
+
+// Title    : Critical Mass
+// Author   : Richard Bailey Gray (The Levelord) & Keith Schuler
+// Filename : E4L8.MAP
+// mapmd4   : ae06f5c692a51a7d326f5ea6af08c0a8 // 1996-12-11 (1.3D + Atomic GRP)
+// mapmd4   : 9c049dc3d6d1105d63887003c5bb667a // 2014-11-18 (NUKEMDAVE)
+
+
+// Curr. HRP: r5.4.726
+
+sprite   713 angoff    -256        // tile0047 hbombammo
+sprite   868 angoff    -768        // tile0024 freezesprite (multiplayer)
+sprite   613 pitch     -1          // tile0054 shield
+sprite   613 mdzoff     1200000    // tile0054 shield
+sprite   609 angoff     256        // tile0040 ammo
+sprite   608 angoff     256        // tile0040 ammo
+sprite   607 angoff     256        // tile0040 ammo
+sprite   714 angoff     1024       // tile0028 shotgunsprite
+sprite   714 roll       1          // tile0028 shotgunsprite
+sprite   714 mdzoff     500000     // tile0028 shotgunsprite
+sprite   719 angoff    -512        // tile0051 cola
+sprite   600 angoff     768        // tile1227 nukebarrel
+sprite   601 angoff    -128        // tile1227 nukebarrel
+sprite   603 angoff     256        // tile1227 nukebarrel
+sprite   610 angoff    -384        // tile0052 sixpack
+sprite   611 angoff     1024       // tile0041 batteryammo
+sprite   715 angoff    -768        // tile0049 shotgunammo
+sprite   850 angoff     128        // tile0026 heavyhbomb
+sprite   313 angoff     512        // tile0059 heatsensor
+sprite   615 angoff     512        // tile0041 batteryammo
+sprite   457 angoff    -896        // tile0556 chair1
+sprite   707 pitch      96         // tile1045 donuts
+sprite   707 mdzoff    -2000       // tile1045 donuts
+sprite   706 angoff    -384        // tile1045 donuts
+sprite   706 pitch      96         // tile1045 donuts
+sprite   706 roll      -32         // tile1045 donuts
+sprite   458 pitch     -1          // tile1045 donuts
+sprite   458 mdxoff     1000000    // tile1045 donuts
+sprite   654 angoff    -896        // tile0052 sixpack
+sprite   655 angoff    -768        // tile0051 cola
+sprite   561 angoff     1024       // tile0041 batteryammo
+sprite   656 angoff    -352        // tile0051 cola
+sprite   657 angoff    -128        // tile0052 sixpack
+sprite   864 angoff     256        // tile0023 rpgsprite (multiplayer)
+sprite   864 roll      -1          // tile0023 rpgsprite (multiplayer)
+sprite   864 mdzoff     300000     // tile0023 rpgsprite (multiplayer)
+sprite   684 angoff     384        // tile1343 (helicopter scrap)
+sprite   685 pitch     -1          // tile1344 (helicopter scrap)
+sprite   685 mdzoff     700000     // tile1344 (helicopter scrap)
+sprite   531 pitch      1          // tile0916 fireext
+sprite   531 mdzoff     300000     // tile0916 fireext
+sprite   863 angoff     1024       // tile0056 airtank
+sprite   537 notmd                 // tile0138 spacelightswitch
+sprite   538 angoff    -512        // tile0047 hbombammo
+sprite   479 pitch      3          // tile0053 firstaid
+sprite   479 roll       1          // tile0053 firstaid
+sprite   479 mdzoff     150000     // tile0053 firstaid
+sprite   533 pitch     -2          // tile0100 atomichealth
+sprite   533 roll      -1          // tile0100 atomichealth
+sprite   533 mdzoff     100000     // tile0100 atomichealth
+sprite   534 pitch     -2          // tile0052 sixpack
+sprite   534 roll      -1          // tile0052 sixpack
+sprite   534 mdzoff     100000     // tile0052 sixpack
+sprite   532 angoff     512        // tile0029 devistatorsprite
+sprite   319 angoff    -512        // tile0045 growammo
+sprite   522 angoff     1024       // tile0041 batteryammo
+sprite   723 angoff    -896        // tile0026 heavyhbomb
+sprite   724 angoff     1024       // tile1348 holoduke
+sprite   734 angoff    -256        // tile0055 steroids
+sprite   829 angoff     512        // tile0021 firstgunsprite
+sprite   731 angoff     256        // tile0049 shotgunammo
+sprite   732 angoff     512        // tile0052 sixpack
+sprite   733 angoff     256        // tile0053 firstaid
+sprite   837 nomdanim              // tile1232 canwithsomething
+sprite   837 angoff    -896        // tile1232 canwithsomething
+sprite   815 angoff    -768        // tile0616 pipe2
+sprite   816 angoff     512        // tile0616 pipe2
+sprite   816 roll      -1          // tile0616 pipe2
+sprite   816 mdzoff     300000     // tile0616 pipe2
+sprite   361 angoff    -128        // tile0556 chair1
+sprite   360 notmd                 // tile4439 (pen & paper)
+sprite   352 angoff     64         // tile0028 shotgunsprite
+sprite   351 angoff     512        // tile0054 shield
+sprite   838 nomdanim              // tile1232 canwithsomething
+sprite   838 angoff     512        // tile1232 canwithsomething
+sprite   386 angoff     1024       // tile0060 accesscard [blue]
+sprite   366 angoff    -896        // tile1227 nukebarrel
+sprite   365 angoff    -384        // tile1227 nukebarrel
+sprite   364 notmd                 // tile1226 bloodpool
+sprite   368 angoff    -256        // tile1227 nukebarrel
+sprite   368 pitch     -1          // tile1227 nukebarrel
+sprite   368 mdzoff     300000     // tile1227 nukebarrel
+sprite   367 angoff     128        // tile1227 nukebarrel
+sprite   369 angoff    -512        // tile1227 nukebarrel
+sprite   344 angoff     1024       // tile0024 freezesprite
+sprite   831 angoff     128        // tile0037 freezeammo
+sprite   876 angoff     512        // tile1079 oozfilter
+sprite   875 angoff    -512        // tile1079 oozfilter
+sprite   834 angoff     1024       // tile0023 rpgsprite
+sprite   834 pitch      192        // tile0023 rpgsprite
+sprite   827 angoff    -640        // tile0025 shrinkersprite
+sprite   828 angoff    -384        // tile0042 devistatorammo
+sprite   762 angoff     0          // tile0060 accesscard [yellow]
+sprite   859 angoff    -512        // tile0051 cola
+sprite   865 angoff     512        // tile0040 ammo
+sprite   332 notmd                 // tile0109 (tile0100 atomichealth)
+sprite   333 pitch     -1          // tile4370 desklamp
+sprite   333 roll       2          // tile4370 desklamp
+sprite   333 mdzoff     300000     // tile4370 desklamp
+sprite   330 notmd                 // tile4439 (pen & paper)
+sprite   336 angoff    -512        // tile0556 chair1
+sprite   326 angoff     384        // tile1161 bottle14
+sprite   327 angoff     512        // tile1163 bottle16
+sprite   327 roll      -1          // tile1163 bottle16
+sprite   327 mdzoff     200000     // tile1163 bottle16
+sprite   335 angoff    -512        // tile4443 (flag) (VP edit)
+sprite   335 pitch      1          // tile4443 (flag)
+sprite   335 mdzoff     1000000    // tile4443 (flag)
+sprite   851 angoff    -768        // tile0051 cola
+sprite   323 angoff     1024       // tile0057 jetpack (multiplayer)
+sprite   854 angoff     1024       // tile0060 accesscard [red]
+sprite   894 angoff     256        // tile0556 chair1
+sprite    35 notmd                 // tile0109 (tile0100 atomichealth)
+sprite   893 notmd                 // tile4439 (pen & paper)
+sprite  1033 notmd                 // tile1075 (painting)
+sprite  1019 angoff    -768        // tile0052 sixpack
+
+
+// LIGHTS

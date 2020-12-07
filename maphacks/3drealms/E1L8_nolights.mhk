@@ -1,0 +1,42 @@
+// Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
+
+// Title    : User Map
+// Author   : Allen H. Blum III
+// Filename : E1L8.MAP
+// mapmd4   : 5b26628905ce60f93d9f0be7ebd72ee1 // 1996-12-11 (Atomic GRP)
+
+
+//         <-> E1L8_13d.mhk
+
+// Curr. HRP: r5.4.726
+
+sprite    15 angoff     640        // tile0054 shield
+sprite    14 angoff     896        // tile0055 steroids
+sprite    13 angoff    -896        // tile0057 jetpack
+sprite    12 angoff    -640        // tile0059 heatsensor
+sprite    19 angoff    -384        // tile1348 holoduke
+sprite    18 angoff    -128        // tile0052 sixpack
+sprite    17 angoff     128        // tile0053 firstaid
+sprite    16 angoff     384        // tile0100 atomichealth
+sprite    21 angoff     512        // tile0026 heavyhbomb
+sprite    11 angoff    -512        // tile0047 hbombammo
+sprite    22 angoff     768        // tile0025 shrinkersprite
+sprite     1 angoff    -768        // tile0045 growammo
+sprite     0 angoff     256        // tile0045 growammo
+sprite     9 angoff    -256        // tile0046 crystalammo
+sprite    23 angoff     1024       // tile0029 devistatorsprite
+sprite     8 angoff     0          // tile0042 devistatorammo
+sprite    28 angoff    -768        // tile0027 tripbombsprite
+sprite     7 angoff     256        // tile0027 tripbombsprite
+sprite    26 angoff    -512        // tile0021 firstgunsprite
+sprite     6 angoff     512        // tile0040 ammo
+sprite    27 angoff     768        // tile0028 shotgunsprite
+sprite     5 angoff     768        // tile0049 shotgunammo
+sprite    25 angoff     0          // tile0022 chaingunsprite
+sprite     4 angoff     512        // tile0041 batteryammo
+sprite    24 angoff     256        // tile0023 rpgsprite
+sprite    10 angoff    -768        // tile0044 rpgammo
+sprite    20 angoff     512        // tile0024 freezesprite
+
+
+// LIGHTS

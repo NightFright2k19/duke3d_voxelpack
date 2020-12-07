@@ -1,0 +1,100 @@
+// Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
+
+// Title    : Freeway
+// Author   : Allen H. Blum III
+// Filename : E3L11.MAP
+// mapmd4   : 7b0ef73951088703c29b9e3d9145f1c6 // 1996-12-11 (Atomic GRP)
+
+
+//         <-> E3L11_13d.mhk
+
+// Curr. HRP: r5.4.726
+
+// 0->511
+sprite    33 angoff    -768        // tile0028 shotgunsprite
+sprite   362 angoff    -256        // tile0044 rpgammo
+sprite   399 angoff     256        // tile0057 jetpack (multiplayer)
+sprite    64 pitch      1          // tile0049 shotgunammo
+sprite    64 mdzoff     500000     // tile0049 shotgunammo
+sprite   361 angoff    -512        // tile0023 rpgsprite
+sprite   365 angoff    -384        // tile0052 sixpack
+sprite    31 angoff    -512        // tile0040 ammo
+sprite    32 angoff    -512        // tile0040 ammo
+sprite   364 angoff     384        // tile0054 shield
+sprite    62 angoff     512        // tile0027 tripbombsprite
+sprite    61 angoff     512        // tile0027 tripbombsprite
+sprite   366 angoff     512        // tile0029 devistatorsprite
+sprite   210 angoff    -896        // tile1232 canwithsomething
+sprite   370 angoff    -512        // tile0051 cola
+sprite   371 angoff    -512        // tile0051 cola
+sprite   368 angoff    -768        // tile0042 devistatorammo
+sprite    73 angoff     1024       // tile0055 steroids
+sprite   305 angoff     384        // tile1232 canwithsomething
+sprite   306 angoff     896        // tile1232 canwithsomething
+sprite   307 angoff     640        // tile1232 canwithsomething
+sprite   390 angoff     512        // tile0024 freezesprite
+sprite   390 roll       1          // tile0024 freezesprite
+sprite   390 mdzoff     200000     // tile0024 freezesprite
+sprite    89 angoff     512        // tile0569 toilet
+sprite   373 angoff    -768        // tile0049 shotgunammo
+sprite   374 angoff    -256        // tile0044 rpgammo
+sprite     4 angoff    -768        // tile0037 freezeammo
+sprite   375 angoff    -768        // tile0052 sixpack
+sprite   398 angoff     1024       // tile0049 shotgunammo
+sprite    26 angoff     256        // tile0042 devistatorammo
+sprite   380 angoff    -896        // tile0049 shotgunammo
+sprite   380 roll      -128        // tile0049 shotgunammo
+sprite    70 angoff     128        // tile0049 shotgunammo
+sprite    70 roll      -256        // tile0049 shotgunammo
+sprite    71 angoff    -128        // tile0052 sixpack
+sprite   211 angoff    -512        // tile0057 jetpack
+sprite   384 angoff     512        // tile0047 hbombammo
+sprite   385 angoff     512        // tile0051 cola
+sprite   393 angoff    -768        // tile0049 shotgunammo
+sprite   382 angoff    -512        // tile0042 devistatorammo
+sprite   383 angoff    -512        // tile0042 devistatorammo
+sprite   381 angoff     192        // tile0022 chaingunsprite
+sprite     5 angoff     768        // tile0037 freezeammo
+sprite     5 roll       1          // tile0037 freezeammo
+sprite     5 mdzoff    -660000     // tile0037 freezeammo
+sprite   463 angoff     256        // tile0060 accesscard [blue]
+sprite   379 angoff     512        // tile0054 shield
+sprite   379 pitch     -1          // tile0054 shield
+sprite   379 mdzoff     900000     // tile0054 shield
+sprite   378 angoff    -512        // tile0053 firstaid
+sprite   378 pitch     -1          // tile0053 firstaid
+sprite   378 mdzoff     900000     // tile0053 firstaid
+sprite    25 angoff     512        // tile0049 shotgunammo
+sprite   388 angoff     768        // tile0025 shrinkersprite
+sprite    21 angoff     512        // tile0059 heatsensor
+sprite   391 angoff    -768        // tile0044 rpgammo
+sprite   391 pitch     -1          // tile0044 rpgammo
+sprite   391 roll       1          // tile0044 rpgammo
+sprite   391 mdzoff     500000     // tile0044 rpgammo
+sprite   392 angoff     1024       // tile0044 rpgammo
+sprite   392 pitch     -1          // tile0044 rpgammo
+sprite   392 mdzoff     500000     // tile0044 rpgammo
+sprite    81 angoff     1024       // tile0047 hbombammo
+sprite    81 pitch      1          // tile0047 hbombammo
+sprite    81 mdzoff     300000     // tile0047 hbombammo
+sprite   386 angoff     1024       // tile0023 rpgsprite
+//sprite   267 notmd                 // tile1356 (terminator)
+//sprite   268 pitch     -512        // tile1357 (terminator arm) [Polymost HRP]
+//sprite   268 mdxoff     15         // tile1357 (terminator arm) [Polymost HRP]
+//sprite   268 mdzoff    -500        // tile1357 (terminator arm) [Polymost HRP]
+sprite    22 angoff    -768        // tile0052 sixpack
+sprite   387 angoff     1024       // tile0024 freezesprite
+sprite   511 angoff     1024       // tile0052 sixpack
+sprite   465 angoff     1024       // tile0060 accesscard [red]
+sprite    72 angoff    -768        // tile0055 steroids
+sprite   396 angoff    -768        // tile0051 cola
+sprite   397 angoff    -512        // tile0051 cola
+sprite    24 angoff    -256        // tile0047 hbombammo
+sprite   134 angoff     768        // tile1238 explodingbarrel
+sprite   395 angoff     768        // tile0052 sixpack
+sprite    19 angoff     768        // tile0052 sixpack
+sprite   132 pitch     -1          // tile0916 fireext
+sprite   132 mdzoff     100000     // tile0916 fireext
+
+
+// LIGHTS

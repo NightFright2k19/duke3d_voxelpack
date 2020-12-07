@@ -1,0 +1,71 @@
+// Maphacks for the Duke Nukem 3D High Resolution Pack (HRP)
+
+// Title    : Lunatic Fringe
+// Author   : Richard Bailey Gray (The Levelord)
+// Filename : E2L11.MAP
+// mapmd4   : d19081afa18bf00c9f151e51104358ee // 1996-12-11 (1.3D + Atomic GRP)
+
+
+// Curr. HRP: r5.4.726
+
+sprite    93 angoff     1024       // tile0023 rpgsprite
+sprite   100 angoff     512        // tile0052 sixpack
+sprite    11 angoff     640        // tile0044 rpgammo
+sprite    63 angoff     1024       // tile0059 heatsensor (multiplayer)
+sprite    12 angoff    -640        // tile0044 rpgammo
+sprite   101 angoff    -512        // tile0052 sixpack
+sprite    95 angoff    -256        // tile1323 fem5 polebabe
+sprite    95 roll       1          // tile1323 fem5 polebabe
+sprite    95 mdzoff     400000     // tile1323 fem5 polebabe
+sprite    94 angoff    -800        // tile1323 fem5 polebabe
+sprite    94 roll       1          // tile1323 fem5 polebabe
+sprite    94 mdzoff     400000     // tile1323 fem5 polebabe
+sprite   106 angoff     640        // tile0044 rpgammo
+sprite   112 angoff    -800        // tile0053 firstaid
+sprite   112 pitch     -1          // tile0053 firstaid
+sprite   112 mdzoff     1000000    // tile0053 firstaid
+sprite   105 angoff    -640        // tile0041 batteryammo
+sprite   125 angoff    -800        // tile0028 shotgunsprite
+sprite    25 angoff     96         // tile0046 crystalammo
+sprite    92 angoff     1024       // tile1348 holoduke
+sprite    92 pitch     -1          // tile1348 holoduke
+sprite    92 mdzoff     90000      // tile1348 holoduke
+sprite    96 angoff     1024       // tile0054 shield
+sprite    52 angoff    -256        // tile1323 fem5 polebabe
+sprite    52 roll       1          // tile1323 fem5 polebabe
+sprite    52 mdzoff     500000     // tile1323 fem5 polebabe
+sprite    56 angoff     128        // tile0042 devistatorammo
+sprite    60 angoff    -128        // tile0042 devistatorammo
+sprite    50 angoff    -800        // tile1323 fem5 polebabe
+sprite    50 roll       1          // tile1323 fem5 polebabe
+sprite    50 mdzoff     500000     // tile1323 fem5 polebabe
+sprite   126 angoff     640        // tile0044 rpgammo
+sprite   126 pitch     -1          // tile0044 rpgammo
+sprite   126 roll      -1          // tile0044 rpgammo
+sprite   126 mdzoff     500000     // tile0044 rpgammo
+sprite   103 angoff    -768        // tile0041 batteryammo
+sprite   103 roll       1          // tile0041 batteryammo
+sprite   103 mdzoff     1100000    // tile0041 batteryammo
+sprite    24 angoff     1024       // tile0046 crystalammo
+sprite   110 angoff     864        // tile0040 ammo
+sprite   113 angoff     576        // tile0025 shrinkersprite (multiplayer)
+sprite   113 roll       1          // tile0025 shrinkersprite (multiplayer)
+sprite   113 mdzoff     500000     // tile0025 shrinkersprite (multiplayer)
+sprite   104 angoff     768        // tile0047 hbombammo
+sprite   104 pitch     -1          // tile0047 hbombammo
+sprite   104 mdzoff     1000000    // tile0047 hbombammo
+sprite   111 angoff    -640        // tile0027 tripbombsprite
+sprite   115 angoff     1024       // tile0022 chaingunsprite
+sprite   108 angoff     896        // tile0049 shotgunammo
+sprite   109 angoff    -768        // tile0055 steroids
+sprite   114 angoff    -512        // tile0051 cola
+sprite   127 angoff     512        // tile0047 hbombammo
+sprite   107 angoff    -832        // tile0049 shotgunammo
+sprite   124 angoff     256        // tile0024 freezesprite
+sprite   124 pitch     -1          // tile0024 freezesprite
+sprite   124 mdzoff     2500000    // tile0024 freezesprite
+sprite    29 angoff    -512        // tile0040 ammo
+sprite   123 angoff     576        // tile0028 shotgunsprite
+
+
+// LIGHTS
