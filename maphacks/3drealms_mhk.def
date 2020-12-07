@@ -410,7 +410,7 @@ mapinfo {
   //author "Allen H. Blum III"
   mapfile  "E1L2.map"
   mapmd4   3289a77cf35fe432eb9ed0a995f5df42 // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E1L2_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E1L2.mhk"
 }
 mapinfo {
   maptitle "Death Row"
@@ -438,21 +438,21 @@ mapinfo {
   //author "Allen H. Blum III"
   mapfile  "E1L6.map"
   mapmd4   ee85e0def0c7ba8f1da0a889f25b8758 // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E1L6_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E1L6.mhk"
 }
 mapinfo {
   maptitle "Faces of Death"
   //author "Allen H. Blum III"
   mapfile  "E1L7.map"
   mapmd4   855a0c928a4394e9dd83677b9de727ba // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E1L7_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E1L7.mhk"
 }
 mapinfo {
   maptitle "User Map"
   //author "Allen H. Blum III"
   mapfile  "E1L8.map"
   mapmd4   eec940f60aea75a7765a223651d469c4 // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E1L8_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E1L8.mhk"
 }
 
 mapinfo {
@@ -460,14 +460,14 @@ mapinfo {
   //author "Allen H. Blum III"
   mapfile  "E2L1.map"
   mapmd4   b522da99f32a71ab31fc27aaba9b7f43 // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E2L1_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E2L1.mhk"
 }
 mapinfo {
   maptitle "Incubator"
   //author "Richard Bailey Gray (The Levelord)"
   mapfile  "E2L2.map"
   mapmd4   59dfc3d6f03120c0e7473ecd34aae760 // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E2L2_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E2L2.mhk"
 }
 mapinfo {
   maptitle "Warp Factor"
@@ -481,56 +481,56 @@ mapinfo {
   //author "Allen H. Blum III"
   mapfile  "E2L4.map"
   mapmd4   5ecb347ebf180a43c14af7583843b57d // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E2L4_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E2L4.mhk"
 }
 mapinfo {
   maptitle "Occupied Territory"
   //author "Allen H. Blum III"
   mapfile  "E2L5.map"
   mapmd4   3e4c89b209a0bae9e75afaa2ad027ae1 // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E2L5_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E2L5.mhk"
 }
 mapinfo {
   maptitle "Tiberius Station"
   //author "Allen H. Blum III"
   mapfile  "E2L6.map"
   mapmd4   a7fa4061b5351e8d20b329467ffdc207 // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E2L6_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E2L6.mhk"
 }
 mapinfo {
   maptitle "Lunar Reactor"
   //author "Allen H. Blum III"
   mapfile  "E2L7.map"
   mapmd4   7f667a8a7d30a00e38162db8c4d6c627 // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E2L7_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E2L7.mhk"
 }
 mapinfo {
   maptitle "Dark Side"
   //author "Allen H. Blum III"
   mapfile  "E2L8.map"
   mapmd4   24344dd84c4cf3e334de119642598c1e // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E2L8_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E2L8.mhk"
 }
 mapinfo {
   maptitle "Overlord"
   //author "Allen H. Blum III"
   mapfile  "E2L9.map"
   mapmd4   96bb3562d67cc2b6c51ec98d0a219eff // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E2L9_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E2L9.mhk"
 }
 mapinfo {
   maptitle "Spin Cycle"
   //author "Richard Bailey Gray (The Levelord)"
   mapfile  "E2L10.map"
   mapmd4   2040652c85a54b48e3537ccba055e606 // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E2L10_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E2L10.mhk"
 }
 mapinfo {
   maptitle "Lunatic Fringe"
   //author "Richard Bailey Gray (The Levelord)"
   mapfile  "E2L11.map"
   mapmd4   dea84af1e11afd14e38a619728a5f57b // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E2L11_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E2L11.mhk"
 }
 
 mapinfo {
@@ -594,21 +594,21 @@ mapinfo {
   //author "Allen H. Blum III"
   mapfile  "E3L9.map"
   mapmd4   869e43b1a55708bf1c170a5eb07859fc // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E3L9_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E3L9.mhk"
 }
 mapinfo {
   maptitle "Tier Drops"
   //author "Richard Bailey Gray (The Levelord)"
   mapfile  "E3L10.map"
   mapmd4   18871d1cd8d18afab3d52154077c356c // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E3L10_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E3L10.mhk"
 }
 mapinfo {
   maptitle "Freeway"
   //author "Allen H. Blum III"
   mapfile  "E3L11.map"
   mapmd4   58c0b29e17d5bede903012071c54bd17 // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E3L11_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E3L11.mhk"
 }
 
 mapinfo {
@@ -630,14 +630,14 @@ mapinfo {
   //author "Richard Bailey Gray (The Levelord) & George Broussard"
   mapfile  "E4L3.map"
   mapmd4   4612a78c2d7d1d371ccefa1e84072794 // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E4L3_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E4L3.mhk"
 }
 mapinfo {
   maptitle "Babe Land"
   //author "Allen H. Blum III"
   mapfile  "E4L4.map"
   mapmd4   4315c2f382eeda9dd058e737adac84ea // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E4L4_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E4L4.mhk"
 }
 mapinfo {
   maptitle "Pigsty"
@@ -651,21 +651,21 @@ mapinfo {
   //author "Allen H. Blum III"
   mapfile  "E4L6.map"
   mapmd4   7c95c27c59d701f3787a33985ae92522 // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E4L6_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E4L6.mhk"
 }
 mapinfo {
   maptitle "XXX-Stacy"
   //author "Richard Bailey Gray (The Levelord) & Keith Schuler"
   mapfile  "E4L7.map"
   mapmd4   c8bd3c6435e88074728f3c085d0aea3e // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E4L7_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E4L7.mhk"
 }
 mapinfo {
   maptitle "Critical Mass"
   //author "Richard Bailey Gray (The Levelord) & Keith Schuler"
   mapfile  "E4L8.map"
   mapmd4   2475907d70bc2f581b9afe1efede4174 // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E4L8_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E4L8.mhk"
 }
 mapinfo {
   maptitle "Derelict"
@@ -679,12 +679,12 @@ mapinfo {
   //author "Randall S Pitchford II"
   mapfile  "E4L10.map"
   mapmd4   9344cec951f7cad193d9d573b179099a // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E4L10_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E4L10.mhk"
 }
 mapinfo {
   maptitle "Area 51"
   //author "Randall S Pitchford II"
   mapfile  "E4L11.map"
   mapmd4   92db26db5a24363a78d535e85a7eaa4f // 2016-09-23 (World Tour)
-  mhkfile  "maphacks/3drealms/E4L11_polymost.mhk"
+  mhkfile  "maphacks/3drealms/E4L11.mhk"
 }
