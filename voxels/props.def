@@ -201,6 +201,8 @@ voxel "voxels/props/4372_coffeemachine.kvx" { tile 4372 }
 voxel "voxels/props/4373_cups.kvx" { tile 4373 }
 voxel "voxels/props/4377_policelightpole.kvx" { tile 4377 }
 
+voxel "voxels/props/4386_pipe.kvx" { tile 4386 }
+
 voxel "voxels/props/4387_duketable.kvx" { tile 4387 }
 voxel "voxels/props/4388_bin.kvx" { tile 4388 }
 
