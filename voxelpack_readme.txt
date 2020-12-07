@@ -316,6 +316,7 @@ Version 2.0 RC2 (Dec 7, 2020)
      + Props: 976 (air vent), 3400 ("Duf Beer" blimp), 4386 (pipe)
 
 > Updated:
+     + World Tour maphacks fixed (references to non-existing files corrected)
      + Maphacks: E3L1 (#753 geisha statue)
 
 
