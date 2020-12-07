@@ -102,7 +102,6 @@ voxel "voxels/props/0962_fence.kvx" { tile 962 }
 voxel "voxels/props/0969_hydroplant.kvx" { tile 969 }
 
 voxel "voxels/props/0976_airvent.kvx" { tile 976 }
-
 voxel "voxels/props/0977_pole.kvx" { tile 977 }
 voxel "voxels/props/0978_traffic_cone.kvx" { tile 978 }
 voxel "voxels/props/0979_hanglight.kvx" { tile 979 }
@@ -192,7 +191,7 @@ voxel "voxels/props/1818_cannonballs.kvx" { tile 1818 }
 
 voxel "voxels/props/2200_poo.kvx" { tile 2200 }
 
-voxel "voxels/props/3400_dufbeer.kvx" { tile 3400 }
+voxel "voxels/props/3400_blimp.kvx" { tile 3400 }
 
 voxel "voxels/props/4360_gunpowderbarrel.kvx" { tile 4360 }
 voxel "voxels/props/4367_hatrack.kvx" { tile 4367 }
@@ -204,7 +203,6 @@ voxel "voxels/props/4373_cups.kvx" { tile 4373 }
 voxel "voxels/props/4377_policelightpole.kvx" { tile 4377 }
 
 voxel "voxels/props/4386_pipe.kvx" { tile 4386 }
-
 voxel "voxels/props/4387_duketable.kvx" { tile 4387 }
 voxel "voxels/props/4388_bin.kvx" { tile 4388 }
 
