@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Dec 7, 2020
+Release Date: Dec 17, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (180)
+> Borion (181)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -92,6 +92,7 @@ Contributions by:
      - 100-115 ............ Atomic Health
      - 140/141 ............ Lever switch off/on
      - 142-145 ............ Nuke button
+     - 479 ................ Antenna dish
      - 480 ................ Observatory
      - 551-554 ............ Lightdome
      - 556-557/559 ........ Armchair (+ broken version)
@@ -310,10 +311,10 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Dec 7, 2020)
------------------------------
+Version 2.0 RC2 (Dec 17, 2020)
+------------------------------
 > Added:
-     + Props: 976 (air vent), 3400 ("Duf Beer" blimp), 4386 (pipe)
+     + Props: 479 (antenna dish), 976 (air vent), 3400 ("Duf Beer" blimp), 4386 (pipe)
 
 > Updated:
      + World Tour maphacks fixed (references to non-existing files corrected)
