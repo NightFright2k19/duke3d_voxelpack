@@ -112,7 +112,8 @@ sprite   459 pitch      1          // tile0693 (knife)
 sprite   459 mdxoff     1000       // tile0693 (knife)
 sprite   190 notmd                 // tile4448 (handcuffs)
 //sprite   768 notmd                 // tile4455 (catonine)
-sprite   461 angoff    -896        // tile4444 tripodcamera
+sprite   142 angoff    -512        // tile4444 tripodcamera
+sprite   461 angoff    -384        // tile4444 tripodcamera
 sprite    74 notmd                 // tile0164 dipswitch2
 sprite   196 angoff     512        // tile0027 tripbombsprite
 sprite   195 angoff     512        // tile0027 tripbombsprite

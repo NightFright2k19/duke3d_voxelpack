@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Dec 17, 2020
+Release Date: Dec 20, 2020
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -219,8 +219,9 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (26)
+> Dzierzan (29)
      - 487 ................ Space shuttle
+     - 536/537 ............ Small pipe
      - 543 ................ Panel
      - 544 ................ Connection
      - 976 ................ Air vent
@@ -237,6 +238,7 @@ Contributions by:
      - 3400 ............... "Duf Beer" blimp
      - 4386 ............... Pipe
      - 4407/4408 .......... Annoying mouse
+     - 4446 ............... Prison ball
      - 4457 ............... Rope
      - 4496 ............... Broom
      - 4550 ............... Red lamp
@@ -311,14 +313,15 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Dec 17, 2020)
+Version 2.0 RC2 (Dec 20, 2020)
 ------------------------------
 > Added:
-     + Props: 479 (antenna dish), 976 (air vent), 3400 ("Duf Beer" blimp), 4386 (pipe)
+     + Props: 536/537 (small pipe), 479 (antenna dish), 976 (air vent), 
+              3400 ("Duf Beer" blimp), 4386 (pipe), 4446 (prison ball)
 
 > Updated:
      + World Tour maphacks fixed (references to non-existing files corrected)
-     + Maphacks: E3L1 (#753 geisha statue)
+     + Maphacks: E3L1 (#753 geisha statue), E4L5 (#4444 tripod cam)
 
 
 Version 2.0 RC1 (Dec 3, 2020)

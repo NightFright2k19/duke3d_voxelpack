@@ -8,8 +8,8 @@ voxel "voxels/props/0480_observatory.kvx" { tile 480 }
 
 voxel "voxels/props/0487_spaceshuttle.kvx" { tile 487 }
 
-voxel "voxels/props/0536_small_pipe.kvx" { tile 536 }
-voxel "voxels/props/0537_small_pipe.kvx" { tile 537 }
+voxel "voxels/props/0536_smallpipe1.kvx" { tile 536 }
+voxel "voxels/props/0537_smallpipe2.kvx" { tile 537 }
 
 voxel "voxels/props/0543_panel.kvx" { tile 543 }
 
@@ -222,7 +222,6 @@ voxel "voxels/props/4438_mug.kvx" { tile 4438 }
 voxel "voxels/props/4440_donuts.kvx" { tile 4440 }
 voxel "voxels/props/4443_usaflag.kvx" { tile 4443 }
 voxel "voxels/props/4444_vhscamera.kvx" { tile 4444 }
-
 voxel "voxels/props/4446_prisonball.kvx" { tile 4446 }
 
 voxel "voxels/props/4454_deskphone.kvx" { tile 4454 }
