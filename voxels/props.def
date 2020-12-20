@@ -220,6 +220,8 @@ voxel "voxels/props/4440_donuts.kvx" { tile 4440 }
 voxel "voxels/props/4443_usaflag.kvx" { tile 4443 }
 voxel "voxels/props/4444_vhscamera.kvx" { tile 4444 }
 
+voxel "voxels/props/4446_prisonball.kvx" { tile 4446 }
+
 voxel "voxels/props/4454_deskphone.kvx" { tile 4454 }
 voxel "voxels/props/4457_rope.kvx" { tile 4457 }
 voxel "voxels/props/4458_gumballmachine1.kvx" { tile 4458 }
