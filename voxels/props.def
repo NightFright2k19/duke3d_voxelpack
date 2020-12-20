@@ -8,6 +8,9 @@ voxel "voxels/props/0480_observatory.kvx" { tile 480 }
 
 voxel "voxels/props/0487_spaceshuttle.kvx" { tile 487 }
 
+voxel "voxels/props/0536_small_pipe.kvx" { tile 536 }
+voxel "voxels/props/0537_small_pipe.kvx" { tile 537 }
+
 voxel "voxels/props/0543_panel.kvx" { tile 543 }
 
 voxel "voxels/props/0544_connection.kvx" { tile 544 }
