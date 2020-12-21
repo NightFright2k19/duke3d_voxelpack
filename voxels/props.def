@@ -202,6 +202,9 @@ voxel "voxels/props/4359_target.kvx" { tile 4359 }
 
 voxel "voxels/props/4360_gunpowderbarrel.kvx" { tile 4360 }
 voxel "voxels/props/4361_duck.kvx" { tile 4361 }
+
+voxel "voxels/props/4363_knife.kvx" { tile 4363 }
+
 voxel "voxels/props/4367_hatrack.kvx" { tile 4367 }
 
 voxel "voxels/props/4370_desklamp.kvx" { tile 4370 }
