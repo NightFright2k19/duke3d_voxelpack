@@ -131,6 +131,8 @@ voxel "voxels/props/1014_gbottle.kvx" { tile 1014 }
 
 voxel "voxels/props/1025_bottle7.kvx" { tile 1025 }
 
+voxel "voxels/props/1026_constructionbarrieronside.kvx" { tile0 1026 tile1 1030 }
+
 voxel "voxels/props/1037_table.kvx" { tile 1037 }
 
 voxel "voxels/props/1045_donuts.kvx" { tile 1045 }
