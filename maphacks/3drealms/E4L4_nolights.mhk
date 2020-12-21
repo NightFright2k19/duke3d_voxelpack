@@ -156,6 +156,10 @@ sprite   190 angoff     768        // tile0047 hbombammo
 sprite   200 angoff    -512        // tile1348 holoduke
 sprite   687 angoff     896        // tile4516 pirate half
 sprite   499 angoff     1024       // tile0045 growammo
-
+sprite   366 angoff     1024       // tile4359 target
+sprite   367 angoff     1024       // tile4359 target
+sprite   368 angoff     1024       // tile4359 target
+sprite   369 angoff     1024       // tile4359 target
+sprite   370 angoff     1024       // tile4359 target
 
 // LIGHTS
