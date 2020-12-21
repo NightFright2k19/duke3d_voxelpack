@@ -49,7 +49,6 @@ voxel "voxels/props/0615_brokentoilet.kvx" { tile 615 }
 voxel "voxels/props/0621_camera1.kvx" { tile0 621 tile1 625 }
 
 voxel "voxels/props/0660_waterdrop.kvx" { tile 660 }
-
 voxel "voxels/props/0669_vacuumcleaner.kvx" { tile 669 }
 
 animtilerange 670 671 3 1
@@ -130,8 +129,7 @@ voxel "voxels/props/1013_bottle6.kvx" { tile 1013 }
 voxel "voxels/props/1014_gbottle.kvx" { tile 1014 }
 
 voxel "voxels/props/1025_bottle7.kvx" { tile 1025 }
-
-voxel "voxels/props/1026_constructionbarrieronside.kvx" { tile0 1026 tile1 1030 }
+voxel "voxels/props/1026_constructionbarrier_fallen.kvx" { tile0 1026 tile1 1030 }
 
 voxel "voxels/props/1037_table.kvx" { tile 1037 }
 
@@ -206,9 +204,7 @@ voxel "voxels/props/4359_target.kvx" { tile 4359 }
 
 voxel "voxels/props/4360_gunpowderbarrel.kvx" { tile 4360 }
 voxel "voxels/props/4361_duck.kvx" { tile 4361 }
-
 voxel "voxels/props/4363_knife.kvx" { tile 4363 }
-
 voxel "voxels/props/4367_hatrack.kvx" { tile 4367 }
 
 voxel "voxels/props/4370_desklamp.kvx" { tile 4370 }

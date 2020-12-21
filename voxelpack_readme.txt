@@ -201,14 +201,14 @@ Contributions by:
      - 691 ................ Cleaver
      - 692 ................ Knife
 
-> DotK3D (21)
+> DotK3D (22)
      - 561 ................ Soap
      - 572/991 ............ Shower part
      - 716 ................ "Please Wait" sign
      - 779 ................ Sushi plate eye
      - 860/861 ............ Powerswitch1 off/on
      - 864/865 ............ Powerswitch2 off/on
-     - 904 ................ Wooden horse
+     - 904/1026 ........... Wooden horse
      - 909 ................ Tree trunk
      - 977 ................ Pole
      - 978 ................ Traffic cone
@@ -219,14 +219,16 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (34)
+> Dzierzan (37)
      - 487 ................ Space shuttle
      - 536/537 ............ Small pipe
      - 543 ................ Panel
      - 544 ................ Connection
+     - 660 ................ Water drop
      - 976 ................ Air vent
      - 994-996 ............ Pipes
      - 997/1005/1260 ...... Broken pipes
+     - 1026 ............... Wooden horse fallen (based on DotK3D's voxel)
      - 1267 ............... Rat
      - 1810 ............... Cannon
      - 1817 ............... Cannonball
@@ -238,6 +240,7 @@ Contributions by:
      - 3400 ............... "Duf Beer" blimp
      - 4359 ............... Target
      - 4361 ............... Duck
+     - 4363 ............... Knife
      - 4386 ............... Pipe
      - 4407/4408 .......... Annoying mouse
      - 4413 ............... Mail bag
@@ -320,9 +323,10 @@ CHANGELOG
 Version 2.0 RC2 (Dec 21, 2020)
 ------------------------------
 > Added:
-     + Props: 536/537 (small pipe), 479 (antenna dish), 976 (air vent), 
-              3400 ("Duf Beer" blimp), 4359 (target), 4361 (duck), 4386 (pipe), 
-              4413 (mail bag), 4416/4417 (side mirror), 4446 (prison ball)
+     + Props: 479 (antenna dish), 536/537 (small pipe), 660 (water drop), 976 (air vent), 
+              1026 (wooden horse fallen), 3400 ("Duf Beer" blimp), 4359 (target), 
+              4361 (duck), 4363 (knife), 4386 (pipe), 4413 (mail bag), 
+              4416/4417 (side mirror), 4446 (prison ball)
 
 > Updated:
      + World Tour maphacks fixed (references to non-existing files corrected)
