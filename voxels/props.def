@@ -214,6 +214,8 @@ voxel "voxels/props/4388_bin.kvx" { tile 4388 }
 voxel "voxels/props/4407_mouse1.kvx" { tile 4407 }
 voxel "voxels/props/4408_mouse2.kvx" { tile 4408 }
 
+voxel "voxels/props/4413_mailbag.kvx" { tile 4413 }
+
 voxel "voxels/props/4426_bowlingpin.kvx" { tile 4426 }
 voxel "voxels/props/4429_fence1.kvx" { tile 4429 }
 
