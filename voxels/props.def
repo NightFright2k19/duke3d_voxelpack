@@ -48,6 +48,8 @@ voxel "voxels/props/0615_brokentoilet.kvx" { tile 615 }
 
 voxel "voxels/props/0621_camera1.kvx" { tile0 621 tile1 625 }
 
+voxel "voxels/props/0660_waterdrop.kvx" { tile 660 }
+
 voxel "voxels/props/0669_vacuumcleaner.kvx" { tile 669 }
 
 animtilerange 670 671 3 1
