@@ -268,6 +268,8 @@ voxel "voxels/props/4576_shoppingcart.kvx" { tile 4576 }
 voxel "voxels/props/4580_canwithsomething2.kvx" { tile 4580 }
 voxel "voxels/props/4581_canwithsomething3.kvx" { tile 4581 }
 voxel "voxels/props/4582_canwithsomething4.kvx" { tile 4582 }
+voxel "voxels/props/4583_pipe.kvx" { tile 4583 }
+voxel "voxels/props/4585_valve.kvx" { tile 4585 }
 voxel "voxels/props/4589_warn1.kvx" { tile 4589 }
 
 voxel "voxels/props/4885_driverwheel.kvx" { tile 4885 }
