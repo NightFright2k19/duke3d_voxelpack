@@ -271,3 +271,4 @@ voxel "voxels/props/4582_canwithsomething4.kvx" { tile 4582 }
 voxel "voxels/props/4589_warn1.kvx" { tile 4589 }
 
 voxel "voxels/props/4885_driverwheel.kvx" { tile 4885 }
+voxel "voxels/props/5435_mailbox.kvx" { tile 5435 }
