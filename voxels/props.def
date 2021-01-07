@@ -251,6 +251,8 @@ voxel "voxels/props/4459_gumballmachine2.kvx" { tile 4459 }
 
 voxel "voxels/props/4464_mace.kvx" { tile 4464 }
 
+voxel "voxels/props/4465_genericpole.kvx" { tile 4465 }
+
 voxel "voxels/props/4495_wetfloor.kvx" { tile 4495 }
 voxel "voxels/props/4496_broom.kvx" { tile 4496 }
 
