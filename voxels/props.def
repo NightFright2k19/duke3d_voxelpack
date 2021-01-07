@@ -19,6 +19,7 @@ voxel "voxels/props/0551_lightdome1.kvx" { tile 551 }
 voxel "voxels/props/0552_lightdome2.kvx" { tile 552 }
 voxel "voxels/props/0553_lightdome3.kvx" { tile 553 }
 voxel "voxels/props/0554_lightdome4.kvx" { tile 554 }
+voxel "voxels/props/0555_smallvalve.kvx" { tile 555 }
 voxel "voxels/props/0556_armchair1.kvx" { tile0 556 tile1 557 }
 voxel "voxels/props/0559_armchair3.kvx" { tile 559 }
 
