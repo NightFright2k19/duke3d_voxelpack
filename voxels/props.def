@@ -137,6 +137,9 @@ voxel "voxels/props/1012_bottle5.kvx" { tile 1012 }
 voxel "voxels/props/1013_bottle6.kvx" { tile 1013 }
 voxel "voxels/props/1014_gbottle.kvx" { tile 1014 }
 
+voxel "voxels/props/1022_greengoo1.kvx" { tile 1022 }
+voxel "voxels/props/1023_greengoo2.kvx" { tile 1023 }
+
 voxel "voxels/props/1025_bottle7.kvx" { tile 1025 }
 voxel "voxels/props/1026_constructionbarrier_fallen.kvx" { tile0 1026 tile1 1030 }
 
