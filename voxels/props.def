@@ -44,13 +44,11 @@ voxel "voxels/props/0595_grate1.kvx" { tile 595 }
 voxel "voxels/props/0596_bgrate2.kvx" { tile 596 }
 
 voxel "voxels/props/0602_solarpanel.kvx" { tile 602 }
-
 voxel "voxels/props/0606_spacesuitcorpse.kvx" { tile 606 }
 voxel "voxels/props/0607_antenna1.kvx" { tile 607 }
 voxel "voxels/props/0608_antenna2.kvx" { tile 608 }
 
 voxel "voxels/props/0610_pipe.kvx" { tile 610 }
-
 voxel "voxels/props/0615_brokentoilet.kvx" { tile 615 }
 
 voxel "voxels/props/0621_camera1.kvx" { tile0 621 tile1 625 }
@@ -126,8 +124,7 @@ voxel "voxels/props/0994_pipe1.kvx" { tile 994 }
 voxel "voxels/props/0995_pipe2.kvx" { tile 995 }
 voxel "voxels/props/0996_pipe3.kvx" { tile 996 }
 voxel "voxels/props/0997_damagedpipe1.kvx" { tile 997 }
-voxel "voxels/props/0998_parkingmeter.kvx" { tile 998 }
-voxel "voxels/props/0998_parkingmeter.kvx" { tile 999 }
+voxel "voxels/props/0998_parkingmeter.kvx" { tile0 998 tile1 999 }
 
 voxel "voxels/props/1003_brokehydroplant.kvx" { tile 1003 }
 voxel "voxels/props/1005_damagedpipe2.kvx" { tile 1005 }
@@ -139,7 +136,6 @@ voxel "voxels/props/1014_gbottle.kvx" { tile 1014 }
 
 voxel "voxels/props/1022_greengoo1.kvx" { tile 1022 }
 voxel "voxels/props/1023_greengoo2.kvx" { tile 1023 }
-
 voxel "voxels/props/1025_bottle7.kvx" { tile 1025 }
 voxel "voxels/props/1026_constructionbarrier_fallen.kvx" { tile0 1026 tile1 1030 }
 
@@ -198,6 +194,15 @@ voxel "voxels/props/1247_seenine.kvx" { tile 1247 }
 voxel "voxels/props/1260_damagedpipe3.kvx" { tile 1260 }
 voxel "voxels/props/1267_rat.kvx" { tile0 1267 tile1 1270 }
 
+voxel "voxels/props/1337_helicopter1.kvx" { tile 1337 }
+voxel "voxels/props/1338_helicopter2.kvx" { tile 1338 }
+
+voxel "voxels/props/1340_debris1.kvx" { tile 1340 }
+voxel "voxels/props/1341_debris2.kvx" { tile 1341 }
+voxel "voxels/props/1342_debris3.kvx" { tile 1342 }
+voxel "voxels/props/1345_helicopter3.kvx" { tile 1345 }
+voxel "voxels/props/1346_helicopter4.kvx" { tile 1346 }
+
 voxel "voxels/props/1353_spacemarine.kvx" { tile 1353 }
 
 voxel "voxels/props/1390_firevase.kvx" { tile 1390 }
@@ -253,7 +258,6 @@ voxel "voxels/props/4458_gumballmachine1.kvx" { tile 4458 }
 voxel "voxels/props/4459_gumballmachine2.kvx" { tile 4459 }
 
 voxel "voxels/props/4464_mace.kvx" { tile 4464 }
-
 voxel "voxels/props/4465_genericpole.kvx" { tile 4465 }
 
 voxel "voxels/props/4495_wetfloor.kvx" { tile 4495 }
@@ -288,4 +292,5 @@ voxel "voxels/props/4585_valve.kvx" { tile 4585 }
 voxel "voxels/props/4589_warn1.kvx" { tile 4589 }
 
 voxel "voxels/props/4885_driverwheel.kvx" { tile 4885 }
+
 voxel "voxels/props/5435_mailbox.kvx" { tile 5435 }

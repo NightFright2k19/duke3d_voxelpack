@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Dec 21, 2020
+Release Date: Jan 7, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (181)
+> Borion (188)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -167,6 +167,10 @@ Contributions by:
      - 1232 ............... Trash can
      - 1240-1243 .......... Fire barrel
      - 1247 ............... C-9 cannister
+     - 1337-1338 .......... Helicopter (running)
+     - 1340-1342 .......... Helicopter debris
+     - 1345 ............... Helicopter (parking)
+     - 1346 ............... Helicopter (crashing)
      - 1353 ............... Space Marine
      - 1390-1393 .......... Fire vase
      - 1650-1653 .......... Mortar
@@ -219,16 +223,24 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (37)
+> Dzierzan (50)
      - 487 ................ Space shuttle
+     - 517 ................ Gas tank
      - 536/537 ............ Small pipe
      - 543 ................ Panel
      - 544 ................ Connection
+     - 555 ................ Small valve
+     - 602 ................ Solar panel
+     - 610 ................ Pipe
      - 660 ................ Water drop
      - 976 ................ Air vent
      - 994-996 ............ Pipes
      - 997/1005/1260 ...... Broken pipes
+     - 998/999 ............ Parking meter
+     - 1022-1023 .......... Green goo
      - 1026 ............... Wooden horse fallen (based on DotK3D's voxel)
+     - 1037 ............... Table (remake, original by Spiker)
+     - 1038 ............... Horizontal pipe
      - 1267 ............... Rat
      - 1810 ............... Cannon
      - 1817 ............... Cannonball
@@ -247,9 +259,13 @@ Contributions by:
      - 4416/4417 .......... Side mirror
      - 4446 ............... Prison ball
      - 4457 ............... Rope
+     - 4465 ............... Generic pole
      - 4496 ............... Broom
      - 4550 ............... Red lamp
      - 4552 ............... Worms can
+     - 4583 ............... Pipe
+     - 4585 ............... Valve
+     - 5435 ............... Mailbox
 
 > mxrtxn (41)
      - 584 ................ Sensor
@@ -298,9 +314,6 @@ Contributions by:
      - 1122/1123 .......... Flipswitch
      - 4464 ............... Mace
 
-> Striker (1)
-     - 1037 ............... Table
-
 
 Special thanks to:
 
@@ -320,17 +333,21 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Dec 21, 2020)
-------------------------------
+Version 2.0 RC2 (Jan 7, 2021)
+-----------------------------
 > Added:
-     + Props: 479 (antenna dish), 536/537 (small pipe), 660 (water drop), 976 (air vent), 
-              1026 (wooden horse fallen), 3400 ("Duf Beer" blimp), 4359 (target), 
-              4361 (duck), 4363 (knife), 4386 (pipe), 4413 (mail bag), 
-              4416/4417 (side mirror), 4446 (prison ball)
+     + Props: 479 (antenna dish), 517 (gas tank), 536/537 (small pipe), 555 (small valve), 602 (solar panel), 
+              610 (pipe), 660 (water drop), 976 (air vent), 998/999 (parking meter), 1022-1023 (green goo), 
+              1026 (wooden horse fallen), 1038 (horizontal pipe), 1337-1338 (helicopter running), 
+              1340-1342 (helicopter debris), 1345 (helicopter parking), 1346 (helicopter crashing), 
+              3400 ("Duf Beer" blimp), 4359 (target), 4361 (duck), 4363 (knife), 4386 (pipe), 4413 (mail bag), 
+              4416/4417 (side mirror), 4446 (prison ball), 4465 (generic pole), 4583 (pipe), 4585 (valve), 
+              5435 (mailbox)
 
 > Updated:
      + World Tour maphacks fixed (references to non-existing files corrected)
-     + Maphacks: E3L1 (#753 geisha statue), E4L5 (#4444 tripod cam)
+     + Maphacks: E2L3 (#602 solar panel), E3L1 (#753 geisha statue), E4L5 (#4444 tripod cam)
+     + Props: 487 (space shuttle), 1037 (table)
 
 
 Version 2.0 RC1 (Dec 3, 2020)
