@@ -44,6 +44,8 @@ voxel "voxels/props/0606_spacesuitcorpse.kvx" { tile 606 }
 voxel "voxels/props/0607_antenna1.kvx" { tile 607 }
 voxel "voxels/props/0608_antenna2.kvx" { tile 608 }
 
+voxel "voxels/props/0610_pipe.kvx" { tile 610 }
+
 voxel "voxels/props/0615_brokentoilet.kvx" { tile 615 }
 
 voxel "voxels/props/0621_camera1.kvx" { tile0 621 tile1 625 }
