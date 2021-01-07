@@ -48,9 +48,8 @@ sprite   348 angoff    -512        // tile0051 cola
 sprite   691 angoff     512        // tile0041 batteryammo
 sprite   691 pitch     -64         // tile0041 batteryammo
 sprite   691 mdzoff     2500       // tile0041 batteryammo
-sprite   499 angoff     768        // tile0602 solarpanel
-sprite   499 pitch      128        // tile0602 solarpanel
-sprite   499 mdzoff    -22000      // tile0602 solarpanel
+sprite   499 angoff     656        // tile0602 solarpanel
+sprite   499 mdposyoff  300        // tile0602 solarpanel
 sprite     4 angoff    -512        // tile0051 cola
 sprite     3 angoff    -512        // tile0051 cola
 sprite   346 angoff    -512        // tile0042 devistatorammo
