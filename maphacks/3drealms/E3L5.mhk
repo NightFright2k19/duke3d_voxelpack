@@ -94,6 +94,7 @@ sprite    47 angoff     256        // tile0053 firstaid
 sprite   257 angoff     512        // tile0054 shield
 sprite   259 angoff     512        // tile0052 sixpack
 sprite   261 angoff     512        // tile1348 holoduke
+sprite   478 angoff     512        // tile1346 helicopter
 
 
 // LIGHTS

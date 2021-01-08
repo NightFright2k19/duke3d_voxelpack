@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Jan 7, 2021
+Release Date: Jan 8, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -223,7 +223,7 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (50)
+> Dzierzan (51)
      - 487 ................ Space shuttle
      - 517 ................ Gas tank
      - 536/537 ............ Small pipe
@@ -257,6 +257,7 @@ Contributions by:
      - 4407/4408 .......... Annoying mouse
      - 4413 ............... Mail bag
      - 4416/4417 .......... Side mirror
+     - 4419 ............... Broken pipebomb
      - 4446 ............... Prison ball
      - 4457 ............... Rope
      - 4465 ............... Generic pole
@@ -333,7 +334,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Jan 7, 2021)
+Version 2.0 RC2 (Jan 8, 2021)
 -----------------------------
 > Added:
      + Props: 479 (antenna dish), 517 (gas tank), 536/537 (small pipe), 555 (small valve), 602 (solar panel), 
@@ -341,12 +342,13 @@ Version 2.0 RC2 (Jan 7, 2021)
               1026 (wooden horse fallen), 1038 (horizontal pipe), 1337-1338 (helicopter running), 
               1340-1342 (helicopter debris), 1345 (helicopter parking), 1346 (helicopter crashing), 
               3400 ("Duf Beer" blimp), 4359 (target), 4361 (duck), 4363 (knife), 4386 (pipe), 4413 (mail bag), 
-              4416/4417 (side mirror), 4446 (prison ball), 4465 (generic pole), 4583 (pipe), 4585 (valve), 
-              5435 (mailbox)
+              4416/4417 (side mirror), 4419 (broken pipebomb), 4446 (prison ball), 4465 (generic pole), 
+              4583 (pipe), 4585 (valve), 5435 (mailbox)
 
 > Updated:
      + World Tour maphacks fixed (references to non-existing files corrected)
-     + Maphacks: E2L3 (#602 solar panel), E3L1 (#753 geisha statue), E4L5 (#4444 tripod cam)
+     + Maphacks: E2L3 (#602 solar panel), E3L1 (#753 geisha statue), E3L5 (#1346 helicopter),
+                 E4L5 (#4444 tripod cam)
      + Props: 487 (space shuttle), 1037 (table)
 
 
