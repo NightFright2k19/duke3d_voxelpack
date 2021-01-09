@@ -2,6 +2,8 @@
 
 voxel "voxels/props/0058_spacesuit.kvx" { tile 58 }
 
+voxel "voxels/props/0160_doorshock.kvx" { tile 160 }
+
 voxel "voxels/props/0479_antennadish.kvx" { tile 479 }
 
 voxel "voxels/props/0480_observatory.kvx" { tile 480 }
