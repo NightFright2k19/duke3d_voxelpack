@@ -296,7 +296,7 @@ voxel "voxels/props/4589_warn1.kvx" { tile 4589 }
 
 voxel "voxels/props/4885_driverwheel.kvx" { tile 4885 }
 
-voxel "voxels/props/4946_bat.kvx" { tile 4946 }
+voxel "voxels/props/4946_baseballbat.kvx" { tile 4946 }
 
 voxel "voxels/props/5384_lamp.kvx" { tile 5384 }
 
