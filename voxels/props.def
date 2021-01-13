@@ -203,6 +203,8 @@ voxel "voxels/props/1338_helicopter2.kvx" { tile 1338 }
 voxel "voxels/props/1340_debris1.kvx" { tile 1340 }
 voxel "voxels/props/1341_debris2.kvx" { tile 1341 }
 voxel "voxels/props/1342_debris3.kvx" { tile 1342 }
+voxel "voxels/props/1343_brokenwheel.kvx" { tile 1343 }
+voxel "voxels/props/1344_propeller.kvx" { tile 1344 }
 voxel "voxels/props/1345_helicopter3.kvx" { tile 1345 }
 voxel "voxels/props/1346_helicopter4.kvx" { tile 1346 }
 
@@ -297,6 +299,7 @@ voxel "voxels/props/4589_warn1.kvx" { tile 4589 }
 
 voxel "voxels/props/4885_driverwheel.kvx" { tile 4885 }
 
+voxel "voxels/props/4943_jury.kvx" { tile 4943 }
 voxel "voxels/props/4946_baseballbat.kvx" { tile 4946 }
 
 voxel "voxels/props/5384_lamp.kvx" { tile 5384 }

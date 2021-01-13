@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Jan 11, 2021
+Release Date: Jan 13, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -82,7 +82,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (188)
+> Borion (191)
      - 25 ................. Shrinker
      - 32 ................. Expander
      - 45 ................. Expander ammo
@@ -169,6 +169,8 @@ Contributions by:
      - 1247 ............... C-9 cannister
      - 1337-1338 .......... Helicopter (running)
      - 1340-1342 .......... Helicopter debris
+     - 1343 ............... Broken wheel
+     - 1344 ............... Propeller
      - 1345 ............... Helicopter (parking)
      - 1346 ............... Helicopter (crashing)
      - 1353 ............... Space Marine
@@ -198,6 +200,7 @@ Contributions by:
      - 4885 ............... Driver wheel
      - 4891 ............... "We Store Your Crap" sign
      - 4930 ............... "E Pluribus Nukem" sign
+     - 4943 ............... Hung jury
      - 4954 ............... Broken switch #2
      - 4956 ............... "Funny Boner Comedy Club" sign
 
@@ -338,16 +341,17 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Jan 11, 2021)
+Version 2.0 RC2 (Jan 13, 2021)
 ------------------------------
 > Added:
      + Props: 160 (door shock), 479 (antenna dish), 517 (gas tank), 536/537 (small pipe), 555 (small valve), 
               602 (solar panel), 610 (pipe), 660 (water drop), 976 (air vent), 998/999 (parking meter), 
               1022-1023 (green goo), 1026 (wooden horse fallen), 1038 (horizontal pipe), 1157 (money jar),
-              1337-1338 (helicopter running), 1340-1342 (helicopter debris), 1345 (helicopter parking), 
-              1346 (helicopter crashing), 3400 ("Duf Beer" blimp), 4359 (target), 4361 (duck), 4363 (knife), 
-              4386 (pipe), 4413 (mail bag), 4416/4417 (side mirror), 4419 (broken pipebomb), 4446 (prison ball), 
-              4465 (generic pole), 4583 (pipe), 4585 (valve), 4946 (baseball bat), 5384 (lamp), 5435 (mailbox)
+              1337-1338 (helicopter running), 1340-1342 (helicopter debris), 1343 (broken wheel), 1344 (propeller),
+              1345 (helicopter parking), 1346 (helicopter crashing), 3400 ("Duf Beer" blimp), 4359 (target), 
+              4361 (duck), 4363 (knife), 4386 (pipe), 4413 (mail bag), 4416/4417 (side mirror), 
+              4419 (broken pipebomb), 4446 (prison ball), 4465 (generic pole), 4583 (pipe), 4585 (valve), 
+              4943 (hung jury), 4946 (baseball bat), 5384 (lamp), 5435 (mailbox)
 
 > Updated:
      + World Tour maphacks fixed (references to non-existing files corrected)
