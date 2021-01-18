@@ -7,7 +7,6 @@ voxel "voxels/props/0160_doorshock.kvx" { tile 160 }
 voxel "voxels/props/0479_antennadish.kvx" { tile 479 }
 
 voxel "voxels/props/0480_observatory.kvx" { tile 480 }
-
 voxel "voxels/props/0487_spaceshuttle.kvx" { tile 487 }
 
 voxel "voxels/props/0517_gastank.kvx" { tile 517 }
@@ -16,7 +15,6 @@ voxel "voxels/props/0536_smallpipe1.kvx" { tile 536 }
 voxel "voxels/props/0537_smallpipe2.kvx" { tile 537 }
 
 voxel "voxels/props/0543_panel.kvx" { tile 543 }
-
 voxel "voxels/props/0544_connection.kvx" { tile 544 }
 
 voxel "voxels/props/0551_lightdome1.kvx" { tile 551 }
@@ -294,11 +292,9 @@ voxel "voxels/props/4580_canwithsomething2.kvx" { tile 4580 }
 voxel "voxels/props/4581_canwithsomething3.kvx" { tile 4581 }
 voxel "voxels/props/4582_canwithsomething4.kvx" { tile 4582 }
 voxel "voxels/props/4583_pipe.kvx" { tile 4583 }
-
+voxel "voxels/props/4585_valve.kvx" { tile 4585 }
 voxel "voxels/props/4586_thinpipe1.kvx" { tile 4586 }
 voxel "voxels/props/4587_thinpipe2.kvx" { tile 4587 }
-
-voxel "voxels/props/4585_valve.kvx" { tile 4585 }
 voxel "voxels/props/4589_warn1.kvx" { tile 4589 }
 
 voxel "voxels/props/4885_driverwheel.kvx" { tile 4885 }
