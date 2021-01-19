@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Jan 18, 2021
+Release Date: Jan 19, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -226,7 +226,7 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (57)
+> Dzierzan (58)
      - 160 ................ Door shock
      - 487 ................ Space shuttle
      - 517 ................ Gas tank
@@ -246,6 +246,7 @@ Contributions by:
      - 1037 ............... Table (remake, original by Spiker)
      - 1038 ............... Horizontal pipe
      - 1157 ............... Money jar
+     - 1238 ............... Metal barrel
      - 1267 ............... Rat
      - 1810 ............... Cannon
      - 1817 ............... Cannonball
@@ -276,11 +277,10 @@ Contributions by:
      - 5384 ............... Lamp
      - 5435 ............... Mailbox
 
-> mxrtxn (41)
+> mxrtxn (40)
      - 584 ................ Sensor
      - 621 ................ Security camera
      - 1014 ............... Bottle
-     - 1238 ............... Metal barrel
      - 4569 ............... Burger box
      - 4370 ............... Desk lamp
      - 4371 ............... Police shield
@@ -342,7 +342,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Jan 18, 2021)
+Version 2.0 RC2 (Jan 19, 2021)
 ------------------------------
 > Added:
      + Props: 160 (door shock), 479 (antenna dish), 517 (gas tank), 536/537 (small pipe), 555 (small valve), 
@@ -358,7 +358,7 @@ Version 2.0 RC2 (Jan 18, 2021)
      + World Tour maphacks fixed (references to non-existing files corrected)
      + Maphacks: E2L3 (#602 solar panel), E3L1 (#753 geisha statue), E3L5 (#1346 helicopter),
                  E4L5 (#4444 tripod cam)
-     + Props: 487 (space shuttle), 1037 (table)
+     + Props: 487 (space shuttle), 1037 (table), 1238 (metal barrel)
 
 
 Version 2.0 RC1 (Dec 3, 2020)
