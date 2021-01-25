@@ -285,6 +285,7 @@ voxel "voxels/props/4542_foodobject13.kvx" { tile 4542 }
 voxel "voxels/props/4546_foodobject17.kvx" { tile 4546 }
 voxel "voxels/props/4547_foodobject18.kvx" { tile 4547 }
 voxel "voxels/props/4548_foodobject19.kvx" { tile 4548 }
+voxel "voxels/props/4549_foodobject20.kvx" { tile 4549 }
 
 voxel "voxels/props/4550_redlamp.kvx" { tile 4550 }
 voxel "voxels/props/4552_canwithworms.kvx" { tile 4552 }
