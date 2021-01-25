@@ -38,6 +38,8 @@ voxel "voxels/props/0572_showerpart.kvx" { tile 572 tile 991 }
 voxel "voxels/props/0573_brokenurinal.kvx" { tile 573 }
 voxel "voxels/props/0574_faucet.kvx" { scale .9 tile 574 }
 
+voxel "voxels/props/0578_reactor.kvx" { tile 578 }
+
 voxel "voxels/props/0584_sensor.kvx" { tile 584 }
 
 voxel "voxels/props/0595_grate1.kvx" { tile 595 }
