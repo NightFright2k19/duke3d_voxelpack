@@ -240,8 +240,11 @@ sprite   185 pitch     -1          // tile0142 nukebutton
 sprite   185 mdxoff     5000       // tile0142 nukebutton
 // Voxel Pack additions
 // sprite   82 angoff      1024       // tile4443 (flag)
+sprite   245 angoff    -576 	   // tile4442 (Callahan name tag)
+sprite   246 angoff     920 	   // tile4441 (McClain name tag)
 sprite   474 angoff    -512        // tile4377 policelightpole
 sprite   475 angoff    -512        // tile4377 policelightpole
+sprite   825 angoff    -840 	   // tile4473 (Dredd name tag)
 
 
 // LIGHTS

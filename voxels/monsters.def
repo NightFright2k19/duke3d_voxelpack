@@ -1,3 +1,4 @@
+/*
 // Slimer Egg (675)
 voxel "voxels/monsters/0558_slimeregg0.kvx" { tile 558 }
 voxel "voxels/monsters/0675_slimeregg1.kvx" { tile 675 }
@@ -16,6 +17,7 @@ voxel "voxels/monsters/1975_tank_shoot1.kvx" { tile0 1985 tile1 1989 scale .94 }
 voxel "voxels/monsters/1975_tank_shoot2.kvx" { tile0 1990 tile1 1994 scale .94 }
 voxel "voxels/monsters/1975_tank_empty.kvx" { tile 1995 scale .94 }
 voxel "voxels/monsters/1975_tank_wreck.kvx" { tile 1996 scale .94 }
+*/
 
 // Gun Turret (2350)
 voxel "voxels/monsters/2350_turret1.kvx" { tile0 2350 tile1 2354 }

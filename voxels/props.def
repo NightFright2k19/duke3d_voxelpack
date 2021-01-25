@@ -37,7 +37,6 @@ voxel "voxels/props/0571_urinal.kvx" { tile 571 }
 voxel "voxels/props/0572_showerpart.kvx" { tile 572 tile 991 }
 voxel "voxels/props/0573_brokenurinal.kvx" { tile 573 }
 voxel "voxels/props/0574_faucet.kvx" { scale .9 tile 574 }
-
 voxel "voxels/props/0578_reactor.kvx" { tile 578 }
 
 voxel "voxels/props/0584_sensor.kvx" { tile 584 }
@@ -236,6 +235,7 @@ voxel "voxels/props/4370_desklamp.kvx" { tile 4370 }
 voxel "voxels/props/4371_plate1.kvx" { tile 4371 }
 voxel "voxels/props/4372_coffeemachine.kvx" { tile 4372 }
 voxel "voxels/props/4373_cups.kvx" { tile 4373 }
+voxel "voxels/props/4374_gavel.kvx" { tile0 4374 tile1 4375 }
 voxel "voxels/props/4377_policelightpole.kvx" { tile 4377 }
 
 voxel "voxels/props/4386_pipe.kvx" { tile 4386 }
@@ -257,8 +257,8 @@ voxel "voxels/props/4438_mug.kvx" { tile 4438 }
 
 voxel "voxels/props/4440_donuts.kvx" { tile 4440 }
 
-voxel "voxels/props/4441_jmcclain.kvx" { tile 4441 }
-voxel "voxels/props/4442_hcallahan.kvx" { tile 4442 }
+voxel "voxels/props/4441_mcclain.kvx" { tile 4441 }
+voxel "voxels/props/4442_callahan.kvx" { tile 4442 }
 
 voxel "voxels/props/4443_usaflag.kvx" { tile 4443 }
 voxel "voxels/props/4444_vhscamera.kvx" { tile 4444 }
@@ -269,21 +269,17 @@ voxel "voxels/props/4457_rope.kvx" { tile 4457 }
 voxel "voxels/props/4458_gumballmachine1.kvx" { tile 4458 }
 voxel "voxels/props/4459_gumballmachine2.kvx" { tile 4459 }
 
-voxel "voxels/props/4374_gavel.kvx" { tile 4374 }
-voxel "voxels/props/4374_gavel.kvx" { tile 4375 }
-
 voxel "voxels/props/4464_mace.kvx" { tile 4464 }
 voxel "voxels/props/4465_genericpole.kvx" { tile 4465 }
 
-voxel "voxels/props/4473_jdredd.kvx" { tile 4473 }
+voxel "voxels/props/4473_dredd.kvx" { tile 4473 }
 
 voxel "voxels/props/4495_wetfloor.kvx" { tile 4495 }
 voxel "voxels/props/4496_broom.kvx" { tile 4496 }
 
 voxel "voxels/props/4524_steedhooks.kvx" { tile 4524 }
 
-voxel "voxels/props/4533_kitchen_object.kvx" { tile 4533 }
-
+voxel "voxels/props/4533_kitchenobject.kvx" { tile 4533 }
 voxel "voxels/props/4536_foodobject7.kvx" { tile 4536 }
 voxel "voxels/props/4537_foodobject8.kvx" { tile 4537 }
 voxel "voxels/props/4538_foodobject9.kvx" { tile 4538 }
@@ -301,7 +297,6 @@ voxel "voxels/props/4550_redlamp.kvx" { tile 4550 }
 voxel "voxels/props/4552_canwithworms.kvx" { tile 4552 }
 
 voxel "voxels/props/4567_icicles.kvx" { tile 4567 }
-
 voxel "voxels/props/4569_burgerbox.kvx" { tile 4569 }
 
 voxel "voxels/props/4576_shoppingcart.kvx" { tile 4576 }

@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Jan 19, 2021
+Release Date: Jan 25, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -208,9 +208,8 @@ Contributions by:
      - 691 ................ Cleaver
      - 692 ................ Knife
 
-> DotK3D (22)
+> DotK3D (21)
      - 561 ................ Soap
-     - 572/991 ............ Shower part
      - 716 ................ "Please Wait" sign
      - 779 ................ Sushi plate eye
      - 860/861 ............ Powerswitch1 off/on
@@ -226,7 +225,7 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (58)
+> Dzierzan (68)
      - 160 ................ Door shock
      - 487 ................ Space shuttle
      - 517 ................ Gas tank
@@ -234,6 +233,8 @@ Contributions by:
      - 543 ................ Panel
      - 544 ................ Connection
      - 555 ................ Small valve
+     - 572/991 ............ Shower part
+     - 578 ................ Reactor
      - 602 ................ Solar panel
      - 610 ................ Pipe
      - 660 ................ Water drop
@@ -241,6 +242,7 @@ Contributions by:
      - 994-996 ............ Pipes
      - 997/1005/1260 ...... Broken pipes
      - 998/999 ............ Parking meter
+     - 1014 ............... Bottle
      - 1022-1023 .......... Green goo
      - 1026 ............... Wooden horse fallen (based on DotK3D's voxel)
      - 1037 ............... Table (remake, original by Spiker)
@@ -256,20 +258,26 @@ Contributions by:
      - 3200 ............... Yellow marker
      - 3210 ............... Green marker
      - 3400 ............... "Duf Beer" blimp
+     - 3418 ............... Side mirror
      - 4359 ............... Target
      - 4361 ............... Duck
      - 4363 ............... Knife
+     - 4374/4375 .......... Gavel
      - 4386 ............... Pipe
      - 4407/4408 .......... Annoying mouse
      - 4413 ............... Mail bag
      - 4416/4417 .......... Side mirror
      - 4419 ............... Broken pipebomb
+     - 4441/4442/4473 ..... "McClain"/"Callahan"/"Dredd" name tags
      - 4446 ............... Prison ball
      - 4457 ............... Rope
      - 4465 ............... Generic pole
      - 4496 ............... Broom
+     - 4533 ............... Kitchen object
+     - 4549 ............... Burger wrapper (Foodobject20)
      - 4550 ............... Red lamp
      - 4552 ............... Worms can
+     - 4567 ............... Icicles
      - 4583 ............... Pipe
      - 4585 ............... Valve
      - 4586/4587 .......... Thin pipe
@@ -277,10 +285,9 @@ Contributions by:
      - 5384 ............... Lamp
      - 5435 ............... Mailbox
 
-> mxrtxn (40)
+> mxrtxn (39)
      - 584 ................ Sensor
      - 621 ................ Security camera
-     - 1014 ............... Bottle
      - 4569 ............... Burger box
      - 4370 ............... Desk lamp
      - 4371 ............... Police shield
@@ -342,23 +349,26 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Jan 19, 2021)
+Version 2.0 RC2 (Jan 25, 2021)
 ------------------------------
 > Added:
      + Props: 160 (door shock), 479 (antenna dish), 517 (gas tank), 536/537 (small pipe), 555 (small valve), 
-              602 (solar panel), 610 (pipe), 660 (water drop), 976 (air vent), 998/999 (parking meter), 
+              578 (reactor), 602 (solar panel), 610 (pipe), 660 (water drop), 976 (air vent), 998/999 (parking meter), 
               1022-1023 (green goo), 1026 (wooden horse fallen), 1038 (horizontal pipe), 1157 (money jar),
               1337-1338 (helicopter running), 1340-1342 (helicopter debris), 1343 (broken wheel), 1344 (propeller),
-              1345 (helicopter parking), 1346 (helicopter crashing), 3400 ("Duf Beer" blimp), 4359 (target), 
-              4361 (duck), 4363 (knife), 4386 (pipe), 4413 (mail bag), 4416/4417 (side mirror), 
-              4419 (broken pipebomb), 4446 (prison ball), 4465 (generic pole), 4583 (pipe), 4585 (valve), 
-              4586/4587 (thin pipe), 4943 (hung jury), 4946 (baseball bat), 5384 (lamp), 5435 (mailbox)
+              1345 (helicopter parking), 1346 (helicopter crashing), 3400 ("Duf Beer" blimp), 3418 (side mirror), 
+              4359 (target), 4361 (duck), 4363 (knife), 4374/4375 (gavel), 4386 (pipe), 4413 (mail bag), 
+              4416/4417 (side mirror), 4419 (broken pipebomb), 4441/4442/4473 (McClain/Callahan/Dredd name tags), 
+              4446 (prison ball), 4465 (generic pole), 4533 (kitchen object), 4549 (burger wrapper), 
+              4567 (icicles), 4583 (pipe), 4585 (valve), 4586/4587 (thin pipe), 4943 (hung jury), 4946 (baseball bat), 
+              5384 (lamp), 5435 (mailbox)
 
 > Updated:
      + World Tour maphacks fixed (references to non-existing files corrected)
      + Maphacks: E2L3 (#602 solar panel), E3L1 (#753 geisha statue), E3L5 (#1346 helicopter),
-                 E4L5 (#4444 tripod cam)
-     + Props: 487 (space shuttle), 1037 (table), 1238 (metal barrel)
+                 E4L5 (#4441/4442/4473 name tags, #4444 tripod cam)
+     + Monsters: Turret (#2350) activated in monsters.def
+     + Props: 487 (space shuttle), 572/991 (shower part), 1014 (bottle), 1037 (table), 1238 (metal barrel)
 
 
 Version 2.0 RC1 (Dec 3, 2020)
