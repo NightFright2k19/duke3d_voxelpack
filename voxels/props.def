@@ -274,6 +274,8 @@ voxel "voxels/props/4496_broom.kvx" { tile 4496 }
 
 voxel "voxels/props/4524_steedhooks.kvx" { tile 4524 }
 
+voxel "voxels/props/4533_kitchen_object.kvx" { tile 4533 }
+
 voxel "voxels/props/4536_foodobject7.kvx" { tile 4536 }
 voxel "voxels/props/4537_foodobject8.kvx" { tile 4537 }
 voxel "voxels/props/4538_foodobject9.kvx" { tile 4538 }
