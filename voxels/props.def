@@ -256,6 +256,10 @@ voxel "voxels/props/4429_fence1.kvx" { tile 4429 }
 voxel "voxels/props/4438_mug.kvx" { tile 4438 }
 
 voxel "voxels/props/4440_donuts.kvx" { tile 4440 }
+
+voxel "voxels/props/4441_jmcclain.kvx" { tile 4441 }
+voxel "voxels/props/4442_hcallahan.kvx" { tile 4442 }
+
 voxel "voxels/props/4443_usaflag.kvx" { tile 4443 }
 voxel "voxels/props/4444_vhscamera.kvx" { tile 4444 }
 voxel "voxels/props/4446_prisonball.kvx" { tile 4446 }
@@ -270,6 +274,8 @@ voxel "voxels/props/4374_gavel.kvx" { tile 4375 }
 
 voxel "voxels/props/4464_mace.kvx" { tile 4464 }
 voxel "voxels/props/4465_genericpole.kvx" { tile 4465 }
+
+voxel "voxels/props/4473_jdredd.kvx" { tile 4473 }
 
 voxel "voxels/props/4495_wetfloor.kvx" { tile 4495 }
 voxel "voxels/props/4496_broom.kvx" { tile 4496 }
