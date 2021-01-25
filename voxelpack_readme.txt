@@ -208,8 +208,9 @@ Contributions by:
      - 691 ................ Cleaver
      - 692 ................ Knife
 
-> DotK3D (21)
+> DotK3D (22)
      - 561 ................ Soap
+     - 572/991 ............ Shower part
      - 716 ................ "Please Wait" sign
      - 779 ................ Sushi plate eye
      - 860/861 ............ Powerswitch1 off/on
@@ -233,7 +234,7 @@ Contributions by:
      - 543 ................ Panel
      - 544 ................ Connection
      - 555 ................ Small valve
-     - 572/991 ............ Shower part
+     - 572/991 ............ Shower part (based on DotK3D's voxel)
      - 578 ................ Reactor
      - 602 ................ Solar panel
      - 610 ................ Pipe
@@ -242,10 +243,10 @@ Contributions by:
      - 994-996 ............ Pipes
      - 997/1005/1260 ...... Broken pipes
      - 998/999 ............ Parking meter
-     - 1014 ............... Bottle
+     - 1014 ............... Bottle (based on mxrtxn's voxel)
      - 1022-1023 .......... Green goo
      - 1026 ............... Wooden horse fallen (based on DotK3D's voxel)
-     - 1037 ............... Table (remake, original by Spiker)
+     - 1037 ............... Table (remake, original by Striker)
      - 1038 ............... Horizontal pipe
      - 1157 ............... Money jar
      - 1238 ............... Metal barrel
@@ -285,9 +286,10 @@ Contributions by:
      - 5384 ............... Lamp
      - 5435 ............... Mailbox
 
-> mxrtxn (39)
+> mxrtxn (40)
      - 584 ................ Sensor
      - 621 ................ Security camera
+     - 1014 ............... Bottle
      - 4569 ............... Burger box
      - 4370 ............... Desk lamp
      - 4371 ............... Police shield
@@ -329,6 +331,9 @@ Contributions by:
      - 138/139 ............ Slideswitch
      - 1122/1123 .......... Flipswitch
      - 4464 ............... Mace
+     
+> Striker (1)
+     - 1037 ............... Table (original)
 
 
 Special thanks to:
