@@ -57,7 +57,7 @@ sprite   445 angoff    -512        // tile0998 (parkometer)
 sprite   452 angoff    -512        // tile0998 (parkometer)
 sprite   506 angoff    -512        // tile0998 (parkometer)
 sprite   505 angoff    -512        // tile0998 (parkometer)
-sprite   507 angoff     512        // tile0981 hydrent
+sprite   507 angoff     512        // tile0981 hydrant
 sprite    45 angoff     448        // tile0049 shotgunammo
 sprite    44 angoff     576        // tile0049 shotgunammo
 sprite    44 roll       1          // tile0049 shotgunammo

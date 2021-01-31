@@ -113,7 +113,7 @@ sprite    27 angoff     768        // tile0047 hbombammo
 sprite    44 angoff     256        // tile0028 shotgunsprite
 sprite    26 angoff    -512        // tile0023 rpgsprite
 sprite    45 angoff    -512        // tile0022 chaingunsprite
-sprite   215 angoff    -512        // tile0981 hydrent
+sprite   215 angoff    -512        // tile0981 hydrant
 sprite   257 angoff     1024       // tile0052 sixpack
 sprite   249 notmd                 // tile0513 (catwalk)
 sprite   250 notmd                 // tile0513 (catwalk)

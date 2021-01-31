@@ -15,7 +15,7 @@ sprite   529 angoff    -768        // tile0040 ammo
 sprite   669 angoff    -768        // tile0040 ammo
 sprite    98 angoff     1024       // tile1061 (streetlight)
 sprite    96 angoff     1024       // tile1061 (streetlight)
-sprite    42 angoff     512        // tile0981 hydrent
+sprite    42 angoff     512        // tile0981 hydrant
 sprite    41 notmd                 // tile0140 frankenstineswitch
 sprite    25 angoff     1024       // tile0061 boots
 sprite    26 angoff     768        // tile0029 devistatorsprite

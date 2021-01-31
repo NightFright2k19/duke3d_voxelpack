@@ -38,7 +38,7 @@ sprite   202 angoff    -128        // tile0040 ammo
 sprite   203 angoff     1024       // tile0041 batteryammo
 sprite   203 roll      -1          // tile0041 batteryammo
 sprite   203 mdzoff     200000     // tile0041 batteryammo
-sprite   287 angoff     1024       // tile0981 hydrent
+sprite   287 angoff     1024       // tile0981 hydrant
 sprite   153 angoff     768        // tile0045 growammo
 sprite   156 angoff     256        // tile0045 growammo
 sprite   220 angoff    -128        // tile0053 firstaid

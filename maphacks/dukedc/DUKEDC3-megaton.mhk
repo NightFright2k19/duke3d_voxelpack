@@ -23,7 +23,7 @@ sprite   599 angoff    -512        // tile0028 shotgunsprite
 sprite   601 angoff     512        // tile0052 sixpack
 sprite   602 angoff     1024       // tile0054 shield
 sprite   357 angoff     256        // tile3651 [dukedc tree]
-sprite   355 angoff    -768        // tile0981 hydrent
+sprite   355 angoff    -768        // tile0981 hydrant
 sprite   717 angoff    -768        // tile0028 shotgunsprite (multiplayer)
 sprite   358 angoff     512        // tile0998 (parkometer)
 sprite   359 angoff     512        // tile0998 (parkometer)
@@ -147,10 +147,10 @@ sprite   255 angoff    -640        // tile1232 canwithsomething
 sprite   254 angoff     128        // tile1232 canwithsomething
 sprite   252 angoff     768        // tile1232 canwithsomething
 sprite   253 angoff     640        // tile1232 canwithsomething
-sprite   460 angoff     768        // tile0981 hydrent
+sprite   460 angoff     768        // tile0981 hydrant
 sprite    56 angoff    -512        // tile0022 chaingunsprite (multiplayer)
 sprite   709 angoff    -512        // tile0052 sixpack
-sprite   246 angoff     768        // tile0981 hydrent
+sprite   246 angoff     768        // tile0981 hydrant
 
 
 // LIGHTS

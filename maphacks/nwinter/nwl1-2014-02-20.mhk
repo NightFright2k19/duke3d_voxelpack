@@ -24,7 +24,7 @@
 
 // 1-419 / 427-520 / / 548-765
 //sprite   444 angoff     1024       // tile0021 firstgunsprite
-sprite   579 angoff    -512        // tile0981 hydrent
+sprite   579 angoff    -512        // tile0981 hydrant
 sprite   454 notmd                 // tile0568 femmag1
 //sprite   495 angoff     1024       // tile0028 shotgunsprite
 sprite   313 angoff     256        // tile1348 holoduke

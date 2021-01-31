@@ -10,8 +10,8 @@
 
 // Curr. HRP: r5.4.726
 
-sprite   226 angoff     512        // tile0981 hydrent
-sprite   227 angoff     1024       // tile0981 hydrent
+sprite   226 angoff     512        // tile0981 hydrant
+sprite   227 angoff     1024       // tile0981 hydrant
 sprite    16 angoff     256        // tile0052 sixpack
 sprite    15 angoff    -256        // tile0052 sixpack
 sprite    21 angoff    -256        // tile0047 hbombammo

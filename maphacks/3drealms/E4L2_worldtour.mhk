@@ -43,7 +43,7 @@ sprite   312 roll      -32         // tile0045 growammo (multiplayer)
 sprite   312 mdxoff    -10         // tile0045 growammo (multiplayer)
 sprite   312 mdzoff    -150        // tile0045 growammo (multiplayer)
 sprite   335 angoff    -896        // tile0052 sixpack
-sprite   139 angoff     256        // tile0981 hydrent
+sprite   139 angoff     256        // tile0981 hydrant
 sprite   595 angoff     768        // tile0052 sixpack
 sprite    41 angoff     192        // tile1014 bottle8
 sprite   124 angoff     1024       // tile0051 cola

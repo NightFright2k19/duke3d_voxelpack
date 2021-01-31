@@ -273,7 +273,7 @@ sprite  1055 angoff     1024       // tile1238 explodingbarrel
 sprite  1082 angoff     1024       // tile0049 shotgunammo
 sprite  1083 angoff     1024       // tile0041 batteryammo
 sprite  1079 angoff    -768        // tile0054 shield
-sprite   792 angoff     768        // tile0981 hydrent
+sprite   792 angoff     768        // tile0981 hydrant
 sprite  1200 away1                 // tile0989 (direction sign)
 sprite  1199 away1                 // tile0989 (direction sign)
 sprite  1197 away1                 // tile0613 (authorized personnel sign)

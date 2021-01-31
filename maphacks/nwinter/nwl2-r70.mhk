@@ -109,11 +109,11 @@ sprite    64 angoff    -256        // tile0055 steroids
 sprite    85 angoff     256        // tile0060 accesscard [yellow]
 sprite   101 angoff     1024       // tile1165 bottle18
 sprite    66 angoff     768        // tile0052 sixpack
-sprite   713 angoff     256        // tile0981 hydrent
+sprite   713 angoff     256        // tile0981 hydrant
 sprite    19 angoff     512        // tile0041 batteryammo
 sprite    59 angoff    -512        // tile0052 sixpack
 sprite    20 angoff    -512        // tile0049 shotgunammo
-sprite   338 angoff    -512        // tile0981 hydrent
+sprite   338 angoff    -512        // tile0981 hydrant
 
 sprite    60 angoff     1024       // tile0047 hbombammo
 sprite    55 angoff     0          // tile0054 shield
