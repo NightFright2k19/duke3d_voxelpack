@@ -206,7 +206,14 @@ sprite     4 angoff     512        // tile1247 seenine
 sprite     3 angoff    -128        // tile1247 seenine
 sprite     2 angoff     256        // tile1247 seenine
 sprite   572 angoff     512        // tile4552 wormscan
-
+sprite   631 mdposxoff  -50        // tile4567 icicles
+sprite   631 mdposzoff  -650       // tile4567 icicles
+sprite   216 mdposxoff  -50        // tile4567 icicles
+sprite   216 mdposzoff  -650       // tile4567 icicles
+sprite   215 mdposxoff   50        // tile4567 icicles
+sprite   215 mdposzoff  -650       // tile4567 icicles
+sprite   214 mdposxoff   50        // tile4567 icicles
+sprite   214 mdposzoff  -650       // tile4567 icicles
 
 // LIGHTS
 
