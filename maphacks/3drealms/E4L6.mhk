@@ -236,6 +236,9 @@ sprite   579 angoff    -512        // tile0052 sixpack
 sprite   577 angoff    -512        // tile0042 devistatorammo
 sprite   578 angoff    -512        // tile0052 sixpack
 sprite   724 angoff    -512        // tile0060 accesscard [yellow]
+// Voxel Pack additions
+sprite    43 mdposxoff   70        // tile3418 sidemirror
+sprite    44 mdposxoff  -70        // tile3418 sidemirror
 
 
 // LIGHTS

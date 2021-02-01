@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Jan 25, 2021
+Release Date: Feb 1, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -354,8 +354,8 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Jan 25, 2021)
-------------------------------
+Version 2.0 RC2 (Feb 1, 2021)
+-----------------------------
 > Added:
      + Props: 160 (door shock), 479 (antenna dish), 517 (gas tank), 536/537 (small pipe), 555 (small valve), 
               578 (reactor), 602 (solar panel), 610 (pipe), 660 (water drop), 976 (air vent), 998/999 (parking meter), 
@@ -371,7 +371,8 @@ Version 2.0 RC2 (Jan 25, 2021)
 > Updated:
      + World Tour maphacks fixed (references to non-existing files corrected)
      + Maphacks: E2L3 (#602 solar panel), E3L1 (#753 geisha statue), E3L5 (#1346 helicopter),
-                 E4L5 (#4441/4442/4473 name tags, #4444 tripod cam)
+                 E3L7 (#3418 sidemirror), E4L2 (#4567 icicles), E4L5 (#4441/4442/4473 name tags, #4444 tripod cam),
+                 E4L6 (#3418 sidemirror)
      + Monsters: Turret (#2350) activated in monsters.def
      + Props: 487 (space shuttle), 572/991 (shower part), 1014 (bottle), 1037 (table), 1238 (metal barrel)
 

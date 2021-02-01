@@ -114,6 +114,9 @@ sprite   431 angoff    -128        // tile0028 shotgunsprite
 sprite   368 angoff     1024       // tile0023 rpgsprite
 sprite   403 angoff     768        // tile0052 sixpack
 sprite   404 angoff     768        // tile0052 sixpack
+// Voxel Pack additions
+sprite   356 mdposxoff  -70        // tile3418 sidemirror
+sprite   357 mdposxoff   70        // tile3418 sidemirror
 
 
 // LIGHTS
