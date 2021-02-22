@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Feb 1, 2021
+Release Date: Feb 22, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -226,7 +226,7 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (68)
+> Dzierzan (69)
      - 160 ................ Door shock
      - 487 ................ Space shuttle
      - 517 ................ Gas tank
@@ -285,6 +285,7 @@ Contributions by:
      - 4946 ............... Baseball bat
      - 5384 ............... Lamp
      - 5435 ............... Mailbox
+     - 5436 ............... Lamp
 
 > mxrtxn (40)
      - 584 ................ Sensor
@@ -354,8 +355,8 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Feb 1, 2021)
------------------------------
+Version 2.0 RC2 (Feb 22, 2021)
+------------------------------
 > Added:
      + Props: 160 (door shock), 479 (antenna dish), 517 (gas tank), 536/537 (small pipe), 555 (small valve), 
               578 (reactor), 602 (solar panel), 610 (pipe), 660 (water drop), 976 (air vent), 998/999 (parking meter), 
@@ -366,7 +367,7 @@ Version 2.0 RC2 (Feb 1, 2021)
               4416/4417 (side mirror), 4419 (broken pipebomb), 4441/4442/4473 (McClain/Callahan/Dredd name tags), 
               4446 (prison ball), 4465 (generic pole), 4533 (kitchen object), 4549 (burger wrapper), 
               4567 (icicles), 4583 (pipe), 4585 (valve), 4586/4587 (thin pipe), 4943 (hung jury), 4946 (baseball bat), 
-              5384 (lamp), 5435 (mailbox)
+              5384 (lamp), 5435 (mailbox), 5436 (lamp)
 
 > Updated:
      + World Tour maphacks fixed (references to non-existing files corrected)
