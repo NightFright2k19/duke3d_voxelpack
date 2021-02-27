@@ -318,3 +318,5 @@ voxel "voxels/props/5384_lamp.kvx" { tile 5384 }
 
 voxel "voxels/props/5435_mailbox.kvx" { tile 5435 }
 voxel "voxels/props/5436_lamp.kvx" { tile 5436 }
+
+voxel "voxels/props/5679_bridgelamp2.kvx" { tile 5679 }
