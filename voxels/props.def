@@ -34,7 +34,6 @@ voxel "voxels/props/0567_waterfountain5.kvx" { tile 567 }
 voxel "voxels/props/0569_toilet.kvx" { tile 569 }
 
 voxel "voxels/props/0570_soap.kvx" { tile 570 }
-
 voxel "voxels/props/0571_urinal.kvx" { tile 571 }
 voxel "voxels/props/0572_showerpart.kvx" { tile 572 tile 991 }
 voxel "voxels/props/0573_brokenurinal.kvx" { tile 573 }
@@ -321,4 +320,5 @@ voxel "voxels/props/5384_lamp.kvx" { tile 5384 }
 voxel "voxels/props/5435_mailbox.kvx" { tile 5435 }
 voxel "voxels/props/5436_lamp.kvx" { tile 5436 }
 
+voxel "voxels/props/5675_bollard.kvx" { tile 5675 }
 voxel "voxels/props/5680_bridgelamp.kvx" { tile 5680 }
