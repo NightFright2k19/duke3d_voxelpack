@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Feb 22, 2021
+Release Date: Feb 28, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -226,7 +226,7 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (69)
+> Dzierzan (73)
      - 160 ................ Door shock
      - 487 ................ Space shuttle
      - 517 ................ Gas tank
@@ -234,6 +234,7 @@ Contributions by:
      - 543 ................ Panel
      - 544 ................ Connection
      - 555 ................ Small valve
+     - 570 ................ Soap
      - 572/991 ............ Shower part (based on DotK3D's voxel)
      - 578 ................ Reactor
      - 602 ................ Solar panel
@@ -286,6 +287,9 @@ Contributions by:
      - 5384 ............... Lamp
      - 5435 ............... Mailbox
      - 5436 ............... Lamp
+     - 5675 ............... Bollard
+     - 5679 ............... Bridge lamp #1
+     - 5680 ............... Bridge lamp #2
 
 > mxrtxn (40)
      - 584 ................ Sensor
@@ -355,19 +359,19 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Feb 22, 2021)
+Version 2.0 RC2 (Feb 28, 2021)
 ------------------------------
 > Added:
      + Props: 160 (door shock), 479 (antenna dish), 517 (gas tank), 536/537 (small pipe), 555 (small valve), 
-              578 (reactor), 602 (solar panel), 610 (pipe), 660 (water drop), 976 (air vent), 998/999 (parking meter), 
-              1022-1023 (green goo), 1026 (wooden horse fallen), 1038 (horizontal pipe), 1157 (money jar),
-              1337-1338 (helicopter running), 1340-1342 (helicopter debris), 1343 (broken wheel), 1344 (propeller),
-              1345 (helicopter parking), 1346 (helicopter crashing), 3400 ("Duf Beer" blimp), 3418 (side mirror), 
-              4359 (target), 4361 (duck), 4363 (knife), 4374/4375 (gavel), 4386 (pipe), 4413 (mail bag), 
+              570 (soap), 578 (reactor), 602 (solar panel), 610 (pipe), 660 (water drop), 976 (air vent), 
+              998/999 (parking meter), 1022-1023 (green goo), 1026 (wooden horse fallen), 1038 (horizontal pipe), 
+              1157 (money jar), 1337-1338 (helicopter running), 1340-1342 (helicopter debris), 1343 (broken wheel), 
+              1344 (propeller), 1345 (helicopter parking), 1346 (helicopter crashing), 3400 ("Duf Beer" blimp), 
+              3418 (side mirror), 4359 (target), 4361 (duck), 4363 (knife), 4374/4375 (gavel), 4386 (pipe), 4413 (mail bag), 
               4416/4417 (side mirror), 4419 (broken pipebomb), 4441/4442/4473 (McClain/Callahan/Dredd name tags), 
               4446 (prison ball), 4465 (generic pole), 4533 (kitchen object), 4549 (burger wrapper), 
               4567 (icicles), 4583 (pipe), 4585 (valve), 4586/4587 (thin pipe), 4943 (hung jury), 4946 (baseball bat), 
-              5384 (lamp), 5435 (mailbox), 5436 (lamp)
+              5384 (lamp), 5435 (mailbox), 5436 (lamp), 5675 (bollard), 5679 (bridge lamp #1), 5680 (bridge lamp #2)
 
 > Updated:
      + World Tour maphacks fixed (references to non-existing files corrected)
