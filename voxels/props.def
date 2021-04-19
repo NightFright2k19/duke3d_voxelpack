@@ -123,6 +123,7 @@ voxel "voxels/props/0979_hanglight.kvx" { tile 979 }
 voxel "voxels/props/0981_hydrant.kvx" { tile 981 }
 
 voxel "voxels/props/0990_tires.kvx" { tile 990 }
+voxel "voxels/props/0993_damaged_pole.kvx" { tile 993 }
 voxel "voxels/props/0994_pipe1.kvx" { tile 994 }
 voxel "voxels/props/0995_pipe2.kvx" { tile 995 }
 voxel "voxels/props/0996_pipe3.kvx" { tile 996 }
