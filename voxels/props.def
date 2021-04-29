@@ -8,6 +8,7 @@ voxel "voxels/props/0479_antennadish.kvx" { tile 479 }
 
 voxel "voxels/props/0480_observatory.kvx" { tile 480 }
 voxel "voxels/props/0487_spaceshuttle.kvx" { tile 487 }
+voxel "voxels/props/0489_satellite.kvx" { tile 489 }
 
 voxel "voxels/props/0517_gastank.kvx" { tile 517 }
 
