@@ -290,6 +290,9 @@ voxel "voxels/props/4539_foodobject10.kvx" { tile 4539 }
 voxel "voxels/props/4540_foodobject11.kvx" { tile 4540 }
 voxel "voxels/props/4541_foodobject12.kvx" { tile 4541 }
 voxel "voxels/props/4542_foodobject13.kvx" { tile 4542 }
+voxel "voxels/props/4543_foodobject14.kvx" { tile 4543 }
+voxel "voxels/props/4544_foodobject15.kvx" { tile 4544 }
+voxel "voxels/props/4545_foodobject16.kvx" { tile 4545 }
 voxel "voxels/props/4546_foodobject17.kvx" { tile 4546 }
 voxel "voxels/props/4547_foodobject18.kvx" { tile 4547 }
 voxel "voxels/props/4548_foodobject19.kvx" { tile 4548 }
