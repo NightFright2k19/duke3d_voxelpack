@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Apr 29, 2021
+Release Date: Apr 30, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -226,7 +226,7 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (75)
+> Dzierzan (78)
      - 160 ................ Door shock
      - 487 ................ Space shuttle
      - 489 ................ Satellite
@@ -278,6 +278,7 @@ Contributions by:
      - 4465 ............... Generic pole
      - 4496 ............... Broom
      - 4533 ............... Kitchen object
+     - 4543-4545 .......... Burgers (Foodobject14-16)
      - 4549 ............... Burger wrapper (Foodobject20)
      - 4550 ............... Red lamp
      - 4552 ............... Worms can
@@ -361,7 +362,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Apr 29, 2021)
+Version 2.0 RC2 (Apr 30, 2021)
 ------------------------------
 > Added:
      + Props: 160 (door shock), 479 (antenna dish), 489 (satellite), 517 (gas tank), 536/537 (small pipe), 
@@ -372,15 +373,15 @@ Version 2.0 RC2 (Apr 29, 2021)
               3400 ("Duf Beer" blimp), 3418 (side mirror), 4359 (target), 4361 (duck), 4363 (knife), 4374/4375 (gavel),
               4386 (pipe), 4413 (mail bag), 4416/4417 (side mirror), 4419 (broken pipebomb), 
               4441/4442/4473 (McClain/Callahan/Dredd name tags), 4446 (prison ball), 4465 (generic pole), 
-              4533 (kitchen object), 4549 (burger wrapper), 4567 (icicles), 4583 (pipe), 4585 (valve), 4586/4587 (thin pipe), 
-              4943 (hung jury), 4946 (baseball bat), 5384 (lamp), 5435 (mailbox), 5436 (lamp), 5675 (bollard), 
-              5679 (bridge lamp #1), 5680 (bridge lamp #2)
+              4533 (kitchen object), 4543-4545 (foodobject14-16), 4549 (burger wrapper), 4567 (icicles), 4583 (pipe),
+              4585 (valve), 4586/4587 (thin pipe), 4943 (hung jury), 4946 (baseball bat), 5384 (lamp), 5435 (mailbox), 
+              5436 (lamp), 5675 (bollard), 5679 (bridge lamp #1), 5680 (bridge lamp #2)
 
 > Updated:
      + World Tour maphacks fixed (references to non-existing files corrected)
-     + Maphacks: E2L3 (#602 solar panel), E3L1 (#753 geisha statue), E3L5 (#1346 helicopter),
-                 E3L7 (#3418 sidemirror), E4L2 (#4567 icicles), E4L5 (#4441/4442/4473 name tags, #4444 tripod cam),
-                 E4L6 (#3418 sidemirror)
+     + Maphacks: E2L2 (#489 satellite), E2L3 (#602 solar panel), E2L9 (#489 satellite), E2L10 (#489 satellite), 
+                 E3L1 (#753 geisha statue), E3L5 (#1346 helicopter), E3L7 (#3418 sidemirror), E4L2 (#4567 icicles),
+                 E4L5 (#4441/4442/4473 name tags, #4444 tripod cam), E4L6 (#3418 sidemirror)
      + Monsters: Turret (#2350) activated in monsters.def
      + Props: 487 (space shuttle), 572/991 (shower part), 1014 (bottle), 1037 (table), 1238 (metal barrel)
 
