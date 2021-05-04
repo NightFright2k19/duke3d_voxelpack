@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: May 3, 2021
+Release Date: May 4, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -43,11 +43,11 @@ NOTES
 
 4) To activate voxel rotation:
 	- EDuke32: Open eduke32.con and remove "//" from line "include scripts/rotation.con"
-	- BuildGDX: Open dukegdx.def and remove "//" from line "include voxels/pickups_gdx.def"
+	- BuildGDX/Raze: Open dukegdx.def and remove "//" from line "include voxels/pickups_gdx.def"
 
 5) To activate voxels for monsters:
 	- EDuke32: Open duke3d_voxels.def and remove "//" from line "include voxels/monsters.def"
-	- BuildGDX: Open dukegdx.def and remove "//" from line "include voxels/monsters.def"
+	- BuildGDX/Raze: Open dukegdx.def and remove "//" from line "include voxels/monsters.def"
 
 
 ============================================================================================
@@ -362,9 +362,10 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (May 3, 2021)
+Version 2.0 RC2 (May 4, 2021)
 -----------------------------
 > Added:
+     + Raze support (including automatic voxel loading for Duke Caribbean)
      + Props: 160 (door shock), 479 (antenna dish), 489 (satellite), 517 (gas tank), 536/537 (small pipe), 
               555 (small valve), 570 (soap), 578 (reactor), 602 (solar panel), 610 (pipe), 660 (water drop), 
               976 (air vent), 993 (damaged pole), 998/999 (parking meter), 1022-1023 (green goo), 1026 (wooden horse fallen), 
