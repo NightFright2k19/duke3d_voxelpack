@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: May 4, 2021
+Release Date: Jun 21, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -226,7 +226,7 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (78)
+> Dzierzan (79)
      - 160 ................ Door shock
      - 487 ................ Space shuttle
      - 489 ................ Satellite
@@ -240,6 +240,7 @@ Contributions by:
      - 578 ................ Reactor
      - 602 ................ Solar panel
      - 610 ................ Pipe
+     - 620 ................ Generator
      - 660 ................ Water drop
      - 976 ................ Air vent
      - 993 ................ Damaged pole
@@ -362,12 +363,12 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (May 4, 2021)
------------------------------
+Version 2.0 RC2 (Jun 21, 2021)
+------------------------------
 > Added:
      + Raze support (including automatic voxel loading for Duke Caribbean)
      + Props: 160 (door shock), 479 (antenna dish), 489 (satellite), 517 (gas tank), 536/537 (small pipe), 
-              555 (small valve), 570 (soap), 578 (reactor), 602 (solar panel), 610 (pipe), 660 (water drop), 
+              555 (small valve), 570 (soap), 578 (reactor), 602 (solar panel), 610 (pipe), 620 (generator), 660 (water drop), 
               976 (air vent), 993 (damaged pole), 998/999 (parking meter), 1022-1023 (green goo), 1026 (wooden horse fallen), 
               1038 (horizontal pipe), 1157 (money jar), 1337-1338 (helicopter running), 1340-1342 (helicopter debris), 
               1343 (broken wheel), 1344 (propeller), 1345 (helicopter parking), 1346 (helicopter crashing),
