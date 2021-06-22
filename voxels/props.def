@@ -104,6 +104,7 @@ voxel "voxels/props/0918_meter3.kvx" { tile 918 }
 voxel "voxels/props/0919_meter2.kvx" { tile 919 }
 
 voxel "voxels/props/0920_chain.kvx" { tile 920 }
+voxel "voxels/props/0927_trafficlight.kvx" { tile 927 }
 
 voxel "voxels/props/0939_cactusstump.kvx" { tile 939 }
 
