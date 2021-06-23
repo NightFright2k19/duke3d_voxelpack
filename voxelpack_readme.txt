@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Jun 22, 2021
+Release Date: Jun 23, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -227,7 +227,7 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (79)
+> Dzierzan (80)
      - 160 ................ Door shock
      - 487 ................ Space shuttle
      - 489 ................ Satellite
@@ -277,6 +277,7 @@ Contributions by:
      - 4441/4442/4473 ..... "McClain"/"Callahan"/"Dredd" name tags
      - 4446 ............... Prison ball
      - 4457 ............... Rope
+     - 4463 ............... Bone
      - 4465 ............... Generic pole
      - 4496 ............... Broom
      - 4533 ............... Kitchen object
@@ -364,7 +365,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Jun 22, 2021)
+Version 2.0 RC2 (Jun 23, 2021)
 ------------------------------
 > Added:
      + Raze support (including automatic voxel loading for Duke Caribbean)
@@ -375,7 +376,7 @@ Version 2.0 RC2 (Jun 22, 2021)
               1340-1342 (helicopter debris), 1343 (broken wheel), 1344 (propeller), 1345 (helicopter parking), 
               1346 (helicopter crashing), 3400 ("Duf Beer" blimp), 3418 (side mirror), 4359 (target), 4361 (duck), 
               4363 (knife), 4374/4375 (gavel), 4386 (pipe), 4413 (mail bag), 4416/4417 (side mirror), 4419 (broken pipebomb), 
-              4441/4442/4473 (McClain/Callahan/Dredd name tags), 4446 (prison ball), 4465 (generic pole), 
+              4441/4442/4473 (McClain/Callahan/Dredd name tags), 4446 (prison ball), 4463 (bone), 4465 (generic pole), 
               4533 (kitchen object), 4543-4545 (foodobject14-16), 4549 (burger wrapper), 4567 (icicles), 4583 (pipe),
               4585 (valve), 4586/4587 (thin pipe), 4943 (hung jury), 4946 (baseball bat), 5384 (lamp), 5435 (mailbox), 
               5436 (lamp), 5675 (bollard), 5679 (bridge lamp #1), 5680 (bridge lamp #2)
