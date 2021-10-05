@@ -316,6 +316,7 @@ voxel "voxels/props/4583_pipe.kvx" { tile 4583 }
 voxel "voxels/props/4585_valve.kvx" { tile 4585 }
 voxel "voxels/props/4586_thinpipe1.kvx" { tile 4586 }
 voxel "voxels/props/4587_thinpipe2.kvx" { tile 4587 }
+voxel "voxels/props/4588_sign.kvx" { tile 4588 }
 voxel "voxels/props/4589_warn1.kvx" { tile 4589 }
 
 voxel "voxels/props/4885_driverwheel.kvx" { tile 4885 }
