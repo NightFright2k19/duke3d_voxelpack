@@ -68,12 +68,12 @@ sprite   238 angoff    -512        // tile0023 rpgsprite
 sprite   288 angoff     768        // tile0916 fireext
 sprite   288 pitch     -1          // tile0916 fireext
 sprite   288 mdzoff     350000     // tile0916 fireext
-sprite   353 angoff    -184        // tile4400 teddybear
-sprite   350 angoff    -384        // tile4400 teddybear
+sprite   353 angoff     150        // tile4400 teddybear
+sprite   350 angoff     100        // tile4400 teddybear
 sprite   350 roll      -1          // tile4400 teddybear
 sprite   350 mdzoff     500000     // tile4400 teddybear
-sprite   351 angoff    -640        // tile4400 teddybear
-sprite   352 angoff    -224        // tile4400 teddybear
+sprite   351 angoff     50         // tile4400 teddybear
+sprite   352 angoff     128        // tile4400 teddybear
 sprite   214 angoff     256        // tile0059 heatsensor
 sprite   214 pitch      128        // tile0059 heatsensor
 sprite   214 roll       64         // tile0059 heatsensor

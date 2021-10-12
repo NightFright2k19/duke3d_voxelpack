@@ -248,6 +248,8 @@ voxel "voxels/props/4386_pipe.kvx" { tile 4386 }
 voxel "voxels/props/4387_duketable.kvx" { tile 4387 }
 voxel "voxels/props/4388_bin.kvx" { tile 4388 }
 
+voxel "voxels/props/4400_teddy_bear.kvx" { tile 4400 }
+
 voxel "voxels/props/4407_mouse1.kvx" { tile 4407 }
 voxel "voxels/props/4408_mouse2.kvx" { tile 4408 }
 
