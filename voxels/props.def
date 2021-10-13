@@ -67,6 +67,7 @@ voxel "voxels/props/0678_scale.kvx" { tile 678 }
 
 voxel "voxels/props/0680_chair3.kvx" { tile0 680 tile1 684 }
 voxel "voxels/props/0685_stagelamp.kvx" { tile 685 }
+voxel "voxels/props/0688_movieclapper.kvx" { tile 688 }
 voxel "voxels/props/0689_ivunit.kvx" { tile 689 }
 
 voxel "voxels/props/0691_cleaver.kvx" { tile 691 }
@@ -248,8 +249,7 @@ voxel "voxels/props/4386_pipe.kvx" { tile 4386 }
 voxel "voxels/props/4387_duketable.kvx" { tile 4387 }
 voxel "voxels/props/4388_bin.kvx" { tile 4388 }
 
-voxel "voxels/props/4400_teddy_bear.kvx" { tile 4400 }
-
+voxel "voxels/props/4400_teddybear.kvx" { tile 4400 }
 voxel "voxels/props/4407_mouse1.kvx" { tile 4407 }
 voxel "voxels/props/4408_mouse2.kvx" { tile 4408 }
 
@@ -306,7 +306,6 @@ voxel "voxels/props/4549_foodobject20.kvx" { tile 4549 }
 
 voxel "voxels/props/4550_redlamp.kvx" { tile 4550 }
 voxel "voxels/props/4552_canwithworms.kvx" { tile 4552 }
-
 voxel "voxels/props/4554_chicken1.kvx" { tile 4554 }
 voxel "voxels/props/4555_chicken2.kvx" { tile 4555 }
 

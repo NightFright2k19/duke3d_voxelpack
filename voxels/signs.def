@@ -1,7 +1,5 @@
 // Voxel signs
 
-voxel "voxels/signs/0688_movie_clapper.kvx" { tile 688 }
-
 voxel "voxels/signs/0728_banksign.kvx" { tile 728 }
 
 voxel "voxels/signs/0925_neon1.kvx" { tile 925 }
