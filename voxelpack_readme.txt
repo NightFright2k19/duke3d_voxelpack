@@ -276,7 +276,7 @@ Contributions by:
      - 4413 ............... Mail bag
      - 4416/4417 .......... Side mirror
      - 4419 ............... Broken pipebomb
-     - 4426 ............... Bowling pin (based on mxrtn's voxel)
+     - 4426 ............... Bowling pin
      - 4441/4442/4473 ..... "McClain"/"Callahan"/"Dredd" name tags
      - 4446 ............... Prison ball
      - 4457 ............... Rope
