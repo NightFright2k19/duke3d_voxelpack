@@ -305,6 +305,9 @@ voxel "voxels/props/4549_foodobject20.kvx" { tile 4549 }
 voxel "voxels/props/4550_redlamp.kvx" { tile 4550 }
 voxel "voxels/props/4552_canwithworms.kvx" { tile 4552 }
 
+voxel "voxels/props/4554_chicken1.kvx" { tile 4554 }
+voxel "voxels/props/4555_chicken2.kvx" { tile 4555 }
+
 voxel "voxels/props/4567_icicles.kvx" { tile 4567 }
 voxel "voxels/props/4569_burgerbox.kvx" { tile 4569 }
 
