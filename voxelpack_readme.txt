@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Oct 13, 2021
+Release Date: Oct 18, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -227,12 +227,13 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (87)
+> Dzierzan (89)
      - 160 ................ Door shock
      - 487 ................ Space shuttle
      - 489 ................ Satellite
      - 517 ................ Gas tank
      - 536/537 ............ Small pipe
+     - 542 ................ Earth dome
      - 543 ................ Panel
      - 544 ................ Connection
      - 555 ................ Small valve
@@ -272,6 +273,7 @@ Contributions by:
      - 4374/4375 .......... Gavel
      - 4386 ............... Pipe
      - 4400 ............... Teddy bear
+     - 4406 ............... Steering wheel
      - 4407/4408 .......... Annoying mouse
      - 4413 ............... Mail bag
      - 4416/4417 .......... Side mirror
@@ -370,23 +372,23 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Oct 13, 2021)
+Version 2.0 RC2 (Oct 18, 2021)
 ------------------------------
 > Added:
      + Raze support (including automatic voxel loading for Duke Caribbean)
      + Props: 160 (door shock), 479 (antenna dish), 489 (satellite), 517 (gas tank), 536/537 (small pipe), 
-              555 (small valve), 570 (soap), 578 (reactor), 602 (solar panel), 610 (pipe), 620 (generator), 
-              660 (water drop), 688 (movie clapper), 927 (traffic light), 976 (air vent), 993 (damaged pole), 
-              998/999 (parking meter), 1022-1023 (green goo), 1026 (wooden horse fallen), 1038 (horizontal pipe),
-              1157 (money jar), 1337-1338 (helicopter running), 1340-1342 (helicopter debris), 1343 (broken wheel), 
-              1344 (propeller), 1345 (helicopter parking), 1346 (helicopter crashing), 3400 ("Duf Beer" blimp), 
-              3418 (side mirror), 4359 (target), 4361 (duck), 4363 (knife), 4374/4375 (gavel), 4386 (pipe), 
-              4400 (teddy bear), 4413 (mail bag), 4416/4417 (side mirror), 4419 (broken pipebomb), 
-              4441/4442/4473 (McClain/Callahan/Dredd name tags), 4446 (prison ball), 4463 (bone), 4465 (generic pole), 
-              4497 (mop), 4533 (kitchen object), 4543-4545 (foodobject14-16), 4549 (burger wrapper), 4554/4555 (chicken),
-              4567 (icicles), 4583 (pipe), 4585 (valve), 4586/4587 (thin pipe), 4588 (sign), 4943 (hung jury),
-              4946 (baseball bat), 5384 (lamp), 5435 (mailbox), 5436 (lamp), 5675 (bollard), 5679 (bridge lamp #1),
-              5680 (bridge lamp #2)
+              542 (Earth dome), 555 (small valve), 570 (soap), 578 (reactor), 602 (solar panel), 610 (pipe), 
+              620 (generator), 660 (water drop), 688 (movie clapper), 927 (traffic light), 976 (air vent), 
+              993 (damaged pole), 998/999 (parking meter), 1022-1023 (green goo), 1026 (wooden horse fallen), 
+              1038 (horizontal pipe), 1157 (money jar), 1337-1338 (helicopter running), 1340-1342 (helicopter debris),
+              1343 (broken wheel), 1344 (propeller), 1345 (helicopter parking), 1346 (helicopter crashing), 
+              3400 ("Duf Beer" blimp), 3418 (side mirror), 4359 (target), 4361 (duck), 4363 (knife), 4374/4375 (gavel),
+              4386 (pipe), 4400 (teddy bear), 4406 (steering wheel), 4413 (mail bag), 4416/4417 (side mirror), 
+              4419 (broken pipebomb), 4441/4442/4473 (McClain/Callahan/Dredd name tags), 4446 (prison ball), 4463 (bone),
+              4465 (generic pole), 4497 (mop), 4533 (kitchen object), 4543-4545 (foodobject14-16), 4549 (burger wrapper),
+              4554/4555 (chicken), 4567 (icicles), 4583 (pipe), 4585 (valve), 4586/4587 (thin pipe), 4588 (sign), 
+              4943 (hung jury), 4946 (baseball bat), 5384 (lamp), 5435 (mailbox), 5436 (lamp), 5675 (bollard), 
+              5679 (bridge lamp #1), 5680 (bridge lamp #2)
 
 > Updated:
      + World Tour maphacks fixed (references to non-existing files corrected)

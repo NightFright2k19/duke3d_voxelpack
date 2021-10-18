@@ -15,8 +15,8 @@ voxel "voxels/props/0517_gastank.kvx" { tile 517 }
 voxel "voxels/props/0536_smallpipe1.kvx" { tile 536 }
 voxel "voxels/props/0537_smallpipe2.kvx" { tile 537 }
 
-voxel "voxels/props/0542_earth_domeless.kvx" { tile 542 }
-
+voxel "voxels/props/0542_earthdome.kvx" { tile 542 } // w/o glass dome
+// voxel "voxels/props/0542_earthdome_alt.kvx" { tile 542 } // w/ glass dome
 voxel "voxels/props/0543_panel.kvx" { tile 543 }
 voxel "voxels/props/0544_connection.kvx" { tile 544 }
 
@@ -253,8 +253,7 @@ voxel "voxels/props/4388_bin.kvx" { tile 4388 }
 
 voxel "voxels/props/4400_teddybear.kvx" { tile 4400 }
 
-voxel "voxels/props/4406_steering_wheel.kvx" { tile 4406 }
-
+voxel "voxels/props/4406_steeringwheel.kvx" { tile 4406 }
 voxel "voxels/props/4407_mouse1.kvx" { tile 4407 }
 voxel "voxels/props/4408_mouse2.kvx" { tile 4408 }
 
