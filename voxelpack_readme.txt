@@ -227,7 +227,7 @@ Contributions by:
      - 1069 ............... Plug
      - 4373 ............... Cups
 
-> Dzierzan (89)
+> Dzierzan (91)
      - 160 ................ Door shock
      - 487 ................ Space shuttle
      - 489 ................ Satellite
@@ -243,6 +243,7 @@ Contributions by:
      - 602 ................ Solar panel
      - 610 ................ Pipe
      - 620 ................ Generator
+     - 658/659 ............ Light
      - 660 ................ Water drop
      - 688 ................ Movie clapper
      - 976 ................ Air vent
@@ -378,7 +379,7 @@ Version 2.0 RC2 (Oct 18, 2021)
      + Raze support (including automatic voxel loading for Duke Caribbean)
      + Props: 160 (door shock), 479 (antenna dish), 489 (satellite), 517 (gas tank), 536/537 (small pipe), 
               542 (Earth dome), 555 (small valve), 570 (soap), 578 (reactor), 602 (solar panel), 610 (pipe), 
-              620 (generator), 660 (water drop), 688 (movie clapper), 927 (traffic light), 976 (air vent), 
+              620 (generator), 658/659 (light), 660 (water drop), 688 (movie clapper), 927 (traffic light), 976 (air vent), 
               993 (damaged pole), 998/999 (parking meter), 1022-1023 (green goo), 1026 (wooden horse fallen), 
               1038 (horizontal pipe), 1157 (money jar), 1337-1338 (helicopter running), 1340-1342 (helicopter debris),
               1343 (broken wheel), 1344 (propeller), 1345 (helicopter parking), 1346 (helicopter crashing), 
