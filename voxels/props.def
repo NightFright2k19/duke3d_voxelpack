@@ -15,6 +15,8 @@ voxel "voxels/props/0517_gastank.kvx" { tile 517 }
 voxel "voxels/props/0536_smallpipe1.kvx" { tile 536 }
 voxel "voxels/props/0537_smallpipe2.kvx" { tile 537 }
 
+voxel "voxels/props/0542_earth_domeless.kvx" { tile 542 }
+
 voxel "voxels/props/0543_panel.kvx" { tile 543 }
 voxel "voxels/props/0544_connection.kvx" { tile 544 }
 
