@@ -59,6 +59,9 @@ voxel "voxels/props/0615_brokentoilet.kvx" { tile 615 }
 voxel "voxels/props/0620_betagenerator.kvx" { tile 620 }
 voxel "voxels/props/0621_camera1.kvx" { tile0 621 tile1 625 }
 
+voxel "voxels/props/0658_light1.kvx" { tile 658 }
+voxel "voxels/props/0659_light2.kvx" { tile 659 }
+
 voxel "voxels/props/0660_waterdrop.kvx" { tile 660 }
 voxel "voxels/props/0669_vacuumcleaner.kvx" { tile 669 }
 
