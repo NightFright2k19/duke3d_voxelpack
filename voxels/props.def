@@ -169,7 +169,6 @@ voxel "voxels/props/1049_electricmeter.kvx" { tile 1049 }
 voxel "voxels/props/1051_dryer.kvx" { tile 1051 }
 voxel "voxels/props/1052_toweldispenser.kvx" { tile 1052 }
 voxel "voxels/props/1053_toiletpaper.kvx" { tile 1053 } 
-
 voxel "voxels/props/1055_cameraroll1.kvx" { tile 1055 } 
 voxel "voxels/props/1056_cameraroll2.kvx" { tile 1056 } 
 
