@@ -182,6 +182,7 @@ voxel "voxels/props/1069_plug.kvx" { tile 1069 }
 voxel "voxels/props/1073_lifebuoy.kvx" { tile 1073 }
 voxel "voxels/props/1075_painting1.kvx" { tile 1075 }
 voxel "voxels/props/1076_painting2.kvx" { tile 1076 }
+voxel "voxels/props/1077_object.kvx" { tile 1077 }
 voxel "voxels/props/1078_doublespotlight.kvx" { tile 1078 }
 voxel "voxels/props/1079_oozefilter1.kvx" { tile 1079 }
 
