@@ -155,9 +155,8 @@ sprite   153 angoff     256        // tile0052 sixpack
 sprite   757 angoff     512        // tile0040 ammo
 sprite   278 angoff    -512        // tile0053 firstaid
 
-
-
 sprite   426 notmd                 // tile0577 femmag2
+sprite   373 angoff     1024 	   // tile1007 neon3
 
 
 // LIGHTS

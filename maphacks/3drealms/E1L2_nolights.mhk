@@ -59,22 +59,12 @@ sprite    27 angoff     512        // tile0060 accesscard [blue]
 sprite   754 angoff    -512        // tile0041 batteryammo
 sprite   159 angoff    -64         // tile0041 batteryammo
 
-
 //sprite   180 angoff    -256        // tile0052 sixpack
-
-
 
 sprite   156 angoff     256        // tile0052 sixpack
 sprite   824 angoff     1024       // tile0047 hbombammo (multiplayer)
 sprite   367 angoff     256        // tile0054 shield
 sprite    44 angoff     256        // tile0052 sixpack
-
-
-
-
-
-
-
 
 sprite   755 angoff     512        // tile0040 ammo
 
@@ -155,9 +145,8 @@ sprite   153 angoff     256        // tile0052 sixpack
 sprite   757 angoff     512        // tile0040 ammo
 sprite   278 angoff    -512        // tile0053 firstaid
 
-
-
 sprite   426 notmd                 // tile0577 femmag2
+sprite   373 angoff     1024 	   // tile1007 neon3
 
 
 // LIGHTS

@@ -393,7 +393,7 @@ Version 2.0 RC2 (Oct 21, 2021)
 
 > Updated:
      + World Tour maphacks fixed (references to non-existing files corrected)
-     + Maphacks: E2L2 (#489 satellite), E2L3 (#602 solar panel), E2L9 (#489 satellite), E2L10 (#489 satellite), 
+     + Maphacks: E1L2 (#1007 neon3), E2L2 (#489 satellite), E2L3 (#602 solar panel), E2L9 (#489 satellite), E2L10 (#489 satellite), 
                  E3L1 (#753 geisha statue), E3L5 (#1346 helicopter), E3L7 (#3418 sidemirror), E4L2 (#4567 icicles),
                  E4L4 (#4554/4555 chicken), E4L5 (#4441/4442/4473 name tags, #4444 tripod cam), E4L6 (#3418 sidemirror),
 		 E4L7 (#4554/4555 chicken)
