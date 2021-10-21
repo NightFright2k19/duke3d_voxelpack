@@ -297,6 +297,10 @@ voxel "voxels/props/4465_genericpole.kvx" { tile 4465 }
 
 voxel "voxels/props/4473_dredd.kvx" { tile 4473 }
 
+voxel "voxels/props/4480_wires1.kvx" { tile 4480 }
+voxel "voxels/props/4481_wires2.kvx" { tile 4481 }
+voxel "voxels/props/4482_wires3.kvx" { tile 4482 }
+
 voxel "voxels/props/4495_wetfloor.kvx" { tile 4495 }
 voxel "voxels/props/4496_broom.kvx" { tile 4496 }
 voxel "voxels/props/4497_mop.kvx" { tile 4497 }
