@@ -170,6 +170,9 @@ voxel "voxels/props/1051_dryer.kvx" { tile 1051 }
 voxel "voxels/props/1052_toweldispenser.kvx" { tile 1052 }
 voxel "voxels/props/1053_toiletpaper.kvx" { tile 1053 } 
 
+voxel "voxels/props/1055_cameraroll1.kvx" { tile 1055 } 
+voxel "voxels/props/1056_cameraroll2.kvx" { tile 1056 } 
+
 voxel "voxels/props/1060_clock.kvx" { tile 1060 }
 voxel "voxels/props/1061_doublespotlight.kvx" { tile 1061 }
 voxel "voxels/props/1062_rubbercan.kvx" { tile 1062 }
