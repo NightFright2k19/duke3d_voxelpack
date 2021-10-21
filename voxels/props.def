@@ -89,7 +89,12 @@ voxel "voxels/props/0753_geisha1.kvx" { tile 753 }
 voxel "voxels/props/0762_mike.kvx" { tile 762 }
 voxel "voxels/props/0765_vase.kvx" { tile 765 }
 
-voxel "voxels/props/0779_sushiplate.kvx" { tile 779 }
+voxel "voxels/props/0768_sushiplate1.kvx" { tile 768 }
+voxel "voxels/props/0769_sushiplate2.kvx" { tile 769 }
+voxel "voxels/props/0774_sushiplate3.kvx" { tile 774 }
+voxel "voxels/props/0779_sushiplate4.kvx" { tile 779 }
+voxel "voxels/props/0792_sushiplate5.kvx" { tile 792 }
+voxel "voxels/props/0851_sushiplate6.kvx" { tile 851 }
 
 voxel "voxels/props/0869_geisha2.kvx" { tile 869 }
 
