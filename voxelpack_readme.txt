@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Oct 18, 2021
+Release Date: Oct 21, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -83,276 +83,276 @@ Main Development:
 Contributions by:
 
 > Borion (191)
-     - 25 ................. Shrinker
-     - 32 ................. Expander
-     - 45 ................. Expander ammo
-     - 56 ................. Scuba gear
-     - 57 ................. Jetpack
-     - 58 ................. Spacesuit
-     - 100-115 ............ Atomic Health
-     - 140/141 ............ Lever switch off/on
-     - 142-145 ............ Nuke button
-     - 479 ................ Antenna dish
-     - 480 ................ Observatory
-     - 551-554 ............ Lightdome
-     - 556-557/559 ........ Armchair (+ broken version)
-     - 563-565 ............ Water fountain
-     - 569/615 ............ Toilet (+ broken version)
-     - 571/573 ............ Urinal (+ broken version)
-     - 574/670/671 ........ Faucet
-     - 606 ................ Spacesuit corpse
-     - 607/608 ............ Antenna
-     - 669 ................ Vacuum cleaner
-     - 558/675-677 ........ Slimer egg
-     - 678 ................ Scale
-     - 680-684 ............ Chair3
-     - 685 ................ Stage light
-     - 689 ................ IV unit
-     - 694 ................ Pot1
-     - 695 ................ Pot2
-     - 697 ................ Pot3
-     - 698 ................ Sushi plate
-     - 728 ................ "Federal Loan and Trust" sign
-     - 753/869 ............ Geisha
-     - 762 ................ Microphone
-     - 765 ................ Vase
-     - 908 ................ Tree1
-     - 910 ................ Tree2
-     - 911/939 ............ Cactus (+ stomp)
-     - 913 ................ Maskwall2
-     - 914 ................ Maskwall3
-     - 915 ................ Gate
-     - 916 ................ Fire extinguisher
-     - 917 ................ Fire alarm
-     - 918 ................ Meter3
-     - 919 ................ Meter2
-     - 920 ................ Chain
-     - 925 ................ Neon1
-     - 926 ................ Neon2
-     - 937 ................ "Forbidden Videos & Books" sign
-     - 938 ................ "San Andreas Fault" sign
-     - 951 ................ Box
-     - 954 ................ Bottle1
-     - 955 ................ Bottle2
-     - 956 ................ Bottle3
-     - 957 ................ Bottle4
-     - 961 ................ "Exit" sign
-     - 962 ................ Fence
-     - 969/1003 ........... Hydroplant (+ broken version)
-     - 981/950 ............ Hydrant (+ broken version)
-     - 990 ................ Tires
-     - 1008 ............... Neon5 sign
-     - 1012 ............... Bottle5
-     - 1013 ............... Bottle6
-     - 1025 ............... Bottle7 (plant)
-     - 1045 ............... Donuts
-     - 1046 ............... "Arcade" sign
-     - 1048 ............... Two cables
-     - 1049 ............... Electric meter
-     - 1061/1078 .......... Double spotlight (+ broken version)
-     - 1062/1063 .......... Rubber can
-     - 1073 ............... Life buoy
-     - 1075 ............... Painting #1
-     - 1076 ............... Painting #2
-     - 1079-1081 .......... Oozefilter
-     - 1111/1112 .......... Handswitch
-     - 1142/1143 .......... "Bighole" switch
-     - 1158 ............... Bottle11
-     - 1160 ............... Bottle13
-     - 1164-1166 .......... Bottle17-19
-     - 1172 ............... "Secured Area" sign
-     - 1210 ............... "Guilty!" sign
-     - 1211 ............... "Innocent?" sign
-     - 1227-1230 .......... Nuke barrel
-     - 1232 ............... Trash can
-     - 1240-1243 .......... Fire barrel
-     - 1247 ............... C-9 cannister
-     - 1337-1338 .......... Helicopter (running)
-     - 1340-1342 .......... Helicopter debris
-     - 1343 ............... Broken wheel
-     - 1344 ............... Propeller
-     - 1345 ............... Helicopter (parking)
-     - 1346 ............... Helicopter (crashing)
-     - 1353 ............... Space Marine
-     - 1390-1393 .......... Fire vase
-     - 1650-1653 .......... Mortar
-     - 1880 ............... Sentry drone
-     - 1975 ............... Pigcop tank
-     - 2350/2355/2360 ..... Gun turret
-     - 2566 ............... Tripbomb (mounted)
-     - 4360 ............... Gunpowder barrel
-     - 4367 ............... Hatrack
-     - 4372 ............... coffee machine
-     - 4377 ............... Police light pole
-     - 4429 ............... Metal fence
-     - 4438 ............... Mug
-     - 4440 ............... Donuts
-     - 4443 ............... US flag
-     - 4444 ............... VHS camera
-     - 4454 ............... Deskphone
-     - 4458/4459 .......... Gumball machine
-     - 4483 ............... Broken switch #1
-     - 4495 ............... "Wet Floor" sign
-     - 4524 ............... "Steed" hooks
-     - 4536-4539 .......... Foodobject7-10
-     - 4576 ............... Shopping cart
-     - 4580-4582 .......... Barrels
-     - 4885 ............... Driver wheel
-     - 4891 ............... "We Store Your Crap" sign
-     - 4930 ............... "E Pluribus Nukem" sign
-     - 4943 ............... Hung jury
-     - 4954 ............... Broken switch #2
-     - 4956 ............... "Funny Boner Comedy Club" sign
+     - 25 ............................... Shrinker
+     - 32 ............................... Expander
+     - 45 ............................... Expander ammo
+     - 56 ............................... Scuba gear
+     - 57 ............................... Jetpack
+     - 58 ............................... Spacesuit
+     - 100-115 .......................... Atomic Health
+     - 140/141 .......................... Lever switch off/on
+     - 142-145 .......................... Nuke button
+     - 479 .............................. Antenna dish
+     - 480 .............................. Observatory
+     - 551-554 .......................... Lightdome
+     - 556-557/559 ...................... Armchair (+ broken version)
+     - 563-565 .......................... Water fountain
+     - 569/615 .......................... Toilet (+ broken version)
+     - 571/573 .......................... Urinal (+ broken version)
+     - 574/670/671 ...................... Faucet
+     - 606 .............................. Spacesuit corpse
+     - 607/608 .......................... Antenna
+     - 669 .............................. Vacuum cleaner
+     - 558/675-677 ...................... Slimer egg
+     - 678 .............................. Scale
+     - 680-684 .......................... Chair3
+     - 685 .............................. Stage light
+     - 689 .............................. IV unit
+     - 694 .............................. Pot1
+     - 695 .............................. Pot2
+     - 697 .............................. Pot3
+     - 698 .............................. Sushi plate
+     - 728 .............................. "Federal Loan and Trust" sign
+     - 753/869 .......................... Geisha
+     - 762 .............................. Microphone
+     - 765 .............................. Vase
+     - 908 .............................. Tree1
+     - 910 .............................. Tree2
+     - 911/939 .......................... Cactus (+ stomp)
+     - 913 .............................. Maskwall2
+     - 914 .............................. Maskwall3
+     - 915 .............................. Gate
+     - 916 .............................. Fire extinguisher
+     - 917 .............................. Fire alarm
+     - 918 .............................. Meter3
+     - 919 .............................. Meter2
+     - 920 .............................. Chain
+     - 925 .............................. Neon1
+     - 926 .............................. Neon2
+     - 937 .............................. "Forbidden Videos & Books" sign
+     - 938 .............................. "San Andreas Fault" sign
+     - 951 .............................. Box
+     - 954 .............................. Bottle1
+     - 955 .............................. Bottle2
+     - 956 .............................. Bottle3
+     - 957 .............................. Bottle4
+     - 961 .............................. "Exit" sign
+     - 962 .............................. Fence
+     - 969/1003 ......................... Hydroplant (+ broken version)
+     - 981/950 .......................... Hydrant (+ broken version)
+     - 990 .............................. Tires
+     - 1008 ............................. Neon5 sign
+     - 1012 ............................. Bottle5
+     - 1013 ............................. Bottle6
+     - 1025 ............................. Bottle7 (plant)
+     - 1045 ............................. Donuts
+     - 1046 ............................. "Arcade" sign
+     - 1048 ............................. Two cables
+     - 1049 ............................. Electric meter
+     - 1061/1078 ........................ Double spotlight (+ broken version)
+     - 1062/1063 ........................ Rubber can
+     - 1073 ............................. Life buoy
+     - 1075 ............................. Painting #1
+     - 1076 ............................. Painting #2
+     - 1079-1081 ........................ Oozefilter
+     - 1111/1112 ........................ Handswitch
+     - 1142/1143 ........................ "Bighole" switch
+     - 1158 ............................. Bottle11
+     - 1160 ............................. Bottle13
+     - 1164-1166 ........................ Bottle17-19
+     - 1172 ............................. "Secured Area" sign
+     - 1210 ............................. "Guilty!" sign
+     - 1211 ............................. "Innocent?" sign
+     - 1227-1230 ........................ Nuke barrel
+     - 1232 ............................. Trash can
+     - 1240-1243 ........................ Fire barrel
+     - 1247 ............................. C-9 cannister
+     - 1337-1338 ........................ Helicopter (running)
+     - 1340-1342 ........................ Helicopter debris
+     - 1343 ............................. Broken wheel
+     - 1344 ............................. Propeller
+     - 1345 ............................. Helicopter (parking)
+     - 1346 ............................. Helicopter (crashing)
+     - 1353 ............................. Space Marine
+     - 1390-1393 ........................ Fire vase
+     - 1650-1653 ........................ Mortar
+     - 1880 ............................. Sentry drone
+     - 1975 ............................. Pigcop tank
+     - 2350/2355/2360 ................... Gun turret
+     - 2566 ............................. Tripbomb (mounted)
+     - 4360 ............................. Gunpowder barrel
+     - 4367 ............................. Hatrack
+     - 4372 ............................. coffee machine
+     - 4377 ............................. Police light pole
+     - 4429 ............................. Metal fence
+     - 4438 ............................. Mug
+     - 4440 ............................. Donuts
+     - 4443 ............................. US flag
+     - 4444 ............................. VHS camera
+     - 4454 ............................. Deskphone
+     - 4458/4459 ........................ Gumball machine
+     - 4483 ............................. Broken switch #1
+     - 4495 ............................. "Wet Floor" sign
+     - 4524 ............................. "Steed" hooks
+     - 4536-4539 ........................ Foodobject7-10
+     - 4576 ............................. Shopping cart
+     - 4580-4582 ........................ Barrels
+     - 4885 ............................. Driver wheel
+     - 4891 ............................. "We Store Your Crap" sign
+     - 4930 ............................. "E Pluribus Nukem" sign
+     - 4943 ............................. Hung jury
+     - 4954 ............................. Broken switch #2
+     - 4956 ............................. "Funny Boner Comedy Club" sign
 
 > DJP (3)
-     - 691 ................ Cleaver
-     - 692 ................ Knife
-     - 927 ................ Traffic light
+     - 691 .............................. Cleaver
+     - 692 .............................. Knife
+     - 927 .............................. Traffic light
 
-> DotK3D (22)
-     - 561 ................ Soap
-     - 572/991 ............ Shower part
-     - 716 ................ "Please Wait" sign
-     - 779 ................ Sushi plate eye
-     - 860/861 ............ Powerswitch1 off/on
-     - 864/865 ............ Powerswitch2 off/on
-     - 904/1026 ........... Wooden horse
-     - 909 ................ Tree trunk
-     - 977 ................ Pole
-     - 978 ................ Traffic cone
-     - 979 ................ Hanglight
-     - 1006 ............... Bar stool
-     - 1009-1011 .......... Neon5 sign
-     - 1060/1067 .......... Clock (intact & broken)
-     - 1069 ............... Plug
-     - 4373 ............... Cups
+> DotK3D (21)
+     - 561 .............................. Soap
+     - 572/991 .......................... Shower part
+     - 716 .............................. "Please Wait" sign
+     - 860/861 .......................... Powerswitch1 off/on
+     - 864/865 .......................... Powerswitch2 off/on
+     - 904/1026 ......................... Wooden horse
+     - 909 .............................. Tree trunk
+     - 977 .............................. Pole
+     - 978 .............................. Traffic cone
+     - 979 .............................. Hanglight
+     - 1006 ............................. Bar stool
+     - 1009-1011 ........................ Neon5 sign
+     - 1060/1067 ........................ Clock (intact & broken)
+     - 1069 ............................. Plug
+     - 4373 ............................. Cups
 
-> Dzierzan (91)
-     - 160 ................ Door shock
-     - 487 ................ Space shuttle
-     - 489 ................ Satellite
-     - 517 ................ Gas tank
-     - 536/537 ............ Small pipe
-     - 542 ................ Earth dome
-     - 543 ................ Panel
-     - 544 ................ Connection
-     - 555 ................ Small valve
-     - 570 ................ Soap
-     - 572/991 ............ Shower part (based on DotK3D's voxel)
-     - 578 ................ Reactor
-     - 602 ................ Solar panel
-     - 610 ................ Pipe
-     - 620 ................ Generator
-     - 658/659 ............ Light
-     - 660 ................ Water drop
-     - 688 ................ Movie clapper
-     - 976 ................ Air vent
-     - 993 ................ Damaged pole
-     - 994-996 ............ Pipes
-     - 997/1005/1260 ...... Broken pipes
-     - 998/999 ............ Parking meter
-     - 1014 ............... Bottle (based on mxrtxn's voxel)
-     - 1022-1023 .......... Green goo
-     - 1026 ............... Wooden horse fallen (based on DotK3D's voxel)
-     - 1037 ............... Table (remake, original by Striker)
-     - 1038 ............... Horizontal pipe
-     - 1157 ............... Money jar
-     - 1238 ............... Metal barrel
-     - 1267 ............... Rat
-     - 1810 ............... Cannon
-     - 1817 ............... Cannonball
-     - 1818 ............... Cannonballs
-     - 2200 ............... Poo
-     - 3190 ............... Red marker
-     - 3200 ............... Yellow marker
-     - 3210 ............... Green marker
-     - 3400 ............... "Duf Beer" blimp
-     - 3418 ............... Side mirror
-     - 4359 ............... Target
-     - 4361 ............... Duck
-     - 4363 ............... Knife
-     - 4374/4375 .......... Gavel
-     - 4386 ............... Pipe
-     - 4400 ............... Teddy bear
-     - 4406 ............... Steering wheel
-     - 4407/4408 .......... Annoying mouse
-     - 4413 ............... Mail bag
-     - 4416/4417 .......... Side mirror
-     - 4419 ............... Broken pipebomb
-     - 4426 ............... Bowling pin
-     - 4441/4442/4473 ..... "McClain"/"Callahan"/"Dredd" name tags
-     - 4446 ............... Prison ball
-     - 4457 ............... Rope
-     - 4463 ............... Bone
-     - 4465 ............... Generic pole
-     - 4496 ............... Broom
-     - 4497 ............... Mop
-     - 4533 ............... Kitchen object
-     - 4543-4545 .......... Burgers (Foodobject14-16)
-     - 4549 ............... Burger wrapper (Foodobject20)
-     - 4550 ............... Red lamp
-     - 4552 ............... Worms can
-     - 4554/4555 .......... Chicken
-     - 4567 ............... Icicles
-     - 4583 ............... Pipe
-     - 4585 ............... Valve
-     - 4586/4587 .......... Thin pipe
-     - 4588 ............... Sign
-     - 4946 ............... Baseball bat
-     - 5384 ............... Lamp
-     - 5435 ............... Mailbox
-     - 5436 ............... Lamp
-     - 5675 ............... Bollard
-     - 5679 ............... Bridge lamp #1
-     - 5680 ............... Bridge lamp #2
+> Dzierzan (97)
+     - 160 .............................. Door shock
+     - 487 .............................. Space shuttle
+     - 489 .............................. Satellite
+     - 517 .............................. Gas tank
+     - 536/537 .......................... Small pipe
+     - 542 .............................. Earth dome
+     - 543 .............................. Panel
+     - 544 .............................. Connection
+     - 555 .............................. Small valve
+     - 570 .............................. Soap
+     - 572/991 .......................... Shower part (based on DotK3D's voxel)
+     - 578 .............................. Reactor
+     - 602 .............................. Solar panel
+     - 610 .............................. Pipe
+     - 620 .............................. Generator
+     - 658/659 .......................... Light
+     - 660 .............................. Water drop
+     - 688 .............................. Movie clapper
+     - 768/769/774/779/792/851 .......... Sushi plates
+     - 976 .............................. Air vent
+     - 993 .............................. Damaged pole
+     - 994-996 .......................... Pipes
+     - 997/1005/1260 .................... Broken pipes
+     - 998/999 .......................... Parking meter
+     - 1014 ............................. Bottle (based on mxrtxn's voxel)
+     - 1022-1023 ........................ Green goo
+     - 1026 ............................. Wooden horse fallen (based on DotK3D's voxel)
+     - 1037 ............................. Table (remake, original by Striker)
+     - 1038 ............................. Horizontal pipe
+     - 1157 ............................. Money jar
+     - 1238 ............................. Metal barrel
+     - 1267 ............................. Rat
+     - 1810 ............................. Cannon
+     - 1817 ............................. Cannonball
+     - 1818 ............................. Cannonballs
+     - 2200 ............................. Poo
+     - 3190 ............................. Red marker
+     - 3200 ............................. Yellow marker
+     - 3210 ............................. Green marker
+     - 3400 ............................. "Duf Beer" blimp
+     - 3418 ............................. Side mirror
+     - 4359 ............................. Target
+     - 4361 ............................. Duck
+     - 4363 ............................. Knife
+     - 4374/4375 ........................ Gavel
+     - 4386 ............................. Pipe
+     - 4400 ............................. Teddy bear
+     - 4406 ............................. Steering wheel
+     - 4407/4408 ........................ Annoying mouse
+     - 4413 ............................. Mail bag
+     - 4416/4417 ........................ Side mirror
+     - 4419 ............................. Broken pipebomb
+     - 4426 ............................. Bowling pin
+     - 4441/4442/4473 ................... "McClain"/"Callahan"/"Dredd" name tags
+     - 4446 ............................. Prison ball
+     - 4457 ............................. Rope
+     - 4463 ............................. Bone
+     - 4465 ............................. Generic pole
+     - 4496 ............................. Broom
+     - 4497 ............................. Mop
+     - 4533 ............................. Kitchen object
+     - 4543-4545 ........................ Burgers (Foodobject14-16)
+     - 4549 ............................. Burger wrapper (Foodobject20)
+     - 4550 ............................. Red lamp
+     - 4552 ............................. Worms can
+     - 4554/4555 ........................ Chicken
+     - 4567 ............................. Icicles
+     - 4583 ............................. Pipe
+     - 4585 ............................. Valve
+     - 4586/4587 ........................ Thin pipe
+     - 4588 ............................. Sign
+     - 4946 ............................. Baseball bat
+     - 5384 ............................. Lamp
+     - 5435 ............................. Mailbox
+     - 5436 ............................. Lamp
+     - 5675 ............................. Bollard
+     - 5679 ............................. Bridge lamp #1
+     - 5680 ............................. Bridge lamp #2
 
 > mxrtxn (39)
-     - 584 ................ Sensor
-     - 621 ................ Security camera
-     - 1014 ............... Bottle
-     - 4569 ............... Burger box
-     - 4370 ............... Desk lamp
-     - 4371 ............... Police shield
-     - 4540-4542 .......... Foodobject11-13
-     - 4546-4548 .......... Foodobject17-19
-     - 4589 ............... Warning sign
+     - 584 .............................. Sensor
+     - 621 .............................. Security camera
+     - 1014 ............................. Bottle
+     - 4569 ............................. Burger box
+     - 4370 ............................. Desk lamp
+     - 4371 ............................. Police shield
+     - 4540-4542 ........................ Foodobject11-13
+     - 4546-4548 ........................ Foodobject17-19
+     - 4589 ............................. Warning sign
 
      Caribbean:
-     - 21 ................. Water pistol
-     - 22 ................. Triple poison shooter
-     - 23 ................. Coconut launcher
-     - 24 ................. Ice crusher
-     - 25 ................. Voodoo ring
-     - 27 ................. Voodoo trip bomb
-     - 28 ................. Super Soak'em
-     - 37-39 .............. Ice crusher ammo
-     - 40 ................. Water pistol ammo
-     - 41 ................. Triple poison shooter ammo
-     - 49 ................. Super Soak'em ammo
-     - 51 ................. Single banana
-     - 52 ................. Bunch of bananas
-     - 53 ................. Crate of bananas
-     - 54 ................. Suntan lotion
-     - 55 ................. Hot sauce
-     - 56 ................. Snorkle
-     - 59 ................. Sunglasses
-     - 60 ................. Credit card
-     - 955 ................ Blue drink
-     - 956 ................ Cocktail
-     - 3695 ............... Parasol
-     - 3791 ............... Cooling box
-     - 3792 ............... Radio
+     - 21 ............................... Water pistol
+     - 22 ............................... Triple poison shooter
+     - 23 ............................... Coconut launcher
+     - 24 ............................... Ice crusher
+     - 25 ............................... Voodoo ring
+     - 27 ............................... Voodoo trip bomb
+     - 28 ............................... Super Soak'em
+     - 37-39 ............................ Ice crusher ammo
+     - 40 ............................... Water pistol ammo
+     - 41 ............................... Triple poison shooter ammo
+     - 49 ............................... Super Soak'em ammo
+     - 51 ............................... Single banana
+     - 52 ............................... Bunch of bananas
+     - 53 ............................... Crate of bananas
+     - 54 ............................... Suntan lotion
+     - 55 ............................... Hot sauce
+     - 56 ............................... Snorkle
+     - 59 ............................... Sunglasses
+     - 60 ............................... Credit card
+     - 955 .............................. Blue drink
+     - 956 .............................. Cocktail
+     - 3695 ............................. Parasol
+     - 3791 ............................. Cooling box
+     - 3792 ............................. Radio
 
 > pavigna (1)
-     - 4387 ............... Dukeburger table
+     - 4387 ............................. Dukeburger table
 
 > Shodanbot (5)
-     - 138/139 ............ Slideswitch
-     - 1122/1123 .......... Flipswitch
-     - 4464 ............... Mace
+     - 138/139 .......................... Slideswitch
+     - 1122/1123 ........................ Flipswitch
+     - 4464 ............................. Mace
      
 > Striker (1)
-     - 1037 ............... Table (original)
+     - 1037 ............................. Table (original)
 
 
 Special thanks to:
@@ -373,23 +373,23 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Oct 18, 2021)
+Version 2.0 RC2 (Oct 21, 2021)
 ------------------------------
 > Added:
      + Raze support (including automatic voxel loading for Duke Caribbean)
      + Props: 160 (door shock), 479 (antenna dish), 489 (satellite), 517 (gas tank), 536/537 (small pipe), 
               542 (Earth dome), 555 (small valve), 570 (soap), 578 (reactor), 602 (solar panel), 610 (pipe), 
-              620 (generator), 658/659 (light), 660 (water drop), 688 (movie clapper), 927 (traffic light), 976 (air vent), 
-              993 (damaged pole), 998/999 (parking meter), 1022-1023 (green goo), 1026 (wooden horse fallen), 
-              1038 (horizontal pipe), 1157 (money jar), 1337-1338 (helicopter running), 1340-1342 (helicopter debris),
-              1343 (broken wheel), 1344 (propeller), 1345 (helicopter parking), 1346 (helicopter crashing), 
-              3400 ("Duf Beer" blimp), 3418 (side mirror), 4359 (target), 4361 (duck), 4363 (knife), 4374/4375 (gavel),
-              4386 (pipe), 4400 (teddy bear), 4406 (steering wheel), 4413 (mail bag), 4416/4417 (side mirror), 
-              4419 (broken pipebomb), 4441/4442/4473 (McClain/Callahan/Dredd name tags), 4446 (prison ball), 4463 (bone),
-              4465 (generic pole), 4497 (mop), 4533 (kitchen object), 4543-4545 (foodobject14-16), 4549 (burger wrapper),
-              4554/4555 (chicken), 4567 (icicles), 4583 (pipe), 4585 (valve), 4586/4587 (thin pipe), 4588 (sign), 
-              4943 (hung jury), 4946 (baseball bat), 5384 (lamp), 5435 (mailbox), 5436 (lamp), 5675 (bollard), 
-              5679 (bridge lamp #1), 5680 (bridge lamp #2)
+              620 (generator), 658/659 (light), 660 (water drop), 688 (movie clapper), 768/769/774/792/851 (sushi plates),
+              927 (traffic light), 976 (air vent), 993 (damaged pole), 998/999 (parking meter), 1022-1023 (green goo), 
+              1026 (wooden horse fallen), 1038 (horizontal pipe), 1157 (money jar), 1337-1338 (helicopter running), 
+              1340-1342 (helicopter debris), 1343 (broken wheel), 1344 (propeller), 1345 (helicopter parking), 
+              1346 (helicopter crashing), 3400 ("Duf Beer" blimp), 3418 (side mirror), 4359 (target), 4361 (duck), 
+              4363 (knife), 4374/4375 (gavel), 4386 (pipe), 4400 (teddy bear), 4406 (steering wheel), 4413 (mail bag),
+              4416/4417 (side mirror), 4419 (broken pipebomb), 4441/4442/4473 (McClain/Callahan/Dredd name tags), 
+              4446 (prison ball), 4463 (bone), 4465 (generic pole), 4497 (mop), 4533 (kitchen object), 
+              4543-4545 (foodobject14-16), 4549 (burger wrapper), 4554/4555 (chicken), 4567 (icicles), 4583 (pipe), 
+              4585 (valve), 4586/4587 (thin pipe), 4588 (sign), 4943 (hung jury), 4946 (baseball bat), 5384 (lamp), 
+              5435 (mailbox), 5436 (lamp), 5675 (bollard), 5679 (bridge lamp #1), 5680 (bridge lamp #2)
 
 > Updated:
      + World Tour maphacks fixed (references to non-existing files corrected)
@@ -398,7 +398,8 @@ Version 2.0 RC2 (Oct 18, 2021)
                  E4L4 (#4554/4555 chicken), E4L5 (#4441/4442/4473 name tags, #4444 tripod cam), E4L6 (#3418 sidemirror),
 		 E4L7 (#4554/4555 chicken)
      + Monsters: Turret (#2350) activated in monsters.def
-     + Props: 487 (space shuttle), 572/991 (shower part), 1014 (bottle), 1037 (table), 1238 (metal barrel), 4426 (bowling pin)
+     + Props: 487 (space shuttle), 572/991 (shower part), 779 (sushi plate), 1014 (bottle), 1037 (table), 
+              1238 (metal barrel), 4426 (bowling pin)
      + Vacation: Offset adjustments by Dzierzan for 3695 (parasol), 3791 (cooling box), 3792 (radio)
 
 
