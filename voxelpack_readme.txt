@@ -226,7 +226,7 @@ Contributions by:
      - 1069 ............................. Plug
      - 4373 ............................. Cups
 
-> Dzierzan (107)
+> Dzierzan (110)
      - 160 .............................. Door shock
      - 487 .............................. Space shuttle
      - 489 .............................. Satellite
@@ -261,6 +261,7 @@ Contributions by:
      - 1157 ............................. Money jar
      - 1221 ............................. Crane pole
      - 1222-1224 ........................ Claw crane
+     - 1233-1235 ........................ Money
      - 1238 ............................. Metal barrel
      - 1267 ............................. Rat
      - 1810 ............................. Cannon
@@ -387,15 +388,15 @@ Version 2.0 RC2 (Oct 22, 2021)
               620 (generator), 658/659 (light), 660 (water drop), 688 (movie clapper), 768/769/774/792/851 (sushi plates),
               927 (traffic light), 976 (air vent), 993 (damaged pole), 998/999 (parking meter), 1022-1023 (green goo), 
               1026 (wooden horse fallen), 1038 (horizontal pipe), 1055/1056 (camera rolls), 1077 (joystick), 1157 (money jar), 
-              1221 (crane pole), 1222-1224 (claw crane), 1337-1338 (helicopter running), 1340-1342 (helicopter debris), 
-              1343 (broken wheel), 1344 (propeller), 1345 (helicopter parking), 1346 (helicopter crashing), 
-              3400 ("Duf Beer" blimp), 3418 (side mirror), 4359 (target), 4361 (duck), 4363 (knife), 4374/4375 (gavel), 
-              4386 (pipe), 4400 (teddy bear), 4406 (steering wheel), 4413 (mail bag), 4416/4417 (side mirror), 
-              4419 (broken pipebomb), 4441/4442/4473 (McClain/Callahan/Dredd name tags), 4446 (prison ball), 
-              4463 (bone), 4465 (generic pole), 4480-4482 (damaged wires), 4497 (mop), 4533 (kitchen object), 
-              4543-4545 (foodobject14-16), 4549 (burger wrapper), 4554/4555 (chicken), 4567 (icicles), 4583 (pipe), 
-              4585 (valve), 4586/4587 (thin pipe), 4588 (sign), 4943 (hung jury), 4946 (baseball bat), 5384 (lamp), 
-              5435 (mailbox), 5436 (lamp), 5675 (bollard), 5679 (bridge lamp #1), 5680 (bridge lamp #2)
+              1221 (crane pole), 1222-1224 (claw crane), 1233-1235 (money), 1337-1338 (heli running), 1340-1342 (heli debris), 
+              1343 (broken wheel), 1344 (propeller), 1345 (heli parking), 1346 (heli crashing), 3400 ("Duf Beer" blimp), 
+              3418 (side mirror), 4359 (target), 4361 (duck), 4363 (knife), 4374/4375 (gavel), 4386 (pipe), 4400 (teddy bear), 
+              4406 (steering wheel), 4413 (mail bag), 4416/4417 (side mirror), 4419 (broken pipebomb), 
+              4441/4442/4473 (McClain/Callahan/Dredd name tags), 4446 (prison ball), 4463 (bone), 4465 (generic pole), 
+              4480-4482 (damaged wires), 4497 (mop), 4533 (kitchen object), 4543-4545 (foodobject14-16), 4549 (burger wrapper), 
+              4554/4555 (chicken), 4567 (icicles), 4583 (pipe), 4585 (valve), 4586/4587 (thin pipe), 4588 (sign), 
+              4943 (hung jury), 4946 (baseball bat), 5384 (lamp), 5435 (mailbox), 5436 (lamp), 5675 (bollard), 
+              5679 (bridge lamp #1), 5680 (bridge lamp #2)
 
 > Updated:
      + World Tour maphacks fixed (references to non-existing files corrected)

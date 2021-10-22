@@ -211,11 +211,9 @@ voxel "voxels/props/1229_nukebarrelleaked.kvx" { tile 1229 }
 
 voxel "voxels/props/1230_nukebarrelbreak.kvx" { tile 1230 }
 voxel "voxels/props/1232_canwithsomething.kvx" { tile 1232 }
-
 voxel "voxels/props/1233_money1.kvx" { tile 1233 }
 voxel "voxels/props/1234_money2.kvx" { tile 1234 }
 voxel "voxels/props/1235_money3.kvx" { tile 1235 }
-
 voxel "voxels/props/1238_metalbarrel.kvx" { tile 1238 }
 
 voxel "voxels/props/1240_firebarrel1.kvx" { tile 1240 }
