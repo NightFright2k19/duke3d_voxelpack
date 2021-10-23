@@ -352,6 +352,9 @@ voxel "voxels/props/4587_thinpipe2.kvx" { tile 4587 }
 voxel "voxels/props/4588_sign.kvx" { tile 4588 }
 voxel "voxels/props/4589_warn1.kvx" { tile 4589 }
 
+voxel "voxels/props/4878_dogpainting1.kvx" { tile 4878 }
+voxel "voxels/props/4879_dogpainting2.kvx" { tile 4879 }
+
 voxel "voxels/props/4885_driverwheel.kvx" { tile 4885 }
 
 voxel "voxels/props/4943_jury.kvx" { tile 4943 }
