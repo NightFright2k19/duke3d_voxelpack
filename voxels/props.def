@@ -280,7 +280,6 @@ voxel "voxels/props/4408_mouse2.kvx" { tile 4408 }
 voxel "voxels/props/4410_letter1.kvx" { tile 4410 }
 voxel "voxels/props/4411_letter2.kvx" { tile 4411 }
 voxel "voxels/props/4412_letter3.kvx" { tile 4412 }
-
 voxel "voxels/props/4413_mailbag.kvx" { tile 4413 }
 voxel "voxels/props/4416_sidemirror1.kvx" { tile 4416 }
 voxel "voxels/props/4417_sidemirror2.kvx" { tile 4417 }
@@ -306,7 +305,6 @@ voxel "voxels/props/4459_gumballmachine2.kvx" { tile 4459 }
 voxel "voxels/props/4463_bone.kvx" { tile 4463 }
 voxel "voxels/props/4464_mace.kvx" { tile 4464 }
 voxel "voxels/props/4465_genericpole.kvx" { tile 4465 }
-
 voxel "voxels/props/4466_presidentpainting1.kvx" { tile 4466 }
 voxel "voxels/props/4467_presidentpainting2.kvx" { tile 4467 }
 voxel "voxels/props/4468_presidentpainting3.kvx" { tile 4468 }

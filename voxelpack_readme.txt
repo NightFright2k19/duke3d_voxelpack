@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Oct 22, 2021
+Release Date: Oct 23, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -226,7 +226,7 @@ Contributions by:
      - 1069 ............................. Plug
      - 4373 ............................. Cups
 
-> Dzierzan (110)
+> Dzierzan (119)
      - 160 .............................. Door shock
      - 487 .............................. Space shuttle
      - 489 .............................. Satellite
@@ -281,6 +281,7 @@ Contributions by:
      - 4400 ............................. Teddy bear
      - 4406 ............................. Steering wheel
      - 4407/4408 ........................ Annoying mouse
+     - 4410-4412 ........................ Letter
      - 4413 ............................. Mail bag
      - 4416/4417 ........................ Side mirror
      - 4419 ............................. Broken pipebomb
@@ -290,6 +291,7 @@ Contributions by:
      - 4457 ............................. Rope
      - 4463 ............................. Bone
      - 4465 ............................. Generic pole
+     - 4466-4469 ........................ President paintings
      - 4480-4482 ........................ Damaged wires
      - 4496 ............................. Broom
      - 4497 ............................. Mop
@@ -304,6 +306,7 @@ Contributions by:
      - 4585 ............................. Valve
      - 4586/4587 ........................ Thin pipe
      - 4588 ............................. Sign
+     - 4878/4879 ........................ Dog paintings
      - 4946 ............................. Baseball bat
      - 5384 ............................. Lamp
      - 5435 ............................. Mailbox
@@ -379,7 +382,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Oct 22, 2021)
+Version 2.0 RC2 (Oct 23, 2021)
 ------------------------------
 > Added:
      + Raze support (including automatic voxel loading for Duke Caribbean)
@@ -391,12 +394,12 @@ Version 2.0 RC2 (Oct 22, 2021)
               1221 (crane pole), 1222-1224 (claw crane), 1233-1235 (money), 1337-1338 (heli running), 1340-1342 (heli debris), 
               1343 (broken wheel), 1344 (propeller), 1345 (heli parking), 1346 (heli crashing), 3400 ("Duf Beer" blimp), 
               3418 (side mirror), 4359 (target), 4361 (duck), 4363 (knife), 4374/4375 (gavel), 4386 (pipe), 4400 (teddy bear), 
-              4406 (steering wheel), 4413 (mail bag), 4416/4417 (side mirror), 4419 (broken pipebomb), 
+              4406 (steering wheel), 4410-4412 (letter), 4413 (mail bag), 4416/4417 (side mirror), 4419 (broken pipebomb), 
               4441/4442/4473 (McClain/Callahan/Dredd name tags), 4446 (prison ball), 4463 (bone), 4465 (generic pole), 
-              4480-4482 (damaged wires), 4497 (mop), 4533 (kitchen object), 4543-4545 (foodobject14-16), 4549 (burger wrapper), 
-              4554/4555 (chicken), 4567 (icicles), 4583 (pipe), 4585 (valve), 4586/4587 (thin pipe), 4588 (sign), 
-              4943 (hung jury), 4946 (baseball bat), 5384 (lamp), 5435 (mailbox), 5436 (lamp), 5675 (bollard), 
-              5679 (bridge lamp #1), 5680 (bridge lamp #2)
+              4466-4469 (president paintings), 4480-4482 (damaged wires), 4497 (mop), 4533 (kitchen object), 
+              4543-4545 (foodobject14-16), 4549 (burger wrapper), 4554/4555 (chicken), 4567 (icicles), 4583 (pipe), 
+              4585 (valve), 4586/4587 (thin pipe), 4588 (sign), 4878/4879 (dog paintings), 4943 (hung jury), 4946 (baseball bat), 
+              5384 (lamp), 5435 (mailbox), 5436 (lamp), 5675 (bollard), 5679 (bridge lamp #1), 5680 (bridge lamp #2)
 
 > Updated:
      + World Tour maphacks fixed (references to non-existing files corrected)
