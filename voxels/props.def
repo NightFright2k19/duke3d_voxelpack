@@ -277,6 +277,10 @@ voxel "voxels/props/4406_steeringwheel.kvx" { tile 4406 }
 voxel "voxels/props/4407_mouse1.kvx" { tile 4407 }
 voxel "voxels/props/4408_mouse2.kvx" { tile 4408 }
 
+voxel "voxels/props/4410_letter1.kvx" { tile 4410 }
+voxel "voxels/props/4411_letter2.kvx" { tile 4411 }
+voxel "voxels/props/4412_letter3.kvx" { tile 4412 }
+
 voxel "voxels/props/4413_mailbag.kvx" { tile 4413 }
 voxel "voxels/props/4416_sidemirror1.kvx" { tile 4416 }
 voxel "voxels/props/4417_sidemirror2.kvx" { tile 4417 }
