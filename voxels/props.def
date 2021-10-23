@@ -307,6 +307,11 @@ voxel "voxels/props/4463_bone.kvx" { tile 4463 }
 voxel "voxels/props/4464_mace.kvx" { tile 4464 }
 voxel "voxels/props/4465_genericpole.kvx" { tile 4465 }
 
+voxel "voxels/props/4466_presidentpainting1.kvx" { tile 4466 }
+voxel "voxels/props/4467_presidentpainting2.kvx" { tile 4467 }
+voxel "voxels/props/4468_presidentpainting3.kvx" { tile 4468 }
+voxel "voxels/props/4469_presidentpainting4.kvx" { tile 4469 }
+
 voxel "voxels/props/4473_dredd.kvx" { tile 4473 }
 
 voxel "voxels/props/4480_wires1.kvx" { tile 4480 }
