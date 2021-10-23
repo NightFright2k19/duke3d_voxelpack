@@ -161,6 +161,7 @@ sprite   367 angoff     1024       // tile4361 target
 sprite   368 angoff     1024       // tile4361 target
 sprite   369 angoff     1024       // tile4361 target
 sprite   370 angoff     1024       // tile4361 target
+sprite   720 angoff     -512       // tile4887 pleasewait sign
 
 // LIGHTS
 

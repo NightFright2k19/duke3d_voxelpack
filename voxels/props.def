@@ -364,6 +364,8 @@ voxel "voxels/props/4879_dogpainting2.kvx" { tile 4879 }
 
 voxel "voxels/props/4885_driverwheel.kvx" { tile 4885 }
 
+voxel "voxels/props/4887_pleasewait2.kvx" { tile 4887 }
+
 voxel "voxels/props/4943_jury.kvx" { tile 4943 }
 voxel "voxels/props/4946_baseballbat.kvx" { tile 4946 }
 
