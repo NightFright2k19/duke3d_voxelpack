@@ -159,6 +159,10 @@ voxel "voxels/props/1023_greengoo2.kvx" { tile 1023 }
 voxel "voxels/props/1025_bottle7.kvx" { tile 1025 }
 voxel "voxels/props/1026_constructionbarrier_fallen.kvx" { tile0 1026 tile1 1030 }
 
+voxel "voxels/props/1034_lamp1.kvx" { tile 1034 }
+voxel "voxels/props/1035_lamp2.kvx" { tile 1035 }
+voxel "voxels/props/1036_lamp3.kvx" { tile 1036 }
+
 voxel "voxels/props/1037_table.kvx" { tile 1037 }
 voxel "voxels/props/1038_horizontalpipe.kvx" { tile 1038 }
 
