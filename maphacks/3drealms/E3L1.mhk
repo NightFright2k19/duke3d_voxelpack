@@ -24,7 +24,6 @@ sprite    91 pitch     -64         // tile0042 devistatorammo (multiplayer)
 sprite   609 angoff    -512        // tile1348 holoduke
 sprite   543 angoff     512        // tile0047 hbombammo
 sprite   578 angoff    -768        // tile0051 cola
-sprite   468 angoff     384        // tile0716 waittobeseated
 sprite   482 angoff    256        // tile0753 statue (geisha)
 sprite    89 angoff    -768        // tile0049 shotgunammo
 sprite    89 pitch     -1          // tile0049 shotgunammo
