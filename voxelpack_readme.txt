@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Oct 25, 2021
+Release Date: Oct 26, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -384,7 +384,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Oct 25, 2021)
+Version 2.0 RC2 (Oct 26, 2021)
 ------------------------------
 > Added:
      + Raze support (including automatic voxel loading for Duke Caribbean)

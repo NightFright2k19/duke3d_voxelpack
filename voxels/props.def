@@ -228,15 +228,15 @@ voxel "voxels/props/1247_seenine.kvx" { tile 1247 }
 voxel "voxels/props/1260_damagedpipe3.kvx" { tile 1260 }
 voxel "voxels/props/1267_rat.kvx" { tile0 1267 tile1 1270 }
 
-voxel "voxels/props/1337_helicopter1.kvx" { tile 1337 }
-voxel "voxels/props/1338_helicopter2.kvx" { tile 1338 }
+voxel "voxels/props/1337_helicopter1.kvx" { tile 1337 scale 1.5 }
+voxel "voxels/props/1338_helicopter2.kvx" { tile 1338 scale 1.5 }
 
 voxel "voxels/props/1340_debris1.kvx" { tile 1340 }
 voxel "voxels/props/1341_debris2.kvx" { tile 1341 }
 voxel "voxels/props/1342_debris3.kvx" { tile 1342 }
 voxel "voxels/props/1343_brokenwheel.kvx" { tile 1343 }
 voxel "voxels/props/1344_propeller.kvx" { tile 1344 }
-voxel "voxels/props/1345_helicopter3.kvx" { tile 1345 }
+voxel "voxels/props/1345_helicopter3.kvx" { tile 1345 scale 1.5 }
 voxel "voxels/props/1346_helicopter4.kvx" { tile 1346 }
 
 voxel "voxels/props/1353_spacemarine.kvx" { tile 1353 }
