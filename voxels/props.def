@@ -61,6 +61,8 @@ voxel "voxels/props/0616_greypipe1.kvx" { tile 616 }
 voxel "voxels/props/0620_betagenerator.kvx" { tile 620 }
 voxel "voxels/props/0621_camera1.kvx" { tile0 621 tile1 625 }
 
+voxel "voxels/props/0633_greypipe5.kvx" { tile 633 }
+
 voxel "voxels/props/0658_light1.kvx" { tile 658 }
 voxel "voxels/props/0659_light2.kvx" { tile 659 }
 
