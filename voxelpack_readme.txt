@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Oct 26, 2021
+Release Date: Oct 31, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -209,7 +209,7 @@ Contributions by:
      - 692 .............................. Knife
      - 927 .............................. Traffic light
 
-> DotK3D (20)
+> DotK3D (19)
      - 561 .............................. Soap
      - 572/991 .......................... Shower part
      - 860/861 .......................... Powerswitch1 off/on
@@ -217,7 +217,6 @@ Contributions by:
      - 904/1026 ......................... Wooden horse
      - 909 .............................. Tree trunk
      - 977 .............................. Pole
-     - 978 .............................. Traffic cone
      - 979 .............................. Hanglight
      - 1006 ............................. Bar stool
      - 1009-1011 ........................ Neon5 sign
@@ -225,7 +224,7 @@ Contributions by:
      - 1069 ............................. Plug
      - 4373 ............................. Cups
 
-> Dzierzan (124)
+> Dzierzan (131)
      - 160 .............................. Door shock
      - 487 .............................. Space shuttle
      - 489 .............................. Satellite
@@ -240,6 +239,7 @@ Contributions by:
      - 578 .............................. Reactor
      - 602 .............................. Solar panel
      - 610 .............................. Pipe
+     - 616-619/633/700 .................. Grey pipes
      - 620 .............................. Generator
      - 658/659 .......................... Light
      - 660 .............................. Water drop
@@ -247,6 +247,7 @@ Contributions by:
      - 716 .............................. "Please Wait To Be Seated" sign
      - 768/769/774/779/792/851 .......... Sushi plates
      - 976 .............................. Air vent
+     - 978 .............................. Traffic cone
      - 993 .............................. Damaged pole
      - 994-996 .......................... Pipes
      - 997/1005/1260 .................... Broken pipes
@@ -384,17 +385,18 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Oct 26, 2021)
+Version 2.0 RC2 (Oct 31, 2021)
 ------------------------------
 > Added:
      + Raze support (including automatic voxel loading for Duke Caribbean)
      + Props: 160 (door shock), 479 (antenna dish), 489 (satellite), 517 (gas tank), 536/537 (small pipe), 
               542 (Earth dome), 555 (small valve), 570 (soap), 578 (reactor), 602 (solar panel), 610 (pipe), 
-              620 (generator), 658/659 (light), 660 (water drop), 688 (movie clapper), 768/769/774/792/851 (sushi plates),
-              927 (traffic light), 976 (air vent), 993 (damaged pole), 998/999 (parking meter), 1022-1023 (green goo), 
-              1026 (wooden horse fallen), 1034-1036 (construction site warning lamp), 1038 (horizontal pipe), 
-              1055/1056 (camera rolls), 1077 (joystick), 1157 (money jar), 1221 (crane pole), 1222-1224 (claw crane), 
-              1233-1235 (money), 1337-1338 (heli running), 1340-1342 (heli debris), 1343 (broken wheel), 1344 (propeller), 
+              616-619/633/700 (grey pipes), 620 (generator), 658/659 (light), 660 (water drop), 688 (movie clapper), 
+              768/769/774/792/851 (sushi plates), 927 (traffic light), 976 (air vent), 993 (damaged pole), 
+              998/999 (parking meter), 1022-1023 (green goo), 1026 (wooden horse fallen), 
+              1034-1036 (construction site warning lamp), 1038 (horizontal pipe), 1055/1056 (camera rolls), 
+              1077 (joystick), 1157 (money jar), 1221 (crane pole), 1222-1224 (claw crane), 1233-1235 (money), 
+              1337-1338 (heli running), 1340-1342 (heli debris), 1343 (broken wheel), 1344 (propeller), 
               1345 (heli parking), 1346 (heli crashing), 3400 ("Duf Beer" blimp), 3418 (side mirror), 4359 (target), 
               4361 (duck), 4363 (knife), 4374/4375 (gavel), 4386 (pipe), 4400 (teddy bear), 4406 (steering wheel), 
               4410-4412 (letter), 4413 (mail bag), 4416/4417 (side mirror), 4419 (broken pipebomb), 
@@ -412,8 +414,8 @@ Version 2.0 RC2 (Oct 26, 2021)
                  E4L2 (#4567 icicles), E4L3 (#4887 "Please Wait"), E4L4 (#4554/4555 chicken), 
                  E4L5 (#4441/4442/4473 name tags, #4444 tripod cam), E4L6 (#3418 sidemirror), E4L7 (#4554/4555 chicken)
      + Monsters: Turret (#2350) activated in monsters.def
-     + Props: 487 (space shuttle), 572/991 (shower part), 716 ("Please Wait To Be Seated"), 779 (sushi plate), 1014 (bottle),
-              1037 (table), 1238 (metal barrel), 4426 (bowling pin)
+     + Props: 487 (space shuttle), 572/991 (shower part), 716 ("Please Wait To Be Seated"), 779 (sushi plate), 978 (traffic cone), 
+              1014 (bottle), 1037 (table), 1238 (metal barrel), 4426 (bowling pin)
      + Vacation: Offset adjustments by Dzierzan for 3695 (parasol), 3791 (cooling box), 3792 (radio)
 
 

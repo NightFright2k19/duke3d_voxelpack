@@ -55,7 +55,6 @@ voxel "voxels/props/0608_antenna2.kvx" { tile 608 }
 
 voxel "voxels/props/0610_pipe.kvx" { tile 610 }
 voxel "voxels/props/0615_brokentoilet.kvx" { tile 615 }
-
 voxel "voxels/props/0616_greypipe1.kvx" { tile 616 }
 voxel "voxels/props/0617_greypipe2.kvx" { tile 617 }
 voxel "voxels/props/0618_greypipe3.kvx" { tile 618 }
