@@ -1,9 +1,37 @@
-// To use voxels within the HRP, undefine HRP textures and models first
+// When using voxels on top of the HRP, undefine HRP textures and models first
+
+// Duke 3D Voxelpack rev.: 2.0.328 (tile1034)
+
+// Misc
+//undefmodelrange   2813 2819 // tile3190 spinnuke
+//undefmodel        2820      // tile3190 spinnuke
+undefmodelrange   3190 3196 // tile3190 spinnuke
+undefmodelrange   3200 3206 // tile3190 spinnuke_yellow
+undefmodelrange   3210 3216 // tile3190 spinnuke_green
+
+
+// Monsters
+
+undefmodel         558      // tile0675 egg (closed)
+//undeftexture       558      // tile0675 egg (closed)
+//undefinetile       558      // tile0675 egg (closed)
+
+// tile0675 - tile0677 egg
+undefmodelrange    675  677 // tile0675 egg
+//undeftexturerange  675  677 // tile0675 egg
+//undefinetilerange  675  677 // tile0675 egg
+
+undefmodelrange   1880 1886 // tile1880 drone
+
+undefmodelrange   1975 1991 // tile1975 tank
+undefmodelrange   1992 1996 // tile1975 tank
+
+undefmodelrange   2350 2364 // tile2350 gunturret
+
 
 // Pickups
+
 undefmodel          21      // tile0021 firstgunsprite
-// undeftexture        21      // tile0021 firstgunsprite
-// undefinetile        21      // tile0021 firstgunsprite
 undefmodel          22      // tile0022 chaingunsprite
 undefmodel          23      // tile0023 rpgsprite
 undefmodel          24      // tile0024 freezesprite
@@ -12,9 +40,8 @@ undefmodel          26      // tile0026 heavyhbomb
 undefmodel          27      // tile0027 tripbombsprite
 undefmodel          28      // tile0028 shotgunsprite
 undefmodel          29      // tile0029 devistatorsprite
-undefmodelrange     37   39      // tile0037 freezeammo
-// undeftexturerange   37   39      // tile0037 freezeammo
-// undefinetilerange   37   39      // tile0037 freezeammo
+undefmodel          32      // tile0032 growspriteicon
+undefmodelrange     37   39 // tile0037 freezeammo
 undefmodel          40      // tile0040 ammo
 undefmodel          41      // tile0041 batteryammo
 undefmodel          42      // tile0042 devistatorammo
@@ -33,68 +60,308 @@ undefmodel          57      // tile0057 jetpack
 undefmodel          59      // tile0059 heatsensor
 undefmodel          60      // tile0060 accesscard
 undefmodel          61      // tile0061 boots
+undefmodelrange    100  115 // tile0100 atomichealth
 undefmodelrange   1348 1351 // tile1348 holoduke
 
+
+// Projectiles
+
+undefmodelrange   1650 1653 // tile1650 morter
+undefmodel        2566      // tile2566 tripbomb
+
+
 // Props
+
+undefmodel          58      // tile0058 (spacesuit)
+undefmodel         160      // tile0160 doorshock
+undefmodel         479      // tile0479 (satellite dish)
+undefmodel         480      // tile0480 (observatory)
+undefmodel         487      // tile0487 spaceshuttle
+undefmodel         489      // tile0489 satellite
+undefmodel         517      // tile0517 fuelpod
+undefmodel         536      // tile0536 (tube)
+undefmodel         537      // tile0537 (tile0536 (tube))
+undefmodel         542      // tile0542 ****(globe)
+undefmodel         543      // tile0543 (wallspeaker)
+undefmodel         544      // tile0544 (iron bar)
+undefmodelrange    551  554 // tile0551 domelite
+undefmodel         555      // tile0555 (pipe handle)
+undefmodel         556      // tile0556 chair1
+undefmodel         557      // tile0557 chair2
+undefmodel         559      // tile0559 brokenchair
 undefmodel         561      // tile0561 (soap)
+undefmodelrange    563  566 // tile0563 waterfountain
+undefmodel         567      // tile0567 waterfountainbroke
+undefmodel         569      // tile0569 toilet
+undefmodel         570      // tile0570 (soap)
+undefmodel         571      // tile0571 stall
 undefmodel         572      // tile0572 (shower head)
+undefmodel         573      // tile0573 stallbroke
 undefmodel         574      // tile0574 (tile0670 (faucet))
+undefmodel         578      // tile0578 reactor2
 undefmodel         584      // tile0584 (sensor)
 undefmodel         595      // tile0595 grate1
 undefmodel         596      // tile0596 bgrate1
+undefmodel         602      // tile0602 solarpanel
+undefmodel         606      // tile0606 (spacesuit2, dead astronaut)
+undefmodelrange    607  608 // tile0607 antenna
+undefmodel         610      // tile0610 (lightswitch pole)
+undefmodel         615      // tile0615 toiletbroke
+undefmodel         620      // tile0620 (alternate reactor)
 undefmodelrange    621  625 // tile0621 camera1
+undefmodel         658      // tile0658 ****(light)
+undefmodel         659      // tile0659 ****(light)
+undefmodel         660      // tile0660 waterdrip
+undefmodel         669      // tile0669 vacuum
 undefmodel         670      // tile0670 (faucet)
-undefmodel         779      // tile0779 sushiplate4 (eye)
+undefmodel         671      // tile0671 (faucet)
+undefmodel         678      // tile0678 scale
+undefmodelrange    680  685 // tile0680 chair3
+undefmodel         685      // tile0685 cameralight
+undefmodel         688      // tile0688 ****movieclapper
+undefmodel         689      // tile0689 ivunit
+undefmodel         691      // tile0691 (cleaver)
+undefmodel         692      // tile0692 (knife)
+undefmodel         694      // tile0694 pot1
+undefmodel         695      // tile0695 pot2
+undefmodel         697      // tile0697 pot3
+undefmodel         698      // tile0698 (sushi)
+undefmodel         753      // tile0753 statue
+undefmodel         762      // tile0762 mike
+undefmodel         765      // tile0765 vase
+undefmodel         768      // tile0768 ****(sushiplate1 (head))
+undefmodel         769      // tile0769 ****sushiplate2 (hand)
+undefmodel         769      // tile0774 ****sushiplate3 (foot)
+undefmodel         779      // tile0779 ********sushiplate4 (eye)
+undefmodel         792      // tile0792 ****sushiplate5 (hand)
+undefmodel         851      // tile0851 ****(sushiplate6 (jib dish))
+undefmodel         869      // tile0869 statueflash
 undefmodel         901      // tile0901 stripeball
 undefmodel         902      // tile0902 queball
 undefmodelrange    904  907 // tile0904 woodenhorse
+undefmodel         908      // tile0908 tree1
 undefmodel         909      // tile0909 (treetrunk)
+undefmodel         910      // tile0908 tree2
+undefmodel         911      // tile0911 cactus
+undefmodel         913      // tile0913 maskwall2 (fence)
+undefmodel         914      // tile0914 maskwall3 (fence)
 undefmodel         915      // tile0915 maskwall4 (gate)
 undefmodel         916      // tile0916 fireext
+undefmodel         917      // tile0917 (firealarm)
+undefmodel         918      // tile0918 (wall fuse)
+undefmodel         919      // tile0919 (electricmeter)
+undefmodel         920      // tile0920 (chain)
+undefmodel         927      // tile0927 (traffic signal)
+undefmodel         939      // tile0939 cactusbroke
+undefmodel         950      // tile0950 brokefirehydrent
+undefmodel         951      // tile0951 box
 undefmodel         954      // tile0954 bottle1 (cocktail glass)
+undefmodel         955      // tile0955 bottle2
+undefmodel         956      // tile0956 bottle3
+undefmodel         957      // tile0957 bottle4
+undefmodel         962      // tile0962 (fence)
+undefmodel         969      // tile0969 hydroplant
+undefmodel         976      // tile0976 (ventshaft)
 undefmodel         977      // tile0977 genericpole
 undefmodel         978      // tile0978 cone
 undefmodel         979      // tile0979 hanglight
 undefmodel         981      // tile0981 hydrent
+undefmodel         990      // tile0990 tire
 undefmodel         991      // tile0991 (shower head)
+undefmodel         993      // tile0993 (broken pipe)
+undefmodel         994      // tile0994 pipe5
+undefmodel         995      // tile0995 pipe6
+undefmodel         996      // tile0996 pipe4
+undefmodel         997      // tile0996 pipe4b
+undefmodel         998      // tile0998 (parkometer)
+undefmodel         999      // tile0999 (tile0998 (parkometer))
+undefmodel        1003      // tile1003 brokehydroplant
+undefmodel        1005      // tile1005 pipe5b
 undefmodel        1006      // tile1006 (barstool)
+undefmodel        1012      // tile1012 bottle5
+undefmodel        1013      // tile1013 bottle6
+undefmodel        1014      // tile1014 bottle8
+undefmodel        1022      // tile1022 hangooz
+undefmodel        1023      // tile1023 (hangooz)
+undefmodel        1025      // tile1025 bottle7 (plant)
+undefmodelrange   1026 1027 // tile1026 ****horseonside *********1028-1030
+undefmodelrange   1034 1036 // tile1034 ****horselite
 undefmodel        1037      // tile1037 (table)
+undefmodel        1038      // tile1038 (pipe)
+undefmodel        1045      // tile1045 donuts
+undefmodel        1048      // tile1048 (pipes)
+undefmodel        1049      // tile1049 (fusebox2)
 undefmodel        1051      // tile1051 (hand dryer)
 undefmodel        1052      // tile1052 (towel dispenser)
 undefmodel        1053      // tile1053 (toilet roll holder)
+undefmodelrange   1055 1056 // tile1056 ****(film reel)
 undefmodel        1060      // tile1060 clock
+undefmodel        1061      // tile1061 (streetlight)
+undefmodelrange   1062 1063 // tile1062 rubbercan
 undefmodel        1067      // tile1067 brokenclock
 undefmodel        1069      // tile1069 plug
+undefmodel        1073      // tile1073 lifebuoy
 undefmodel        1075      // tile1075 (painting)
 undefmodel        1076      // tile1076 (painting)
+undefmodel        1077      // tile1077 ****(joystick)
+undefmodel        1078      // tile1078 (streetlight broken)
+undefmodelrange   1079 1081 // tile1079 oozfilter
+undefmodel        1157      // tile1157 bottle10
+undefmodel        1158      // tile1158 bottle11
 undefmodel        1159      // tile1159 bottle12
+undefmodel        1160      // tile1160 bottle13
 undefmodel        1161      // tile1161 bottle14
-undefmodel        1162      // tile1161 bottle15
-undefmodel        1163      // tile1161 bottle16
+undefmodel        1162      // tile1162 bottle15
+undefmodel        1163      // tile1163 bottle16
+undefmodel        1164      // tile1164 bottle17
+undefmodel        1165      // tile1165 bottle18
+undefmodel        1166      // tile1166 bottle19
+undefmodel        1221      // tile1221 ****cranepole
+undefmodelrange   1222 1224 // tile1222 ****crane
+undefmodel        1227      // tile1227 nukebarrel
+undefmodel        1228      // tile1228 nukebarreldented
+undefmodel        1229      // tile1229 nukebarrelleaked
+undefmodel        1230      // tile1230 nukebarrelbreak
+undefmodel        1232      // tile1232 canwithsomething
+undefmodelrange   1233 1235 // tile1233 ****money
 undefmodel        1238      // tile1238 explodingbarrel
+undefmodel        1240      // tile1240 firebarrel
+undefmodel        1241      // tile1241 (tile1240 firebarrel)
+undefmodel        1242      // tile1242 (tile1240 firebarrel)
+undefmodel        1243      // tile1243 (tile1240 firebarrel)
 undefmodel        1247      // tile1247 seenine
+undefmodel        1260      // tile0995 pipe6b
+undefmodelrange   1267 1270 // tile1267 rat ?????????????????????? 1271 !
+undefmodelrange   1337 1338 // tile1337 helicopter
+undefmodel        1340      // tile1340 (helicopter scrap)
+undefmodel        1341      // tile1341 (helicopter scrap)
+undefmodel        1342      // tile1342 (helicopter scrap)
+undefmodel        1343      // tile1343 (helicopter scrap)
+undefmodel        1344      // tile1344 (helicopter scrap)
+undefmodel        1345      // tile1345 (tile1337 (helicopter))
+undefmodel        1346      // tile1346 helecopt
+undefmodel        1353      // tile1353 spacemarine
+undefmodelrange   1390 1393 // tile1390 firevase
+undefmodelrange   1810 1816 // tile1810 cannon
+undefmodel        1817      // tile1817 cannonball
+undefmodel        1818      // tile1818 cannonballpile
+undefmodel        2200      // tile2200 feces
+undefmodel        3400      // tile3400 blimp
+undefmodel        3418      // tile3418 (truck mirror)
+undefmodel        4359      // tile4359 target
+undefmodel        4360      // tile4360 gunpowderbarrel
+undefmodel        4361      // tile4361 duck
+undefmodel        4363      // tile4363 (combat knife)
+undefmodel        4367      // tile4367 hatrack
 undefmodel        4370      // tile4370 desklamp
+undefmodel        4372      // tile4372 coffeemachine
 undefmodel        4373      // tile4373 cups
+undefmodel        4374      // tile4374 gavals (hammer)
+undefmodel        4377      // tile4377 policelightpole
+undefmodel        4386      // tile4386 (power line)
+undefmodel        4387      // tile4387 (tabletop)
+undefmodel        4388      // tile4388 floorbasket
+undefmodel        4400      // tile4400 ****teddybear
+undefmodel        4406      // tile4406 ****(steering wheel)
+undefmodelrange   4407 4408 // tile4407 robotmouse
+undefmodelrange   4410 4412 // tile4410 ****mail
+undefmodel        4413      // tile4413 mailbag
+undefmodel        4416      // tile4416 (jeepmirror)
+undefmodel        4417      // tile4417 (busmirror)
+undefmodel        4419      // tile4419 (openbomb)
+undefmodel        4426      // tile4426 ****(ten-pin)
 undefmodel        4429      // tile4429 (tile0913 maskwall2 (fence))
 undefmodel        4438      // tile4438 coffeemug
+undefmodel        4440      // tile4440 donuts2
+undefmodel        4441      // tile4441 (J.McClain)
+undefmodel        4442      // tile4442 (H.Callahan)
+undefmodel        4443      // tile4443 (flag)
+undefmodel        4444      // tile4444 tripodcamera
+undefmodel        4446      // tile4446 (ball and chain)
+undefmodel        4454      // tile4454 deskphone
+undefmodel        4457      // tile4457 (rope)
+undefmodel        4458      // tile4458 gumballmachine
+undefmodel        4459      // tile4459 gumballmachinebroke
+undefmodel        4463      // tile4463 (bone)
 undefmodel        4464      // tile4464 mace
+undefmodel        4465      // tile4465 genericpole2
+undefmodel        4466      // tile4466 ****(washington)
+undefmodel        4467      // tile4467 ****(lincoln)
+undefmodel        4468      // tile4468 ****(jefferson)
+undefmodel        4469      // tile4469 ****(jackson)
+undefmodel        4473      // tile4473 ****(J.Dredd)
+undefmodelrange   4480 4482 // tile4480 ****(broken cable)
+undefmodel        4496      // tile4496 broom
+undefmodel        4497      // tile4497 ****mop
+undefmodel        4524      // tile4524 (steed's gear)
+undefmodel        4533      // tile4533 foodobject4
+undefmodel        4536      // tile4536 foodobject7
+undefmodel        4537      // tile4537 foodobject8
+undefmodel        4538      // tile4538 foodobject9
+undefmodel        4539      // tile4539 foodobject10
 undefmodel        4540      // tile4540 foodobject11 (burger)
 undefmodel        4541      // tile4541 foodobject12
 undefmodel        4542      // tile4542 foodobject13
+undefmodel        4543      // tile4543 foodobject14
+undefmodel        4544      // tile4544 foodobject15
+undefmodel        4545      // tile4545 foodobject16
 undefmodel        4546      // tile4546 foodobject17
 undefmodel        4547      // tile4547 foodobject18
 undefmodel        4548      // tile4548 foodobject19
+undefmodel        4549      // tile4549 foodobject20
+undefmodel        4550      // tile4550 headlamp
+undefmodel        4552      // tile4552 (worms)
+undefmodel        4554      // tile4554 ****chicken1
+undefmodel        4555      // tile4555 ****chicken2
+undefmodel        4567      // tile4567 icicles
 undefmodel        4569      // tile4569 jollymeal
-undefmodel        4885      // tile4885 (steering wheel)
+undefmodel        4576      // tile4576 shoppingcart
+undefmodel        4583      // tile4583 (pipe)
+undefmodel        4585      // tile4585 (valve)
+undefmodel        4586      // tile4586 (pipe)
+undefmodel        4587      // tile4587 (pipe)
+undefmodel        4588      // tile4588 ****sign
+undefmodel        4580      // tile4580 canwithsomething2
+undefmodel        4581      // tile4581 canwithsomething3
+undefmodel        4582      // tile4582 canwithsomething4
+undefmodel        4878      // tile4878 ****(dog painting)
+undefmodel        4879      // tile4879 ****(dog painting)
+undefmodel        4885      // tile4885 ****(steering wheel)
+undefmodel        4887      // tile4887 ****pleasewait
+undefmodel        4943      // tile4943 juryguy
+undefmodel        4946      // tile4946 (baseball bat)
+
 
 // Signs
+
 undefmodel         716      // tile0716 waittobeseated
+undefmodel         728      // tile0728 (federal loan and trust sign)
+undefmodel         925      // tile0925 neon1 (cinema)
+undefmodel         926      // tile0926 neon2 (motel)
+undefmodel         937      // tile0937 (forbidden v & b sign)
+undefmodel         938      // tile0938 (san andreas fault sign)
 undefmodel         961      // tile0961 (exit sign)
-// undeftexturerange 1009 1011 // tile1009 neon5
+undefmodel        1007      // tile1007 neon3
+undefmodel        1008      // tile1008 neon4
+//undeftexturerange 1009 1011 // tile1009 neon5
 undefmodelrange   1009 1011 // tile1009 neon5
+undefmodel        1046      // tile1046 neon6
+undefmodel        1210      // tile1210 (guilty sign)
+undefmodel        1211      // tile1211 (innocent sign)
+undefmodel        1172      // tile1172 (secured area sign)
+undefmodel        4371      // tile4371 (certificate sign)
 undefmodel        4495      // tile4495 wetfloor
+undefmodel        4537      // tile4537 foodobject8
+undefmodel        4538      // tile4538 foodobject9
+undefmodel        4539      // tile4539 foodobject10
+undefmodel        4589      // tile4589 (warning sign)
+undefmodel        4891      // tile4891 (we stor your crap sign)
+undefmodel        4930      // tile4930 (e pluribus nukem sign)
+undefmodel        4956      // tile4956 (funny boner sign)
+
 
 // Switches
+
 undefmodelrange    130  131 // tile0130 accessswitch
 undefmodelrange    132  133 // tile0132 slotdoor
 undefmodelrange    134  135 // tile0134 lightswitch
@@ -112,6 +379,8 @@ undefmodelrange    712  713 // tile0712 lightswitch2
 undefmodelrange    860  861 // tile0860 powerswitch1
 undefmodelrange    862  863 // tile0862 lockswitch1
 undefmodelrange    864  865 // tile0864 powerswitch2
+undefmodelrange   1111 1112 // tile1111 handswitch
 undefmodelrange   1122 1123 // tile1122 pullswitch
+undefmodelrange   1142 1143 // tile1142 alienswitch
 undefmodel        4483      // tile4483 (tile0164 dipswitch2 broken)
 undefmodel        4954      // tile4954 (tile0860 powerswitch1 broken)
