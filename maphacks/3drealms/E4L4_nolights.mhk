@@ -131,7 +131,6 @@ sprite   726 angoff    -256        // tile0052 sixpack
 sprite   725 angoff    -512        // tile0041 batteryammo
 sprite   725 roll      -160        // tile0041 batteryammo
 sprite   700 angoff     512        // tile0051 cola
-sprite   528 angoff     640        // tile4520 chestofgold
 sprite   528 roll      -1          // tile4520 chestofgold
 sprite   528 mdzoff     1250000    // tile4520 chestofgold
 sprite   229 angoff    -384        // tile0025 shrinkersprite
