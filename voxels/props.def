@@ -200,6 +200,8 @@ voxel "voxels/props/1079_oozefilter1.kvx" { tile 1079 }
 voxel "voxels/props/1080_oozefilter2.kvx" { tile 1080 }
 voxel "voxels/props/1081_oozefilter3.kvx" { tile 1081 }
 
+voxel "voxels/props/1115_alien_panel.kvx" { tile 1115 }
+
 voxel "voxels/props/1157_moneyjar.kvx" { tile 1157 }
 voxel "voxels/props/1158_bottle11.kvx" { tile 1158 }
 voxel "voxels/props/1159_bottle12.kvx" { tile 1159 }
