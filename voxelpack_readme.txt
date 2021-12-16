@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Oct 31, 2021
+Release Date: Dec 16, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -224,7 +224,7 @@ Contributions by:
      - 1069 ............................. Plug
      - 4373 ............................. Cups
 
-> Dzierzan (131)
+> Dzierzan (132)
      - 160 .............................. Door shock
      - 487 .............................. Space shuttle
      - 489 .............................. Satellite
@@ -260,6 +260,7 @@ Contributions by:
      - 1038 ............................. Horizontal pipe
      - 1055/1056 ........................ Camera rolls
      - 1077 ............................. Joystick
+     - 1115 ............................. Alien panel
      - 1157 ............................. Money jar
      - 1221 ............................. Crane pole
      - 1222-1224 ........................ Claw crane
@@ -385,7 +386,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Oct 31, 2021)
+Version 2.0 RC2 (Dec 16, 2021)
 ------------------------------
 > Added:
      + Raze support (including automatic voxel loading for Duke Caribbean)
@@ -395,8 +396,8 @@ Version 2.0 RC2 (Oct 31, 2021)
               768/769/774/792/851 (sushi plates), 927 (traffic light), 976 (air vent), 993 (damaged pole), 
               998/999 (parking meter), 1022-1023 (green goo), 1026 (wooden horse fallen), 
               1034-1036 (construction site warning lamp), 1038 (horizontal pipe), 1055/1056 (camera rolls), 
-              1077 (joystick), 1157 (money jar), 1221 (crane pole), 1222-1224 (claw crane), 1233-1235 (money), 
-              1337-1338 (heli running), 1340-1342 (heli debris), 1343 (broken wheel), 1344 (propeller), 
+              1077 (joystick), 1115 (alien panel), 1157 (money jar), 1221 (crane pole), 1222-1224 (claw crane), 
+              1233-1235 (money), 1337-1338 (heli running), 1340-1342 (heli debris), 1343 (broken wheel), 1344 (propeller), 
               1345 (heli parking), 1346 (heli crashing), 3400 ("Duf Beer" blimp), 3418 (side mirror), 4359 (target), 
               4361 (duck), 4363 (knife), 4374/4375 (gavel), 4386 (pipe), 4400 (teddy bear), 4406 (steering wheel), 
               4410-4412 (letter), 4413 (mail bag), 4416/4417 (side mirror), 4419 (broken pipebomb), 
