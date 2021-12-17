@@ -311,7 +311,6 @@ voxel "voxels/props/4444_vhscamera.kvx" { tile 4444 }
 voxel "voxels/props/4446_prisonball.kvx" { tile 4446 }
 
 voxel "voxels/props/4453_meter.kvx" { tile 4453 }
-
 voxel "voxels/props/4454_deskphone.kvx" { tile 4454 }
 voxel "voxels/props/4457_rope.kvx" { tile 4457 }
 voxel "voxels/props/4458_gumballmachine1.kvx" { tile 4458 }
@@ -336,7 +335,6 @@ voxel "voxels/props/4496_broom.kvx" { tile 4496 }
 voxel "voxels/props/4497_mop.kvx" { tile 4497 }
 
 voxel "voxels/props/4520_treasurechest.kvx" { tile 4520 }
-
 voxel "voxels/props/4524_steedhooks.kvx" { tile 4524 }
 
 voxel "voxels/props/4533_kitchenobject.kvx" { tile 4533 }

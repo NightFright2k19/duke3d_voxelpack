@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Dec 16, 2021
+Release Date: Dec 17, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -224,7 +224,7 @@ Contributions by:
      - 1069 ............................. Plug
      - 4373 ............................. Cups
 
-> Dzierzan (132)
+> Dzierzan (134)
      - 160 .............................. Door shock
      - 487 .............................. Space shuttle
      - 489 .............................. Satellite
@@ -291,6 +291,7 @@ Contributions by:
      - 4426 ............................. Bowling pin
      - 4441/4442/4473 ................... "McClain"/"Callahan"/"Dredd" name tags
      - 4446 ............................. Prison ball
+     - 4453 ............................. Meter
      - 4457 ............................. Rope
      - 4463 ............................. Bone
      - 4465 ............................. Generic pole
@@ -298,6 +299,7 @@ Contributions by:
      - 4480-4482 ........................ Damaged wires
      - 4496 ............................. Broom
      - 4497 ............................. Mop
+     - 4520 ............................. Treasure chest
      - 4533 ............................. Kitchen object
      - 4543-4545 ........................ Burgers (Foodobject14-16)
      - 4549 ............................. Burger wrapper (Foodobject20)
@@ -386,7 +388,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Dec 16, 2021)
+Version 2.0 RC2 (Dec 17, 2021)
 ------------------------------
 > Added:
      + Raze support (including automatic voxel loading for Duke Caribbean)
@@ -401,18 +403,18 @@ Version 2.0 RC2 (Dec 16, 2021)
               1345 (heli parking), 1346 (heli crashing), 3400 ("Duf Beer" blimp), 3418 (side mirror), 4359 (target), 
               4361 (duck), 4363 (knife), 4374/4375 (gavel), 4386 (pipe), 4400 (teddy bear), 4406 (steering wheel), 
               4410-4412 (letter), 4413 (mail bag), 4416/4417 (side mirror), 4419 (broken pipebomb), 
-              4441/4442/4473 (McClain/Callahan/Dredd name tags), 4446 (prison ball), 4463 (bone), 4465 (generic pole), 
-              4466-4469 (president paintings), 4480-4482 (damaged wires), 4497 (mop), 4533 (kitchen object), 
-              4543-4545 (foodobject14-16), 4549 (burger wrapper), 4554/4555 (chicken), 4567 (icicles), 4583 (pipe), 
-              4585 (valve), 4586/4587 (thin pipe), 4588 (sign), 4878/4879 (dog paintings), 4887 ("Please Wait"), 
-              4943 (hung jury), 4946 (baseball bat), 5384 (lamp), 5435 (mailbox), 5436 (lamp), 5675 (bollard), 
-              5679 (bridge lamp #1), 5680 (bridge lamp #2)
+              4441/4442/4473 (McClain/Callahan/Dredd name tags), 4446 (prison ball), 4453 (meter), 4463 (bone), 
+              4465 (generic pole), 4466-4469 (president paintings), 4480-4482 (damaged wires), 4497 (mop), 
+              4520 (treasure chest), 4533 (kitchen object), 4543-4545 (foodobject14-16), 4549 (burger wrapper), 
+              4554/4555 (chicken), 4567 (icicles), 4583 (pipe), 4585 (valve), 4586/4587 (thin pipe), 4588 (sign), 
+              4878/4879 (dog paintings), 4887 ("Please Wait"), 4943 (hung jury), 4946 (baseball bat), 5384 (lamp), 
+              5435 (mailbox), 5436 (lamp), 5675 (bollard), 5679 (bridge lamp #1), 5680 (bridge lamp #2)
 
 > Updated:
      + World Tour maphacks fixed (references to non-existing files corrected)
      + Maphacks: E1L2 (#1007 neon3), E2L2 (#489 satellite), E2L3 (#602 solar panel), E2L9 (#489 satellite), E2L10 (#489 satellite), 
                  E3L1 (#753 geisha statue, #716 "Please Wait" removed), E3L5 (#1346 helicopter), E3L7 (#3418 sidemirror), 
-                 E4L2 (#4567 icicles), E4L3 (#4887 "Please Wait"), E4L4 (#4554/4555 chicken), 
+                 E4L2 (#4567 icicles), E4L3 (#4887 "Please Wait"), E4L4 (#4520 treasure chest, #4554/4555 chicken), 
                  E4L5 (#4441/4442/4473 name tags, #4444 tripod cam), E4L6 (#3418 sidemirror), E4L7 (#4554/4555 chicken)
      + Monsters: Turret (#2350) activated in monsters.def
      + Props: 487 (space shuttle), 572/991 (shower part), 716 ("Please Wait To Be Seated"), 779 (sushi plate), 978 (traffic cone), 
