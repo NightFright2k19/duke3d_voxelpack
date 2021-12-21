@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Dec 17, 2021
+Release Date: Dec 21, 2021
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -224,7 +224,7 @@ Contributions by:
      - 1069 ............................. Plug
      - 4373 ............................. Cups
 
-> Dzierzan (134)
+> Dzierzan (136)
      - 160 .............................. Door shock
      - 487 .............................. Space shuttle
      - 489 .............................. Satellite
@@ -246,6 +246,8 @@ Contributions by:
      - 688 .............................. Movie clapper
      - 716 .............................. "Please Wait To Be Seated" sign
      - 768/769/774/779/792/851 .......... Sushi plates
+     - 974 .............................. Green algae
+     - 975 .............................. Red algae
      - 976 .............................. Air vent
      - 978 .............................. Traffic cone
      - 993 .............................. Damaged pole
@@ -388,15 +390,15 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Dec 17, 2021)
+Version 2.0 RC2 (Dec 21, 2021)
 ------------------------------
 > Added:
      + Raze support (including automatic voxel loading for Duke Caribbean)
      + Props: 160 (door shock), 479 (antenna dish), 489 (satellite), 517 (gas tank), 536/537 (small pipe), 
               542 (Earth dome), 555 (small valve), 570 (soap), 578 (reactor), 602 (solar panel), 610 (pipe), 
               616-619/633/700 (grey pipes), 620 (generator), 658/659 (light), 660 (water drop), 688 (movie clapper), 
-              768/769/774/792/851 (sushi plates), 927 (traffic light), 976 (air vent), 993 (damaged pole), 
-              998/999 (parking meter), 1022-1023 (green goo), 1026 (wooden horse fallen), 
+              768/769/774/792/851 (sushi plates), 927 (traffic light), 974 (green algae), 975 (red algae), 
+              976 (air vent), 993 (damaged pole), 998/999 (parking meter), 1022-1023 (green goo), 1026 (wooden horse fallen), 
               1034-1036 (construction site warning lamp), 1038 (horizontal pipe), 1055/1056 (camera rolls), 
               1077 (joystick), 1115 (alien panel), 1157 (money jar), 1221 (crane pole), 1222-1224 (claw crane), 
               1233-1235 (money), 1337-1338 (heli running), 1340-1342 (heli debris), 1343 (broken wheel), 1344 (propeller), 
