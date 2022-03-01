@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #2)
-Release Date: Dec 21, 2021
+Release Date: Mar 1, 2022
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -390,8 +390,8 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC2 (Dec 21, 2021)
-------------------------------
+Version 2.0 RC2 (Mar 1, 2022)
+-----------------------------
 > Added:
      + Raze support (including automatic voxel loading for Duke Caribbean)
      + Props: 160 (door shock), 479 (antenna dish), 489 (satellite), 517 (gas tank), 536/537 (small pipe), 
