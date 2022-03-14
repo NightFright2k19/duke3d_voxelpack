@@ -397,6 +397,10 @@ Version 2.0 RC3 (XXX XX, 2022)
 > Added:
      + Props: 1354 (Skywalker), 2533-2535 (pistol/shotgun shells)
 
+> Updated:
+     + Props: 487 (space shuttle)
+     + Maphacks: E2L7 (#1354 Skywalker)
+
 
 Version 2.0 RC2 (Mar 1, 2022)
 -----------------------------
