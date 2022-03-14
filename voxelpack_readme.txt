@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #3)
-Release Date: XXX X, 2022
+Release Date: XXX XX, 2022
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -224,7 +224,7 @@ Contributions by:
      - 1069 ............................. Plug
      - 4373 ............................. Cups
 
-> Dzierzan (139)
+> Dzierzan (140)
      - 160 .............................. Door shock
      - 487 .............................. Space shuttle
      - 489 .............................. Satellite
@@ -269,6 +269,7 @@ Contributions by:
      - 1233-1235 ........................ Money
      - 1238 ............................. Metal barrel
      - 1267 ............................. Rat
+     - 1354 ............................. Skywalker
      - 1810 ............................. Cannon
      - 1817 ............................. Cannonball
      - 1818 ............................. Cannonballs
@@ -394,7 +395,7 @@ CHANGELOG
 Version 2.0 RC3 (XXX XX, 2022)
 ------------------------------
 > Added:
-     + Props: 2533-2535 (pistol/shotgun shells)
+     + Props: 1354 (Skywalker), 2533-2535 (pistol/shotgun shells)
 
 
 Version 2.0 RC2 (Mar 1, 2022)
