@@ -224,7 +224,7 @@ Contributions by:
      - 1069 ............................. Plug
      - 4373 ............................. Cups
 
-> Dzierzan (140)
+> Dzierzan (142)
      - 160 .............................. Door shock
      - 487 .............................. Space shuttle
      - 489 .............................. Satellite
@@ -264,6 +264,7 @@ Contributions by:
      - 1077 ............................. Joystick
      - 1115 ............................. Alien panel
      - 1157 ............................. Money jar
+     - 1174/1175 ........................ Metal bars
      - 1221 ............................. Crane pole
      - 1222-1224 ........................ Claw crane
      - 1233-1235 ........................ Money
@@ -395,7 +396,7 @@ CHANGELOG
 Version 2.0 RC3 (XXX XX, 2022)
 ------------------------------
 > Added:
-     + Props: 1354 (Skywalker), 2533-2535 (pistol/shotgun shells)
+     + Props: 1174/1175 (metal bars), 1354 (Skywalker), 2533-2535 (pistol/shotgun shells)
 
 > Updated:
      + Props: 487 (space shuttle)
