@@ -216,6 +216,9 @@ voxel "voxels/props/1164_bottle17.kvx" { tile 1164 }
 voxel "voxels/props/1165_bottle18.kvx" { tile 1165 }
 voxel "voxels/props/1166_bottle19.kvx" { tile 1166 }
 
+voxel "voxels/props/1174_bars.kvx" { tile 1174 }
+voxel "voxels/props/1175_bars_damaged.kvx" { tile 1175 }
+
 voxel "voxels/props/1221_cranepole.kvx" { tile 1221 }
 voxel "voxels/props/1222_clawcrane1.kvx" { tile 1222 }
 voxel "voxels/props/1223_clawcrane2.kvx" { tile 1223 }
