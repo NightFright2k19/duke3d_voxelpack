@@ -129,6 +129,8 @@ voxel "voxels/props/0927_trafficlight.kvx" { tile 927 }
 
 voxel "voxels/props/0939_cactusstump.kvx" { tile 939 }
 
+voxel "voxels/props/0940_mine.kvx" { tile0 940 tile1 944 rotate }
+
 voxel "voxels/props/0950_brokehydrant.kvx" { tile 950 }
 voxel "voxels/props/0951_box.kvx" { tile 951 }
 voxel "voxels/props/0954_bottle1.kvx" { tile 954 }
