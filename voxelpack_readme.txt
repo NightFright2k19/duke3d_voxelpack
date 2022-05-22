@@ -224,7 +224,7 @@ Contributions by:
      - 1069 ............................. Plug
      - 4373 ............................. Cups
 
-> Dzierzan (143)
+> Dzierzan (144)
      - 160 .............................. Door shock
      - 487 .............................. Space shuttle
      - 489 .............................. Satellite
@@ -246,6 +246,7 @@ Contributions by:
      - 688 .............................. Movie clapper
      - 716 .............................. "Please Wait To Be Seated" sign
      - 768/769/774/779/792/851 .......... Sushi plates
+     - 940-944 .......................... Mine
      - 974 .............................. Green algae
      - 975 .............................. Red algae
      - 976 .............................. Air vent
@@ -397,7 +398,7 @@ CHANGELOG
 Version 2.0 RC3 (XXX XX, 2022)
 ------------------------------
 > Added:
-     + Props: 1174/1175 (metal bars), 1225 (broken pipe), 1354 (Skywalker), 
+     + Props: 940 (mine), 1174/1175 (metal bars), 1225 (broken pipe), 1354 (Skywalker), 
               2533-2535 (pistol/shotgun shells)
 
 > Updated:
