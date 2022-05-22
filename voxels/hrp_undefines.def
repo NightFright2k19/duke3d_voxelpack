@@ -1,6 +1,6 @@
 // When using voxels on top of the HRP, undefine HRP textures and models first
 
-// Duke 3D Voxelpack rev.: 2.0.328 (tile1034)
+// Duke 3D Voxelpack rev.: 2.0.370 (tile1225)
 
 // Misc
 //undefmodelrange   2813 2819 // tile3190 spinnuke
@@ -107,8 +107,13 @@ undefmodel         606      // tile0606 (spacesuit2, dead astronaut)
 undefmodelrange    607  608 // tile0607 antenna
 undefmodel         610      // tile0610 (lightswitch pole)
 undefmodel         615      // tile0615 toiletbroke
+undefmodel         616      // tile0616 pipe2
+undefmodel         617      // tile0617 pipe1b
+undefmodel         618      // tile0618 pipe3
+undefmodel         619      // tile0619 pipe1
 undefmodel         620      // tile0620 (alternate reactor)
 undefmodelrange    621  625 // tile0621 camera1
+undefmodel         633      // tile0633 pipe2b
 undefmodel         658      // tile0658 ****(light)
 undefmodel         659      // tile0659 ****(light)
 undefmodel         660      // tile0660 waterdrip
@@ -126,6 +131,7 @@ undefmodel         694      // tile0694 pot1
 undefmodel         695      // tile0695 pot2
 undefmodel         697      // tile0697 pot3
 undefmodel         698      // tile0698 (sushi)
+undefmodel         700      // tile0700 pipe3b
 undefmodel         753      // tile0753 statue
 undefmodel         762      // tile0762 mike
 undefmodel         765      // tile0765 vase
@@ -161,6 +167,8 @@ undefmodel         956      // tile0956 bottle3
 undefmodel         957      // tile0957 bottle4
 undefmodel         962      // tile0962 (fence)
 undefmodel         969      // tile0969 hydroplant
+undefmodel         974      // tile0974 oceansprite4
+undefmodel         975      // tile0975 oceansprite5
 undefmodel         976      // tile0976 (ventshaft)
 undefmodel         977      // tile0977 genericpole
 undefmodel         978      // tile0978 cone
@@ -206,6 +214,7 @@ undefmodel        1076      // tile1076 (painting)
 undefmodel        1077      // tile1077 ****(joystick)
 undefmodel        1078      // tile1078 (streetlight broken)
 undefmodelrange   1079 1081 // tile1079 oozfilter
+undefmodel        1115      // tile1115 (alien panel)
 undefmodel        1157      // tile1157 bottle10
 undefmodel        1158      // tile1158 bottle11
 undefmodel        1159      // tile1159 bottle12
@@ -216,8 +225,11 @@ undefmodel        1163      // tile1163 bottle16
 undefmodel        1164      // tile1164 bottle17
 undefmodel        1165      // tile1165 bottle18
 undefmodel        1166      // tile1166 bottle19
+undefmodel        1174      // tile1174 maskwall7 (fence)
+undefmodel        1175      // tile1175 jailbarbreak
 undefmodel        1221      // tile1221 ****cranepole
 undefmodelrange   1222 1224 // tile1222 ****crane
+undefmodel        1225      // tile1225 barbroke
 undefmodel        1227      // tile1227 nukebarrel
 undefmodel        1228      // tile1228 nukebarreldented
 undefmodel        1229      // tile1229 nukebarrelleaked
@@ -241,11 +253,15 @@ undefmodel        1344      // tile1344 (helicopter scrap)
 undefmodel        1345      // tile1345 (tile1337 (helicopter))
 undefmodel        1346      // tile1346 helecopt
 undefmodel        1353      // tile1353 spacemarine
+undefmodel        1354      // tile1354 luke
 undefmodelrange   1390 1393 // tile1390 firevase
 undefmodelrange   1810 1816 // tile1810 cannon
 undefmodel        1817      // tile1817 cannonball
 undefmodel        1818      // tile1818 cannonballpile
 undefmodel        2200      // tile2200 feces
+undefmodel        2533      // tile2533 shell
+undefmodel        2534      // tile2534 (tile2533 shell)
+undefmodel        2535      // tile2535 shotgunshell
 undefmodel        3400      // tile3400 blimp
 undefmodel        3418      // tile3418 (truck mirror)
 undefmodel        4359      // tile4359 target
@@ -278,6 +294,7 @@ undefmodel        4442      // tile4442 (H.Callahan)
 undefmodel        4443      // tile4443 (flag)
 undefmodel        4444      // tile4444 tripodcamera
 undefmodel        4446      // tile4446 (ball and chain)
+undefmodel        4453      // tile4453 meter
 undefmodel        4454      // tile4454 deskphone
 undefmodel        4457      // tile4457 (rope)
 undefmodel        4458      // tile4458 gumballmachine
@@ -293,6 +310,7 @@ undefmodel        4473      // tile4473 ****(J.Dredd)
 undefmodelrange   4480 4482 // tile4480 ****(broken cable)
 undefmodel        4496      // tile4496 broom
 undefmodel        4497      // tile4497 ****mop
+undefmodel        4520      // tile4520 chestofgold
 undefmodel        4524      // tile4524 (steed's gear)
 undefmodel        4533      // tile4533 foodobject4
 undefmodel        4536      // tile4536 foodobject7
