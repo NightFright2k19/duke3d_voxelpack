@@ -224,7 +224,7 @@ Contributions by:
      - 1069 ............................. Plug
      - 4373 ............................. Cups
 
-> Dzierzan (144)
+> Dzierzan (145)
      - 160 .............................. Door shock
      - 487 .............................. Space shuttle
      - 489 .............................. Satellite
@@ -287,6 +287,7 @@ Contributions by:
      - 4361 ............................. Duck
      - 4363 ............................. Knife
      - 4374/4375 ........................ Gavel
+     - 4380 ............................. "Canine Burger Society" sign
      - 4386 ............................. Pipe
      - 4400 ............................. Teddy bear
      - 4406 ............................. Steering wheel
@@ -400,6 +401,7 @@ Version 2.0 RC3 (XXX XX, 2022)
 > Added:
      + Props: 940 (mine), 1174/1175 (metal bars), 1225 (broken pipe), 1354 (Skywalker), 
               2533-2535 (pistol/shotgun shells)
+     + Signs: 4380 ("Canine Burger Society")
 
 > Updated:
      + Props: 487 (space shuttle)
