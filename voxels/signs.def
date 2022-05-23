@@ -25,6 +25,8 @@ voxel "voxels/signs/1172_securedarea.kvx" { tile 1172 }
 voxel "voxels/signs/1210_guilty.kvx" { tile 1210 }
 voxel "voxels/signs/1211_innocent.kvx" { tile 1211 }
 
+voxel "voxels/signs/4380_society.kvx" { tile 4380 }
+
 voxel "voxels/signs/4891_storecrap.kvx" { tile 4891 }
 
 voxel "voxels/signs/4930_epluribus.kvx" { tile 4930 }
