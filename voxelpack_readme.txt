@@ -377,6 +377,9 @@ Contributions by:
 > Striker (1)
      - 1037 ............................. Table (original)
 
+> Other
+     - MCHDaniel ........................ Pivot fixes for Caribbean voxels (3791, 3792)
+
 
 Special thanks to:
 
@@ -405,6 +408,7 @@ Version 2.0 RC3 (XXX XX, 2022)
 
 > Updated:
      + Props: 487 (space shuttle)
+     + Vacation: Pivot fixes for 3791 (coolbox) and 3792 (radio)
      + Maphacks: E2L7 (#1354 Skywalker)
 
 
