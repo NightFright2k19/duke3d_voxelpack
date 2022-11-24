@@ -204,6 +204,9 @@ Contributions by:
      - 4954 ............................. Broken switch #2
      - 4956 ............................. "Funny Boner Comedy Club" sign
 
+> brullov (1)
+     - 1352 ............................. Hung monk
+
 > DJP (3)
      - 691 .............................. Cleaver
      - 692 .............................. Knife
@@ -402,8 +405,8 @@ CHANGELOG
 Version 2.0 RC3 (XXX XX, 2022)
 ------------------------------
 > Added:
-     + Props: 940 (mine), 1174/1175 (metal bars), 1225 (broken pipe), 1354 (Skywalker), 
-              2533-2535 (pistol/shotgun shells)
+     + Props: 940 (mine), 1174/1175 (metal bars), 1225 (broken pipe), 1352 (hung monk), 
+              1354 (Skywalker), 2533-2535 (pistol/shotgun shells)
      + Signs: 4380 ("Canine Burger Society")
 
 > Updated:

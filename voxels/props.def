@@ -257,6 +257,7 @@ voxel "voxels/props/1344_propeller.kvx" { tile 1344 }
 voxel "voxels/props/1345_helicopter3.kvx" { tile 1345 scale 1.5 }
 voxel "voxels/props/1346_helicopter4.kvx" { tile 1346 }
 
+voxel "voxels/props/1352_monk.kvx" { tile 1352 }
 voxel "voxels/props/1353_spacemarine.kvx" { tile 1353 }
 voxel "voxels/props/1354_skywalker.kvx" { tile 1354 }
 
