@@ -9,8 +9,9 @@ include voxels/signs.def
 include voxels/switches.def
 
 // DukeGDX pickups (pickups.def: no rotation, pickups_gdx.def: with rotation)
-include voxels/pickups.def
-// include voxels/pickups_gdx.def
+// include voxels/pickups.def
+include voxels/pickups_gdx.def
 
-// Duke Caribbean
+// Addons
+includeif nwinter.grp voxels/nwinter.def
 includeif vacation.grp voxels/vacation.def

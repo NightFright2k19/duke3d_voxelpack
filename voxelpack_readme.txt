@@ -408,6 +408,7 @@ Version 2.0 RC3 (XXX XX, 2022)
      + Props: 940 (mine), 1174/1175 (metal bars), 1225 (broken pipe), 1352 (hung monk), 
               1354 (Skywalker), 2533-2535 (pistol/shotgun shells)
      + Signs: 4380 ("Canine Burger Society")
+     + NWinter: 3782 (gift1), 3786 (gift2)
 
 > Updated:
      + Props: 487 (space shuttle)

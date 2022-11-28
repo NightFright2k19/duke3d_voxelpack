@@ -1,0 +1,4 @@
+// Nuclear Winter definitions
+
+include voxels/nwinter/props.def
+
