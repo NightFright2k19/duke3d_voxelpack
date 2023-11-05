@@ -20,3 +20,5 @@ include voxels/switches.def
 // Duke Caribbean
 // include voxels/vacation.def
 
+// Nuclear Winter
+// include voxels/nwinter.def
