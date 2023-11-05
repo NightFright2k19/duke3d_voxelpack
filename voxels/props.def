@@ -275,6 +275,8 @@ voxel "voxels/props/1818_cannonballs.kvx" { tile 1818 }
 
 voxel "voxels/props/2200_poo.kvx" { tile 2200 }
 
+voxel "voxels/props/2254_eyegib.kvx" { tile 2254 }
+
 voxel "voxels/props/2533_pistol_shell.kvx" { tile 2533 }
 voxel "voxels/props/2534_pistol_shell.kvx" { tile 2534 }
 voxel "voxels/props/2535_shotgun_shell.kvx" { tile 2535 }
