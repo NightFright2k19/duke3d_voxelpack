@@ -141,6 +141,7 @@ voxel "voxels/props/0957_bottle4.kvx" { tile 957 }
 voxel "voxels/props/0962_fence.kvx" { tile 962 }
 voxel "voxels/props/0969_hydroplant.kvx" { tile 969 }
 
+voxel "voxels/props/0971_coral.kvx" { tile 971 }
 voxel "voxels/props/0972_coral.kvx" { tile 972 }
 voxel "voxels/props/0974_greenalgae.kvx" { tile 974 }
 voxel "voxels/props/0975_redalgae.kvx" { tile 975 }
