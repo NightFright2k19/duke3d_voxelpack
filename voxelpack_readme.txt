@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #3)
-Release Date: XXX XX, 2022
+Release Date: XXX XX, 2023
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -227,7 +227,7 @@ Contributions by:
      - 1069 ............................. Plug
      - 4373 ............................. Cups
 
-> Dzierzan (145)
+> Dzierzan (147)
      - 160 .............................. Door shock
      - 487 .............................. Space shuttle
      - 489 .............................. Satellite
@@ -250,6 +250,7 @@ Contributions by:
      - 716 .............................. "Please Wait To Be Seated" sign
      - 768/769/774/779/792/851 .......... Sushi plates
      - 940-944 .......................... Mine
+     - 972 .............................. Coral
      - 974 .............................. Green algae
      - 975 .............................. Red algae
      - 976 .............................. Air vent
@@ -332,6 +333,9 @@ Contributions by:
      - 5679 ............................. Bridge lamp #1
      - 5680 ............................. Bridge lamp #2
 
+     Nuclear Winter:
+     - 3663 ............................. Bulb
+
 > mxrtxn (39)
      - 584 .............................. Sensor
      - 621 .............................. Security camera
@@ -402,13 +406,13 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC3 (XXX XX, 2022)
+Version 2.0 RC3 (XXX XX, 2023)
 ------------------------------
 > Added:
-     + Props: 940 (mine), 1174/1175 (metal bars), 1225 (broken pipe), 1352 (hung monk), 
-              1354 (Skywalker), 2533-2535 (pistol/shotgun shells)
+     + Props: 940 (mine), 972 (coral), 1174/1175 (metal bars), 1225 (broken pipe), 
+              1352 (hung monk), 1354 (Skywalker), 2533-2535 (pistol/shotgun shells)
      + Signs: 4380 ("Canine Burger Society")
-     + NWinter: 3782 (gift1), 3786 (gift2)
+     + NWinter: 3663 (bulb), 3782 (gift1), 3786 (gift2)
 
 > Updated:
      + Props: 487 (space shuttle)
