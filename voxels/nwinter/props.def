@@ -1,4 +1,5 @@
 // Voxel props (Nuclear Winter)
 
+voxel "voxels/nwinter/props/3663_bulb.kvx" { tile 3663 }
 voxel "voxels/nwinter/props/3782_gift1.kvx" { tile 3782 }
 voxel "voxels/nwinter/props/3786_gift2.kvx" { tile 3786 }
