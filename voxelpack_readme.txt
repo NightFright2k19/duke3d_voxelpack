@@ -419,7 +419,7 @@ Version 2.0 RC3 (XXX XX, 2023)
      + NWinter: 3663 (bulb), 3782 (gift1), 3786 (gift2)
 
 > Updated:
-     + Props: 487 (space shuttle)
+     + Props: 487 (space shuttle), 4407/4408 (annoying mouse)
      + Vacation: Pivot fixes for 3791 (coolbox) and 3792 (radio)
      + Maphacks: E2L7 (#1354 Skywalker)
 
