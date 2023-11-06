@@ -231,7 +231,7 @@ Contributions by:
      - 1069 ............................. Plug
      - 4373 ............................. Cups
 
-> Dzierzan (150)
+> Dzierzan (151)
      - 160 .............................. Door shock
      - 487 .............................. Space shuttle
      - 489 .............................. Satellite
@@ -248,6 +248,7 @@ Contributions by:
      - 610 .............................. Pipe
      - 616-619/633/700 .................. Grey pipes
      - 620 .............................. Generator
+     - 632 .............................. Pipe end
      - 658/659 .......................... Light
      - 660 .............................. Water drop
      - 688 .............................. Movie clapper
@@ -416,7 +417,7 @@ CHANGELOG
 Version 2.0 RC3 (XXX XX, 2023)
 ------------------------------
 > Added:
-     + Props: 940 (mine), 971/972 (coral), 973 (stone), 1174/1175 (metal bars), 
+     + Props: 632 (pipe end), 940 (mine), 971/972 (coral), 973 (stone), 1174/1175 (metal bars), 
               1225 (broken pipe), 1352 (hung monk), 1354 (Skywalker), 2254 (eye gib),
               2533-2535 (pistol/shotgun shells)
      + Signs: 4380 ("Canine Burger Society")
