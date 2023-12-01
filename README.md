@@ -21,7 +21,7 @@ It is meant to be used with the <a href="http://dukeworld.duke4.net/eduke32" tar
 
 - **Raze**: Drag and drop this file (duke3d_voxels.zip) on Raze.exe and select DN3D game. 
 
-Alternatively you set either absoulte or relative path in **raze_portable.ini** to **duke3d_voxels.zip** located for example in "autoload" folder, like this:
+Alternatively you set either absolute or relative path in **raze_portable.ini** to **duke3d_voxels.zip** located for example in "autoload" folder, like this:
 
 Absolute path:
 
