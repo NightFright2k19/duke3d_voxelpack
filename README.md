@@ -3,25 +3,17 @@
 # About:
 
 This pack provides voxel replacements for sprites in Duke Nukem 3D.
-It is meant to be used with the <a href="http://dukeworld.duke4.net/eduke32" target= "_blank">EDuke32</a> port, but is also compatible with <a href="http://m210.duke4.net" target= "_blank">BuildGDX</a>, <a href="https://github.com/nukeykt/NBlood/releases" target= "_blank">Rednukem</a> and <a href="https://raze.zdoom.org/about" target= "_blank">Raze</a> ports.
+Meant to be used with the <a href="http://dukeworld.duke4.net/eduke32" target= "_blank">EDuke32</a> port, but also compatible with <a href="http://m210.duke4.net" target= "_blank">BuildGDX</a>, <a href="https://github.com/nukeykt/NBlood/releases" target= "_blank">Rednukem</a> and <a href="https://raze.zdoom.org/about" target= "_blank">Raze</a>.
 
 # How to use:
 
-- **EDuke32**: Drop this file (duke3d_voxels.zip) into your EDuke32 "autoload" directory.
+- **EDuke32** / **Rednukem** / **BuildGDX**: Drop this file (duke3d_voxels.zip) into your "autoload" directory.
 
-	Be sure that the autoload option in the launcher is checked and voxels are activated in the ingame menu (Options > Display Setup > Voxels).
+  Make sure the autoload option in the launcher is checked. EDuke32/Rednukem users should also verify that voxel support is activated (ingame menu: Options > Display Setup > Voxels).
 
-- **Rednukem**: Drop this file (duke3d_voxels.zip) into your Rednukem "autoload" directory.
+- **Raze**: Drag and drop this file (duke3d_voxels.zip) onto Raze.exe and select Duke Nukem 3D as game. 
 
-	Be sure that the autoload option in the launcher is checked and voxels are activated in the ingame menu (Options > Display Setup > Voxels).
-
-- **BuildGDX**: Drop this file (duke3d_voxels.zip) into your "autoload" directory.
-
-	Be sure that the autoload option in the launcher is checked.
-
-- **Raze**: Drag and drop this file (duke3d_voxels.zip) on Raze.exe and select DN3D game. 
-
-Alternatively you set either absolute or relative path in **raze_portable.ini** to **duke3d_voxels.zip** located for example in "autoload" folder, like this:
+Alternatively you may set either an absolute or relative path in **raze_portable.ini** to **duke3d_voxels.zip** located e.g. in "autoload" folder, like this:
 
 Absolute path:
 
