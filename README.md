@@ -11,19 +11,19 @@ Meant to be used with the <a href="http://dukeworld.duke4.net/eduke32" target= "
 
   Make sure the autoload option in the launcher is checked. EDuke32/Rednukem users should also verify that voxel support is activated (ingame menu: Options > Display Setup > Voxels).
 
-- **Raze**: Drag and drop this file (duke3d_voxels.zip) onto Raze.exe and select Duke Nukem 3D as game. 
+- **Raze**: Drag and drop this file (duke3d_voxels.zip) onto Raze.exe and select Duke Nukem 3D as game.
 
-Alternatively you may set either an absolute or relative path in **raze_portable.ini** to **duke3d_voxels.zip** located e.g. in "autoload" folder, like this:
+  Alternatively you may set either an absolute or relative path in **raze_portable.ini** to **duke3d_voxels.zip** located e.g. in "autoload" folder, like this:
 
-Absolute path:
+  Absolute path:
 
-	[Duke.Autoload]
-	Path=C:\Games\Raze\autoload\duke3d_voxels.zip
+  [Duke.Autoload]
+  Path=C:\Games\Raze\autoload\duke3d_voxels.zip
 
-Relative path:
+  Relative path:
 
-	[Duke.Autoload]
-	Path=autoload\duke3d_voxels.zip
+  [Duke.Autoload]
+  Path=autoload\duke3d_voxels.zip
 
 # Voxel artists:
 
