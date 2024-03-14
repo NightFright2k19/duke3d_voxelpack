@@ -4,17 +4,14 @@ var temp1 0 0
 var temp2 0 0
 var SpriteShouldRotate 0 2
 
-define FLAMETHROWERSPRITE 5134
-define FLAMETHROWERAMMO   5135
-
 onevent EVENT_SPAWN
 	switch sprite[THISACTOR].picnum
 		case AMMO
 		case BATTERYAMMO
 		case CRYSTALAMMO
 		case DEVISTATORAMMO
-		case FLAMETHROWERSPRITE
-		case FLAMETHROWERAMMO
+		case 5134 // FLAMETHROWERSPRITE (WT)
+		case 5135 // FLAMETHROWERAMMO (WT)
 		case FREEZEAMMO
 		case GROWAMMO
 		case HBOMBAMMO
