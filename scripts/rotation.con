@@ -1,55 +1,60 @@
 // Hendricks266's voxel rotation code
 
-gamevar temp1 0 0
-gamevar temp2 0 0
-gamevar SpriteShouldRotate 0 2
+var temp1 0 0
+var temp2 0 0
+var SpriteShouldRotate 0 2
+
+define FLAMETHROWERSPRITE 5134
+define FLAMETHROWERAMMO   5135
 
 onevent EVENT_SPAWN
-    switch sprite[THISACTOR].picnum
-       case AMMO
-       case BATTERYAMMO
-       case CRYSTALAMMO
-       case DEVISTATORAMMO
-       case FREEZEAMMO
-       case GROWAMMO
-       case HBOMBAMMO
-       case RPGAMMO
-       case SHOTGUNAMMO
-       case ACCESSCARD
-       case AIRTANK
-       case BOOTS
-       case CHAINGUNSPRITE
-       case COLA
-       case DEVISTATORSPRITE
-       case FIRSTAID
-       case FIRSTGUNSPRITE
-       case FREEZESPRITE
-       case GROWSPRITEICON
-       case HEATSENSOR
-       case HOLODUKE
-       case JETPACK
-       case RPGSPRITE
-       case SHIELD
-       case SHOTGUNSPRITE
-       case SHRINKERSPRITE
-       case SIXPAK
-       case STEROIDS
-       case TRIPBOMBSPRITE
-            orvar SpriteShouldRotate 1
-            getactor[THISACTOR].mdflags temp1
-            orvar temp1 16
-            setactor[THISACTOR].mdflags temp1
-        break
-    endswitch
+	switch sprite[THISACTOR].picnum
+		case AMMO
+		case BATTERYAMMO
+		case CRYSTALAMMO
+		case DEVISTATORAMMO
+		case FLAMETHROWERSPRITE
+		case FLAMETHROWERAMMO
+		case FREEZEAMMO
+		case GROWAMMO
+		case HBOMBAMMO
+		case RPGAMMO
+		case SHOTGUNAMMO
+		case ACCESSCARD
+		case AIRTANK
+		case BOOTS
+		case CHAINGUNSPRITE
+		case COLA
+		case DEVISTATORSPRITE
+		case FIRSTAID
+		case FIRSTGUNSPRITE
+		case FREEZESPRITE
+		case GROWSPRITEICON
+		case HEATSENSOR
+		case HOLODUKE
+		case JETPACK
+		case RPGSPRITE
+		case SHIELD
+		case SHOTGUNSPRITE
+		case SHRINKERSPRITE
+		case SIXPAK
+		case STEROIDS
+		case TRIPBOMBSPRITE
+            		orvar SpriteShouldRotate 1
+            		getactor[THISACTOR].mdflags temp1
+            		orvar temp1 16
+            		setactor[THISACTOR].mdflags temp1
+        	break
+    	endswitch
 endevent
 
 onevent EVENT_ANIMATESPRITES
-    ifvarand SpriteShouldRotate 1
-    {
-        getactor[THISACTOR].ang temp1
-        setvarvar temp2 totalclock
-        shiftvarl temp2 2
-        addvarvar temp1 temp2
-        settspr[THISACTOR].tsprang temp1
-    }
+	ifvarand SpriteShouldRotate 1
+    	{
+        	getactor[THISACTOR].ang temp1
+        	set temp2 totalclock
+        	shiftvarl temp2 2
+        	add temp1 temp2
+        	settspr[THISACTOR].tsprang temp1
+    	}
 endevent

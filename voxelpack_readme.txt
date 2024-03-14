@@ -13,38 +13,19 @@ ABOUT
 ============================================================================================
 
 This pack provides voxel replacements for sprites in Duke Nukem 3D.
-It is meant to be used with the EDuke32 port, but is also compatible with BuildGDX, RedNukem and Raze ports.
+It is meant to be used with the EDuke32 port, but is also compatible with BuildGDX.
 
 
 ============================================================================================
 HOW TO USE
 ============================================================================================
 
---- EDuke32: Drop this file (duke3d_voxels.zip) into your EDuke32 "autoload" directory.
+- EDuke32: Drop this file (duke3d_voxels.zip) into your EDuke32 "autoload" directory.
+	   Be sure that the autoload option in the launcher is checked and voxels 
+           are activated in the ingame menu (Options > Display Setup > Voxels).
 
-     Be sure that the autoload option in the launcher is checked and voxels are activated in the ingame menu (Options > Display Setup > Voxels).
-
---- Rednukem: Drop this file (duke3d_voxels.zip) into your Rednukem "autoload" directory.
-
-     Be sure that the autoload option in the launcher is checked and voxels are activated in the ingame menu (Options > Display Setup > Voxels).
-
---- BuildGDX: Drop this file (duke3d_voxels.zip) into your "autoload" directory.
-
-     Be sure that the autoload option in the launcher is checked.
-
---- Raze: Drag and drop this file (duke3d_voxels.zip) on Raze.exe and select DN3D game. 
-
-Alternatively you set either absolute or relative path in **raze_portable.ini** to **duke3d_voxels.zip** located for example in "autoload" folder, like this:
-
-Absolute path:
-
-     [Duke.Autoload]
-     Path=C:\Games\Raze\autoload\voxelpack.zip
-
-Relative path (the folder "autoload" must be located in the same directory where Raze executable is located)
-
-     [Duke.Autoload]
-     Path=autoload\voxelpack.zip
+- BuildGDX: Drop this file (duke3d_voxels.zip) into your "autoload" directory.
+            Be sure that the autoload option in the launcher is checked.
 
 
 ============================================================================================
@@ -56,7 +37,7 @@ NOTES
    possible, but regarding style, the packs are not meant to be used together. 
 
 2) All of the voxel pack must be contained in a zip file, if it is not inside of a 
-   zipfile, any port will not run the voxel pack.
+   zipfile, EDuke32 will not run the voxel pack.
 
 3) As of now, Polymer does not support voxels.
 
@@ -88,12 +69,6 @@ LINKS
 
 > BuildGDX port:
   https://m210.duke4.net
-
-> Rednukem port:
-  https://github.com/nukeykt/NBlood
-
-> Raze port:
-  https://raze.zdoom.org/about
 
 
 ============================================================================================
@@ -449,6 +424,7 @@ Version 2.0 RC3 (XXX XX, 2023)
      + NWinter: 3663 (bulb), 3782 (gift1), 3786 (gift2)
 
 > Updated:
+     + rotation.con: Added World Tour's Incinerator and ammo
      + Props: 487 (space shuttle), 4407/4408 (annoying mouse)
      + Vacation: Pivot fixes for 3791 (coolbox) and 3792 (radio)
      + Maphacks: E2L7 (#1354 Skywalker)
