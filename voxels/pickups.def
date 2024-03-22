@@ -60,3 +60,10 @@ voxel "voxels/pickups/1348_holoduke1.kvx" { tile 1348 }
 voxel "voxels/pickups/1349_holoduke2.kvx" { tile 1349 }
 voxel "voxels/pickups/1350_holoduke3.kvx" { tile 1350 }
 voxel "voxels/pickups/1351_holoduke4.kvx" { tile 1351 }
+
+voxel "voxels/pickups/5134_incinerator.kvx" { tile 5134 }
+
+animtilerange 5135 5137 2 2
+voxel "voxels/pickups/5135_incineratorammo1.kvx" { tile 5135 }
+voxel "voxels/pickups/5136_incineratorammo2.kvx" { tile 5136 }
+voxel "voxels/pickups/5137_incineratorammo3.kvx" { tile 5137 }
