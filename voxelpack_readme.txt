@@ -432,6 +432,7 @@ Version 2.0 RC3 (XXX XX, 2023)
 
 > Updated:
      + rotation.con: Added World Tour's Incinerator and ammo
+     + Pickups: Fixed 14 incorrectly colored pixels of 60 (access card)
      + Props: 487 (space shuttle), 4407/4408 (annoying mouse)
      + Vacation: Pivot fixes for 3791 (coolbox) and 3792 (radio)
      + Maphacks: E2L7 (#1354 Skywalker)
