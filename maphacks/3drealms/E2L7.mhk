@@ -225,7 +225,7 @@ sprite   107 mdzoff     400000     // tile0041 batteryammo
 sprite   145 angoff     512        // tile0044 rpgammo
 sprite   146 angoff    -640        // tile0046 crystalammo
 sprite   147 angoff     192        // tile0025 shrinkersprite
-sprite   231 angoff     412        // tile1354 luke
+sprite   231 angoff     0          // tile1354 luke
 sprite   128 angoff     896        // tile0057 jetpack
 sprite   144 angoff     1024       // tile0041 batteryammo
 sprite   144 pitch      1          // tile0041 batteryammo

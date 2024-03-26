@@ -108,15 +108,12 @@ sprite   291 pitch     -1          // tile0029 devistatorsprite
 sprite   291 mdzoff     700000     // tile0029 devistatorsprite
 sprite    76 angoff     512        // tile0057 jetpack (multiplayer)
 sprite   292 angoff    -512        // tile0060 accesscard [red]
-sprite   143 angoff    -384        // tile0607 antenna (VP edit)
+sprite   143 angoff    -128        // tile0607 antenna
 sprite   297 angoff     256        // tile0042 devistatorammo
 sprite   427 angoff    -128        // tile0028 shotgunsprite
 sprite   364 angoff     1024       // tile0023 rpgsprite
 sprite   399 angoff     768        // tile0052 sixpack
 sprite   400 angoff     768        // tile0052 sixpack
-// Voxel Pack additions
-sprite   352 mdposxoff  -70        // tile3418 sidemirror
-sprite   353 mdposxoff   70        // tile3418 sidemirror
 
 
 // LIGHTS

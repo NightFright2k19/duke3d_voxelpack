@@ -23,7 +23,7 @@ sprite     7 angoff     1024       // tile0023 rpgsprite
 sprite     7 pitch      1          // tile0023 rpgsprite
 sprite     7 mdzoff     500000     // tile0023 rpgsprite
 sprite    98 angoff     1024       // tile0051 cola
-sprite   285 angoff     1024        // tile0489 satellite
+sprite   285 angoff     128        // tile0489 satellite
 sprite    97 angoff    -512        // tile0042 devistatorammo
 sprite    36 angoff     512        // tile0049 shotgunammo
 sprite    36 pitch     -1          // tile0049 shotgunammo

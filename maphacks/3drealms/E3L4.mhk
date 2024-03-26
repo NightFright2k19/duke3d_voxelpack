@@ -61,7 +61,6 @@ sprite   142 angoff     896        // tile1358 fetus
 sprite   394 angoff     896        // tile1358 fetus
 sprite   393 notmd                 // tile0665 (surgical tools)
 sprite   244 angoff     512        // tile0055 steroids
-sprite   395 angoff     -768       // tile0678 scale (VP addition)
 sprite   395 pitch      1          // tile0678 scale
 sprite   395 mdzoff     500000     // tile0678 scale
 sprite   257 angoff     512        // tile0669 vacuum

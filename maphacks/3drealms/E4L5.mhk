@@ -112,8 +112,7 @@ sprite   462 pitch      1          // tile0693 (knife)
 sprite   462 mdxoff     1000       // tile0693 (knife)
 sprite   191 notmd                 // tile4448 (handcuffs)
 //sprite   772 notmd                 // tile4455 (catonine)
-sprite   143 angoff    -512        // tile4444 tripodcamera
-sprite   464 angoff    -384        // tile4444 tripodcamera
+sprite   464 angoff    -896        // tile4444 tripodcamera
 sprite    75 notmd                 // tile0164 dipswitch2
 sprite   196 angoff     512        // tile0027 tripbombsprite
 sprite   197 angoff     512        // tile0027 tripbombsprite
@@ -238,13 +237,6 @@ sprite   171 angoff     768        // tile0557 chair2
 sprite   787 angoff    -256        // tile4443 (flag)
 sprite   186 pitch     -1          // tile0142 nukebutton
 sprite   186 mdxoff     5000       // tile0142 nukebutton
-// Voxel Pack additions
-// sprite   83 angoff      1024       // tile4443 (flag)
-sprite   246 angoff    -576 	   // tile4442 (Callahan name tag)
-sprite   247 angoff     920 	   // tile4441 (McClain name tag)
-sprite   477 angoff    -512        // tile4377 policelightpole
-sprite   478 angoff    -512        // tile4377 policelightpole
-sprite   829 angoff    -840 	   // tile4473 (Dredd name tag)
 
 
 // LIGHTS

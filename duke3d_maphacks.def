@@ -1,4 +1,4 @@
-echo "Duke3D Maphacks r710"
+echo "Duke3D Maphacks r729"
 
 // Maphacks for official Duke3D levels
 include maphacks/3drealms_mhk.def

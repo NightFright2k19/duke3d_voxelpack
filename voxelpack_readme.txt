@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #3)
-Release Date: XXX XX, 2023
+Release Date: XXX XX, 2024
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -420,7 +420,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC3 (XXX XX, 2023)
+Version 2.0 RC3 (XXX XX, 2024)
 ------------------------------
 > Added:
      + Pickups: 5134-5137 (WT Incinerator + ammo, taken from StrikerDM)
@@ -432,7 +432,7 @@ Version 2.0 RC3 (XXX XX, 2023)
 
 > Updated:
      + rotation.con: Added World Tour's Incinerator and ammo
-     + Pickups: Fixed 22 incorrectly colored pixels of 60 (access card)
+     + Pickups: 60 (access card - fixed 22 skin pixels)
      + Props: 487 (space shuttle), 4407/4408 (annoying mouse)
      + Vacation: Pivot fixes for 3791 (coolbox) and 3792 (radio)
      + Maphacks: E2L7 (#1354 Skywalker)

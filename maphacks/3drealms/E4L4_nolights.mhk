@@ -68,12 +68,12 @@ sprite   238 angoff    -512        // tile0023 rpgsprite
 sprite   288 angoff     768        // tile0916 fireext
 sprite   288 pitch     -1          // tile0916 fireext
 sprite   288 mdzoff     350000     // tile0916 fireext
-sprite   353 angoff     150        // tile4400 teddybear
-sprite   350 angoff     100        // tile4400 teddybear
+sprite   353 angoff    -184        // tile4400 teddybear
+sprite   350 angoff    -384        // tile4400 teddybear
 sprite   350 roll      -1          // tile4400 teddybear
 sprite   350 mdzoff     500000     // tile4400 teddybear
-sprite   351 angoff     50         // tile4400 teddybear
-sprite   352 angoff     128        // tile4400 teddybear
+sprite   351 angoff    -640        // tile4400 teddybear
+sprite   352 angoff    -224        // tile4400 teddybear
 sprite   214 angoff     256        // tile0059 heatsensor
 sprite   214 pitch      128        // tile0059 heatsensor
 sprite   214 roll       64         // tile0059 heatsensor
@@ -131,6 +131,7 @@ sprite   726 angoff    -256        // tile0052 sixpack
 sprite   725 angoff    -512        // tile0041 batteryammo
 sprite   725 roll      -160        // tile0041 batteryammo
 sprite   700 angoff     512        // tile0051 cola
+sprite   528 angoff     640        // tile4520 chestofgold
 sprite   528 roll      -1          // tile4520 chestofgold
 sprite   528 mdzoff     1250000    // tile4520 chestofgold
 sprite   229 angoff    -384        // tile0025 shrinkersprite
@@ -155,11 +156,6 @@ sprite   190 angoff     768        // tile0047 hbombammo
 sprite   200 angoff    -512        // tile1348 holoduke
 sprite   687 angoff     896        // tile4516 pirate half
 sprite   499 angoff     1024       // tile0045 growammo
-sprite   366 angoff     1024       // tile4359 target
-sprite   367 angoff     1024       // tile4359 target
-sprite   368 angoff     1024       // tile4359 target
-sprite   369 angoff     1024       // tile4359 target
-sprite   370 angoff     1024       // tile4359 target
-sprite   720 angoff     -512       // tile4887 pleasewait sign
+
 
 // LIGHTS

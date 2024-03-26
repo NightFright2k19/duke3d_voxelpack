@@ -93,8 +93,8 @@ sprite   577 notmd                 // tile0342 pannel1
 sprite   226 notmd                 // tile0341 bpannel1
 sprite     4 angoff    -896        // tile0057 jetpack
 sprite    53 angoff    -512        // tile0054 shield
-sprite   445 angoff     1024        // tile0925 neon1 (cinema)
-// sprite   493 angoff    -512        // tile0925 neon1 (cinema)
+sprite   445 angoff     512        // tile0925 neon1 (cinema)
+sprite   493 angoff    -512        // tile0925 neon1 (cinema)
 sprite   701 angoff     1024       // tile0049 shotgunammo
 sprite    56 angoff    -512        // tile0049 shotgunammo
 sprite   650 nomdanim              // tile1056 (tile1055 (film reel))

@@ -130,9 +130,8 @@ sprite   418 angoff    -352        // tile0022 chaingunsprite
 sprite   657 angoff    -192        // tile4569 jollymeal
 sprite   330 notmd                 // tile4531 foodobject2
 sprite   680 angoff     768        // tile0051 cola
-sprite   476 angoff     384        // tile4547 foodobject18
 sprite   477 angoff     256        // tile4547 foodobject18
-sprite   478 angoff     512        // tile4547 foodobject18
+sprite   478 angoff    -128        // tile4547 foodobject18
 sprite   790 notmd                 // tile0140 frankenstineswitch
 sprite   354 angoff     1024       // tile0054 shield
 sprite   676 angoff    -128        // tile4495 wetfloor
@@ -205,16 +204,6 @@ sprite     5 angoff     768        // tile1247 seenine
 sprite     4 angoff     512        // tile1247 seenine
 sprite     3 angoff    -128        // tile1247 seenine
 sprite     2 angoff     256        // tile1247 seenine
-sprite   572 angoff     512        // tile4552 wormscan
-// Voxel Pack additions
-sprite   214 mdposxoff   50        // tile4567 icicles
-sprite   214 mdposzoff  -650       // tile4567 icicles
-sprite   215 mdposxoff   50        // tile4567 icicles
-sprite   215 mdposzoff  -650       // tile4567 icicles
-sprite   216 mdposxoff  -50        // tile4567 icicles
-sprite   216 mdposzoff  -650       // tile4567 icicles
-sprite   631 mdposxoff  -50        // tile4567 icicles
-sprite   631 mdposzoff  -650       // tile4567 icicles
 
 
 // LIGHTS

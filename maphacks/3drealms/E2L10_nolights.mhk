@@ -27,8 +27,7 @@ sprite   155 angoff     512        // tile0044 rpgammo
 sprite   161 angoff    -512        // tile0041 batteryammo
 sprite   163 angoff    -512        // tile0041 batteryammo
 sprite   142 angoff    -128        // tile0057 jetpack (multiplayer)
-sprite   229 angoff     -128       // tile0489 satellite
-sprite   229 mdposxoff  -512       // tile0489 satellite
+sprite   229 angoff     128        // tile0489 satellite
 sprite   208 angoff    -64         // tile0021 firstgunsprite
 sprite   227 angoff     128        // tile0052 sixpack
 sprite   112 angoff     1024       // tile0042 devistatorammo

@@ -93,8 +93,6 @@ sprite   352 roll      -1          // tile0041 batteryammo
 sprite   352 mdzoff     200000     // tile0041 batteryammo
 sprite   521 pitch      1          // tile0606 (dead astronaut)
 sprite   521 mdxoff     20000      // tile0606 (dead astronaut)
-sprite   521 angoff     512        // tile0606 (dead astronaut)
-sprite   600 angoff     512        // tile0606 (dead astronaut)
 sprite   519 angoff    -512        // tile0058 (spacesuit)
 sprite   519 pitch      1          // tile0058 (spacesuit)
 sprite   519 mdxoff     20000      // tile0058 (spacesuit)
@@ -241,17 +239,17 @@ sprite   206 angoff     128        // tile0047 hbombammo
 sprite   206 roll       1          // tile0047 hbombammo
 sprite   206 mdzoff     500000     // tile0047 hbombammo
 sprite   205 angoff    -256        // tile0052 sixpack
+sprite   596 angoff    -160        // tile0606 (dead astronaut)
 sprite   595 pitch     -1          // tile0606 (dead astronaut)
 sprite   595 mdxoff     9999999    // tile0606 (dead astronaut)
 sprite   203 angoff    -128        // tile0025 shrinkersprite
 sprite   203 pitch      1          // tile0025 shrinkersprite
 sprite   203 roll      -2          // tile0025 shrinkersprite
 sprite   203 mdzoff     200000     // tile0025 shrinkersprite
-sprite   594 angoff     840        // tile0606 (dead astronaut)
-sprite   596 angoff     384        // tile0606 (dead astronaut)
-sprite   597 angoff    -128        // tile0606 (dead astronaut)
-sprite   598 angoff    -680        // tile0606 (dead astronaut)
+sprite   597 angoff    -576        // tile0606 (dead astronaut)
+sprite   598 angoff    -112        // tile0606 (dead astronaut)
 sprite   204 angoff    -992        // tile0042 devistatorammo
+sprite   594 angoff    -608        // tile0606 (dead astronaut)
 sprite    42 angoff     784        // tile0047 hbombammo
 sprite   200 angoff     256        // tile0049 shotgunammo
 sprite   201 angoff    -256        // tile0052 sixpack

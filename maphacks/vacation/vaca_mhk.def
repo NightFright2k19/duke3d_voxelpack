@@ -1,0 +1,356 @@
+//
+// Duke Caribbean: Life's a Beach
+//
+
+// Hacks for VACA-HRP compatible user maps are defined at their usual locations.
+// -> (none maphacked yet)
+
+
+mapinfo {
+  maptitle "Caribbean Catastrophe"
+  //author "Robert Travis"
+  mapfile  "VACA1.MAP"
+  mapmd4   a8b81139d75dc91c251dcf1383874260 // 1997
+  mhkfile  "maphacks/vacation/VACA1-1997.mhk"
+}
+mapinfo {
+  maptitle "Caribbean Catastrophe"
+  //author "Robert Travis"
+  mapfile  "VACA1.MAP"
+  mapmd4   e5263d5bab92b06f04e3087212bde9c9 // 2014-02-20 (Megaton)
+  mapmd4   c661258481922a527f3642ca40fd0abe // 2014-03-20 (Megaton)
+  mapmd4   cb5d90746f4d1ecf8823e5222d78f2fb // 2014-11-04 (NUKEMDAVE)
+  mapmd4   c1698ef6c83b059538c3b69e05e0e269 // 2014-11-06 (Megaton 1.4.2)
+  mapmd4   e5495b917eb6b6e1838b1003bfe72d2e // 2014-12-07 (Megaton 1.4.5)
+  mhkfile  "maphacks/vacation/VACA1-megaton.mhk"
+}
+mapinfo {
+  maptitle "Caribbean Catastrophe"
+  //author "Robert Travis"
+  mapfile  "vaca1.map"
+  mapmd4   a6805f825896293627a880e3caf2b8e5 // 2011-03-25 (Vaca Plus r25)
+  mhkfile  "maphacks/vacation/vaca1-r25.mhk"
+}
+
+mapinfo {
+  maptitle "Market Melee"
+  //author "Charlie Wiederhold"
+  mapfile  "VACA2.MAP"
+  mapmd4   2628677a314b562cc6e8672bf46b10bc // 1997
+  //mhkfile  "pending"  "maphacks/vacation/VACA2-1997.mhk"
+}
+mapinfo {
+  maptitle "Market Melee"
+  //author "Charlie Wiederhold"
+  mapfile  "VACA2.MAP"
+  mapmd4   3f80c3d7c2ec34417960e952be900733 // 2014-02-20 (Megaton)
+  //mhkfile  "pending"  "maphacks/vacation/VACA2-2014-02-20.mhk"
+}
+mapinfo {
+  maptitle "Market Melee"
+  //author "Charlie Wiederhold"
+  mapfile  "VACA2.MAP"
+  mapmd4   cbdace50403572066dff9e71a72cb83d // 2014-03-20 (Megaton)
+  mapmd4   ad246a618977d929977763b03933822f // 2014-11-06 (Megaton 1.4.2)
+  mapmd4   0b8446be885e960d262d0e347b64a1ac // 2014-12-02 (NUKEMDAVE)
+  mapmd4   bdfbd9fc11526a8f168849fd9a5d34bb // 2014-12-03 (NUKEMDAVE)
+  mapmd4   071fecd8836c1724b47566beb597503e // 2014-12-08 (Megaton 1.4.5)
+  //mhkfile  "pending"  "maphacks/vacation/VACA2-megaton.mhk"
+}
+mapinfo {
+  maptitle "Market Melee"
+  //author "Charlie Wiederhold"
+  mapfile  "vaca2.map"
+  mapmd4   c6600e6986465742024ced369f19c3de // 2011-03-22 (Vaca Plus r24)
+  mhkfile  "maphacks/vacation/vaca2-r24.mhk"
+}
+
+mapinfo {
+  maptitle "Mr. Splashy's"
+  //author "Robert Travis"
+  mapfile  "VACA3.MAP"
+  mapmd4   c8e6f825861c119b3c6f503929ba7ddb // 1997
+  //mhkfile  "pending"  "maphacks/vacation/VACA3-1997.mhk"
+}
+mapinfo {
+  maptitle "Mr. Splashy's"
+  //author "Robert Travis"
+  mapfile  "VACA3.MAP"
+  mapmd4   add31e844da9ac98fabed47ef2636e4f // 2014-02-20 (Megaton)
+  mapmd4   1ea9154b134b7b46ee02252fa6b47f41 // 2014-03-20 (Megaton)
+  mapmd4   326c7a6ad74f609121b295ede37539a6 // 2014-11-06 (Megaton 1.4.2)
+  mapmd4   a271ba321a069bd859d0a48eaf550430 // 2014-11-22 (NUKEMDAVE)
+  mapmd4   e6ede753b24dd1ece18f37d7e7b783d7 // 2014-11-25 (Megaton 1.4.3)
+  mapmd4   6839c543d5b7fd6db173939816ed55bc // 2014-12-02 (Megaton 1.4.5)
+  //mhkfile  "pending"  "maphacks/vacation/VACA3-megaton.mhk"
+}
+mapinfo {
+  maptitle "Mr. Splashy's"
+  //author "Robert Travis"
+  mapfile  "vaca3.map"
+  mapmd4   5c2648a1178b01243ac6f763f6e74e0b // 2011-03-22 (Vaca Plus r24)
+  mhkfile  "maphacks/vacation/vaca3-r24.mhk"
+}
+
+mapinfo {
+  maptitle "The Wavemistress"
+  //author "Charlie Wiederhold"
+  mapfile  "VACA4.MAP"
+  mapmd4   3e9db20275a25468ceaa86a688067e96 // 1997
+  //mhkfile  "pending"  "maphacks/vacation/VACA4-1997.mhk"
+}
+mapinfo {
+  maptitle "The Wavemistress"
+  //author "Charlie Wiederhold"
+  mapfile  "VACA4.MAP"
+  mapmd4   f038913af162385eea2196238ea1b228 // 2014-02-20 (Megaton)
+  //mhkfile  "pending"  "maphacks/vacation/VACA4-megaton.mhk"
+}
+mapinfo {
+  maptitle "The Wavemistress"
+  //author "Charlie Wiederhold"
+  mapfile  "vaca4.map"
+  mapmd4   72b4f56c3cf7de22dfbb3ee5863f00b4 // 2011-03-22 (Vaca Plus r24)
+  mhkfile  "maphacks/vacation/vaca4-r24.mhk"
+}
+
+mapinfo {
+  maptitle "Lost Lagoon"
+  //author "Robert Travis"
+  mapfile  "VACA5.MAP"
+  mapmd4   1e5b4cf5b8c223da53906d7b1eaa97c3 // 1997
+  //mhkfile  "pending"  "maphacks/vacation/VACA5-1997.mhk"
+}
+mapinfo {
+  maptitle "Lost Lagoon"
+  //author "Robert Travis"
+  mapfile  "VACA5.MAP"
+  mapmd4   7c816822d822495692ec7025c0e70620 // 2014-02-20 (Megaton)
+  //mhkfile  "pending"  "maphacks/vacation/VACA5-2014-02-20.mhk"
+}
+mapinfo {
+  maptitle "Lost Lagoon"
+  //author "Robert Travis"
+  mapfile  "VACA5.MAP"
+  mapmd4   62a516b6f761c1e3e526530be18f5f1f // 2014-11-04 (NUKEMDAVE)
+  //mhkfile  "pending"  "maphacks/vacation/VACA5-2014-11-04.mhk"
+}
+mapinfo {
+  maptitle "Lost Lagoon"
+  //author "Robert Travis"
+  mapfile  "VACA5.MAP"
+  mapmd4   f85efbefea19fcbdd98ffc889a8e78f6 // 2014-11-06 (Megaton 1.4.2)
+  //mhkfile  "pending"  "maphacks/vacation/VACA5-2014-11-06.mhk"
+}
+mapinfo {
+  maptitle "Lost Lagoon"
+  //author "Robert Travis"
+  mapfile  "VACA5.MAP"
+  mapmd4   10b325760690c18626eef24e04e14efb // 2014-11-12 (NUKEMDAVE)
+  mapmd4   a4d63d36d205f6da41e90986b455be09 // 2014-11-17 (Megaton 1.4.3)
+  mapmd4   eee883e51988b3a652cdcaf1cdafd98a // 2014-12-02 (Megaton 1.4.5)
+  //mhkfile  "pending"  "maphacks/vacation/VACA5-megaton.mhk"
+}
+mapinfo {
+  maptitle "Lost Lagoon"
+  //author "Robert Travis"
+  mapfile  "vaca5.map"
+  mapmd4   6a22c0a5792139d0be781da832eff81b // 2011-03-22 (Vaca Plus r24)
+  mhkfile  "maphacks/vacation/vaca5-r24.mhk"
+}
+
+mapinfo {
+  maptitle "Voodoo Caves"
+  //author "Bliss"
+  mapfile  "VACA6.MAP"
+  mapmd4   fc816c69a75a6d17c6d0cbc8c4d01434 // 1997
+  //mhkfile  "pending"  "maphacks/vacation/VACA6-1997.mhk"
+}
+mapinfo {
+  maptitle "Voodoo Caves"
+  //author "Bliss"
+  mapfile  "VACA6.MAP"
+  mapmd4   d31c81d53ec0f718db3e9a4de56bbd2b // 2014-02-20 (Megaton)
+  mapmd4   c60c6e1d00b82402b10da1753b9661bc // 2014-11-06 (Megaton 1.4.2)
+  //mhkfile  "pending"  "maphacks/vacation/VACA6-megaton.mhk"
+}
+mapinfo {
+  maptitle "Voodoo Caves"
+  //author "Bliss"
+  mapfile  "vaca6.map"
+  mapmd4   4371e45261543af1454a10bffa057956 // 2011-03-22 (Vaca Plus r24)
+  mhkfile  "maphacks/vacation/vaca6-r24.mhk"
+}
+
+mapinfo {
+  maptitle "The Alien Remains"
+  //author "Charlie Wiederhold"
+  mapfile  "VACA7.MAP"
+  mapmd4   370972005c63574bc470f77a321fa507 // 1997
+  //mhkfile  "pending"  "maphacks/vacation/VACA7-1997.mhk"
+}
+mapinfo {
+  maptitle "The Alien Remains"
+  //author "Charlie Wiederhold"
+  mapfile  "VACA7.MAP"
+  mapmd4   6475fe0d95464a3d72ef6220feb8f420 // 2014-02-20 (Megaton)
+  mapmd4   5c0619dd6a294ce13500e77ce307ff28 // 2014-11-06 (Megaton 1.4.2)
+  mapmd4   7c68886c8222a32a74a63ff8858107c6 // 2014-12-02 (Megaton 1.4.5)
+  //mhkfile  "pending"  "maphacks/vacation/VACA7-megaton.mhk"
+}
+mapinfo {
+  maptitle "The Alien Remains"
+  //author "Charlie Wiederhold"
+  mapfile  "vaca7.map"
+  mapmd4   425a40e12bf44ad0fd1a91a0d959baa8 // 2011-03-22 (Vaca Plus r24)
+  mhkfile  "maphacks/vacation/vaca7-r24.mhk"
+}
+
+mapinfo {
+  maptitle "A Full House"
+  //author "?"
+  mapfile  "VACASL.MAP"
+  mapmd4   dc564272565f41f7182167aea90eac4a // 1997
+  //mhkfile  "pending"  "maphacks/vacation/VACASL-1997.mhk"
+}
+mapinfo {
+  maptitle "A Full House"
+  //author "?"
+  mapfile  "VACASL.MAP"
+  mapmd4   e7d9b40d2b85e8f5729865217bea54fa // 2014-02-20 (Megaton)
+  mapmd4   05bf6a0735acf1825a77f378c55d134a // 2014-11-06 (Megaton 1.4.2)
+  //mhkfile  "pending"  "maphacks/vacation/VACASL-megaton.mhk"
+}
+mapinfo {
+  maptitle "A Full House"
+  //author "?"
+  mapfile  "vacasl.map"
+  mapmd4   af21dc0505427da99c4f29ce4cb1c0e2 // 2011-03-22 (Vaca Plus r24)
+  mhkfile  "maphacks/vacation/vacasl-r24.mhk"
+}
+
+mapinfo {
+  maptitle "Island Hopping"
+  //author "Charlie Wiederhold"
+  mapfile  "VACADM1.MAP"
+  mapmd4   e2da2cde63ff1751a8197c50f2c6e5c3 // 1997
+  //       e2da2cde63ff1751a8197c50f2c6e5c3 // 2014-02-20 (Megaton)
+  mapmd4   994d88edcfd4eac432d32bbd9a5b16bd // 2014-11-14 (Megaton 1.4.3)
+  mapmd4   57267bd51d480f032983d54745b5e587 // 2014-11-26 (Megaton 1.4.5)
+  //mhkfile  "pending"  "maphacks/vacation/VACADM1.mhk"
+}
+mapinfo {
+  maptitle "Island Hopping"
+  //author "Charlie Wiederhold"
+  mapfile  "vacadm1.map"
+  mapmd4   eae6f6c35c770ba3a5d2dc1026928af7 // 2011-03-22 (Vaca Plus r24)
+  mhkfile  "maphacks/vacation/vacadm1-r24.mhk"
+}
+
+mapinfo {
+  maptitle "Hidden Grotto"
+  //author "Charlie Wiederhold"
+  mapfile  "VACADM2.MAP"
+  mapmd4   5026ee4d71b1abe1b72635f0973daa51 // 1997
+  //mhkfile  "pending"  "maphacks/vacation/VACADM2-1997.mhk"
+}
+mapinfo {
+  maptitle "Hidden Grotto"
+  //author "Charlie Wiederhold"
+  mapfile  "VACADM2.MAP"
+  mapmd4   0c4d32436e5390c524d8c4ab0722a874 // 2014-02-20 (Megaton)
+  //mhkfile  "pending"  "maphacks/vacation/VACADM2-megaton.mhk"
+}
+mapinfo {
+  maptitle "Hidden Grotto"
+  //author "Charlie Wiederhold"
+  mapfile  "vacadm2.map"
+  mapmd4   5d0698b9fae4dea547fff2f3c2a6340e // 2011-03-22 (Vaca Plus r24)
+  mhkfile  "maphacks/vacation/vacadm2-r24.mhk"
+}
+
+mapinfo {
+  maptitle "Cruise Ship"
+  //author "Charlie Wiederhold"
+  mapfile  "VACADM3.MAP"
+  mapmd4   848f27003a08a2b453582671fe972438 // 1997
+  //       848f27003a08a2b453582671fe972438 // 2014-02-20 (Megaton)
+  //mhkfile  "pending"  "maphacks/vacation/VACAdm3.mhk"
+}
+mapinfo {
+  maptitle "Cruise Ship"
+  //author "Charlie Wiederhold"
+  mapfile  "vacadm3.map"
+  mapmd4   787a354547bee5d29473845d2ff7f211 // 2011-03-22 (Vaca Plus r24)
+  mhkfile  "maphacks/vacation/vacadm3-r24.mhk"
+}
+
+mapinfo {
+  maptitle "The Docks"
+  //author "Charlie Wiederhold"
+  mapfile  "VACADM4.MAP"
+  mapmd4   8e5686967e4839d2dad5775977273503 // 1997
+  //mhkfile  "pending"  "maphacks/vacation/VACADM4-1997.mhk"
+}
+mapinfo {
+  maptitle "The Docks"
+  //author "?"
+  mapfile  "VACADM4.MAP"
+  mapmd4   659e04dc204b6131dbf7895b647c0287 // 2014-02-20 (Megaton)
+  //mhkfile  "pending"  "maphacks/vacation/VACADM4-megaton.mhk"
+}
+mapinfo {
+  maptitle "The Docks"
+  //author "?"
+  mapfile  "vacadm4.map"
+  mapmd4   9fcc905950937e7b08226070e1ba5b61 // 2011-03-22 (Vaca Plus r24)
+  mhkfile  "maphacks/vacation/vacadm4-r24.mhk"
+}
+
+mapinfo {
+  maptitle "Caribbean Zoo"
+  //author "Allen H. Blum III & Evan 'Hendricks266' Ramos"
+  mapfile  "_vacazoo.map"
+  mapmd4   2e7218fa3aa14f521318ae8d4b0d61b4 // 2011-03-19 (Vaca Plus r19)
+  mhkfile  "maphacks/vacation/_vacazoo-r19.mhk"
+}
+
+mapinfo {
+  maptitle "Shark's Cove"
+  //author "N.E. 'HangNail' Voigt"
+  mapfile  "dcava0.map"
+  mapmd4   e1a7b4b044cb80f944dfc9cb4c97bdd5 // 2007-05-22
+  //mhkfile  "pending"  "maphacks/vacation/dcava0.mhk"
+}
+mapinfo {
+  maptitle "Shark's Cove"
+  //author "N.E. 'HangNail' Voigt"
+  mapfile  "dcava0r.map"
+  mapmd4   82fd7fe13c1663d5d904d3430e3870ab // 2007-07-16
+  mapmd4   9d36d42da75afb9cf7036856217a2ea1 // 2014-08-14 (Megaton Workshop)
+  mapmd4   d0e43a7e8e44ab0796770d2c985d5b11 // 2014-08-15 (Megaton Workshop)
+  //mhkfile  "pending"  "maphacks/vacation/dcava0r.mhk"
+}
+mapinfo {
+  maptitle "Shark's Cove"
+  //author "N.E. 'HangNail' Voigt"
+  mapfile  "dcava0r.map"
+  mapmd4   265ac674a40485fa92411cbcb888ba18 // 2011-03-22 (Vaca Plus r24)
+  mhkfile  "maphacks/vacation/dcava0r-r22.mhk"
+}
+
+mapinfo {
+  maptitle "Market's Row"
+  //author "N.E. 'HangNail' Voigt"
+  mapfile  "dcava1.map"
+  mapmd4   4d803f9eec2c06723c01b722f41f6bb7 // 2007-06-14
+  mapmd4   889f8a17cf48e43fa706bdc3f905fa58 // 2014-08-14 (Megaton Workshop)
+  //mhkfile  "pending"  "maphacks/vacation/dcava1.mhk"
+}
+mapinfo {
+  maptitle "Market's Row"
+  //author "N.E. 'HangNail' Voigt"
+  mapfile  "dcava1.map"
+  mapmd4   ae741feb16935407e0fdd45df2e6efcd // 2011-03-22 (Vaca Plus r24)
+  mhkfile  "maphacks/vacation/dcava1-r22.mhk"
+}

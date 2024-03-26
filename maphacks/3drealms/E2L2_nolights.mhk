@@ -104,7 +104,6 @@ sprite   285 mdzoff     600000     // tile0053 firstaid
 sprite   325 pitch      1          // tile0055 steroids
 sprite   325 roll      -5          // tile0055 steroids
 sprite   325 mdzoff     100000     // tile0055 steroids
-sprite   541 angoff     1256       // tile0489 satellite
 
 
 // LIGHTS
