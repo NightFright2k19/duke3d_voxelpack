@@ -5,3 +5,4 @@ include game.con
 
 // Voxel pickups rotation
 // include scripts/rotation.con
+// include scripts/rotation_wt.con

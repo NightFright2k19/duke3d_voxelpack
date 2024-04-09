@@ -1,4 +1,4 @@
-// Hendricks266's voxel rotation code
+// Hendricks266's voxel rotation code (World Tour)
 
 var temp1 0 0
 var temp2 0 0
@@ -10,6 +10,7 @@ onevent EVENT_SPAWN
         case BATTERYAMMO
         case CRYSTALAMMO
         case DEVISTATORAMMO
+        case FLAMETHROWERAMMO
         case FREEZEAMMO
         case GROWAMMO
         case HBOMBAMMO
@@ -23,6 +24,7 @@ onevent EVENT_SPAWN
         case DEVISTATORSPRITE
         case FIRSTAID
         case FIRSTGUNSPRITE
+        case FLAMETHROWERSPRITE
         case FREEZESPRITE
         case GROWSPRITEICON
         case HEATSENSOR

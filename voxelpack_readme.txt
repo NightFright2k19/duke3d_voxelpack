@@ -423,6 +423,7 @@ CHANGELOG
 Version 2.0 RC3 (XXX XX, 2024)
 ------------------------------
 > Added:
+     + rotation_wt.con: Added World Tour's Incinerator and ammo
      + Pickups: 5134-5137 (WT Incinerator + ammo, taken from StrikerDM)
      + Props: 632 (pipe end), 940 (mine), 971/972 (coral), 973 (stone), 1174/1175 (metal bars), 
               1225 (broken pipe), 1352 (hung monk), 1354 (Skywalker), 2254 (eye gib),
@@ -431,7 +432,6 @@ Version 2.0 RC3 (XXX XX, 2024)
      + NWinter: 3663 (bulb), 3782 (gift1), 3786 (gift2)
 
 > Updated:
-     + rotation.con: Added World Tour's Incinerator and ammo
      + Pickups: 60 (access card - fixed 22 skin pixels)
      + Props: 487 (space shuttle), 4407/4408 (annoying mouse)
      + Vacation: Pivot fixes for 3791 (coolbox) and 3792 (radio)
