@@ -2,7 +2,7 @@
 
 var temp1 0 0
 var temp2 0 0
-var rotatesprite 0 2
+var spriterotate 0 2
 
 onevent EVENT_SPAWN
     switch sprite[].picnum
@@ -35,7 +35,7 @@ onevent EVENT_SPAWN
         case SIXPAK
         case STEROIDS
         case TRIPBOMBSPRITE
-            or rotatesprite 1
+            or spriterotate 1
             geta[].mdflags temp1
             or temp1 16
             seta[].mdflags temp1
@@ -44,7 +44,7 @@ onevent EVENT_SPAWN
 endevent
 
 onevent EVENT_ANIMATESPRITES
-    ifand rotatesprite 1
+    ifand spriterotate 1
     {
         geta[].ang temp1
         set temp2 totalclock
