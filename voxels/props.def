@@ -79,6 +79,7 @@ voxel "voxels/props/0678_scale.kvx" { tile 678 }
 
 voxel "voxels/props/0680_chair3.kvx" { tile0 680 tile1 684 }
 voxel "voxels/props/0685_stagelamp.kvx" { tile 685 }
+voxel "voxels/props/0686_moviecam.kvx" { tile 686 }
 voxel "voxels/props/0688_movieclapper.kvx" { tile 688 }
 voxel "voxels/props/0689_ivunit.kvx" { tile 689 }
 

@@ -86,7 +86,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (191)
+> Borion (192)
      - 25 ............................... Shrinker
      - 32 ............................... Expander
      - 45 ............................... Expander ammo
@@ -111,6 +111,7 @@ Contributions by:
      - 678 .............................. Scale
      - 680-684 .......................... Chair3
      - 685 .............................. Stage light
+     - 686 .............................. Movie camera
      - 689 .............................. IV unit
      - 694 .............................. Pot1
      - 695 .............................. Pot2
@@ -425,8 +426,8 @@ Version 2.0 RC3 (XXX XX, 2024)
 > Added:
      + rotation_wt.con: Added World Tour's Incinerator and ammo
      + Pickups: 5134-5137 (WT Incinerator + ammo, taken from StrikerDM)
-     + Props: 632 (pipe end), 940 (mine), 971/972 (coral), 973 (stone), 1174/1175 (metal bars), 
-              1225 (broken pipe), 1352 (hung monk), 1354 (Skywalker), 2254 (eye gib),
+     + Props: 632 (pipe end), 686 (movie camera), 940 (mine), 971/972 (coral), 973 (stone), 
+              1174/1175 (metal bars), 1225 (broken pipe), 1352 (hung monk), 1354 (Skywalker), 2254 (eye gib),
               2533-2535 (pistol/shotgun shells)
      + Signs: 4380 ("Canine Burger Society")
      + NWinter: 3663 (bulb), 3782 (gift1), 3786 (gift2)
