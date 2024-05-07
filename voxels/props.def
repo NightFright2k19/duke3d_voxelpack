@@ -340,7 +340,6 @@ voxel "voxels/props/4459_gumballmachine2.kvx" { tile 4459 }
 voxel "voxels/props/4460_paper1.kvx" { tile 4460 }
 voxel "voxels/props/4461_paper2.kvx" { tile 4461 }
 voxel "voxels/props/4462_paper3.kvx" { tile 4462 }
-
 voxel "voxels/props/4463_bone.kvx" { tile 4463 }
 voxel "voxels/props/4464_mace.kvx" { tile 4464 }
 voxel "voxels/props/4465_genericpole.kvx" { tile 4465 }

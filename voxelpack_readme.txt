@@ -232,7 +232,7 @@ Contributions by:
      - 1069 ............................. Plug
      - 4373 ............................. Cups
 
-> Dzierzan (151)
+> Dzierzan (154)
      - 160 .............................. Door shock
      - 487 .............................. Space shuttle
      - 489 .............................. Satellite
@@ -314,6 +314,7 @@ Contributions by:
      - 4446 ............................. Prison ball
      - 4453 ............................. Meter
      - 4457 ............................. Rope
+     - 4460-4462 ........................ Papers
      - 4463 ............................. Bone
      - 4465 ............................. Generic pole
      - 4466-4469 ........................ President paintings
@@ -428,7 +429,7 @@ Version 2.0 RC3 (XXX XX, 2024)
      + Pickups: 5134-5137 (WT Incinerator + ammo, taken from StrikerDM)
      + Props: 632 (pipe end), 686 (movie camera), 940 (mine), 971/972 (coral), 973 (stone), 
               1174/1175 (metal bars), 1225 (broken pipe), 1352 (hung monk), 1354 (Skywalker), 2254 (eye gib),
-              2533-2535 (pistol/shotgun shells)
+              2533-2535 (pistol/shotgun shells), 4460-4462 (papers)
      + Signs: 4380 ("Canine Burger Society")
      + NWinter: 3663 (bulb), 3782 (gift1), 3786 (gift2)
 
