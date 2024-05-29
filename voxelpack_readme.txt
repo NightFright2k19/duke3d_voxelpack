@@ -438,7 +438,7 @@ Version 2.0 RC3 (XXX XX, 2024)
      + Pickups: 60 (access card - fixed 22 skin pixels)
      + Props: 487 (space shuttle), 4407/4408 (annoying mouse)
      + Vacation: Pivot fixes for 3791 (coolbox) and 3792 (radio)
-     + Maphacks: E2L7 (#1354 Skywalker)
+     + Maphacks: E2L7 (#1354 Skywalker), E4L4 (#4359 target)
 
 
 Version 2.0 RC2 (Mar 1, 2022)
