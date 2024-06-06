@@ -50,8 +50,12 @@ NOTES
 	- BuildGDX/Raze: Open dukegdx.def and remove "//" from line "include voxels/monsters.def"
 
 6) To activate voxels for addons (EDuke32 only):
-        - Duke Caribbean: Open duke3d_voxels.def and remove "//" from line "include voxels/vacation.def"
-        - Nuclear Winter: Open duke3d_voxels.def and remove "//" from line "include voxels/nwinter.def"
+        - Native support for addons is implemented when using EDuke32 20240604-10578-30deaa520 or newer
+        - For older EDuke32 builds, manually apply the following changes:
+              + duke3d.def: Remove "//" from line "include duke3d_voxels.def"
+                            Add "//" in front of line "include duke3d_voxels_crc.def"
+              + duke3d_voxels.def: Remove "//" from line "include voxels/vacation.def" for Duke Caribbean
+                                   Remove "//" from line "include voxels/nwinter.def" for Nuclear Winter
 
 
 ============================================================================================
