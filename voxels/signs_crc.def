@@ -1,0 +1,34 @@
+// Voxel signs
+
+voxel "voxels/signs/0728_banksign.kvx" { ifmatch { size 104 96 crc32 0x98D06862 } tile 728 }
+
+voxel "voxels/signs/0925_neon1.kvx" { ifmatch { size 19 88 crc32 0x20549C07 } tile 925 }
+voxel "voxels/signs/0926_neon2.kvx" { ifmatch { size 27 92 crc32 0xD6AB323 } tile 926 }
+
+voxel "voxels/signs/0937_sexshopsign.kvx" { ifmatch { size 112 56 crc32 0xF4981A } tile 937 }
+voxel "voxels/signs/0938_safault.kvx" { ifmatch { size 104 96 crc32 0xFC7B077D } tile 938 }
+
+voxel "voxels/signs/0961_exit.kvx" { ifmatch { size 48 24 crc32 0xCF09E00D } tile 961 }
+
+voxel "voxels/signs/1007_neon3.kvx" { ifmatch { size 30 88 crc32 0x9CF9C071 } tile 1007 }
+voxel "voxels/signs/1008_neon4.kvx" { ifmatch { size 41 47 crc32 0xDE01EAE0 } tile 1008 }
+
+animtilerange 1009 1011 5 2
+voxel "voxels/signs/1009_neon51.kvx" { ifmatch { size 29 77 crc32 0x88706F6D } tile 1009 }
+voxel "voxels/signs/1010_neon52.kvx" { ifmatch { size 29 77 crc32 0x7A9A6F73 } tile 1010 }
+voxel "voxels/signs/1011_neon53.kvx" { ifmatch { size 29 77 crc32 0xE58CB723 } tile 1011 }
+
+voxel "voxels/signs/1046_arcadeneon.kvx" { ifmatch { size 128 48 crc32 0x7069C51A } tile 1046 }
+
+voxel "voxels/signs/1172_securedarea.kvx" { ifmatch { size 56 24 crc32 0x58A56D9F } tile 1172 }
+
+voxel "voxels/signs/1210_guilty.kvx" { ifmatch { size 128 56 crc32 0x163A13F8 } tile 1210 }
+voxel "voxels/signs/1211_innocent.kvx" { ifmatch { size 128 56 crc32 0x4408CBA6 } tile 1211 }
+
+voxel "voxels/signs/4380_society.kvx" { ifmatch { size 112 38 crc32 0xF190A25D } tile 4380 }
+
+voxel "voxels/signs/4891_storecrap.kvx" { ifmatch { size 160 69 crc32 0xECA0B76B } tile 4891 }
+
+voxel "voxels/signs/4930_epluribus.kvx" { ifmatch { size 128 116 crc32 0x56F5158A } tile 4930 }
+
+voxel "voxels/signs/4956_funnyboner.kvx" { ifmatch { size 208 56 crc32 0x1D4DD360 } tile 4956 }

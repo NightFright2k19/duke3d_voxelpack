@@ -1,0 +1,5 @@
+voxel "voxels/misc/3190_marker_red.kvx" { ifmatch { size 25 21 crc32 0x40C7E062 } tile0 3190 tile1 3196 }
+
+voxel "voxels/misc/3200_marker_yellow.kvx" { ifmatch { size 25 21 crc32 0x23AF3F89 } tile0 3200 tile1 3206 }
+
+voxel "voxels/misc/3210_marker_green.kvx" { ifmatch { size 25 21 crc32 0xD62EF96C } tile0 3210 tile1 3216 }

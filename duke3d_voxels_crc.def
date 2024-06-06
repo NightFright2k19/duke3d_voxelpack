@@ -9,10 +9,10 @@ tint { pal 7 red 172 green 157 blue 140 flags 0 }
 tint { pal 8 red 199 green 226 blue 113 flags 1 }
 
 // Voxel definitions
-include voxels/monsters.def
-include voxels/misc.def
+include voxels/monsters_crc.def
+include voxels/misc_crc.def
 include voxels/pickups_crc.def
-include voxels/projectiles.def
+include voxels/projectiles_crc.def
 include voxels/props_crc.def
-include voxels/signs.def
-include voxels/switches.def
+include voxels/signs_crc.def
+include voxels/switches_crc.def

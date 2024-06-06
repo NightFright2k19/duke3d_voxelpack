@@ -1,0 +1,25 @@
+/*
+// Slimer Egg (675)
+voxel "voxels/monsters/0558_slimeregg0.kvx" { ifmatch { size 54 48 crc32 0x7BFC972D } tile 558 }
+voxel "voxels/monsters/0675_slimeregg1.kvx" { ifmatch { size 54 48 crc32 0xCDB7B86 } tile 675 }
+voxel "voxels/monsters/0676_slimeregg2.kvx" { ifmatch { size 55 49 crc32 0x81560576 } tile 676 }
+voxel "voxels/monsters/0677_slimeregg3.kvx" { ifmatch { size 71 46 crc32 0x78AFE4DE } tile 677 } 
+
+// Sentry Drone (1880)
+voxel "voxels/monsters/1880_sentrydrone.kvx" { ifmatch { size 53 39 crc32 0x28832223 } tile0 1880 tile1 1886 }
+
+// Pig Cop Tank (1975)
+dummytilerange 1986 1988 66 71
+dummytilerange 1992 1996 66 71
+voxel "voxels/monsters/1975_tank_move1.kvx" { ifmatch { size 66 71 crc32 0x4EE31356 } tile0 1975 tile1 1979 scale .94 }
+voxel "voxels/monsters/1975_tank_move2.kvx" { ifmatch { size 88 73 crc32 0x7ECA00A6 } tile0 1980 tile1 1984 scale .94 }
+voxel "voxels/monsters/1975_tank_shoot1.kvx" { ifmatch { size 75 73 crc32 0xE295F48B } tile0 1985 tile1 1989 scale .94 }
+voxel "voxels/monsters/1975_tank_shoot2.kvx" { ifmatch { size 91 73 crc32 0xA023D4F7 } tile0 1990 tile1 1994 scale .94 }
+voxel "voxels/monsters/1975_tank_empty.kvx" { tile 1995 scale .94 }
+voxel "voxels/monsters/1975_tank_wreck.kvx" { tile 1996 scale .94 }
+*/
+
+// Gun Turret (2350)
+voxel "voxels/monsters/2350_turret1.kvx" { ifmatch { size 26 19 crc32 0x7381CF14 } tile0 2350 tile1 2354 }
+voxel "voxels/monsters/2355_turret2.kvx" { ifmatch { size 26 19 crc32 0xED0AC209 } tile0 2355 tile1 2359 }
+voxel "voxels/monsters/2360_turret3.kvx" { ifmatch { size 26 19 crc32 0x7781E447 } tile0 2360 tile1 2364 }

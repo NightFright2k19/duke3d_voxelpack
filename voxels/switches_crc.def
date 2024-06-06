@@ -1,0 +1,57 @@
+// Voxel switches
+
+voxel "voxels/switches/0130_accessswitch_off.kvx" { ifmatch { size 64 32 crc32 0xAF34D97D } tile 130 }
+voxel "voxels/switches/0131_accessswitch_on.kvx" { ifmatch { size 64 32 crc32 0x91612EA4 } tile 131 }
+voxel "voxels/switches/0132_slotdoor_off.kvx" { ifmatch { size 32 32 crc32 0xA95AAF62 } tile 132 }
+voxel "voxels/switches/0133_slotdoor_on.kvx" { ifmatch { size 32 32 crc32 0x273B7A15 } tile 133 }
+voxel "voxels/switches/0134_lightswitch_off.kvx" { ifmatch { size 32 32 crc32 0xC8733DDC } tile 134 }
+voxel "voxels/switches/0135_lightswitch_on.kvx" { ifmatch { size 32 32 crc32 0x595F5803 } tile 135 }
+voxel "voxels/switches/0136_spacedoorswitch_off.kvx" { ifmatch { size 32 32 crc32 0x7F6115F4 } tile 136 }
+voxel "voxels/switches/0137_spacedoorswitch_on.kvx" { ifmatch { size 32 32 crc32 0x4B7A0AE0 } tile 137 }
+voxel "voxels/switches/0138_slideswitch_off.kvx" { ifmatch { size 32 32 crc32 0x127956B6 } tile 138 }
+voxel "voxels/switches/0139_slideswitch_on.kvx" { ifmatch { size 32 32 crc32 0xFACB62B8 } tile 139 }
+
+voxel "voxels/switches/0140_leverswitch_off.kvx" { ifmatch { size 32 32 crc32 0x3B35F00C } tile 140 }
+voxel "voxels/switches/0141_leverswitch_on.kvx" { ifmatch { size 32 32 crc32 0x21A6013E } tile 141 }
+voxel "voxels/switches/0142_nukebutton1.kvx" { ifmatch { size 113 93 crc32 0xA9800CA } tile 142 }
+voxel "voxels/switches/0143_nukebutton2.kvx" { ifmatch { size 119 97 crc32 0xF687E213 } tile 143 }
+voxel "voxels/switches/0144_nukebutton3.kvx" { ifmatch { size 142 110 crc32 0xFA359614 } tile 144 }
+voxel "voxels/switches/0145_nukebutton4.kvx" { ifmatch { size 142 110 crc32 0xBF3BDE8F } tile 145 }
+voxel "voxels/switches/0146_multiswitch1.kvx" { ifmatch { size 32 32 crc32 0x73C5DF4 } tile 146 }
+voxel "voxels/switches/0147_multiswitch2.kvx" { ifmatch { size 32 32 crc32 0xAE519F3B } tile 147 }
+voxel "voxels/switches/0148_multiswitch3.kvx" { ifmatch { size 32 32 crc32 0xA52F93AB } tile 148 }
+voxel "voxels/switches/0149_multiswitch4.kvx" { ifmatch { size 32 32 crc32 0xAF929095 } tile 149 }
+
+voxel "voxels/switches/0162_dipswitch_off.kvx" { ifmatch { size 32 32 crc32 0xBC11EEC6 } tile 162 }
+voxel "voxels/switches/0163_dipswitch_on.kvx" { ifmatch { size 32 32 crc32 0x55B59515 } tile 163 }
+voxel "voxels/switches/0164_dipswitch2_off.kvx" { ifmatch { size 32 32 crc32 0x15D07595 } tile 164 }
+voxel "voxels/switches/0165_dipswitch2_on.kvx" { ifmatch { size 32 32 crc32 0x8B826497 } tile 165 }
+voxel "voxels/switches/0166_techswitch_off.kvx" { ifmatch { size 32 32 crc32 0xFE73F193 } tile 166 }
+voxel "voxels/switches/0167_techswitch_on.kvx" { ifmatch { size 32 32 crc32 0x4FC809D8 } tile 167 }
+voxel "voxels/switches/0168_dipswitch3_off.kvx" { ifmatch { size 32 32 crc32 0x1E582353 } tile 168 }
+voxel "voxels/switches/0169_dipswitch3_on.kvx" { ifmatch { size 32 32 crc32 0x12B2C73B } tile 169 }
+voxel "voxels/switches/0170_accessswitch2_off.kvx" { ifmatch { size 64 32 crc32 0x42DE9C93 } tile 170 }
+voxel "voxels/switches/0171_accessswitch2_on.kvx" { ifmatch { size 64 32 crc32 0xB9590CD6 } tile 171 }
+
+voxel "voxels/switches/0712_lightswitch_off.kvx" { ifmatch { size 20 32 crc32 0x92B04444 } tile 712 }
+voxel "voxels/switches/0713_lightswitch_on.kvx" { ifmatch { size 20 32 crc32 0xBF8DDA8D } tile 713 }
+
+voxel "voxels/switches/0860_powerswitch1_off.kvx" { ifmatch { size 60 74 crc32 0x6AC856F4 } tile 860 }
+voxel "voxels/switches/0861_powerswitch1_on.kvx" { ifmatch { size 60 74 crc32 0x346590F } tile 861 }
+voxel "voxels/switches/0862_lockswitch1_off.kvx" { ifmatch { size 59 32 crc32 0x61B3B9D6 } tile 862 }
+voxel "voxels/switches/0863_lockswitch1_on.kvx" { ifmatch { size 59 32 crc32 0x77A6032A } tile 863 } 
+voxel "voxels/switches/0864_powerswitch2_off.kvx" { ifmatch { size 64 40 crc32 0x47AE79FF } tile 864 }
+voxel "voxels/switches/0865_powerswitch2_on.kvx" { ifmatch { size 64 40 crc32 0xC9655593 } tile 865 }
+
+voxel "voxels/switches/1111_handswitch_off.kvx" { ifmatch { size 32 32 crc32 0x42BFCA63 } tile 1111 }
+voxel "voxels/switches/1112_handswitch_on.kvx" { ifmatch { size 32 32 crc32 0xEA54BAB5 } tile 1112 }
+
+voxel "voxels/switches/1122_flipswitch_off.kvx" { ifmatch { size 32 32 crc32 0xE57DB9D4 } tile 1122 }
+voxel "voxels/switches/1123_flipswitch_on.kvx" { ifmatch { size 32 32 crc32 0x40A12DC1 } tile 1123 }
+
+voxel "voxels/switches/1142_bighole_off.kvx" { ifmatch { size 32 32 crc32 0x56EDB6FF } tile 1142 }
+voxel "voxels/switches/1143_bighole_on.kvx" { ifmatch { size 32 32 crc32 0x10A83C37 } tile 1143 }
+
+voxel "voxels/switches/4483_brokenswitch.kvx" { ifmatch { size 32 45 crc32 0xECBA6B01 } tile 4483 }
+
+voxel "voxels/switches/4954_brokenswitch2.kvx" { ifmatch { size 66 99 crc32 0xE24109DD } tile 4954 }

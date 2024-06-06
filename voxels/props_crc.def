@@ -1,422 +1,422 @@
 // Voxel props
 
 // Duke3D
-voxel "voxels/props/0058_spacesuit.kvx" { tile 58 }
+voxel "voxels/props/0058_spacesuit.kvx" { ifmatch { size 54 105 crc32 0xD6EC9D87 } tile 58 }
 
-voxel "voxels/props/0160_doorshock.kvx" { tile 160 }
+voxel "voxels/props/0160_doorshock.kvx" { ifmatch { size 32 128 crc32 0xC396C83A } tile 160 }
 
-voxel "voxels/props/0479_antennadish.kvx" { tile 479 }
+voxel "voxels/props/0479_antennadish.kvx" { ifmatch { size 167 172 crc32 0xB1603ADA } tile 479 }
 
-voxel "voxels/props/0480_observatory.kvx" { tile 480 }
-voxel "voxels/props/0487_spaceshuttle.kvx" { tile 487 }
-voxel "voxels/props/0489_satellite.kvx" { tile 489 }
+voxel "voxels/props/0480_observatory.kvx" { ifmatch { size 90 102 crc32 0xA6CFDEB1 } tile 480 }
+voxel "voxels/props/0487_spaceshuttle.kvx" { ifmatch { size 140 74 crc32 0xAFA526B7 } tile 487 }
+voxel "voxels/props/0489_satellite.kvx" { ifmatch { size 111 91 crc32 0xFBE8563C } tile 489 }
 
-voxel "voxels/props/0516_antennadish.kvx" { tile 516 }
-voxel "voxels/props/0517_gastank.kvx" { tile 517 }
+voxel "voxels/props/0516_antennadish.kvx" { ifmatch { size 64 128 crc32 0xE4D1DB52 } tile 516 }
+voxel "voxels/props/0517_gastank.kvx" { ifmatch { size 49 64 crc32 0xB3260572 } tile 517 }
 
-voxel "voxels/props/0536_smallpipe1.kvx" { tile 536 }
-voxel "voxels/props/0537_smallpipe2.kvx" { tile 537 }
+voxel "voxels/props/0536_smallpipe1.kvx" { ifmatch { size 13 32 crc32 0xA8E360FB } tile 536 }
+voxel "voxels/props/0537_smallpipe2.kvx" { ifmatch { size 13 32 crc32 0xCDA8B26 } tile 537 }
 
-voxel "voxels/props/0542_earthdome.kvx" { tile 542 } // w/o glass dome
-// voxel "voxels/props/0542_earthdome_alt.kvx" { tile 542 } // w/ glass dome
-voxel "voxels/props/0543_panel.kvx" { tile 543 }
-voxel "voxels/props/0544_connection.kvx" { tile 544 }
+voxel "voxels/props/0542_earthdome.kvx" { ifmatch { size 70 45 crc32 0xE1EB7099 } tile 542 } // w/o glass dome
+// voxel "voxels/props/0542_earthdome_alt.kvx" { ifmatch { size 70 45 crc32 0xE1EB7099 } tile 542 } // w/ glass dome
+voxel "voxels/props/0543_panel.kvx" { ifmatch { size 16 16 crc32 0xF51BD323 } tile 543 }
+voxel "voxels/props/0544_connection.kvx" { ifmatch { size 62 40 crc32 0x765EE4CD } tile 544 }
 
-voxel "voxels/props/0551_lightdome1.kvx" { tile 551 }
-voxel "voxels/props/0552_lightdome2.kvx" { tile 552 }
-voxel "voxels/props/0553_lightdome3.kvx" { tile 553 }
-voxel "voxels/props/0554_lightdome4.kvx" { tile 554 }
-voxel "voxels/props/0555_smallvalve.kvx" { tile 555 }
-voxel "voxels/props/0556_armchair1.kvx" { tile0 556 tile1 557 }
-voxel "voxels/props/0559_armchair3.kvx" { tile 559 }
+voxel "voxels/props/0551_lightdome1.kvx" { ifmatch { size 16 16 crc32 0xC6B571B8 } tile 551 }
+voxel "voxels/props/0552_lightdome2.kvx" { ifmatch { size 16 16 crc32 0x6F414C70 } tile 552 }
+voxel "voxels/props/0553_lightdome3.kvx" { ifmatch { size 16 16 crc32 0x8CCAE6F8 } tile 553 }
+voxel "voxels/props/0554_lightdome4.kvx" { ifmatch { size 16 16 crc32 0xE2348E22 } tile 554 }
+voxel "voxels/props/0555_smallvalve.kvx" { ifmatch { size 16 15 crc32 0x5AE2F5F8 } tile 555 }
+voxel "voxels/props/0556_armchair1.kvx" { ifmatch { size 51 58 crc32 0xF6E1A136 } tile0 556 tile1 557 }
+voxel "voxels/props/0559_armchair3.kvx" { ifmatch { size 57 28 crc32 0xD53900AA } tile 559 }
 
-voxel "voxels/props/0561_soap.kvx" { tile 561 }
-voxel "voxels/props/0563_waterfountain1.kvx" { tile 563 }
-voxel "voxels/props/0564_waterfountain2.kvx" { tile 564 }
-voxel "voxels/props/0565_waterfountain3.kvx" { tile 565 }
-voxel "voxels/props/0566_waterfountain4.kvx" { tile 566 }
-voxel "voxels/props/0567_waterfountain5.kvx" { tile 567 }
-voxel "voxels/props/0569_toilet.kvx" { tile 569 }
+voxel "voxels/props/0561_soap.kvx" { ifmatch { size 10 4 crc32 0xAF05FB52 } tile 561 }
+voxel "voxels/props/0563_waterfountain1.kvx" { ifmatch { size 32 18 crc32 0xBB34F2FC } tile 563 }
+voxel "voxels/props/0564_waterfountain2.kvx" { ifmatch { size 32 18 crc32 0xE3B187BB } tile 564 }
+voxel "voxels/props/0565_waterfountain3.kvx" { ifmatch { size 32 17 crc32 0x4A1F2005 } tile 565 }
+voxel "voxels/props/0566_waterfountain4.kvx" { ifmatch { size 32 18 crc32 0xA2829FD4 } tile 566 }
+voxel "voxels/props/0567_waterfountain5.kvx" { ifmatch { size 32 9 crc32 0x688EBF76 } tile 567 }
+voxel "voxels/props/0569_toilet.kvx" { ifmatch { size 33 52 crc32 0x6A1E6964 } tile 569 }
 
-voxel "voxels/props/0570_soap.kvx" { tile 570 }
-voxel "voxels/props/0571_urinal.kvx" { tile 571 }
-voxel "voxels/props/0572_showerpart.kvx" { tile 572 tile 991 }
-voxel "voxels/props/0573_brokenurinal.kvx" { tile 573 }
-voxel "voxels/props/0574_faucet.kvx" { scale .9 tile 574 }
-voxel "voxels/props/0578_reactor.kvx" { tile 578 }
+voxel "voxels/props/0570_soap.kvx" { ifmatch { size 16 9 crc32 0xEE415E3E } tile 570 }
+voxel "voxels/props/0571_urinal.kvx" { ifmatch { size 42 77 crc32 0xA0C6110F } tile 571 }
+voxel "voxels/props/0572_showerpart.kvx" { ifmatch { size 12 14 crc32 0x6CD87275 } tile 572 tile 991 }
+voxel "voxels/props/0573_brokenurinal.kvx" { ifmatch { size 59 97 crc32 0xCC6B9D69 } tile 573 }
+voxel "voxels/props/0574_faucet.kvx" { ifmatch { size 45 13 crc32 0xBE811591 } scale .9 tile 574 }
+voxel "voxels/props/0578_reactor.kvx" { ifmatch { size 55 40 crc32 0x18F4119E } tile 578 }
 
-voxel "voxels/props/0584_sensor.kvx" { tile 584 }
+voxel "voxels/props/0584_sensor.kvx" { ifmatch { size 24 11 crc32 0xE7D08288 } tile 584 }
 
-voxel "voxels/props/0595_grate1.kvx" { tile 595 }
-voxel "voxels/props/0596_bgrate2.kvx" { tile 596 }
+voxel "voxels/props/0595_grate1.kvx" { ifmatch { size 64 64 crc32 0x17A648FD } tile 595 }
+voxel "voxels/props/0596_bgrate2.kvx" { ifmatch { size 64 64 crc32 0xED141F7D } tile 596 }
 
-voxel "voxels/props/0602_solarpanel.kvx" { tile 602 }
-voxel "voxels/props/0606_spacesuitcorpse.kvx" { tile 606 }
-voxel "voxels/props/0607_antenna1.kvx" { tile 607 }
-voxel "voxels/props/0608_antenna2.kvx" { tile 608 }
+voxel "voxels/props/0602_solarpanel.kvx" { ifmatch { size 123 64 crc32 0x34E7BB1C } tile 602 }
+voxel "voxels/props/0606_spacesuitcorpse.kvx" { ifmatch { size 54 105 crc32 0xC8DBE116 } tile 606 }
+voxel "voxels/props/0607_antenna1.kvx" { ifmatch { size 20 128 crc32 0xBC66444B } tile 607 }
+voxel "voxels/props/0608_antenna2.kvx" { ifmatch { size 20 128 crc32 0xEE8D533B } tile 608 }
 
-voxel "voxels/props/0610_pipe.kvx" { tile 610 }
-voxel "voxels/props/0615_brokentoilet.kvx" { tile 615 }
-voxel "voxels/props/0616_greypipe1.kvx" { tile 616 }
-voxel "voxels/props/0617_greypipe2.kvx" { tile 617 }
-voxel "voxels/props/0618_greypipe3.kvx" { tile 618 }
-voxel "voxels/props/0619_greypipe4.kvx" { tile 619 }
+voxel "voxels/props/0610_pipe.kvx" { ifmatch { size 16 128 crc32 0x14E8971C } tile 610 }
+voxel "voxels/props/0615_brokentoilet.kvx" { ifmatch { size 62 52 crc32 0x8EA14F4F } tile 615 }
+voxel "voxels/props/0616_greypipe1.kvx" { ifmatch { size 32 128 crc32 0xE95919F1 } tile 616 }
+voxel "voxels/props/0617_greypipe2.kvx" { ifmatch { size 29 128 crc32 0x3B8221F7 } tile 617 }
+voxel "voxels/props/0618_greypipe3.kvx" { ifmatch { size 33 128 crc32 0x5290A569 } tile 618 }
+voxel "voxels/props/0619_greypipe4.kvx" { ifmatch { size 31 128 crc32 0x9FFDD8E8 } tile 619 }
 
-voxel "voxels/props/0620_betagenerator.kvx" { tile 620 }
-voxel "voxels/props/0621_camera1.kvx" { tile0 621 tile1 625 }
+voxel "voxels/props/0620_betagenerator.kvx" { ifmatch { size 57 47 crc32 0x47E06133 } tile 620 }
+voxel "voxels/props/0621_camera1.kvx" { ifmatch { size 15 22 crc32 0xFB1C11AD } tile0 621 tile1 625 }
 
-voxel "voxels/props/0632_pipeend.kvx" { tile 632 }
-voxel "voxels/props/0633_greypipe5.kvx" { tile 633 }
+voxel "voxels/props/0632_pipeend.kvx" { ifmatch { size 32 9 crc32 0xECD33304 } tile 632 }
+voxel "voxels/props/0633_greypipe5.kvx" { ifmatch { size 32 128 crc32 0xBE41A6D9 } tile 633 }
 
-voxel "voxels/props/0658_light1.kvx" { tile 658 }
-voxel "voxels/props/0659_light2.kvx" { tile 659 }
+voxel "voxels/props/0658_light1.kvx" { ifmatch { size 10 14 crc32 0xCF332285 } tile 658 }
+voxel "voxels/props/0659_light2.kvx" { ifmatch { size 10 14 crc32 0xDE5DC3B9 } tile 659 }
 
-voxel "voxels/props/0660_waterdrop.kvx" { tile 660 }
-voxel "voxels/props/0669_vacuumcleaner.kvx" { tile 669 }
+voxel "voxels/props/0660_waterdrop.kvx" { ifmatch { size 7 12 crc32 0x912A7BCF } tile 660 }
+voxel "voxels/props/0669_vacuumcleaner.kvx" { ifmatch { size 48 48 crc32 0x8B29CCD9 } tile 669 }
 
 animtilerange 670 671 3 1
-voxel "voxels/props/0670_faucet2.kvx" { scale .9 tile 670 }
-voxel "voxels/props/0671_faucet3.kvx" { scale .9 tile 671 }
-voxel "voxels/props/0678_scale.kvx" { tile 678 }
+voxel "voxels/props/0670_faucet2.kvx" { ifmatch { size 45 13 crc32 0xDDEDA4C6 } scale .9 tile 670 }
+voxel "voxels/props/0671_faucet3.kvx" { ifmatch { size 45 13 crc32 0xC56E125F } scale .9 tile 671 }
+voxel "voxels/props/0678_scale.kvx" { ifmatch { size 45 13 crc32 0xC56E125F } tile 678 }
 
-voxel "voxels/props/0680_chair3.kvx" { tile0 680 tile1 684 }
-voxel "voxels/props/0685_stagelamp.kvx" { tile 685 }
-voxel "voxels/props/0686_moviecam.kvx" { tile 686 }
-voxel "voxels/props/0688_movieclapper.kvx" { tile 688 }
-voxel "voxels/props/0689_ivunit.kvx" { tile 689 }
+voxel "voxels/props/0680_chair3.kvx" { ifmatch { size 46 67 crc32 0xF7DDEA46 } tile0 680 tile1 684 }
+voxel "voxels/props/0685_stagelamp.kvx" { ifmatch { size 67 107 crc32 0xABBE1171 } tile 685 }
+voxel "voxels/props/0686_moviecam.kvx" { ifmatch { size 56 93 crc32 0xD5A5921E } tile 686 }
+voxel "voxels/props/0688_movieclapper.kvx" { ifmatch { size 64 64 crc32 0xD9B269F } tile 688 }
+voxel "voxels/props/0689_ivunit.kvx" { ifmatch { size 28 82 crc32 0x4E11F1E3 } tile 689 }
 
-voxel "voxels/props/0691_cleaver.kvx" { tile 691 }
-voxel "voxels/props/0692_knife.kvx" { tile 692 }
-voxel "voxels/props/0694_pot1.kvx" { tile 694 }
-voxel "voxels/props/0695_pot2.kvx" { tile 695 }
-voxel "voxels/props/0697_pot3.kvx" { tile 697 }
-voxel "voxels/props/0698_sushi.kvx" { tile 698 } 
+voxel "voxels/props/0691_cleaver.kvx" { ifmatch { size 32 32 crc32 0x4722EED2 } tile 691 }
+voxel "voxels/props/0692_knife.kvx" { ifmatch { size 32 32 crc32 0x1132731B } tile 692 }
+voxel "voxels/props/0694_pot1.kvx" { ifmatch { size 29 20 crc32 0x950999F } tile 694 }
+voxel "voxels/props/0695_pot2.kvx" { ifmatch { size 30 14 crc32 0x9AA64F5F } tile 695 }
+voxel "voxels/props/0697_pot3.kvx" { ifmatch { size 15 8 crc32 0xCD2F6FA3 } tile 697 }
+voxel "voxels/props/0698_sushi.kvx" { ifmatch { size 64 64 crc32 0xB7DC28BD } tile 698 } 
 
-voxel "voxels/props/0700_greypipe6.kvx" { tile 700 } 
+voxel "voxels/props/0700_greypipe6.kvx" { ifmatch { size 33 128 crc32 0xD5F73BD0 } tile 700 } 
 
-voxel "voxels/props/0716_pleasewait.kvx" { tile 716 }
+voxel "voxels/props/0716_pleasewait.kvx" { ifmatch { size 45 75 crc32 0xA1151A4C } tile 716 }
 
-voxel "voxels/props/0753_geisha1.kvx" { tile 753 }
+voxel "voxels/props/0753_geisha1.kvx" { ifmatch { size 32 97 crc32 0x1429073E } tile 753 }
 
-voxel "voxels/props/0762_mike.kvx" { tile 762 }
-voxel "voxels/props/0765_vase.kvx" { tile 765 }
-voxel "voxels/props/0768_sushiplate1.kvx" { tile 768 }
-voxel "voxels/props/0769_sushiplate2.kvx" { tile 769 }
+voxel "voxels/props/0762_mike.kvx" { ifmatch { size 23 70 crc32 0x9AC4599E } tile 762 }
+voxel "voxels/props/0765_vase.kvx" { ifmatch { size 48 84 crc32 0x32F0C63E } tile 765 }
+voxel "voxels/props/0768_sushiplate1.kvx" { ifmatch { size 32 16 crc32 0x45028176 } tile 768 }
+voxel "voxels/props/0769_sushiplate2.kvx" { ifmatch { size 31 9 crc32 0xAB2B3638 } tile 769 }
 
-voxel "voxels/props/0774_sushiplate3.kvx" { tile 774 }
-voxel "voxels/props/0779_sushiplate4.kvx" { tile 779 }
+voxel "voxels/props/0774_sushiplate3.kvx" { ifmatch { size 32 17 crc32 0x97C42E95 } tile 774 }
+voxel "voxels/props/0779_sushiplate4.kvx" { ifmatch { size 31 9 crc32 0x686719BE } tile 779 }
 
-voxel "voxels/props/0792_sushiplate5.kvx" { tile 792 }
+voxel "voxels/props/0792_sushiplate5.kvx" { ifmatch { size 32 14 crc32 0x1A7AD950 } tile 792 }
 
-voxel "voxels/props/0851_sushiplate6.kvx" { tile 851 }
+voxel "voxels/props/0851_sushiplate6.kvx" { ifmatch { size 31 9 crc32 0xDB2EC01 } tile 851 }
 
-voxel "voxels/props/0869_geisha2.kvx" { tile 869 }
+voxel "voxels/props/0869_geisha2.kvx" { ifmatch { size 45 97 crc32 0x95D9A87A } tile 869 }
 
-voxel "voxels/props/0901_stripeball.kvx" { tile 901 }
-voxel "voxels/props/0902_queball.kvx" { tile 902 }
-voxel "voxels/props/0904_constructionbarrier.kvx" { tile0 904 tile1 907 }
-voxel "voxels/props/0908_tree1.kvx" { tile 908 } 
-voxel "voxels/props/0909_treetrunk.kvx" { tile 909 }
+voxel "voxels/props/0901_stripeball.kvx" { ifmatch { size 8 8 crc32 0x7D24C260 } tile 901 }
+voxel "voxels/props/0902_queball.kvx" { ifmatch { size 8 8 crc32 0x5BBA4054 } tile 902 }
+voxel "voxels/props/0904_constructionbarrier.kvx" { ifmatch { size 52 53 crc32 0xEAC44D27 } tile0 904 tile1 907 }
+voxel "voxels/props/0908_tree1.kvx" { ifmatch { size 118 127 crc32 0xEE9B8FF0 } tile 908 } 
+voxel "voxels/props/0909_treetrunk.kvx" { ifmatch { size 8 128 crc32 0x4CD63FF4 } tile 909 }
 
-voxel "voxels/props/0910_tree2.kvx" { tile 910 }
-voxel "voxels/props/0911_cactus.kvx" { tile 911 }
-voxel "voxels/props/0913_maskwall2.kvx" { tile 913 }
-voxel "voxels/props/0914_maskwall3.kvx" { tile 914 }
-voxel "voxels/props/0915_gate.kvx" { tile 915 }
-voxel "voxels/props/0916_fireextinguisher.kvx" { tile 916 }
-voxel "voxels/props/0917_firealarm.kvx" { tile 917 }
-voxel "voxels/props/0918_meter3.kvx" { tile 918 }
-voxel "voxels/props/0919_meter2.kvx" { tile 919 }
+voxel "voxels/props/0910_tree2.kvx" { ifmatch { size 113 128 crc32 0x4ACC033C } tile 910 }
+voxel "voxels/props/0911_cactus.kvx" { ifmatch { size 60 130 crc32 0x598F6DD5 } tile 911 }
+voxel "voxels/props/0913_maskwall2.kvx" { ifmatch { size 128 128 crc32 0xBF573AED } tile 913 }
+voxel "voxels/props/0914_maskwall3.kvx" { ifmatch { size 64 64 crc32 0x7A9AD376 } tile 914 }
+voxel "voxels/props/0915_gate.kvx" { ifmatch { size 128 128 crc32 0x727442E0 } tile 915 }
+voxel "voxels/props/0916_fireextinguisher.kvx" { ifmatch { size 24 48 crc32 0x1A4E1843 } tile 916 }
+voxel "voxels/props/0917_firealarm.kvx" { ifmatch { size 25 34 crc32 0xD0850703 } tile 917 }
+voxel "voxels/props/0918_meter3.kvx" { ifmatch { size 44 111 crc32 0x820D1E1B } tile 918 }
+voxel "voxels/props/0919_meter2.kvx" { ifmatch { size 32 74 crc32 0xF98BB9DA } tile 919 }
 
-voxel "voxels/props/0920_chain.kvx" { tile 920 }
-voxel "voxels/props/0927_trafficlight.kvx" { tile 927 }
+voxel "voxels/props/0920_chain.kvx" { ifmatch { size 14 128 crc32 0xA69E9A6F } tile 920 }
+voxel "voxels/props/0927_trafficlight.kvx" { ifmatch { size 52 24 crc32 0x21B4DE49 } tile 927 }
 
-voxel "voxels/props/0939_cactusstump.kvx" { tile 939 }
+voxel "voxels/props/0939_cactusstump.kvx" { ifmatch { size 41 38 crc32 0x41FA3F74 } tile 939 }
 
-voxel "voxels/props/0940_mine.kvx" { tile0 940 tile1 944 rotate }
+voxel "voxels/props/0940_mine.kvx" { ifmatch { size 72 73 crc32 0xDD93A528 } tile0 940 tile1 944 rotate }
 
-voxel "voxels/props/0950_brokehydrant.kvx" { tile 950 }
-voxel "voxels/props/0951_box.kvx" { tile 951 }
-voxel "voxels/props/0954_bottle1.kvx" { tile 954 }
+voxel "voxels/props/0950_brokehydrant.kvx" { ifmatch { size 38 9 crc32 0x707A564 } tile 950 }
+voxel "voxels/props/0951_box.kvx" { ifmatch { size 39 24 crc32 0x99399CCB } tile 951 }
+voxel "voxels/props/0954_bottle1.kvx" { ifmatch { size 14 16 crc32 0x83130E0C } tile 954 }
 voxel "voxels/props/0955_bottle2.kvx" { ifmatch { size 19 7 crc32 0x45873B38 } tile 955 }
 voxel "voxels/props/0956_bottle3.kvx" { ifmatch { size 10 26 crc32 0x9624DB22 } tile 956 }
-voxel "voxels/props/0957_bottle4.kvx" { tile 957 }
+voxel "voxels/props/0957_bottle4.kvx" { ifmatch { size 16 20 crc32 0xA852AAF8 } tile 957 }
 
-voxel "voxels/props/0962_fence.kvx" { tile 962 }
-voxel "voxels/props/0969_hydroplant.kvx" { tile 969 }
+voxel "voxels/props/0962_fence.kvx" { ifmatch { size 64 128 crc32 0xE2DCFD4F } tile 962 }
+voxel "voxels/props/0969_hydroplant.kvx" { ifmatch { size 64 110 crc32 0x14905513 } tile 969 }
 
-voxel "voxels/props/0971_coral.kvx" { tile 971 }
-voxel "voxels/props/0972_coral.kvx" { tile 972 }
-voxel "voxels/props/0973_stone.kvx" { tile 973 }
-voxel "voxels/props/0974_greenalgae.kvx" { tile 974 }
-voxel "voxels/props/0975_redalgae.kvx" { tile 975 }
-voxel "voxels/props/0976_airvent.kvx" { tile 976 }
-voxel "voxels/props/0977_pole.kvx" { tile 977 }
-voxel "voxels/props/0978_traffic_cone.kvx" { tile 978 }
-voxel "voxels/props/0979_hanglight.kvx" { tile 979 }
+voxel "voxels/props/0971_coral.kvx" { ifmatch { size 75 62 crc32 0x642558E5 } tile 971 }
+voxel "voxels/props/0972_coral.kvx" { ifmatch { size 68 43 crc32 0xFB38290B } tile 972 }
+voxel "voxels/props/0973_stone.kvx" { ifmatch { size 81 49 crc32 0x8F7E33B8 } tile 973 }
+voxel "voxels/props/0974_greenalgae.kvx" { ifmatch { size 20 93 crc32 0x348F937D } tile 974 }
+voxel "voxels/props/0975_redalgae.kvx" { ifmatch { size 33 40 crc32 0x15EC8F61 } tile 975 }
+voxel "voxels/props/0976_airvent.kvx" { ifmatch { size 48 97 crc32 0x10ECF45F } tile 976 }
+voxel "voxels/props/0977_pole.kvx" { ifmatch { size 8 128 crc32 0xCC832806 } tile 977 }
+voxel "voxels/props/0978_traffic_cone.kvx" { ifmatch { size 40 40 crc32 0xB6F6BD89 } tile 978 }
+voxel "voxels/props/0979_hanglight.kvx" { ifmatch { size 42 38 crc32 0x713BCE7A } tile 979 }
 
-voxel "voxels/props/0981_hydrant.kvx" { tile 981 }
+voxel "voxels/props/0981_hydrant.kvx" { ifmatch { size 30 30 crc32 0x1198E210 } tile 981 }
 
-voxel "voxels/props/0990_tires.kvx" { tile 990 }
-voxel "voxels/props/0993_damagedpole.kvx" { tile 993 }
-voxel "voxels/props/0994_pipe1.kvx" { tile 994 }
-voxel "voxels/props/0995_pipe2.kvx" { tile 995 }
-voxel "voxels/props/0996_pipe3.kvx" { tile 996 }
-voxel "voxels/props/0997_damagedpipe1.kvx" { tile 997 }
-voxel "voxels/props/0998_parkingmeter.kvx" { tile0 998 tile1 999 }
+voxel "voxels/props/0990_tires.kvx" { ifmatch { size 65 24 crc32 0x65065E4B } tile 990 }
+voxel "voxels/props/0993_damagedpole.kvx" { ifmatch { size 12 57 crc32 0x660F51ED } tile 993 }
+voxel "voxels/props/0994_pipe1.kvx" { ifmatch { size 22 128 crc32 0x573C0047 } tile 994 }
+voxel "voxels/props/0995_pipe2.kvx" { ifmatch { size 38 128 crc32 0x5106E74A } tile 995 }
+voxel "voxels/props/0996_pipe3.kvx" { ifmatch { size 22 128 crc32 0xE8BD4E1C } tile 996 }
+voxel "voxels/props/0997_damagedpipe1.kvx" { ifmatch { size 22 128 crc32 0x733C2D01 } tile 997 }
+voxel "voxels/props/0998_parkingmeter.kvx" { ifmatch { size 15 60 crc32 0x7C4800BB } tile0 998 tile1 999 }
 
-voxel "voxels/props/1003_brokehydroplant.kvx" { tile 1003 }
-voxel "voxels/props/1005_damagedpipe2.kvx" { tile 1005 }
-voxel "voxels/props/1006_barstool.kvx" { tile 1006 }
+voxel "voxels/props/1003_brokehydroplant.kvx" { ifmatch { size 95 34 crc32 0x9A1E7685 } tile 1003 }
+voxel "voxels/props/1005_damagedpipe2.kvx" { ifmatch { size 22 128 crc32 0xC680E759 } tile 1005 }
+voxel "voxels/props/1006_barstool.kvx" { ifmatch { size 24 60 crc32 0x2649E90A } tile 1006 }
 
-voxel "voxels/props/1012_bottle5.kvx" { tile 1012 }
-voxel "voxels/props/1013_bottle6.kvx" { tile 1013 }
-voxel "voxels/props/1014_gbottle.kvx" { tile 1014 }
+voxel "voxels/props/1012_bottle5.kvx" { ifmatch { size 12 14 crc32 0x4485EF10 } tile 1012 }
+voxel "voxels/props/1013_bottle6.kvx" { ifmatch { size 9 14 crc32 0x6AB26F2E } tile 1013 }
+voxel "voxels/props/1014_gbottle.kvx" { ifmatch { size 31 10 crc32 0x48924BBA } tile 1014 }
 
-voxel "voxels/props/1022_greengoo1.kvx" { tile 1022 }
-voxel "voxels/props/1023_greengoo2.kvx" { tile 1023 }
-voxel "voxels/props/1025_bottle7.kvx" { tile 1025 }
-voxel "voxels/props/1026_constructionbarrier_fallen.kvx" { tile0 1026 tile1 1030 }
+voxel "voxels/props/1022_greengoo1.kvx" { ifmatch { size 21 31 crc32 0xAC2AAACB } tile 1022 }
+voxel "voxels/props/1023_greengoo2.kvx" { ifmatch { size 6 34 crc32 0x1B9A9A2 } tile 1023 }
+voxel "voxels/props/1025_bottle7.kvx" { ifmatch { size 37 70 crc32 0x57BDAAEF } tile 1025 }
+voxel "voxels/props/1026_constructionbarrier_fallen.kvx" { ifmatch { size 52 31 crc32 0xB7F35493 } tile0 1026 tile1 1030 }
 
-voxel "voxels/props/1034_warnlamp1.kvx" { tile 1034 }
-voxel "voxels/props/1035_warnlamp2.kvx" { tile 1035 }
-voxel "voxels/props/1036_warnlamp3.kvx" { tile 1036 }
-voxel "voxels/props/1037_table.kvx" { tile 1037 }
-voxel "voxels/props/1038_horizontalpipe.kvx" { tile 1038 }
+voxel "voxels/props/1034_warnlamp1.kvx" { ifmatch { size 13 17 crc32 0xEDA14BDC } tile 1034 }
+voxel "voxels/props/1035_warnlamp2.kvx" { ifmatch { size 13 17 crc32 0x3AA02DBE } tile 1035 }
+voxel "voxels/props/1036_warnlamp3.kvx" { ifmatch { size 13 17 crc32 0x15C5FCF4 } tile 1036 }
+voxel "voxels/props/1037_table.kvx" { ifmatch { size 64 52 crc32 0x2DACDB7E } tile 1037 }
+voxel "voxels/props/1038_horizontalpipe.kvx" { ifmatch { size 128 8 crc32 0x2D1E1733 } tile 1038 }
 
-voxel "voxels/props/1045_donuts.kvx" { tile 1045 }
-voxel "voxels/props/1048_twocables.kvx" { tile 1048 }
-voxel "voxels/props/1049_electricmeter.kvx" { tile 1049 }
+voxel "voxels/props/1045_donuts.kvx" { ifmatch { size 49 23 crc32 0xE8AE34ED } tile 1045 }
+voxel "voxels/props/1048_twocables.kvx" { ifmatch { size 12 64 crc32 0xE1DB7B14 } tile 1048 }
+voxel "voxels/props/1049_electricmeter.kvx" { ifmatch { size 32 64 crc32 0xA3C72877 } tile 1049 }
 
-voxel "voxels/props/1051_dryer.kvx" { tile 1051 }
-voxel "voxels/props/1052_toweldispenser.kvx" { tile 1052 }
-voxel "voxels/props/1053_toiletpaper.kvx" { tile 1053 } 
-voxel "voxels/props/1055_cameraroll1.kvx" { tile 1055 } 
-voxel "voxels/props/1056_cameraroll2.kvx" { tile 1056 } 
+voxel "voxels/props/1051_dryer.kvx" { ifmatch { size 40 24 crc32 0xF53D5BA6 } tile 1051 }
+voxel "voxels/props/1052_toweldispenser.kvx" { ifmatch { size 32 32 crc32 0xE8E67ECF } tile 1052 }
+voxel "voxels/props/1053_toiletpaper.kvx" { ifmatch { size 16 32 crc32 0x3C0C3914 } tile 1053 } 
+voxel "voxels/props/1055_cameraroll1.kvx" { ifmatch { size 64 64 crc32 0xFCAC3FD4 } tile 1055 } 
+voxel "voxels/props/1056_cameraroll2.kvx" { ifmatch { size 64 64 crc32 0xA3943CBD } tile 1056 } 
 
-voxel "voxels/props/1060_clock.kvx" { tile 1060 }
-voxel "voxels/props/1061_doublespotlight.kvx" { tile 1061 }
-voxel "voxels/props/1062_rubbercan.kvx" { tile 1062 }
-voxel "voxels/props/1063_rubbercanbent.kvx" { tile 1063 }
-voxel "voxels/props/1067_clockbreak.kvx" { tile 1067 }
-voxel "voxels/props/1069_plug.kvx" { tile 1069 }
+voxel "voxels/props/1060_clock.kvx" { ifmatch { size 32 32 crc32 0x29A35A30 } tile 1060 }
+voxel "voxels/props/1061_doublespotlight.kvx" { ifmatch { size 64 24 crc32 0xD3F4324D } tile 1061 }
+voxel "voxels/props/1062_rubbercan.kvx" { ifmatch { size 46 54 crc32 0x58D0A158 } tile 1062 }
+voxel "voxels/props/1063_rubbercanbent.kvx" { ifmatch { size 44 53 crc32 0x16AC5E6E } tile 1063 }
+voxel "voxels/props/1067_clockbreak.kvx" { ifmatch { size 36 34 crc32 0xD8568C14 } tile 1067 }
+voxel "voxels/props/1069_plug.kvx" { ifmatch { size 20 32 crc32 0x677E6B3 } tile 1069 }
 
-voxel "voxels/props/1073_lifebuoy.kvx" { tile 1073 }
-voxel "voxels/props/1075_painting1.kvx" { tile 1075 }
-voxel "voxels/props/1076_painting2.kvx" { tile 1076 }
-voxel "voxels/props/1077_joystick.kvx" { tile 1077 }
-voxel "voxels/props/1078_doublespotlight.kvx" { tile 1078 }
-voxel "voxels/props/1079_oozefilter1.kvx" { tile 1079 }
+voxel "voxels/props/1073_lifebuoy.kvx" { ifmatch { size 48 56 crc32 0x913B9D1B } tile 1073 }
+voxel "voxels/props/1075_painting1.kvx" { ifmatch { size 64 40 crc32 0xFA8DDA23 } tile 1075 }
+voxel "voxels/props/1076_painting2.kvx" { ifmatch { size 72 40 crc32 0x23CBD0B8 } tile 1076 }
+voxel "voxels/props/1077_joystick.kvx" { ifmatch { size 5 8 crc32 0x14C4A1DE } tile 1077 }
+voxel "voxels/props/1078_doublespotlight.kvx" { ifmatch { size 64 24 crc32 0x6E63F18A } tile 1078 }
+voxel "voxels/props/1079_oozefilter1.kvx" { ifmatch { size 26 63 crc32 0xC02F0365 } tile 1079 }
 
-voxel "voxels/props/1080_oozefilter2.kvx" { tile 1080 }
-voxel "voxels/props/1081_oozefilter3.kvx" { tile 1081 }
+voxel "voxels/props/1080_oozefilter2.kvx" { ifmatch { size 26 63 crc32 0x16C32360 } tile 1080 }
+voxel "voxels/props/1081_oozefilter3.kvx" { ifmatch { size 26 63 crc32 0x3B1EDA19 } tile 1081 }
 
-voxel "voxels/props/1115_alienpanel.kvx" { tile 1115 }
+voxel "voxels/props/1115_alienpanel.kvx" { ifmatch { size 59 76 crc32 0x16328E9 } tile 1115 }
 
-voxel "voxels/props/1157_moneyjar.kvx" { tile 1157 }
-voxel "voxels/props/1158_bottle11.kvx" { tile 1158 }
-voxel "voxels/props/1159_bottle12.kvx" { tile 1159 }
+voxel "voxels/props/1157_moneyjar.kvx" { ifmatch { size 16 20 crc32 0x4F60812E } tile 1157 }
+voxel "voxels/props/1158_bottle11.kvx" { ifmatch { size 55 28 crc32 0x673F7F78 } tile 1158 }
+voxel "voxels/props/1159_bottle12.kvx" { ifmatch { size 7 10 crc32 0x1252EF11 } tile 1159 }
 
-voxel "voxels/props/1160_bottle13.kvx" { tile 1160 }
-voxel "voxels/props/1161_bottle14.kvx" { tile 1161 }
-voxel "voxels/props/1162_bottle15.kvx" { tile 1162 }
-voxel "voxels/props/1163_bottle16.kvx" { tile 1163 }
-voxel "voxels/props/1164_bottle17.kvx" { tile 1164 }
-voxel "voxels/props/1165_bottle18.kvx" { tile 1165 }
-voxel "voxels/props/1166_bottle19.kvx" { tile 1166 }
+voxel "voxels/props/1160_bottle13.kvx" { ifmatch { size 9 22 crc32 0xCF31A4C3 } tile 1160 }
+voxel "voxels/props/1161_bottle14.kvx" { ifmatch { size 7 22 crc32 0xE4889470 } tile 1161 }
+voxel "voxels/props/1162_bottle15.kvx" { ifmatch { size 7 22 crc32 0x87F42D85 } tile 1162 }
+voxel "voxels/props/1163_bottle16.kvx" { ifmatch { size 9 24 crc32 0x8CA3EB14 } tile 1163 }
+voxel "voxels/props/1164_bottle17.kvx" { ifmatch { size 9 24 crc32 0xF3226DFF } tile 1164 }
+voxel "voxels/props/1165_bottle18.kvx" { ifmatch { size 8 23 crc32 0x76249879 } tile 1165 }
+voxel "voxels/props/1166_bottle19.kvx" { ifmatch { size 8 23 crc32 0x7E88C78D } tile 1166 }
 
-voxel "voxels/props/1174_bars.kvx" { tile 1174 }
-voxel "voxels/props/1175_damagedbars.kvx" { tile 1175 }
+voxel "voxels/props/1174_bars.kvx" { ifmatch { size 64 64 crc32 0x4C54292 } tile 1174 }
+voxel "voxels/props/1175_damagedbars.kvx" { ifmatch { size 64 64 crc32 0x6ABFAAC0 } tile 1175 }
 
-voxel "voxels/props/1221_cranepole.kvx" { tile 1221 }
-voxel "voxels/props/1222_clawcrane1.kvx" { tile 1222 }
-voxel "voxels/props/1223_clawcrane2.kvx" { tile 1223 }
-voxel "voxels/props/1224_clawcrane3.kvx" { tile 1224 }
-voxel "voxels/props/1225_brokenbar.kvx" { tile 1225 }
-voxel "voxels/props/1227_nukebarrel.kvx" { tile 1227 }
-voxel "voxels/props/1228_nukebarreldented.kvx" { tile 1228 }
-voxel "voxels/props/1229_nukebarrelleaked.kvx" { tile 1229 }
+voxel "voxels/props/1221_cranepole.kvx" { ifmatch { size 7 128 crc32 0x9C60DAF9 } tile 1221 }
+voxel "voxels/props/1222_clawcrane1.kvx" { ifmatch { size 63 45 crc32 0xDAEA9481 } tile 1222 }
+voxel "voxels/props/1223_clawcrane2.kvx" { ifmatch { size 44 48 crc32 0x6405A694 } tile 1223 }
+voxel "voxels/props/1224_clawcrane3.kvx" { ifmatch { size 33 48 crc32 0xDCACA485 } tile 1224 }
+voxel "voxels/props/1225_brokenbar.kvx" { ifmatch { size 11 16 crc32 0x4D2B2B58 } tile 1225 }
+voxel "voxels/props/1227_nukebarrel.kvx" { ifmatch { size 33 50 crc32 0xB79AF41F } tile 1227 }
+voxel "voxels/props/1228_nukebarreldented.kvx" { ifmatch { size 33 49 crc32 0x55E3DBBC } tile 1228 }
+voxel "voxels/props/1229_nukebarrelleaked.kvx" { ifmatch { size 33 49 crc32 0x27CA96DE } tile 1229 }
 
-voxel "voxels/props/1230_nukebarrelbreak.kvx" { tile 1230 }
-voxel "voxels/props/1232_canwithsomething.kvx" { tile 1232 }
-voxel "voxels/props/1233_money1.kvx" { tile 1233 }
-voxel "voxels/props/1234_money2.kvx" { tile 1234 }
-voxel "voxels/props/1235_money3.kvx" { tile 1235 }
-voxel "voxels/props/1238_metalbarrel.kvx" { tile 1238 }
+voxel "voxels/props/1230_nukebarrelbreak.kvx" { ifmatch { size 41 53 crc32 0x7FF2BC0E } tile 1230 }
+voxel "voxels/props/1232_canwithsomething.kvx" { ifmatch { size 38 48 crc32 0xCD065B56 } tile 1232 }
+voxel "voxels/props/1233_money1.kvx" { ifmatch { size 71 46 crc32 0x94CF9D85 } tile 1233 }
+voxel "voxels/props/1234_money2.kvx" { ifmatch { size 72 21 crc32 0x13A6F95 } tile 1234 }
+voxel "voxels/props/1235_money3.kvx" { ifmatch { size 71 46 crc32 0xD228F621 } tile 1235 }
+voxel "voxels/props/1238_metalbarrel.kvx" { ifmatch { size 31 50 crc32 0xA64C5FF6 } tile 1238 }
 
-voxel "voxels/props/1240_firebarrel1.kvx" { tile 1240 }
-voxel "voxels/props/1241_firebarrel2.kvx" { tile 1241 }
-voxel "voxels/props/1242_firebarrel3.kvx" { tile 1242 }
-voxel "voxels/props/1243_firebarrel4.kvx" { tile 1243 }
-voxel "voxels/props/1247_seenine.kvx" { tile 1247 }
+voxel "voxels/props/1240_firebarrel1.kvx" { ifmatch { size 33 56 crc32 0x51BF4E1 } tile 1240 }
+voxel "voxels/props/1241_firebarrel2.kvx" { ifmatch { size 33 55 crc32 0x697DF83A } tile 1241 }
+voxel "voxels/props/1242_firebarrel3.kvx" { ifmatch { size 33 55 crc32 0xB96DFBBF } tile 1242 }
+voxel "voxels/props/1243_firebarrel4.kvx" { ifmatch { size 33 60 crc32 0x7BA5A0A7 } tile 1243 }
+voxel "voxels/props/1247_seenine.kvx" { ifmatch { size 29 63 crc32 0x3F12C5B3 } tile 1247 }
 
-voxel "voxels/props/1260_damagedpipe3.kvx" { tile 1260 }
-voxel "voxels/props/1267_rat.kvx" { tile0 1267 tile1 1270 }
+voxel "voxels/props/1260_damagedpipe3.kvx" { ifmatch { size 38 128 crc32 0xCCB7145 } tile 1260 }
+voxel "voxels/props/1267_rat.kvx" { ifmatch { size 7 6 crc32 0xF05CD93 } tile0 1267 tile1 1270 }
 
-voxel "voxels/props/1337_helicopter1.kvx" { tile 1337 scale 1.5 }
-voxel "voxels/props/1338_helicopter2.kvx" { tile 1338 scale 1.5 }
+voxel "voxels/props/1337_helicopter1.kvx" { ifmatch { size 309 131 crc32 0x2734D930 } tile 1337 scale 1.5 }
+voxel "voxels/props/1338_helicopter2.kvx" { ifmatch { size 309 131 crc32 0xF40E736C } tile 1338 scale 1.5 }
 
-voxel "voxels/props/1340_debris1.kvx" { tile 1340 }
-voxel "voxels/props/1341_debris2.kvx" { tile 1341 }
-voxel "voxels/props/1342_debris3.kvx" { tile 1342 }
-voxel "voxels/props/1343_brokenwheel.kvx" { tile 1343 }
-voxel "voxels/props/1344_propeller.kvx" { tile 1344 }
-voxel "voxels/props/1345_helicopter3.kvx" { tile 1345 scale 1.5 }
-voxel "voxels/props/1346_helicopter4.kvx" { tile 1346 }
+voxel "voxels/props/1340_debris1.kvx" { ifmatch { size 76 27 crc32 0x315EB515 } tile 1340 }
+voxel "voxels/props/1341_debris2.kvx" { ifmatch { size 67 59 crc32 0x431C847A } tile 1341 }
+voxel "voxels/props/1342_debris3.kvx" { ifmatch { size 43 29 crc32 0xBF96D2C6 } tile 1342 }
+voxel "voxels/props/1343_brokenwheel.kvx" { ifmatch { size 50 27 crc32 0xF3174175 } tile 1343 }
+voxel "voxels/props/1344_propeller.kvx" { ifmatch { size 152 30 crc32 0x77843527 } tile 1344 }
+voxel "voxels/props/1345_helicopter3.kvx" { ifmatch { size 300 138 crc32 0xC92B4FB2 } tile 1345 scale 1.5 }
+voxel "voxels/props/1346_helicopter4.kvx" { ifmatch { size 143 122 crc32 0x603FEB20 } tile 1346 }
 
-voxel "voxels/props/1352_monk.kvx" { tile 1352 }
-voxel "voxels/props/1353_spacemarine.kvx" { tile 1353 }
-voxel "voxels/props/1354_skywalker.kvx" { tile 1354 }
+voxel "voxels/props/1352_monk.kvx" { ifmatch { size 25 124 crc32 0x1D542134 } tile 1352 }
+voxel "voxels/props/1353_spacemarine.kvx" { ifmatch { size 43 42 crc32 0x14A60B6C } tile 1353 }
+voxel "voxels/props/1354_skywalker.kvx" { ifmatch { size 37 108 crc32 0x8F8772AF } tile 1354 }
 
-voxel "voxels/props/1390_firevase.kvx" { tile 1390 }
-voxel "voxels/props/1391_firevase.kvx" { tile 1391 }
-voxel "voxels/props/1392_firevase.kvx" { tile 1392 }
-voxel "voxels/props/1393_firevase.kvx" { tile 1393 }
+voxel "voxels/props/1390_firevase.kvx" { ifmatch { size 82 70 crc32 0xCABED9A4 } tile 1390 }
+voxel "voxels/props/1391_firevase.kvx" { ifmatch { size 82 70 crc32 0xF4D9C13D } tile 1391 }
+voxel "voxels/props/1392_firevase.kvx" { ifmatch { size 82 70 crc32 0x5E23FF9C } tile 1392 }
+voxel "voxels/props/1393_firevase.kvx" { ifmatch { size 82 70 crc32 0xFDDC4BEF } tile 1393 }
 
-voxel "voxels/props/1810_cannon.kvx" { tile0 1810 tile1 1816 }
-voxel "voxels/props/1817_cannonball.kvx" { tile 1817 }
-voxel "voxels/props/1818_cannonballs.kvx" { tile 1818 }
+voxel "voxels/props/1810_cannon.kvx" { ifmatch { size 48 43 crc32 0x71E0A64F } tile0 1810 tile1 1816 }
+voxel "voxels/props/1817_cannonball.kvx" { ifmatch { size 19 19 crc32 0x80EDDA7C } tile 1817 }
+voxel "voxels/props/1818_cannonballs.kvx" { ifmatch { size 42 34 crc32 0x77EE1D96 } tile 1818 }
 
-voxel "voxels/props/2200_poo.kvx" { tile 2200 }
+voxel "voxels/props/2200_poo.kvx" { ifmatch { size 34 20 crc32 0x5EB0B4C7 } tile 2200 }
 
-voxel "voxels/props/2254_eyegib.kvx" { tile 2254 }
+voxel "voxels/props/2254_eyegib.kvx" { ifmatch { size 27 9 crc32 0x64ADCBBF } tile 2254 }
 
-voxel "voxels/props/2533_pistol_shell.kvx" { tile 2533 }
-voxel "voxels/props/2534_pistol_shell.kvx" { tile 2534 }
-voxel "voxels/props/2535_shotgun_shell.kvx" { tile 2535 }
+voxel "voxels/props/2533_pistol_shell.kvx" { ifmatch { size 18 17 crc32 0x9B639A02 } tile 2533 }
+voxel "voxels/props/2534_pistol_shell.kvx" { ifmatch { size 15 21 crc32 0x4B815C96 } tile 2534 }
+voxel "voxels/props/2535_shotgun_shell.kvx" { ifmatch { size 20 27 crc32 0xEC325C00 } tile 2535 }
 
-voxel "voxels/props/3400_blimp.kvx" { tile 3400 }
+voxel "voxels/props/3400_blimp.kvx" { ifmatch { size 230 67 crc32 0xC2881D32 } tile 3400 }
 
-voxel "voxels/props/3418_sidemirror.kvx" { tile 3418 }
+voxel "voxels/props/3418_sidemirror.kvx" { ifmatch { size 13 29 crc32 0x740D8510 } tile 3418 }
 
-voxel "voxels/props/4359_target.kvx" { tile 4359 }
+voxel "voxels/props/4359_target.kvx" { ifmatch { size 32 32 crc32 0xF0D7FD74 } tile 4359 }
 
-voxel "voxels/props/4360_gunpowderbarrel.kvx" { tile 4360 }
-voxel "voxels/props/4361_duck.kvx" { tile 4361 }
-voxel "voxels/props/4363_knife.kvx" { tile 4363 }
-voxel "voxels/props/4367_hatrack.kvx" { tile 4367 }
+voxel "voxels/props/4360_gunpowderbarrel.kvx" { ifmatch { size 49 48 crc32 0x47CEAF7E } tile 4360 }
+voxel "voxels/props/4361_duck.kvx" { ifmatch { size 32 32 crc32 0x55165D70 } tile 4361 }
+voxel "voxels/props/4363_knife.kvx" { ifmatch { size 8 64 crc32 0xFFEE2F21 } tile 4363 }
+voxel "voxels/props/4367_hatrack.kvx" { ifmatch { size 32 83 crc32 0x9EE5EF59 } tile 4367 }
 
-voxel "voxels/props/4370_desklamp.kvx" { tile 4370 }
-voxel "voxels/props/4371_plate1.kvx" { tile 4371 }
-voxel "voxels/props/4372_coffeemachine.kvx" { tile 4372 }
-voxel "voxels/props/4373_cups.kvx" { tile 4373 }
-voxel "voxels/props/4374_gavel.kvx" { tile0 4374 tile1 4375 }
-voxel "voxels/props/4377_policelightpole.kvx" { tile 4377 }
+voxel "voxels/props/4370_desklamp.kvx" { ifmatch { size 29 25 crc32 0xC59219BC } tile 4370 }
+voxel "voxels/props/4371_plate1.kvx" { ifmatch { size 33 27 crc32 0xA2E1D416 } tile 4371 }
+voxel "voxels/props/4372_coffeemachine.kvx" { ifmatch { size 31 52 crc32 0x4AD4E441 } tile 4372 }
+voxel "voxels/props/4373_cups.kvx" { ifmatch { size 12 24 crc32 0x4C28B432 } tile 4373 }
+voxel "voxels/props/4374_gavel.kvx" { ifmatch { size 31 7 crc32 0x24F587CB } tile0 4374 tile1 4375 }
+voxel "voxels/props/4377_policelightpole.kvx" { ifmatch { size 26 113 crc32 0x5392B163 } tile 4377 }
 
-voxel "voxels/props/4386_pipe.kvx" { tile 4386 }
-voxel "voxels/props/4387_duketable.kvx" { tile 4387 }
-voxel "voxels/props/4388_bin.kvx" { tile 4388 }
+voxel "voxels/props/4386_pipe.kvx" { ifmatch { size 104 16 crc32 0x18736C0A } tile 4386 }
+voxel "voxels/props/4387_duketable.kvx" { ifmatch { size 64 64 crc32 0x709E39F1 } tile 4387 }
+voxel "voxels/props/4388_bin.kvx" { ifmatch { size 32 52 crc32 0xDC8BC99A } tile 4388 }
 
-voxel "voxels/props/4400_teddybear.kvx" { tile 4400 }
+voxel "voxels/props/4400_teddybear.kvx" { ifmatch { size 64 48 crc32 0x10A70F0 } tile 4400 }
 
-voxel "voxels/props/4406_steeringwheel.kvx" { tile 4406 }
-voxel "voxels/props/4407_mouse1.kvx" { tile 4407 }
-voxel "voxels/props/4408_mouse2.kvx" { tile 4408 }
+voxel "voxels/props/4406_steeringwheel.kvx" { ifmatch { size 84 84 crc32 0xA48C55E7 } tile 4406 }
+voxel "voxels/props/4407_mouse1.kvx" { ifmatch { size 76 90 crc32 0x17E06A5A } tile 4407 }
+voxel "voxels/props/4408_mouse2.kvx" { ifmatch { size 83 86 crc32 0xC401E127 } tile 4408 }
 
-voxel "voxels/props/4410_letter1.kvx" { tile 4410 }
-voxel "voxels/props/4411_letter2.kvx" { tile 4411 }
-voxel "voxels/props/4412_letter3.kvx" { tile 4412 }
-voxel "voxels/props/4413_mailbag.kvx" { tile 4413 }
-voxel "voxels/props/4416_sidemirror1.kvx" { tile 4416 }
-voxel "voxels/props/4417_sidemirror2.kvx" { tile 4417 }
-voxel "voxels/props/4419_brokenpipebomb.kvx" { tile 4419 }
+voxel "voxels/props/4410_letter1.kvx" { ifmatch { size 72 45 crc32 0xC6032027 } tile 4410 }
+voxel "voxels/props/4411_letter2.kvx" { ifmatch { size 72 22 crc32 0xFB12A699 } tile 4411 }
+voxel "voxels/props/4412_letter3.kvx" { ifmatch { size 69 46 crc32 0x321ECD21 } tile 4412 }
+voxel "voxels/props/4413_mailbag.kvx" { ifmatch { size 37 42 crc32 0x1D2B4755 } tile 4413 }
+voxel "voxels/props/4416_sidemirror1.kvx" { ifmatch { size 19 25 crc32 0x2DE78161 } tile 4416 }
+voxel "voxels/props/4417_sidemirror2.kvx" { ifmatch { size 19 25 crc32 0xCF77B880 } tile 4417 }
+voxel "voxels/props/4419_brokenpipebomb.kvx" { ifmatch { size 126 54 crc32 0x9C407864 } tile 4419 }
 
-voxel "voxels/props/4426_bowlingpin.kvx" { tile 4426 }
-voxel "voxels/props/4429_fence1.kvx" { tile 4429 }
+voxel "voxels/props/4426_bowlingpin.kvx" { ifmatch { size 16 32 crc32 0xD274C9FB } tile 4426 }
+voxel "voxels/props/4429_fence1.kvx" { ifmatch { size 128 128 crc32 0xBF573AED } tile 4429 }
 
-voxel "voxels/props/4438_mug.kvx" { tile 4438 }
+voxel "voxels/props/4438_mug.kvx" { ifmatch { size 15 13 crc32 0xF451194A } tile 4438 }
 
-voxel "voxels/props/4440_donuts.kvx" { tile 4440 }
-voxel "voxels/props/4441_mcclain.kvx" { tile 4441 }
-voxel "voxels/props/4442_callahan.kvx" { tile 4442 }
-voxel "voxels/props/4443_usaflag.kvx" { tile 4443 }
-voxel "voxels/props/4444_vhscamera.kvx" { tile 4444 }
-voxel "voxels/props/4446_prisonball.kvx" { tile 4446 }
+voxel "voxels/props/4440_donuts.kvx" { ifmatch { size 28 15 crc32 0x566B7A11 } tile 4440 }
+voxel "voxels/props/4441_mcclain.kvx" { ifmatch { size 53 10 crc32 0x48850580 } tile 4441 }
+voxel "voxels/props/4442_callahan.kvx" { ifmatch { size 65 10 crc32 0xFC1F7EC1 } tile 4442 }
+voxel "voxels/props/4443_usaflag.kvx" { ifmatch { size 24 116 crc32 0x79D6B99E } tile 4443 }
+voxel "voxels/props/4444_vhscamera.kvx" { ifmatch { size 43 86 crc32 0xFE88D312 } tile 4444 }
+voxel "voxels/props/4446_prisonball.kvx" { ifmatch { size 54 26 crc32 0xB29DD84D } tile 4446 }
 
-voxel "voxels/props/4453_meter.kvx" { tile 4453 }
-voxel "voxels/props/4454_deskphone.kvx" { tile 4454 }
-voxel "voxels/props/4457_rope.kvx" { tile 4457 }
-voxel "voxels/props/4458_gumballmachine1.kvx" { tile 4458 }
-voxel "voxels/props/4459_gumballmachine2.kvx" { tile 4459 }
+voxel "voxels/props/4453_meter.kvx" { ifmatch { size 32 23 crc32 0xE5DD4076 } tile 4453 }
+voxel "voxels/props/4454_deskphone.kvx" { ifmatch { size 34 13 crc32 0x8E7C2CC8 } tile 4454 }
+voxel "voxels/props/4457_rope.kvx" { ifmatch { size 32 32 crc32 0x8CC7BA8D } tile 4457 }
+voxel "voxels/props/4458_gumballmachine1.kvx" { ifmatch { size 30 94 crc32 0x45645BB4 } tile 4458 }
+voxel "voxels/props/4459_gumballmachine2.kvx" { ifmatch { size 30 80 crc32 0xA49E5909 } tile 4459 }
 
-voxel "voxels/props/4460_paper1.kvx" { tile 4460 }
-voxel "voxels/props/4461_paper2.kvx" { tile 4461 }
-voxel "voxels/props/4462_paper3.kvx" { tile 4462 }
-voxel "voxels/props/4463_bone.kvx" { tile 4463 }
-voxel "voxels/props/4464_mace.kvx" { tile 4464 }
-voxel "voxels/props/4465_genericpole.kvx" { tile 4465 }
-voxel "voxels/props/4466_presidentpainting1.kvx" { tile 4466 }
-voxel "voxels/props/4467_presidentpainting2.kvx" { tile 4467 }
-voxel "voxels/props/4468_presidentpainting3.kvx" { tile 4468 }
-voxel "voxels/props/4469_presidentpainting4.kvx" { tile 4469 }
+voxel "voxels/props/4460_paper1.kvx" { ifmatch { size 57 45 crc32 0x597CD600 } tile 4460 }
+voxel "voxels/props/4461_paper2.kvx" { ifmatch { size 69 21 crc32 0xD198F328 } tile 4461 }
+voxel "voxels/props/4462_paper3.kvx" { ifmatch { size 45 57 crc32 0xB8ABFAB6 } tile 4462 }
+voxel "voxels/props/4463_bone.kvx" { ifmatch { size 43 12 crc32 0xB5EC1B69 } tile 4463 }
+voxel "voxels/props/4464_mace.kvx" { ifmatch { size 31 25 crc32 0x60265837 } tile 4464 }
+voxel "voxels/props/4465_genericpole.kvx" { ifmatch { size 8 64 crc32 0x6F4A40E1 } tile 4465 }
+voxel "voxels/props/4466_presidentpainting1.kvx" { ifmatch { size 64 64 crc32 0xA9F8BD40 } tile 4466 }
+voxel "voxels/props/4467_presidentpainting2.kvx" { ifmatch { size 64 64 crc32 0x990E174F } tile 4467 }
+voxel "voxels/props/4468_presidentpainting3.kvx" { ifmatch { size 64 64 crc32 0xE4F1D01C } tile 4468 }
+voxel "voxels/props/4469_presidentpainting4.kvx" { ifmatch { size 64 64 crc32 0xD6F02593 } tile 4469 }
 
-voxel "voxels/props/4473_dredd.kvx" { tile 4473 }
+voxel "voxels/props/4473_dredd.kvx" { ifmatch { size 50 9 crc32 0xC3E57AF0 } tile 4473 }
 
-voxel "voxels/props/4480_wires1.kvx" { tile 4480 }
-voxel "voxels/props/4481_wires2.kvx" { tile 4481 }
-voxel "voxels/props/4482_wires3.kvx" { tile 4482 }
+voxel "voxels/props/4480_wires1.kvx" { ifmatch { size 16 64 crc32 0x1337104A } tile 4480 }
+voxel "voxels/props/4481_wires2.kvx" { ifmatch { size 16 64 crc32 0x6B18E91C } tile 4481 }
+voxel "voxels/props/4482_wires3.kvx" { ifmatch { size 16 64 crc32 0x2676C0A5 } tile 4482 }
 
-voxel "voxels/props/4495_wetfloor.kvx" { tile 4495 }
-voxel "voxels/props/4496_broom.kvx" { tile 4496 }
-voxel "voxels/props/4497_mop.kvx" { tile 4497 }
+voxel "voxels/props/4495_wetfloor.kvx" { ifmatch { size 54 70 crc32 0x5E040002 } tile 4495 }
+voxel "voxels/props/4496_broom.kvx" { ifmatch { size 38 83 crc32 0x5B908B12 } tile 4496 }
+voxel "voxels/props/4497_mop.kvx" { ifmatch { size 38 83 crc32 0xB866BF49 } tile 4497 }
 
-voxel "voxels/props/4520_treasurechest.kvx" { tile 4520 }
-voxel "voxels/props/4524_steedhooks.kvx" { tile 4524 }
+voxel "voxels/props/4520_treasurechest.kvx" { ifmatch { size 98 39 crc32 0x59725400 } tile 4520 }
+voxel "voxels/props/4524_steedhooks.kvx" { ifmatch { size 61 63 crc32 0x877F36B6 } tile 4524 }
 
-voxel "voxels/props/4533_kitchenobject.kvx" { tile 4533 }
-voxel "voxels/props/4536_foodobject7.kvx" { tile 4536 }
-voxel "voxels/props/4537_foodobject8.kvx" { tile 4537 }
-voxel "voxels/props/4538_foodobject9.kvx" { tile 4538 }
-voxel "voxels/props/4539_foodobject10.kvx" { tile 4539 }
+voxel "voxels/props/4533_kitchenobject.kvx" { ifmatch { size 32 32 crc32 0xE0275567 } tile 4533 }
+voxel "voxels/props/4536_foodobject7.kvx" { ifmatch { size 14 18 crc32 0x3F349CA } tile 4536 }
+voxel "voxels/props/4537_foodobject8.kvx" { ifmatch { size 29 23 crc32 0x8BF3BD92 } tile 4537 }
+voxel "voxels/props/4538_foodobject9.kvx" { ifmatch { size 29 23 crc32 0xE7A918A5 } tile 4538 }
+voxel "voxels/props/4539_foodobject10.kvx" { ifmatch { size 25 29 crc32 0x39290A85 } tile 4539 }
 
-voxel "voxels/props/4540_foodobject11.kvx" { tile 4540 }
-voxel "voxels/props/4541_foodobject12.kvx" { tile 4541 }
-voxel "voxels/props/4542_foodobject13.kvx" { tile 4542 }
-voxel "voxels/props/4543_foodobject14.kvx" { tile 4543 }
-voxel "voxels/props/4544_foodobject15.kvx" { tile 4544 }
-voxel "voxels/props/4545_foodobject16.kvx" { tile 4545 }
-voxel "voxels/props/4546_foodobject17.kvx" { tile 4546 }
-voxel "voxels/props/4547_foodobject18.kvx" { tile 4547 }
-voxel "voxels/props/4548_foodobject19.kvx" { tile 4548 }
-voxel "voxels/props/4549_foodobject20.kvx" { tile 4549 }
+voxel "voxels/props/4540_foodobject11.kvx" { ifmatch { size 13 10 crc32 0xE59A820B } tile 4540 }
+voxel "voxels/props/4541_foodobject12.kvx" { ifmatch { size 13 10 crc32 0xACB89BD } tile 4541 }
+voxel "voxels/props/4542_foodobject13.kvx" { ifmatch { size 13 13 crc32 0xEE17DDA8 } tile 4542 }
+voxel "voxels/props/4543_foodobject14.kvx" { ifmatch { size 27 7 crc32 0xA160EF49 } tile 4543 }
+voxel "voxels/props/4544_foodobject15.kvx" { ifmatch { size 27 7 crc32 0xAFB2FB15 } tile 4544 }
+voxel "voxels/props/4545_foodobject16.kvx" { ifmatch { size 35 9 crc32 0x6F180129 } tile 4545 }
+voxel "voxels/props/4546_foodobject17.kvx" { ifmatch { size 10 10 crc32 0x61A4AE27 } tile 4546 }
+voxel "voxels/props/4547_foodobject18.kvx" { ifmatch { size 10 11 crc32 0x96F9126F } tile 4547 }
+voxel "voxels/props/4548_foodobject19.kvx" { ifmatch { size 8 14 crc32 0x1F03E677 } tile 4548 }
+voxel "voxels/props/4549_foodobject20.kvx" { ifmatch { size 13 10 crc32 0x429E5934 } tile 4549 }
 
-voxel "voxels/props/4550_redlamp.kvx" { tile 4550 }
-voxel "voxels/props/4552_canwithworms.kvx" { tile 4552 }
-voxel "voxels/props/4554_chicken1.kvx" { tile 4554 }
-voxel "voxels/props/4555_chicken2.kvx" { tile 4555 }
+voxel "voxels/props/4550_redlamp.kvx" { ifmatch { size 10 21 crc32 0xF278ED4B } tile 4550 }
+voxel "voxels/props/4552_canwithworms.kvx" { ifmatch { size 51 17 crc32 0x30299366 } tile 4552 }
+voxel "voxels/props/4554_chicken1.kvx" { ifmatch { size 13 48 crc32 0xF96F2607 } tile 4554 }
+voxel "voxels/props/4555_chicken2.kvx" { ifmatch { size 19 48 crc32 0x708E6A6B } tile 4555 }
 
-voxel "voxels/props/4567_icicles.kvx" { tile 4567 }
-voxel "voxels/props/4569_burgerbox.kvx" { tile 4569 }
+voxel "voxels/props/4567_icicles.kvx" { ifmatch { size 32 16 crc32 0x1F07122F } tile 4567 }
+voxel "voxels/props/4569_burgerbox.kvx" { ifmatch { size 17 12 crc32 0xC984C397 } tile 4569 }
 
-voxel "voxels/props/4576_shoppingcart.kvx" { tile 4576 }
+voxel "voxels/props/4576_shoppingcart.kvx" { ifmatch { size 62 50 crc32 0x3C9ABD0A } tile 4576 }
 
-voxel "voxels/props/4580_canwithsomething2.kvx" { tile 4580 }
-voxel "voxels/props/4581_canwithsomething3.kvx" { tile 4581 }
-voxel "voxels/props/4582_canwithsomething4.kvx" { tile 4582 }
-voxel "voxels/props/4583_pipe.kvx" { tile 4583 }
-voxel "voxels/props/4585_valve.kvx" { tile 4585 }
-voxel "voxels/props/4586_thinpipe1.kvx" { tile 4586 }
-voxel "voxels/props/4587_thinpipe2.kvx" { tile 4587 }
-voxel "voxels/props/4588_sign.kvx" { tile 4588 }
-voxel "voxels/props/4589_warn1.kvx" { tile 4589 }
+voxel "voxels/props/4580_canwithsomething2.kvx" { ifmatch { size 47 62 crc32 0x2ECF6F1A } tile 4580 }
+voxel "voxels/props/4581_canwithsomething3.kvx" { ifmatch { size 47 62 crc32 0x39BDB09D } tile 4581 }
+voxel "voxels/props/4582_canwithsomething4.kvx" { ifmatch { size 47 62 crc32 0x3CCADB0A } tile 4582 }
+voxel "voxels/props/4583_pipe.kvx" { ifmatch { size 24 128 crc32 0x7CE6374F } tile 4583 }
+voxel "voxels/props/4585_valve.kvx" { ifmatch { size 28 23 crc32 0x8BA94801 } tile 4585 }
+voxel "voxels/props/4586_thinpipe1.kvx" { ifmatch { size 9 128 crc32 0x1C6C5C1F } tile 4586 }
+voxel "voxels/props/4587_thinpipe2.kvx" { ifmatch { size 10 128 crc32 0x5AB1333C } tile 4587 }
+voxel "voxels/props/4588_sign.kvx" { ifmatch { size 36 91 crc32 0x5C2446F8 } tile 4588 }
+voxel "voxels/props/4589_warn1.kvx" { ifmatch { size 33 38 crc32 0xA8676E0F } tile 4589 }
 
-voxel "voxels/props/4878_dogpainting1.kvx" { tile 4878 }
-voxel "voxels/props/4879_dogpainting2.kvx" { tile 4879 }
+voxel "voxels/props/4878_dogpainting1.kvx" { ifmatch { size 32 32 crc32 0x5EAE33D2 } tile 4878 }
+voxel "voxels/props/4879_dogpainting2.kvx" { ifmatch { size 64 64 crc32 0xCFA82675 } tile 4879 }
 
-voxel "voxels/props/4885_driverwheel.kvx" { tile 4885 }
-voxel "voxels/props/4887_pleasewait2.kvx" { tile 4887 }
+voxel "voxels/props/4885_driverwheel.kvx" { ifmatch { size 31 31 crc32 0x42FE49E6 } tile 4885 }
+voxel "voxels/props/4887_pleasewait2.kvx" { ifmatch { size 45 69 crc32 0x92A03E4C } tile 4887 }
 
-voxel "voxels/props/4943_jury.kvx" { tile 4943 }
-voxel "voxels/props/4946_baseballbat.kvx" { tile 4946 }
+voxel "voxels/props/4943_jury.kvx" { ifmatch { size 35 103 crc32 0xBF14DF67 } tile 4943 }
+voxel "voxels/props/4946_baseballbat.kvx" { ifmatch { size 7 64 crc32 0x1FD00F04 } tile 4946 }
 
-voxel "voxels/props/5384_lamp.kvx" { tile 5384 }
+voxel "voxels/props/5384_lamp.kvx" { ifmatch { size 20 128 crc32 0xF0FA1B8D } tile 5384 }
 
-voxel "voxels/props/5435_mailbox.kvx" { tile 5435 }
-voxel "voxels/props/5436_lamp.kvx" { tile 5436 }
+voxel "voxels/props/5435_mailbox.kvx" { ifmatch { size 26 64 crc32 0xDD86EA09 } tile 5435 }
+voxel "voxels/props/5436_lamp.kvx" { ifmatch { size 24 32 crc32 0x251CEC4F } tile 5436 }
 
-voxel "voxels/props/5675_bollard.kvx" { tile 5675 }
-voxel "voxels/props/5679_bridgelamp1.kvx" { tile 5679 }
-voxel "voxels/props/5680_bridgelamp2.kvx" { tile 5680 }
+voxel "voxels/props/5675_bollard.kvx" { ifmatch { size 10 50 crc32 0x4CBEBA3C } tile 5675 }
+voxel "voxels/props/5679_bridgelamp1.kvx" { ifmatch { size 53 215 crc32 0x3CFA465C } tile 5679 }
+voxel "voxels/props/5680_bridgelamp2.kvx" { ifmatch { size 39 212 crc32 0x40A5CDFF } tile 5680 }
 
 
 // Duke Caribbean
