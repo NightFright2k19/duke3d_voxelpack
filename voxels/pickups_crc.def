@@ -1,0 +1,98 @@
+// Voxel pickups
+
+// Duke3D
+voxel "voxels/pickups/0021_pistol.kvx" { ifmatch { size 36 20 crc32 0xAD28D280 } tile 21 }
+voxel "voxels/pickups/0022_chaingun.kvx" { ifmatch { size 88 24 crc32 0xCE6912A9 } tile 22 }
+voxel "voxels/pickups/0023_rpg.kvx" { ifmatch { size 77 24 crc32 0xF8F355EA } tile 23 }
+voxel "voxels/pickups/0024_freezer.kvx" { ifmatch { size 71 27 crc32 0xD7CD129B } tile 24 }
+voxel "voxels/pickups/0025_shrinker.kvx" { ifmatch { size 99 30 crc32 0xE00D73D8 } tile 25 }
+voxel "voxels/pickups/0026_pipebomb.kvx" { ifmatch { size 86 38 crc32 0x28B0D9CA } tile 26 }
+voxel "voxels/pickups/0027_tripbomb.kvx" { ifmatch { size 35 12 crc32 0x100DC34E } tile 27 }
+voxel "voxels/pickups/0028_shotgun.kvx" { ifmatch { size 88 25 crc32 0xC526B374 } tile 28 }
+voxel "voxels/pickups/0029_devastator.kvx" { ifmatch { size 79 25 crc32 0xCBC54AFA } tile 29 }
+
+voxel "voxels/pickups/0032_expander.kvx" { ifmatch { size 99 50 crc32 0xD83589EA } tile 32 }
+
+animtilerange 37 39 2 2
+voxel "voxels/pickups/0037_freezerammo1.kvx" { ifmatch { size 34 21 crc32 0xB8E7FE22 } tile 37 }
+voxel "voxels/pickups/0038_freezerammo2.kvx" { ifmatch { size 34 21 crc32 0xFD640184 } tile 38 }
+voxel "voxels/pickups/0039_freezerammo3.kvx" { ifmatch { size 34 21 crc32 0x5358813A } tile 39 }
+
+voxel "voxels/pickups/0040_pistolammo.kvx" { ifmatch { size 30 54 crc32 0xFDD5C19E } scale .9 tile 40 }
+voxel "voxels/pickups/0041_chaingunammo.kvx" { ifmatch { size 57 36 crc32 0xB3FD597F } tile 41 }
+voxel "voxels/pickups/0042_devastatorammo.kvx" { ifmatch { size 45 23 crc32 0xAF98204D } tile 42 }
+voxel "voxels/pickups/0044_rpgammo.kvx" { ifmatch { size 83 42 crc32 0xE663916D } tile 44 }
+voxel "voxels/pickups/0045_growammo.kvx" { ifmatch { size 32 32 crc32 0x1BEDA246 } tile 45 }
+voxel "voxels/pickups/0046_crystal.kvx" { ifmatch { size 40 15 crc32 0x7FAA39F6 } tile 46 }
+voxel "voxels/pickups/0047_pipebombbox.kvx" { ifmatch { size 68 34 crc32 0x9AF7A41C } tile 47 }
+voxel "voxels/pickups/0049_shotgunammo.kvx" { ifmatch { size 45 30 crc32 0x59B81534 } tile 49 }
+
+voxel "voxels/pickups/0051_healthbox.kvx" { ifmatch { size 23 16 crc32 0x667FC8FE } tile 51 }
+voxel "voxels/pickups/0052_healthbottle.kvx" { ifmatch { size 17 27 crc32 0x3106A980 } tile 52 }
+voxel "voxels/pickups/0053_firstaidkit.kvx" { ifmatch { size 54 40 crc32 0x7C6DC8F1 } tile 53 }
+voxel "voxels/pickups/0054_armor.kvx" { ifmatch { size 27 26 crc32 0x88B859B2 } tile 54 }
+voxel "voxels/pickups/0055_steroids.kvx" { ifmatch { size 21 33 crc32 0x87147FB6 } scale .75 tile 55 }
+voxel "voxels/pickups/0056_scuba.kvx" { ifmatch { size 46 49 crc32 0x82D01E01 } tile 56 }
+voxel "voxels/pickups/0057_jetpack.kvx" { ifmatch { size 30 28 crc32 0x97B4CCB2 } tile 57 }
+voxel "voxels/pickups/0059_nightvision.kvx" { ifmatch { size 33 18 crc32 0x60973657 } tile 59 }
+
+voxel "voxels/pickups/0060_keycard.kvx" { ifmatch { size 48 24 crc32 0x1FC23EA3 } tile 60 }
+voxel "voxels/pickups/0061_boots.kvx" { ifmatch { size 30 22 crc32 0x2DBA40FA } tile 61 }
+
+animtilerange 100 115 2 2
+voxel "voxels/pickups/0100_atomichealth1.kvx" { ifmatch { size 27 24 crc32 0xBD55A858 } tile 100 }
+voxel "voxels/pickups/0101_atomichealth2.kvx" { ifmatch { size 27 23 crc32 0xA998381D } tile 101 }
+voxel "voxels/pickups/0102_atomichealth3.kvx" { ifmatch { size 27 23 crc32 0x6327FA4B } tile 102 }
+voxel "voxels/pickups/0103_atomichealth4.kvx" { ifmatch { size 26 21 crc32 0xCAEFC5CC } tile 103 }
+voxel "voxels/pickups/0104_atomichealth5.kvx" { ifmatch { size 24 22 crc32 0xAEB99F60 } tile 104 }
+voxel "voxels/pickups/0105_atomichealth6.kvx" { ifmatch { size 25 25 crc32 0xF10ED0D9 } tile 105 }
+voxel "voxels/pickups/0106_atomichealth7.kvx" { ifmatch { size 28 24 crc32 0x8D44D795 } tile 106 }
+voxel "voxels/pickups/0107_atomichealth8.kvx" { ifmatch { size 29 24 crc32 0x5287D225 } tile 107 }
+voxel "voxels/pickups/0108_atomichealth9.kvx" { ifmatch { size 28 24 crc32 0xE6B9E555 } tile 108 }
+voxel "voxels/pickups/0109_atomichealth10.kvx" { ifmatch { size 28 24 crc32 0x2FA00872 } tile 109 }
+voxel "voxels/pickups/0110_atomichealth11.kvx" { ifmatch { size 28 25 crc32 0xBB5167AF } tile 110 }
+voxel "voxels/pickups/0111_atomichealth12.kvx" { ifmatch { size 27 24 crc32 0xF268299B } tile 111 }
+voxel "voxels/pickups/0112_atomichealth13.kvx" { ifmatch { size 23 24 crc32 0x27736C29 } tile 112 }
+voxel "voxels/pickups/0113_atomichealth14.kvx" { ifmatch { size 26 24 crc32 0xCEB73443 } tile 113 }
+voxel "voxels/pickups/0114_atomichealth15.kvx" { ifmatch { size 28 25 crc32 0x3E267146 } tile 114 }
+voxel "voxels/pickups/0115_atomichealth16.kvx" { ifmatch { size 29 25 crc32 0x37F211CD } tile 115 }
+
+voxel "voxels/pickups/1348_holoduke1.kvx" { ifmatch { size 41 60 crc32 0x62120A26 } tile 1348 }
+voxel "voxels/pickups/1349_holoduke2.kvx" { ifmatch { size 41 60 crc32 0xDD6BD183 } tile 1349 }
+voxel "voxels/pickups/1350_holoduke3.kvx" { ifmatch { size 41 60 crc32 0x23F1AB5B } tile 1350 }
+voxel "voxels/pickups/1351_holoduke4.kvx" { ifmatch { size 41 60 crc32 0x6D6DBCD1 } tile 1351 }
+
+voxel "voxels/pickups/5134_incinerator.kvx" { ifmatch { size 71 35 crc32 0x3910D3D9 } tile 5134 }
+
+animtilerange 5135 5137 2 2
+voxel "voxels/pickups/5135_incineratorammo1.kvx" { ifmatch { size 34 21 crc32 0x948E4A79 } tile 5135 }
+voxel "voxels/pickups/5136_incineratorammo2.kvx" { ifmatch { size 34 21 crc32 0xB6726A8A } tile 5136 }
+voxel "voxels/pickups/5137_incineratorammo3.kvx" { ifmatch { size 34 21 crc32 0x6FC61C1B } tile 5137 }
+
+
+// Duke Caribbean
+voxel "voxels/vacation/pickups/0021_waterpistol.kvx" { ifmatch { size 36 20 crc32 0x3254074E } tile 21 }
+voxel "voxels/vacation/pickups/0022_triplepoisonshooter.kvx" { ifmatch { size 88 25 crc32 0x2962130D } tile 22 }
+voxel "voxels/vacation/pickups/0023_coconutlauncher.kvx" { ifmatch { size 76 25 crc32 0xCBC3A6FB } tile 23 }
+voxel "voxels/vacation/pickups/0024_icecrusher.kvx" { ifmatch { size 65 30 crc32 0x415B524C } tile 24 }
+voxel "voxels/vacation/pickups/0025_voodooring.kvx" { ifmatch { size 39 13 crc32 0xF58803BD } tile 25 }
+voxel "voxels/vacation/pickups/0027_voodootripbomb.kvx" { ifmatch { size 35 12 crc32 0xE1035396 } tile 27 }
+voxel "voxels/vacation/pickups/0028_supersoakem.kvx" { ifmatch { size 87 25 crc32 0x53844423 } tile 28 }
+
+voxel "voxels/vacation/pickups/0037_icecrusherammo1.kvx" { ifmatch { size 29 19 crc32 0xD73986A4 } tile 37 }
+voxel "voxels/vacation/pickups/0038_icecrusherammo2.kvx" { ifmatch { size 29 19 crc32 0x533FDE72 } tile 38 }
+voxel "voxels/vacation/pickups/0039_icecrusherammo3.kvx" { ifmatch { size 29 19 crc32 0xA66F7918 } tile 39 }
+
+voxel "voxels/vacation/pickups/0040_waterpistolammo.kvx" { ifmatch { size 19 50 crc32 0xDC7A944C } tile 40 }
+voxel "voxels/vacation/pickups/0041_triplepoisonshooterammo.kvx" { ifmatch { size 41 30 crc32 0xC545F030 } tile 41 }
+voxel "voxels/vacation/pickups/0049_supersoakemammo.kvx" { ifmatch { size 42 30 crc32 0x7638BBB2 } tile 49 }
+
+voxel "voxels/vacation/pickups/0051_banana.kvx" { ifmatch { size 23 16 crc32 0x7BD6AAB4 } tile 51 }
+voxel "voxels/vacation/pickups/0052_bananabunch.kvx" { ifmatch { size 45 33 crc32 0x84F7DFD6 } tile 52 }
+voxel "voxels/vacation/pickups/0053_bananacrate.kvx" { ifmatch { size 60 43 crc32 0xE1D57C96 } tile 53 }
+voxel "voxels/vacation/pickups/0054_suntanlotion.kvx" { ifmatch { size 18 26 crc32 0x2AB04014 } tile 54 }
+voxel "voxels/vacation/pickups/0055_hotsauce.kvx" { ifmatch { size 22 64 crc32 0x5502998D } tile 55 }
+voxel "voxels/vacation/pickups/0056_snorkle.kvx" { ifmatch { size 46 49 crc32 0xD7BC5F04 } tile 56 }
+voxel "voxels/vacation/pickups/0059_sunglasses.kvx" { ifmatch { size 33 17 crc32 0xBB8E2280 } tile 59 }
+
+voxel "voxels/vacation/pickups/0060_creditcard.kvx" { ifmatch { size 48 24 crc32 0xC754601D } tile 60 }

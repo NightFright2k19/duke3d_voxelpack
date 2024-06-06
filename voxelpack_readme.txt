@@ -425,6 +425,11 @@ CHANGELOG
 
 Version 2.0 RC3 (XXX XX, 2024)
 ------------------------------
+> New: Native EDuke32 support for addon voxels via ifmatch definitions
+     + Requires EDuke32 snapshot 20240604-10578-30deaa520 or newer
+     + Loads duke3d_voxels_crc.def by default
+     + Can be reverted by editing duke3d.def and loading duke3d_voxels.def instead
+
 > Added:
      + rotation_wt.con: Added World Tour's Incinerator and ammo
      + Pickups: 5134-5137 (WT Incinerator + ammo, taken from StrikerDM)
