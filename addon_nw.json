@@ -1,0 +1,23 @@
+{
+  "id": "duke3d-voxel-pack-nw",
+  "type": "Mod",
+  "game": {
+    "name": "Duke3D"
+  },
+  "title": "Voxel Pack for Nuclear Winter",
+  "version": "$version",
+  "def_modules": [
+    "voxels/nwinter.def"
+  ],
+  "dependencies": {
+    "addons": [
+      {
+        "id": "dukenw"
+      },
+      {
+        "id": "duke3d-voxel-pack"
+      }
+    ]
+  },
+  "description": "https://github.com/NightFright2k19/duke3d_voxelpack\r\n\r\nVoxel replacements for sprites in Duke Nukem 3D Nuclear Winter"
+}
