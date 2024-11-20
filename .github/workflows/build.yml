@@ -1,0 +1,52 @@
+name: CI
+
+on:
+  push:
+    branches: [ "master" ]
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    if: "!contains(github.event.head_commit.message, 'SKIP')"
+
+    steps:
+      - uses: actions/checkout@v2
+          
+      - name: Making ZIP
+        run: 7z a -m0=Copy -tzip duke3d_voxels_p${{ github.run_number }}.zip eduke.con duke3d.def duke3d_maphacks.def duke3d_voxels.def duke3d_voxels_crc.def duke3d-raze.def dukegdx.def voxelpack_art_license.txt voxelpack_readme.txt filter maphacks scripts voxels
+      
+      - name: Replacing version in addon.json
+        uses: richardrigutins/replace-in-files@v2
+        with:
+          files: 'addon*.json'
+          search-text: '$version'
+          replacement-text: 'p${{ github.run_number }}'
+          
+      - name: Making BuildLauncher ZIP
+        run: 7z a -m0=Copy -tzip duke3d-voxel-pack_p${{ github.run_number }}.zip eduke.con duke3d_maphacks.def duke3d_voxels.def voxelpack_art_license.txt voxelpack_readme.txt filter maphacks scripts voxels addon.json addon_nw.json addon_vaca.json preview.png
+          
+      - name: Deleting older releases
+        uses: nikhilbadyal/ghaction-rm-releases@v0.0.5
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RELEASE_PATTERN: 'preview_*'
+          
+      - name: Creating new release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: |
+            duke3d_voxels_p${{ github.run_number }}.zip
+            duke3d-voxel-pack_p${{ github.run_number }}.zip
+          name: preview_${{ github.run_number }}
+          tag: preview_${{ github.run_number }}
+          prerelease: true
+          body: |
+            This is a pre-release version of the Duke Nukem 3D Voxel Pack that includes all the latest additions and changes
+            Use `duke3d_voxels_p${{ github.run_number }}.zip` for EDuke32, Raze and BuildGDX
+            or `duke3d-voxel-pack_p${{ github.run_number }}.zip` for [BuildLauncher](https://github.com/fgsfds/BuildLauncher)
+            
