@@ -1,0 +1,14 @@
+{
+  "id": "duke3d-voxel-pack",
+  "type": "Mod",
+  "game": {
+    "name": "Duke3D"
+  },
+  "title": "Voxel Pack",
+  "version": "$version",
+  "def_modules": [
+    "duke3d_voxels.def",
+    "duke3d_maphacks.def"
+  ],
+  "description": "https://github.com/NightFright2k19/duke3d_voxelpack\r\n\r\nVoxel replacements for sprites in Duke Nukem 3D"
+}
