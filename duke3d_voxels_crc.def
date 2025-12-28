@@ -1,17 +1,10 @@
 echo "Duke3D Voxel Pack v2.0 RC3"
 
-// Palette tints
-tint { pal 1 red 100 green 120 blue 148 flags 1 }
-tint { pal 2 red 255 green  48 blue   0 flags 0 }
-tint { pal 4 red   0 green   0 blue   0 flags 0 }
-tint { pal 6 red 224 green 255 blue 112 flags 3 }
-tint { pal 7 red 172 green 157 blue 140 flags 0 }
-tint { pal 8 red 199 green 226 blue 113 flags 1 }
-
 // Voxel definitions
 include voxels/monsters_crc.def
 include voxels/misc_crc.def
 include voxels/pickups_crc.def
+include voxels/player_crc.def
 include voxels/projectiles_crc.def
 include voxels/props_crc.def
 include voxels/signs_crc.def

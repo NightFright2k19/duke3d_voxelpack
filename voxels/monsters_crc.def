@@ -1,25 +1,220 @@
-/*
-// Slimer Egg (675)
-voxel "voxels/monsters/0558_slimeregg0.kvx" { ifmatch { size 54 48 crc32 0x7BFC972D } tile 558 }
-voxel "voxels/monsters/0675_slimeregg1.kvx" { ifmatch { size 54 48 crc32 0xCDB7B86 } tile 675 }
-voxel "voxels/monsters/0676_slimeregg2.kvx" { ifmatch { size 55 49 crc32 0x81560576 } tile 676 }
-voxel "voxels/monsters/0677_slimeregg3.kvx" { ifmatch { size 71 46 crc32 0x78AFE4DE } tile 677 } 
+// Slimer Egg (558)
+voxel "voxels/monsters/0558_egg.kvx" { ifmatch { size 54 48 crc32 0x7BFC972D } tile 558 }
+voxel "voxels/monsters/0675_egg.kvx" { ifmatch { size 54 48 crc32 0xCDB7B86 } tile 675 }
+voxel "voxels/monsters/0676_egg.kvx" { ifmatch { size 55 49 crc32 0x81560576 } tile 676 }
+voxel "voxels/monsters/0677_egg.kvx" { ifmatch { size 71 46 crc32 0x78AFE4DE } tile 677 }
+
+// Mine (940)
+voxel "voxels/monsters/0940_mine.kvx" { ifmatch { size 72 73 crc32 0xDD93A528 } tile 940 rotate }
+voxel "voxels/monsters/0941_mine.kvx" { ifmatch { size 76 74 crc32 0x2FA61B0D } tile 941 rotate }
+voxel "voxels/monsters/0942_mine.kvx" { ifmatch { size 74 74 crc32 0xF1D67B99 } tile 942 rotate }
+voxel "voxels/monsters/0943_mine.kvx" { ifmatch { size 73 74 crc32 0x46ECA75D } tile 943 rotate }
+voxel "voxels/monsters/0944_mine.kvx" { ifmatch { size 76 74 crc32 0x31E0C11D } tile 944 rotate }
+
+// Shark (1550)
+voxel "voxels/monsters/1550_shark.kvx" { ifmatch { size 52 27 crc32 0x9BB10903 } tile 1550 }
+voxel "voxels/monsters/1555_shark.kvx" { ifmatch { size 54 27 crc32 0xD13BF123 } tile 1555 }
+voxel "voxels/monsters/1560_shark.kvx" { ifmatch { size 55 27 crc32 0x2BD35886 } tile 1560 }
+voxel "voxels/monsters/1565_shark.kvx" { ifmatch { size 52 27 crc32 0xE5E7C5E6 } tile 1565 }
+voxel "voxels/monsters/1570_shark.kvx" { ifmatch { size 53 27 crc32 0xDD3B7EF7 } tile 1570 }
+voxel "voxels/monsters/1575_shark.kvx" { ifmatch { size 52 27 crc32 0xE5E7C5E6 } tile 1575 }
+voxel "voxels/monsters/1580_shark.kvx" { ifmatch { size 55 27 crc32 0x2BD35886 } tile 1580 }
+voxel "voxels/monsters/1585_shark.kvx" { ifmatch { size 54 27 crc32 0xD13BF123 } tile 1585 }
+
+// Trooper (1680)
+voxel "voxels/monsters/1680_trooper.kvx" { ifmatch { size 55 78 crc32 0xAF310F3 } tile0 1680 tile1 1684 }
+voxel "voxels/monsters/1685_trooper.kvx" { ifmatch { size 60 85 crc32 0xF7E07EDF } tile0 1685 tile1 1689 }
+voxel "voxels/monsters/1690_trooper.kvx" { ifmatch { size 58 80 crc32 0x1B345561 } tile0 1690 tile1 1694 }
+voxel "voxels/monsters/1695_trooper.kvx" { ifmatch { size 60 85 crc32 0x1106BC20 } tile0 1695 tile1 1699 }
+voxel "voxels/monsters/1700_trooper.kvx" { ifmatch { size 55 83 crc32 0x3BB1DD3 } tile0 1700 tile1 1714 }
+voxel "voxels/monsters/1715_trooper.kvx" { ifmatch { size 57 82 crc32 0x21857F17 } tile0 1715 tile1 1719 }
+voxel "voxels/monsters/1720_trooper.kvx" { ifmatch { size 57 88 crc32 0xC52779B } tile0 1720 tile1 1724 }
+voxel "voxels/monsters/1725_trooper.kvx" { ifmatch { size 58 87 crc32 0xCEFFD4DA } tile0 1725 tile1 1729 }
+voxel "voxels/monsters/1730_trooper.kvx" { ifmatch { size 59 86 crc32 0xA57C681F } tile 1730 }
+voxel "voxels/monsters/1731_trooper.kvx" { ifmatch { size 61 88 crc32 0x9C8D22C2 } tile 1731 }
+voxel "voxels/monsters/1732_trooper.kvx" { ifmatch { size 64 79 crc32 0xA81C805C } tile 1732 }
+voxel "voxels/monsters/1733_trooper.kvx" { ifmatch { size 64 46 crc32 0xFAE74220 } tile 1733 }
+voxel "voxels/monsters/1734_trooper.kvx" { ifmatch { size 64 28 crc32 0x1CD942C8 } tile 1734 }
+voxel "voxels/monsters/1738_trooper.kvx" { ifmatch { size 52 44 crc32 0x6CE1896F } tile 1738 }
+voxel "voxels/monsters/1739_trooper.kvx" { ifmatch { size 50 52 crc32 0xA10BE9F5 } tile 1739 }
+voxel "voxels/monsters/1740_trooper.kvx" { ifmatch { size 50 55 crc32 0x335EF296 } tile 1740 }
+voxel "voxels/monsters/1741_trooper.kvx" { ifmatch { size 57 71 crc32 0x4CE3F597 } tile 1741 }
+voxel "voxels/monsters/1742_trooper.kvx" { ifmatch { size 57 71 crc32 0x4CE3F597 } tile 1742 }
+voxel "voxels/monsters/1744_trooper.kvx" { ifmatch { size 57 61 crc32 0x42E3DF63 } tile0 1744 tile1 1748 }
+voxel "voxels/monsters/1749_trooper.kvx" { ifmatch { size 58 64 crc32 0x5A03E3F2 } tile0 1749 tile1 1751 }
+voxel "voxels/monsters/1754_trooper.kvx" { ifmatch { size 58 86 crc32 0xECAC23DE } tile 1754 }
+voxel "voxels/monsters/1755_trooper.kvx" { ifmatch { size 54 89 crc32 0xD1564692 } tile 1755 }
+voxel "voxels/monsters/1768_head.kvx" { ifmatch { size 20 16 crc32 0x7DB32635 } tile 1768 }
+voxel "voxels/monsters/1769_head.kvx" { ifmatch { size 21 22 crc32 0x4EC93A0C } tile 1769 }
+voxel "voxels/monsters/1770_head.kvx" { ifmatch { size 21 17 crc32 0x6E476DAC } tile 1770 }
+voxel "voxels/monsters/1771_head.kvx" { ifmatch { size 20 24 crc32 0x8401E66C } tile 1771 }
+voxel "voxels/monsters/1776_leg.kvx" { ifmatch { size 64 16 crc32 0x6E22723F } tile 1776 }
+voxel "voxels/monsters/1777_leg.kvx" { ifmatch { size 59 17 crc32 0xCB219737 } tile 1777 }
+voxel "voxels/monsters/1778_leg.kvx" { ifmatch { size 63 23 crc32 0xBC650A8A } tile 1778 }
+voxel "voxels/monsters/1779_leg.kvx" { ifmatch { size 54 23 crc32 0x1AF024C8 } tile 1779 }
+
+// Cannon (1810)
+voxel "voxels/monsters/1810_cannon.kvx" { ifmatch { size 48 43 crc32 0x71E0A64F } tile 1810 }
+
+// Octabrain (1820)
+voxel "voxels/monsters/1820_octa.kvx" { ifmatch { size 63 91 crc32 0xE3E8D9D1 } tile0 1820 tile1 1824 }
+voxel "voxels/monsters/1825_octa.kvx" { ifmatch { size 62 87 crc32 0x36ADEC80 } tile 1825 }
+voxel "voxels/monsters/1830_octa.kvx" { ifmatch { size 64 87 crc32 0x4E025E3 } tile 1830 }
+voxel "voxels/monsters/1835_octa.kvx" { ifmatch { size 64 95 crc32 0x73FE54BE } tile 1835 }
+voxel "voxels/monsters/1840_octa.kvx" { ifmatch { size 64 95 crc32 0xAF71A24D } tile0 1840 tile1 1844 }
+voxel "voxels/monsters/1850_octa.kvx" { ifmatch { size 80 87 crc32 0xA74152BA } tile 1850 }
+voxel "voxels/monsters/1851_octa.kvx" { ifmatch { size 79 74 crc32 0x828651A4 } tile 1851 }
+voxel "voxels/monsters/1852_octa.kvx" { ifmatch { size 80 54 crc32 0xF0FBE666 } tile 1852 }
+voxel "voxels/monsters/1853_octa.kvx" { ifmatch { size 84 48 crc32 0xA9144098 } tile 1853 }
+voxel "voxels/monsters/1854_octa.kvx" { ifmatch { size 82 35 crc32 0x615C625F } tile 1854 }
+voxel "voxels/monsters/1855_octa.kvx" { ifmatch { size 82 32 crc32 0x8C36BE61 } tile 1855 }
 
 // Sentry Drone (1880)
-voxel "voxels/monsters/1880_sentrydrone.kvx" { ifmatch { size 53 39 crc32 0x28832223 } tile0 1880 tile1 1886 }
+voxel "voxels/monsters/1880_drone.kvx" { ifmatch { size 53 39 crc32 0x28832223 } tile0 1880 tile1 1886 }
+
+// Assault Commander (1915)
+voxel "voxels/monsters/1915_comm.kvx" { ifmatch { size 107 68 crc32 0x861D1B3B } tile 1915 }
+voxel "voxels/monsters/1920_comm.kvx" { ifmatch { size 104 68 crc32 0x21CB4655 } tile 1920 }
+voxel "voxels/monsters/1925_comm.kvx" { ifmatch { size 103 67 crc32 0x233A743E } tile 1925 }
+voxel "voxels/monsters/1930_comm.kvx" { ifmatch { size 104 66 crc32 0x12DE1B02 } tile 1930 }
+voxel "voxels/monsters/1940_comm.kvx" { ifmatch { size 116 64 crc32 0x338604B8 } tile 1940 }
+voxel "voxels/monsters/1951_comm.kvx" { ifmatch { size 118 72 crc32 0x8A613DD8 } tile 1951 }
+voxel "voxels/monsters/1952_comm.kvx" { ifmatch { size 114 82 crc32 0x8FB5ABE3 } tile 1952 }
+voxel "voxels/monsters/1953_comm.kvx" { ifmatch { size 116 78 crc32 0x4F8BCA50 } tile 1953 }
+voxel "voxels/monsters/1954_comm.kvx" { ifmatch { size 102 68 crc32 0xE1A78C62 } tile 1954 }
+voxel "voxels/monsters/1955_comm.kvx" { ifmatch { size 95 58 crc32 0xE47F343A } tile 1955 }
+voxel "voxels/monsters/1956_comm.kvx" { ifmatch { size 104 60 crc32 0x2E99338C } tile 1956 }
+voxel "voxels/monsters/1957_comm.kvx" { ifmatch { size 101 56 crc32 0x72632D0B } tile 1957 }
+
+// Pig Cop RPV (1960)
+voxel "voxels/monsters/1960_hover.kvx" { ifmatch { size 75 52 crc32 0xE57F54AE } tile 1960 }
+voxel "voxels/monsters/1967_hover.kvx" { ifmatch { size 61 52 crc32 0xE87825F7 } tile 1967 }
 
 // Pig Cop Tank (1975)
-dummytilerange 1986 1988 66 71
-dummytilerange 1992 1996 66 71
-voxel "voxels/monsters/1975_tank_move1.kvx" { ifmatch { size 66 71 crc32 0x4EE31356 } tile0 1975 tile1 1979 scale .94 }
-voxel "voxels/monsters/1975_tank_move2.kvx" { ifmatch { size 88 73 crc32 0x7ECA00A6 } tile0 1980 tile1 1984 scale .94 }
-voxel "voxels/monsters/1975_tank_shoot1.kvx" { ifmatch { size 75 73 crc32 0xE295F48B } tile0 1985 tile1 1989 scale .94 }
-voxel "voxels/monsters/1975_tank_shoot2.kvx" { ifmatch { size 91 73 crc32 0xA023D4F7 } tile0 1990 tile1 1994 scale .94 }
-voxel "voxels/monsters/1975_tank_empty.kvx" { tile 1995 scale .94 }
-voxel "voxels/monsters/1975_tank_wreck.kvx" { tile 1996 scale .94 }
-*/
+voxel "voxels/monsters/1975_pigtank.kvx" { ifmatch { size 66 71 crc32 0x4EE31356 } tile 1975 }
+voxel "voxels/monsters/1982_pigtank.kvx" { ifmatch { size 66 71 crc32 0x7538DDD8 } tile 1982 }
+voxel "voxels/monsters/1989_pigtank.kvx" { ifmatch { size 66 71 crc32 0x7D10DEF0 } tile 1989 }
 
-// Gun Turret (2350)
-voxel "voxels/monsters/2350_turret1.kvx" { ifmatch { size 26 19 crc32 0x7381CF14 } tile0 2350 tile1 2354 }
-voxel "voxels/monsters/2355_turret2.kvx" { ifmatch { size 26 19 crc32 0xED0AC209 } tile0 2355 tile1 2359 }
-voxel "voxels/monsters/2360_turret3.kvx" { ifmatch { size 26 19 crc32 0x7781E447 } tile0 2360 tile1 2364 }
+// Pig Cop (2004)
+voxel "voxels/monsters/2000_pigcop.kvx" { ifmatch { size 65 78 crc32 0xB4AFDDD7 } tile0 2000 tile1 2004 }
+voxel "voxels/monsters/2005_pigcop.kvx" { ifmatch { size 66 82 crc32 0x5B515C8B } tile0 2005 tile1 2009 }
+voxel "voxels/monsters/2010_pigcop.kvx" { ifmatch { size 64 80 crc32 0x5C3ACF9E } tile0 2010 tile1 2014 }
+voxel "voxels/monsters/2015_pigcop.kvx" { ifmatch { size 66 84 crc32 0xCD1AAC76 } tile0 2015 tile1 2019 }
+voxel "voxels/monsters/2025_pigcop.kvx" { ifmatch { size 56 84 crc32 0x38B2EF76 } tile 2025 }
+voxel "voxels/monsters/2030_pigcop.kvx" { ifmatch { size 51 78 crc32 0x92170BD5 } tile 2030 }
+voxel "voxels/monsters/2035_pigcop.kvx" { ifmatch { size 53 86 crc32 0xB48BF6C4 } tile 2035 }
+voxel "voxels/monsters/2040_pigcop.kvx" { ifmatch { size 62 81 crc32 0x47695424 } tile 2040 }
+voxel "voxels/monsters/2045_pigcop.kvx" { ifmatch { size 69 46 crc32 0x63703588 } tile 2045 }
+voxel "voxels/monsters/2050_pigcop.kvx" { ifmatch { size 68 45 crc32 0x7A8B6EE1 } tile 2050 }
+voxel "voxels/monsters/2055_pigcop.kvx" { ifmatch { size 83 86 crc32 0x31147F0 } tile 2055 }
+voxel "voxels/monsters/2056_pigcop.kvx" { ifmatch { size 72 78 crc32 0xEE4F9449 } tile 2056 }
+voxel "voxels/monsters/2057_pigcop.kvx" { ifmatch { size 74 87 crc32 0x486C6DE0 } tile 2057 }
+voxel "voxels/monsters/2058_pigcop.kvx" { ifmatch { size 78 79 crc32 0x5233CC8A } tile 2058 }
+voxel "voxels/monsters/2059_pigcop.kvx" { ifmatch { size 78 66 crc32 0x67D925B0 } tile 2059 }
+voxel "voxels/monsters/2060_pigcop.kvx" { ifmatch { size 78 37 crc32 0x3C85401C } tile 2060 }
+
+// Enforcer (2120)
+voxel "voxels/monsters/2120_enforcer.kvx" { ifmatch { size 76 77 crc32 0x5B7BA499 } tile 2120 }
+voxel "voxels/monsters/2125_enforcer.kvx" { ifmatch { size 72 76 crc32 0x9735ED48 } tile 2125 }
+voxel "voxels/monsters/2130_enforcer.kvx" { ifmatch { size 77 75 crc32 0xB10C0897 } tile 2130 }
+voxel "voxels/monsters/2135_enforcer.kvx" { ifmatch { size 75 77 crc32 0xC0CB4363 } tile 2135 }
+voxel "voxels/monsters/2140_enforcer.kvx" { ifmatch { size 81 55 crc32 0xBB912129 } tile 2140 }
+voxel "voxels/monsters/2145_enforcer.kvx" { ifmatch { size 82 56 crc32 0x20C32298 } tile 2145 }
+voxel "voxels/monsters/2150_enforcer.kvx" { ifmatch { size 81 55 crc32 0xE4CE8F6 } tile 2150 }
+voxel "voxels/monsters/2165_enforcer.kvx" { ifmatch { size 70 107 crc32 0xCBC4F28F } tile 2165 }
+voxel "voxels/monsters/2170_enforcer.kvx" { ifmatch { size 88 84 crc32 0xEDA15C41 } tile 2170 }
+voxel "voxels/monsters/2175_enforcer.kvx" { ifmatch { size 87 92 crc32 0xFF62CD83 } tile 2175 }
+voxel "voxels/monsters/2180_enforcer.kvx" { ifmatch { size 84 87 crc32 0xFCB96527 } tile 2180 }
+voxel "voxels/monsters/2181_enforcer.kvx" { ifmatch { size 84 99 crc32 0xD2CD57CB } tile 2181 }
+voxel "voxels/monsters/2182_enforcer.kvx" { ifmatch { size 87 91 crc32 0x38EE2D85 } tile 2182 }
+voxel "voxels/monsters/2183_enforcer.kvx" { ifmatch { size 91 62 crc32 0x68B0FB67 } tile 2183 }
+voxel "voxels/monsters/2184_enforcer.kvx" { ifmatch { size 86 35 crc32 0x9F9B9F6F } tile 2184 }
+voxel "voxels/monsters/2185_enforcer.kvx" { ifmatch { size 90 33 crc32 0xC4D59C76 } tile 2185 }
+voxel "voxels/monsters/2190_enforcer.kvx" { ifmatch { size 70 75 crc32 0xE6533568 } tile 2190 }
+voxel "voxels/monsters/2195_enforcer.kvx" { ifmatch { size 69 75 crc32 0x8F4802FA } tile 2195 }
+voxel "voxels/monsters/2201_head.kvx" { ifmatch { size 33 21 crc32 0x39A9B479 } tile 2201 }
+voxel "voxels/monsters/2202_head.kvx" { ifmatch { size 29 25 crc32 0x72313ABA } tile 2202 }
+voxel "voxels/monsters/2203_head.kvx" { ifmatch { size 29 23 crc32 0x9687A9C5 } tile 2203 }
+voxel "voxels/monsters/2204_head.kvx" { ifmatch { size 35 26 crc32 0x57375086 } tile 2204 }
+voxel "voxels/monsters/2205_arm.kvx" { ifmatch { size 65 17 crc32 0xC4FE2EEE } tile 2205 }
+voxel "voxels/monsters/2206_arm.kvx" { ifmatch { size 64 26 crc32 0x79BD2374 } tile 2206 }
+voxel "voxels/monsters/2207_arm.kvx" { ifmatch { size 64 17 crc32 0x35A707AD } tile 2207 }
+voxel "voxels/monsters/2208_arm.kvx" { ifmatch { size 65 24 crc32 0xE1237801 } tile 2208 }
+voxel "voxels/monsters/2209_leg.kvx" { ifmatch { size 47 12 crc32 0xC0F003AC } tile 2209 }
+voxel "voxels/monsters/2210_leg.kvx" { ifmatch { size 43 21 crc32 0x9D2A861 } tile 2210 }
+voxel "voxels/monsters/2211_leg.kvx" { ifmatch { size 42 17 crc32 0x9417565E } tile 2211 }
+voxel "voxels/monsters/2212_leg.kvx" { ifmatch { size 43 27 crc32 0x868958C7 } tile 2212 }
+
+// Turret (2350)
+voxel "voxels/monsters/2350_turret.kvx" { ifmatch { size 26 19 crc32 0x7381CF14 } tile 2350 }
+voxel "voxels/monsters/2355_turret.kvx" { ifmatch { size 26 19 crc32 0xED0AC209 } tile 2355 }
+voxel "voxels/monsters/2360_turret.kvx" { ifmatch { size 26 19 crc32 0x7781E447 } tile 2360 }
+voxel "voxels/monsters/2361_turret.kvx" { ifmatch { size 54 19 crc32 0x95486608 } tile 2361 }
+voxel "voxels/monsters/2362_turret.kvx" { ifmatch { size 59 19 crc32 0x5F333E0F } tile 2362 }
+voxel "voxels/monsters/2363_turret.kvx" { ifmatch { size 51 19 crc32 0x5451E9ED } tile 2363 }
+voxel "voxels/monsters/2364_turret.kvx" { ifmatch { size 28 19 crc32 0xDF63ED9C } tile 2364 }
+
+// Protozoid Slimer (2370)
+voxel "voxels/monsters/2370_slime.kvx" { ifmatch { size 69 42 crc32 0x81BB1925 } tile 2370 }
+voxel "voxels/monsters/2371_slime.kvx" { ifmatch { size 69 43 crc32 0x3014E0C7 } tile 2371 }
+voxel "voxels/monsters/2372_slime.kvx" { ifmatch { size 60 68 crc32 0xBCD8E1DB } tile 2372 }
+voxel "voxels/monsters/2373_slime.kvx" { ifmatch { size 50 78 crc32 0xEC4671CE } tile 2373 }
+voxel "voxels/monsters/2374_slime.kvx" { ifmatch { size 70 35 crc32 0x1381ACD2 } tile 2374 }
+voxel "voxels/monsters/2375_slime.kvx" { ifmatch { size 95 88 crc32 0x8E4BB7FD } tile 2375 }
+voxel "voxels/monsters/2376_slime.kvx" { ifmatch { size 106 82 crc32 0x93FAF176 } tile 2376 }
+voxel "voxels/monsters/2377_slime.kvx" { ifmatch { size 95 76 crc32 0x66CC534C } tile 2377 }
+
+// Battlelord (2630)
+voxel "voxels/monsters/2630_battlelord.kvx" { ifmatch { size 112 116 crc32 0xC1D01EB4 } tile 2630 }
+voxel "voxels/monsters/2640_battlelord.kvx" { ifmatch { size 114 123 crc32 0x947C6658 } tile 2640 }
+voxel "voxels/monsters/2645_battlelord.kvx" { ifmatch { size 108 114 crc32 0x7CDC8E59 } tile 2645 }
+voxel "voxels/monsters/2655_battlelord.kvx" { ifmatch { size 107 120 crc32 0xD20437C6 } tile 2655 }
+voxel "voxels/monsters/2660_battlelord.kvx" { ifmatch { size 108 117 crc32 0x309CB42B } tile 2660 }
+voxel "voxels/monsters/2665_battlelord.kvx" { ifmatch { size 108 117 crc32 0xD97EE46C } tile 2665 }
+voxel "voxels/monsters/2670_battlelord.kvx" { ifmatch { size 100 124 crc32 0x9C9D3A1C } tile 2670 }
+voxel "voxels/monsters/2675_battlelord.kvx" { ifmatch { size 96 120 crc32 0x797B02F7 } tile 2675 }
+voxel "voxels/monsters/2680_battlelord.kvx" { ifmatch { size 134 134 crc32 0x9C8A7475 } tile 2680 }
+voxel "voxels/monsters/2681_battlelord.kvx" { ifmatch { size 114 131 crc32 0xDF31ED5 } tile 2681 }
+voxel "voxels/monsters/2682_battlelord.kvx" { ifmatch { size 114 133 crc32 0x16F32E78 } tile 2682 }
+voxel "voxels/monsters/2683_battlelord.kvx" { ifmatch { size 106 128 crc32 0x3FBD17B6 } tile 2683 }
+voxel "voxels/monsters/2684_battlelord.kvx" { ifmatch { size 132 103 crc32 0xC357A66F } tile 2684 }
+voxel "voxels/monsters/2685_battlelord.kvx" { ifmatch { size 170 52 crc32 0xFFB3B625 } tile 2685 }
+
+// Cycloid Emperor (2710)
+voxel "voxels/monsters/2710_cycloid.kvx" { ifmatch { size 153 124 crc32 0xEF47CD7 } tile 2710 }
+voxel "voxels/monsters/2715_cycloid.kvx" { ifmatch { size 154 128 crc32 0x934B9565 } tile 2715 }
+voxel "voxels/monsters/2720_cycloid.kvx" { ifmatch { size 137 122 crc32 0x40FAC459 } tile 2720 }
+voxel "voxels/monsters/2725_cycloid.kvx" { ifmatch { size 166 128 crc32 0xDFD1CDCD } tile 2725 }
+voxel "voxels/monsters/2730_cycloid.kvx" { ifmatch { size 118 112 crc32 0xB2269C4D } tile 2730 }
+voxel "voxels/monsters/2735_cycloid.kvx" { ifmatch { size 112 111 crc32 0xCA30C91D } tile 2735 }
+voxel "voxels/monsters/2740_cycloid.kvx" { ifmatch { size 138 130 crc32 0x4489970D } tile 2740 }
+voxel "voxels/monsters/2745_cycloid.kvx" { ifmatch { size 201 103 crc32 0xB81A0506 } tile 2745 }
+voxel "voxels/monsters/2750_cycloid.kvx" { ifmatch { size 159 136 crc32 0x77C87C02 } tile 2750 }
+voxel "voxels/monsters/2751_cycloid.kvx" { ifmatch { size 154 115 crc32 0x644B529D } tile 2751 }
+voxel "voxels/monsters/2752_cycloid.kvx" { ifmatch { size 157 101 crc32 0x923F1A25 } tile 2752 }
+voxel "voxels/monsters/2753_cycloid.kvx" { ifmatch { size 152 103 crc32 0x56A5127D } tile 2753 }
+voxel "voxels/monsters/2754_cycloid.kvx" { ifmatch { size 152 103 crc32 0xD4C02CFC } tile 2754 }
+voxel "voxels/monsters/2755_cycloid.kvx" { ifmatch { size 140 96 crc32 0xDFA69063 } tile 2755 }
+voxel "voxels/monsters/2756_cycloid.kvx" { ifmatch { size 150 80 crc32 0x5832101 } tile 2756 }
+voxel "voxels/monsters/2757_cycloid.kvx" { ifmatch { size 153 74 crc32 0x4359BEE7 } tile 2757 }
+voxel "voxels/monsters/2758_cycloid.kvx" { ifmatch { size 149 65 crc32 0x19AC4283 } tile 2758 }
+
+// Overlord (2760)
+voxel "voxels/monsters/2760_overlord.kvx" { ifmatch { size 135 110 crc32 0x778BC212 } tile 2760 }
+voxel "voxels/monsters/2765_overlord.kvx" { ifmatch { size 141 115 crc32 0xD6091122 } tile 2765 }
+voxel "voxels/monsters/2770_overlord.kvx" { ifmatch { size 135 109 crc32 0x9F155B7A } tile 2770 }
+voxel "voxels/monsters/2775_overlord.kvx" { ifmatch { size 142 116 crc32 0xD18287CA } tile 2775 }
+voxel "voxels/monsters/2780_overlord.kvx" { ifmatch { size 151 132 crc32 0xB48ABFBF } tile 2780 }
+voxel "voxels/monsters/2785_overlord.kvx" { ifmatch { size 152 114 crc32 0x833E5594 } tile 2785 }
+voxel "voxels/monsters/2790_overlord.kvx" { ifmatch { size 165 105 crc32 0xAB60C1E2 } tile 2790 }
+voxel "voxels/monsters/2795_overlord.kvx" { ifmatch { size 139 108 crc32 0x48F8D084 } tile 2795 }
+voxel "voxels/monsters/2800_overlord.kvx" { ifmatch { size 124 107 crc32 0x3CE127F3 } tile 2800 }
+voxel "voxels/monsters/2801_overlord.kvx" { ifmatch { size 152 110 crc32 0x585B4290 } tile 2801 }
+voxel "voxels/monsters/2802_overlord.kvx" { ifmatch { size 164 113 crc32 0xBA814E77 } tile 2802 }
+voxel "voxels/monsters/2803_overlord.kvx" { ifmatch { size 159 120 crc32 0x436933BB } tile 2803 }
+voxel "voxels/monsters/2804_overlord.kvx" { ifmatch { size 152 118 crc32 0x2F017ABB } tile 2804 }
+voxel "voxels/monsters/2805_overlord.kvx" { ifmatch { size 153 106 crc32 0x69ECB013 } tile 2805 }
+voxel "voxels/monsters/2806_overlord.kvx" { ifmatch { size 150 100 crc32 0x61D4EB0A } tile 2806 }
+voxel "voxels/monsters/2807_overlord.kvx" { ifmatch { size 148 77 crc32 0x550335F6 } tile 2807 }
+voxel "voxels/monsters/2808_overlord.kvx" { ifmatch { size 144 64 crc32 0xE74437D8 } tile 2808 }
+voxel "voxels/monsters/2809_overlord.kvx" { ifmatch { size 147 64 crc32 0xFD3DE58C } tile 2809 }

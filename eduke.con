@@ -1,6 +1,3 @@
-// Pigcop Tank code
-// include scripts/pigtank.con
-
 include game.con
 
 // Voxel pickups rotation

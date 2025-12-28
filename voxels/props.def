@@ -10,6 +10,15 @@ voxel "voxels/props/0480_observatory.kvx" { tile 480 }
 voxel "voxels/props/0487_spaceshuttle.kvx" { tile 487 }
 voxel "voxels/props/0489_satellite.kvx" { tile 489 }
 
+voxel "voxels/props/0490_hologram.kvx" { tile 490 }
+voxel "voxels/props/0491_hologram.kvx" { tile 491 }
+voxel "voxels/props/0492_hologram.kvx" { tile 492 }
+voxel "voxels/props/0493_hologram.kvx" { tile 493 }
+voxel "voxels/props/0494_hologram.kvx" { tile 494 }
+voxel "voxels/props/0495_hologram.kvx" { tile 495 }
+voxel "voxels/props/0496_hologram.kvx" { tile 496 }
+voxel "voxels/props/0497_hologram.kvx" { tile 497 }
+
 voxel "voxels/props/0516_antennadish.kvx" { tile 516 }
 voxel "voxels/props/0517_gastank.kvx" { tile 517 }
 
@@ -78,6 +87,8 @@ voxel "voxels/props/0670_faucet2.kvx" { scale .9 tile 670 }
 voxel "voxels/props/0671_faucet3.kvx" { scale .9 tile 671 }
 voxel "voxels/props/0678_scale.kvx" { tile 678 }
 
+voxel "voxels/props/0679_hologram.kvx" { tile 679 }
+
 voxel "voxels/props/0680_chair3.kvx" { tile0 680 tile1 684 }
 voxel "voxels/props/0685_stagelamp.kvx" { tile 685 }
 voxel "voxels/props/0686_moviecam.kvx" { tile 686 }
@@ -131,8 +142,6 @@ voxel "voxels/props/0920_chain.kvx" { tile 920 }
 voxel "voxels/props/0927_trafficlight.kvx" { tile 927 }
 
 voxel "voxels/props/0939_cactusstump.kvx" { tile 939 }
-
-voxel "voxels/props/0940_mine.kvx" { tile0 940 tile1 944 rotate }
 
 voxel "voxels/props/0950_brokehydrant.kvx" { tile 950 }
 voxel "voxels/props/0951_box.kvx" { tile 951 }
@@ -272,11 +281,10 @@ voxel "voxels/props/1391_firevase.kvx" { tile 1391 }
 voxel "voxels/props/1392_firevase.kvx" { tile 1392 }
 voxel "voxels/props/1393_firevase.kvx" { tile 1393 }
 
-voxel "voxels/props/1810_cannon.kvx" { tile0 1810 tile1 1816 }
 voxel "voxels/props/1817_cannonball.kvx" { tile 1817 }
 voxel "voxels/props/1818_cannonballs.kvx" { tile 1818 }
 
-voxel "voxels/props/2200_poo.kvx" { tile 2200 }
+voxel "voxels/props/2200_shit.kvx" { tile 2200 }
 
 voxel "voxels/props/2254_eyegib.kvx" { tile 2254 }
 

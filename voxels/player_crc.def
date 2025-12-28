@@ -1,0 +1,52 @@
+voxel "voxels/player/1405_duke.kvx" { ifmatch { size 40 82 crc32 0x9839CBAA } tile0 1405 tile1 1409 }
+voxel "voxels/player/1420_duke.kvx" { ifmatch { size 34 75 crc32 0xCFFE1EE9 } tile0 1420 tile1 1424 }
+voxel "voxels/player/1425_duke.kvx" { ifmatch { size 36 77 crc32 0x917E2507 } tile0 1425 tile1 1429 }
+voxel "voxels/player/1430_duke.kvx" { ifmatch { size 37 83 crc32 0x7E63DA3D } tile0 1430 tile1 1434 }
+voxel "voxels/player/1435_duke.kvx" { ifmatch { size 36 79 crc32 0x6D16B9CB } tile0 1435 tile1 1439 }
+voxel "voxels/player/1440_duke.kvx" { ifmatch { size 37 82 crc32 0x8EE4BFD6 } tile0 1440 tile1 1444 }
+voxel "voxels/player/1445_duke.kvx" { ifmatch { size 48 77 crc32 0x80E2B14F } tile0 1445 tile1 1449 }
+voxel "voxels/player/1450_duke.kvx" { ifmatch { size 49 80 crc32 0x7D24B1A6 } tile0 1450 tile1 1454 }
+voxel "voxels/player/1455_duke.kvx" { ifmatch { size 35 85 crc32 0xDF5D46E8 } tile0 1455 tile1 1459 }
+voxel "voxels/player/1460_duke.kvx" { ifmatch { size 34 63 crc32 0x2225E369 } tile0 1460 tile1 1464 }
+voxel "voxels/player/1465_duke.kvx" { ifmatch { size 34 84 crc32 0x5EB6FD2F } tile0 1465 tile1 1469 }
+voxel "voxels/player/1491_duke.kvx" { ifmatch { size 54 49 crc32 0x7F78F025 } tile0 1491 tile1 1495 }
+voxel "voxels/player/1496_duke.kvx" { ifmatch { size 56 51 crc32 0xF0A73A15 } tile0 1496 tile1 1500 }
+voxel "voxels/player/1501_duke.kvx" { ifmatch { size 56 48 crc32 0x71F001B5 } tile0 1501 tile1 1505 }
+
+voxel "voxels/player/1511_duke.kvx" { ifmatch { size 45 84 crc32 0xC6775DD8 } tile 1511 }
+voxel "voxels/player/1512_duke.kvx" { ifmatch { size 53 70 crc32 0x67B26C2D } tile 1512 }
+voxel "voxels/player/1513_duke.kvx" { ifmatch { size 53 67 crc32 0x24C81FFC } tile 1513 }
+voxel "voxels/player/1514_duke.kvx" { ifmatch { size 55 69 crc32 0x3B474773 } tile 1514 }
+voxel "voxels/player/1515_duke.kvx" { ifmatch { size 51 66 crc32 0xA5F1F6B4 } tile 1515 }
+voxel "voxels/player/1518_duke.kvx" { ifmatch { size 58 21 crc32 0x1F32566F } tile 1518 }
+
+voxel "voxels/player/1521_duke.kvx" { ifmatch { size 30 42 crc32 0x4C0BE1C } tile 1521 }
+voxel "voxels/player/1522_duke.kvx" { ifmatch { size 31 41 crc32 0x25B34882 } tile 1522 }
+voxel "voxels/player/1523_duke.kvx" { ifmatch { size 35 41 crc32 0xBBB05168 } tile 1523 }
+voxel "voxels/player/1524_duke.kvx" { ifmatch { size 38 43 crc32 0x7FC72885 } tile 1524 }
+voxel "voxels/player/1525_duke.kvx" { ifmatch { size 34 43 crc32 0xAE26577B } tile 1525 }
+voxel "voxels/player/1526_duke.kvx" { ifmatch { size 35 42 crc32 0x46A7C492 } tile 1526 }
+voxel "voxels/player/1527_duke.kvx" { ifmatch { size 38 43 crc32 0x3B72439F } tile 1527 }
+
+voxel "voxels/player/1528_arm.kvx" { ifmatch { size 26 36 crc32 0x71C366EB } tile 1528 }
+voxel "voxels/player/1529_arm.kvx" { ifmatch { size 21 40 crc32 0xD694825D } tile 1529 }
+voxel "voxels/player/1530_arm.kvx" { ifmatch { size 19 43 crc32 0x44AA475E } tile 1530 }
+voxel "voxels/player/1531_arm.kvx" { ifmatch { size 14 44 crc32 0xC2E91B13 } tile 1531 }
+voxel "voxels/player/1532_arm.kvx" { ifmatch { size 9 42 crc32 0xAAD4106D } tile 1532 }
+voxel "voxels/player/1533_arm.kvx" { ifmatch { size 16 42 crc32 0xAB6B7A73 } tile 1533 }
+voxel "voxels/player/1534_arm.kvx" { ifmatch { size 23 42 crc32 0xBD116640 } tile 1534 }
+voxel "voxels/player/1535_arm.kvx" { ifmatch { size 28 39 crc32 0x414562B2 } tile 1535 }
+
+voxel "voxels/player/1536_boot.kvx" { ifmatch { size 16 29 crc32 0xCC5F1A83 } tile 1536 }
+voxel "voxels/player/1537_boot.kvx" { ifmatch { size 19 28 crc32 0xF6202E83 } tile 1537 }
+voxel "voxels/player/1538_boot.kvx" { ifmatch { size 22 26 crc32 0x6FBC7D92 } tile 1538 }
+voxel "voxels/player/1539_boot.kvx" { ifmatch { size 22 27 crc32 0xE5EDE0AB } tile 1539 }
+voxel "voxels/player/1540_boot.kvx" { ifmatch { size 23 26 crc32 0x19A97C2D } tile 1540 }
+voxel "voxels/player/1541_boot.kvx" { ifmatch { size 23 26 crc32 0x8B038ABC } tile 1541 }
+voxel "voxels/player/1542_boot.kvx" { ifmatch { size 25 27 crc32 0xA53010D9 } tile 1542 }
+voxel "voxels/player/1543_boot.kvx" { ifmatch { size 22 26 crc32 0x6C84EB9C } tile 1543 }
+
+voxel "voxels/player/1780_duke.kvx" { ifmatch { size 77 49 crc32 0xFEEFEBAA } tile0 1780 tile1 1784 }
+voxel "voxels/player/1785_duke.kvx" { ifmatch { size 70 45 crc32 0xAA141856 } tile0 1785 tile1 1789 }
+voxel "voxels/player/1790_duke.kvx" { ifmatch { size 43 43 crc32 0x79709F2D } tile0 1790 tile1 1794 }
+voxel "voxels/player/1795_duke.kvx" { ifmatch { size 54 43 crc32 0x9A20625F } tile0 1795 tile1 1799 }

@@ -11,6 +11,15 @@ voxel "voxels/props/0480_observatory.kvx" { ifmatch { size 90 102 crc32 0xA6CFDE
 voxel "voxels/props/0487_spaceshuttle.kvx" { ifmatch { size 140 74 crc32 0xAFA526B7 } tile 487 }
 voxel "voxels/props/0489_satellite.kvx" { ifmatch { size 111 91 crc32 0xFBE8563C } tile 489 }
 
+voxel "voxels/props/0490_hologram.kvx" { ifmatch { size 59 50 crc32 0x9C56A772 } tile 490 }
+voxel "voxels/props/0491_hologram.kvx" { ifmatch { size 64 51 crc32 0xC5C1EDD6 } tile 491 }
+voxel "voxels/props/0492_hologram.kvx" { ifmatch { size 68 53 crc32 0xCE5FD8B1 } tile 492 }
+voxel "voxels/props/0493_hologram.kvx" { ifmatch { size 63 55 crc32 0x90320172 } tile 493 }
+voxel "voxels/props/0494_hologram.kvx" { ifmatch { size 61 58 crc32 0xC3F37B40 } tile 494 }
+voxel "voxels/props/0495_hologram.kvx" { ifmatch { size 60 55 crc32 0xD6DD4859 } tile 495 }
+voxel "voxels/props/0496_hologram.kvx" { ifmatch { size 68 53 crc32 0xD6DD4859 } tile 496 }
+voxel "voxels/props/0497_hologram.kvx" { ifmatch { size 62 51 crc32 0x2A0EA6A2 } tile 497 }
+
 voxel "voxels/props/0516_antennadish.kvx" { ifmatch { size 64 128 crc32 0xE4D1DB52 } tile 516 }
 voxel "voxels/props/0517_gastank.kvx" { ifmatch { size 49 64 crc32 0xB3260572 } tile 517 }
 
@@ -79,6 +88,8 @@ voxel "voxels/props/0670_faucet2.kvx" { ifmatch { size 45 13 crc32 0xDDEDA4C6 } 
 voxel "voxels/props/0671_faucet3.kvx" { ifmatch { size 45 13 crc32 0xC56E125F } scale .9 tile 671 }
 voxel "voxels/props/0678_scale.kvx" { ifmatch { size 45 13 crc32 0xC56E125F } tile 678 }
 
+voxel "voxels/props/0679_hologram.kvx" { ifmatch { size 33 40 crc32 0xECD2DF76 } tile 679 }
+
 voxel "voxels/props/0680_chair3.kvx" { ifmatch { size 46 67 crc32 0xF7DDEA46 } tile0 680 tile1 684 }
 voxel "voxels/props/0685_stagelamp.kvx" { ifmatch { size 67 107 crc32 0xABBE1171 } tile 685 }
 voxel "voxels/props/0686_moviecam.kvx" { ifmatch { size 56 93 crc32 0xD5A5921E } tile 686 }
@@ -132,8 +143,6 @@ voxel "voxels/props/0920_chain.kvx" { ifmatch { size 14 128 crc32 0xA69E9A6F } t
 voxel "voxels/props/0927_trafficlight.kvx" { ifmatch { size 52 24 crc32 0x21B4DE49 } tile 927 }
 
 voxel "voxels/props/0939_cactusstump.kvx" { ifmatch { size 41 38 crc32 0x41FA3F74 } tile 939 }
-
-voxel "voxels/props/0940_mine.kvx" { ifmatch { size 72 73 crc32 0xDD93A528 } tile0 940 tile1 944 rotate }
 
 voxel "voxels/props/0950_brokehydrant.kvx" { ifmatch { size 38 9 crc32 0x707A564 } tile 950 }
 voxel "voxels/props/0951_box.kvx" { ifmatch { size 39 24 crc32 0x99399CCB } tile 951 }
@@ -273,11 +282,10 @@ voxel "voxels/props/1391_firevase.kvx" { ifmatch { size 82 70 crc32 0xF4D9C13D }
 voxel "voxels/props/1392_firevase.kvx" { ifmatch { size 82 70 crc32 0x5E23FF9C } tile 1392 }
 voxel "voxels/props/1393_firevase.kvx" { ifmatch { size 82 70 crc32 0xFDDC4BEF } tile 1393 }
 
-voxel "voxels/props/1810_cannon.kvx" { ifmatch { size 48 43 crc32 0x71E0A64F } tile0 1810 tile1 1816 }
 voxel "voxels/props/1817_cannonball.kvx" { ifmatch { size 19 19 crc32 0x80EDDA7C } tile 1817 }
 voxel "voxels/props/1818_cannonballs.kvx" { ifmatch { size 42 34 crc32 0x77EE1D96 } tile 1818 }
 
-voxel "voxels/props/2200_poo.kvx" { ifmatch { size 34 20 crc32 0x5EB0B4C7 } tile 2200 }
+voxel "voxels/props/2200_shit.kvx" { ifmatch { size 34 20 crc32 0x5EB0B4C7 } tile 2200 }
 
 voxel "voxels/props/2254_eyegib.kvx" { ifmatch { size 27 9 crc32 0x64ADCBBF } tile 2254 }
 

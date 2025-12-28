@@ -4,7 +4,7 @@ Duke Nukem 3D Voxel Pack
 ========================
 
 Version:      2.0 (Release Candidate #3)
-Release Date: XXX XX, 2024
+Release Date: XXX XX, 2026
 Authors:      ReaperMan & Duke4.net Community
 
 
@@ -45,11 +45,7 @@ NOTES
 	- EDuke32: Open eduke32.con and remove "//" from line "include scripts/rotation.con"
 	- BuildGDX/Raze: Open dukegdx.def and remove "//" from line "include voxels/pickups_gdx.def"
 
-5) To activate voxels for monsters:
-	- EDuke32: Open duke3d_voxels.def and remove "//" from line "include voxels/monsters.def"
-	- BuildGDX/Raze: Open dukegdx.def and remove "//" from line "include voxels/monsters.def"
-
-6) To activate voxels for addons (EDuke32 only):
+5) To activate voxels for addons (EDuke32 only):
         - Native support for addons is implemented when using EDuke32 20240604-10578-30deaa520 or newer
         - For older EDuke32 builds, manually apply the following changes:
               + duke3d.def: Remove "//" from line "include duke3d_voxels.def"
@@ -90,7 +86,7 @@ Main Development:
 
 Contributions by:
 
-> Borion (193)
+> Borion (189)
      - 25 ............................... Shrinker
      - 32 ............................... Expander
      - 45 ............................... Expander ammo
@@ -112,7 +108,6 @@ Contributions by:
      - 606 .............................. Spacesuit corpse
      - 607/608 .......................... Antenna
      - 669 .............................. Vacuum cleaner
-     - 558/675-677 ...................... Slimer egg
      - 678 .............................. Scale
      - 680-684 .......................... Chair3
      - 685 .............................. Stage light
@@ -217,6 +212,29 @@ Contributions by:
 > brullov (1)
      - 1352 ............................. Hung monk
 
+> Cheello (246)
+     - 490-497 .......................... Hologram Cycloid Emperor
+     - 558/675-677 ...................... Slimer Egg
+     - 679 .............................. Hologram Battlelord
+     - 940-944 .......................... Mine
+     - 1405-1799 ........................ Duke (player)
+     - 1550-1585 ........................ Shark
+     - 1680-1779 ........................ Trooper
+     - 1810 ............................. Cannon
+     - 1820-1855 ........................ Octabrain
+     - 1880 ............................. Sentry Drone
+     - 1915-1957 ........................ Assault Commander
+     - 1960-1967 ........................ Pig Cop RPV
+     - 1975-1989 ........................ Pig Cop Tank
+     - 2000-2060 ........................ Pig Cop
+     - 2120-2212 ........................ Enforcer
+     - 2200 ............................. Shit
+     - 2350-2364 ........................ Turret
+     - 2370-2377 ........................ Protozoid Slimer
+     - 2630-2685 ........................ Battlelord
+     - 2710-2785 ........................ Cycloid Emperor
+     - 2760-2809 ........................ Overlord
+
 > DJP (3)
      - 691 .............................. Cleaver
      - 692 .............................. Knife
@@ -237,7 +255,7 @@ Contributions by:
      - 1069 ............................. Plug
      - 4373 ............................. Cups
 
-> Dzierzan (154)
+> Dzierzan (148)
      - 160 .............................. Door shock
      - 487 .............................. Space shuttle
      - 489 .............................. Satellite
@@ -260,7 +278,6 @@ Contributions by:
      - 688 .............................. Movie clapper
      - 716 .............................. "Please Wait To Be Seated" sign
      - 768/769/774/779/792/851 .......... Sushi plates
-     - 940-944 .......................... Mine
      - 971 .............................. Coral
      - 972 .............................. Coral
      - 973 .............................. Stone
@@ -290,10 +307,8 @@ Contributions by:
      - 1238 ............................. Metal barrel
      - 1267 ............................. Rat
      - 1354 ............................. Skywalker
-     - 1810 ............................. Cannon
      - 1817 ............................. Cannonball
      - 1818 ............................. Cannonballs
-     - 2200 ............................. Poo
      - 2254 ............................. Eye gib
      - 2533-2535 ........................ Pistol/shotgun shells
      - 3190 ............................. Red marker
@@ -427,7 +442,7 @@ and:
 CHANGELOG
 ============================================================================================
 
-Version 2.0 RC3 (XXX XX, 2024)
+Version 2.0 RC3 (XXX XX, 2026)
 ------------------------------
 > New: Native EDuke32 support for addon voxels via ifmatch definitions
      + Requires EDuke32 snapshot 20240604-10578-30deaa520 or newer
@@ -435,17 +450,21 @@ Version 2.0 RC3 (XXX XX, 2024)
      + Can be reverted by editing duke3d.def and loading duke3d_voxels.def instead
 
 > Added:
+     + Monsters (taken from Cheello's "Voxel Duke Nukem 3D"; currently missing: Sentry Drone, Alien Queen)
+     + Player (taken from Cheello's "Voxel Duke Nukem 3D")
      + rotation_wt.con: Added World Tour's Incinerator and ammo
      + Pickups: 5134-5137 (WT Incinerator + ammo, taken from StrikerDM)
-     + Props: 516 (antenna dish), 632 (pipe end), 686 (movie camera), 940 (mine), 971/972 (coral),
-              973 (stone), 1174/1175 (metal bars), 1225 (broken pipe), 1352 (hung monk), 
-              1354 (Skywalker), 2254 (eye gib), 2533-2535 (pistol/shotgun shells), 4460-4462 (papers)
+     + Props: 490-497 (Cycloid Emperor hologram), 516 (antenna dish), 632 (pipe end), 679 (Battlelord hologram), 
+              686 (movie camera), 940 (mine), 971/972 (coral), 973 (stone), 1174/1175 (metal bars), 
+              1225 (broken pipe), 1352 (hung monk), 1354 (Skywalker), 2254 (eye gib), 
+              2533-2535 (pistol/shotgun shells), 4460-4462 (papers)
      + Signs: 4380 ("Canine Burger Society")
      + NWinter: 3663 (bulb), 3782 (gift1), 3786 (gift2)
 
 > Updated:
+     + Monsters: 940-944 (mine) 
      + Pickups: 60 (access card - fixed 22 skin pixels)
-     + Props: 487 (space shuttle), 4407/4408 (annoying mouse)
+     + Props: 487 (space shuttle), 2200 (shit), 4407/4408 (annoying mouse)
      + Vacation: Pivot fixes for 3791 (coolbox) and 3792 (radio)
      + Maphacks: E2L7 (#1354 Skywalker), E4L4 (#4359 target)
 

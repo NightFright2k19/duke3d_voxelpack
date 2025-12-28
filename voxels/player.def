@@ -1,0 +1,52 @@
+voxel "voxels/player/1405_duke.kvx" { tile0 1405 tile1 1409 }
+voxel "voxels/player/1420_duke.kvx" { tile0 1420 tile1 1424 }
+voxel "voxels/player/1425_duke.kvx" { tile0 1425 tile1 1429 }
+voxel "voxels/player/1430_duke.kvx" { tile0 1430 tile1 1434 }
+voxel "voxels/player/1435_duke.kvx" { tile0 1435 tile1 1439 }
+voxel "voxels/player/1440_duke.kvx" { tile0 1440 tile1 1444 }
+voxel "voxels/player/1445_duke.kvx" { tile0 1445 tile1 1449 }
+voxel "voxels/player/1450_duke.kvx" { tile0 1450 tile1 1454 }
+voxel "voxels/player/1455_duke.kvx" { tile0 1455 tile1 1459 }
+voxel "voxels/player/1460_duke.kvx" { tile0 1460 tile1 1464 }
+voxel "voxels/player/1465_duke.kvx" { tile0 1465 tile1 1469 }
+voxel "voxels/player/1491_duke.kvx" { tile0 1491 tile1 1495 }
+voxel "voxels/player/1496_duke.kvx" { tile0 1496 tile1 1500 }
+voxel "voxels/player/1501_duke.kvx" { tile0 1501 tile1 1505 }
+
+voxel "voxels/player/1511_duke.kvx" { tile 1511 }
+voxel "voxels/player/1512_duke.kvx" { tile 1512 }
+voxel "voxels/player/1513_duke.kvx" { tile 1513 }
+voxel "voxels/player/1514_duke.kvx" { tile 1514 }
+voxel "voxels/player/1515_duke.kvx" { tile 1515 }
+voxel "voxels/player/1518_duke.kvx" { tile 1518 }
+
+voxel "voxels/player/1521_duke.kvx" { tile 1521 }
+voxel "voxels/player/1522_duke.kvx" { tile 1522 }
+voxel "voxels/player/1523_duke.kvx" { tile 1523 }
+voxel "voxels/player/1524_duke.kvx" { tile 1524 }
+voxel "voxels/player/1525_duke.kvx" { tile 1525 }
+voxel "voxels/player/1526_duke.kvx" { tile 1526 }
+voxel "voxels/player/1527_duke.kvx" { tile 1527 }
+
+voxel "voxels/player/1528_arm.kvx" { tile 1528 }
+voxel "voxels/player/1529_arm.kvx" { tile 1529 }
+voxel "voxels/player/1530_arm.kvx" { tile 1530 }
+voxel "voxels/player/1531_arm.kvx" { tile 1531 }
+voxel "voxels/player/1532_arm.kvx" { tile 1532 }
+voxel "voxels/player/1533_arm.kvx" { tile 1533 }
+voxel "voxels/player/1534_arm.kvx" { tile 1534 }
+voxel "voxels/player/1535_arm.kvx" { tile 1535 }
+
+voxel "voxels/player/1536_boot.kvx" { tile 1536 }
+voxel "voxels/player/1537_boot.kvx" { tile 1537 }
+voxel "voxels/player/1538_boot.kvx" { tile 1538 }
+voxel "voxels/player/1539_boot.kvx" { tile 1539 }
+voxel "voxels/player/1540_boot.kvx" { tile 1540 }
+voxel "voxels/player/1541_boot.kvx" { tile 1541 }
+voxel "voxels/player/1542_boot.kvx" { tile 1542 }
+voxel "voxels/player/1543_boot.kvx" { tile 1543 }
+
+voxel "voxels/player/1780_duke.kvx" { tile0 1780 tile1 1784 }
+voxel "voxels/player/1785_duke.kvx" { tile0 1785 tile1 1789 }
+voxel "voxels/player/1790_duke.kvx" { tile0 1790 tile1 1794 }
+voxel "voxels/player/1795_duke.kvx" { tile0 1795 tile1 1799 }
