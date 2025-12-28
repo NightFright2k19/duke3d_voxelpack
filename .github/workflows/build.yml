@@ -46,7 +46,11 @@ jobs:
           tag: preview_${{ github.run_number }}
           prerelease: true
           body: |
-            This is a pre-release version of the Duke Nukem 3D Voxel Pack that includes all the latest additions and changes
+            This is a pre-release version of the "Duke Nukem 3D Voxel Pack" which includes latest additions and changes.
+
+            **Warning:
+            This build has been compiled automatically via script. It has NOT been tested, so use it at your own risk!**
+
             Use `duke3d_voxels_p${{ github.run_number }}.zip` for EDuke32, Raze and BuildGDX
-            or `duke3d-voxel-pack_p${{ github.run_number }}.zip` for [BuildLauncher](https://github.com/fgsfds/BuildLauncher)
+            or `duke3d-voxel-pack_p${{ github.run_number }}.zip` for [BuildLauncher](https://github.com/fgsfds/BuildLauncher).
             
