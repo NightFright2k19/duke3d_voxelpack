@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v2
           
       - name: Making ZIP
-        run: 7z a -m0=Copy -tzip duke3d_voxels_p${{ github.run_number }}.zip eduke.con duke3d.def duke3d_maphacks.def duke3d_voxels.def duke3d_voxels_crc.def duke3d-raze.def dukegdx.def voxelpack_art_license.txt voxelpack_readme.txt filter maphacks scripts voxels
+        run: 7z a -m5=Normal -tzip duke3d_voxels_p${{ github.run_number }}.zip eduke.con duke3d.def duke3d_maphacks.def duke3d_voxels.def duke3d_voxels_crc.def duke3d-raze.def dukegdx.def voxelpack_art_license.txt voxelpack_readme.txt filter maphacks scripts voxels
       
       - name: Replacing version in addon.json
         uses: richardrigutins/replace-in-files@v2
@@ -28,7 +28,7 @@ jobs:
           replacement-text: 'p${{ github.run_number }}'
           
       - name: Making BuildLauncher ZIP
-        run: 7z a -m0=Copy -tzip duke3d-voxel-pack_p${{ github.run_number }}.zip eduke.con duke3d_maphacks.def duke3d_voxels.def voxelpack_art_license.txt voxelpack_readme.txt filter maphacks scripts voxels addon.json addon_nw.json addon_vaca.json preview.png
+        run: 7z a -m5=Normal -tzip duke3d-voxel-pack_p${{ github.run_number }}.zip eduke.con duke3d_maphacks.def duke3d_voxels.def voxelpack_art_license.txt voxelpack_readme.txt filter maphacks scripts voxels addon.json addon_nw.json addon_vaca.json
           
       - name: Deleting older releases
         uses: nikhilbadyal/ghaction-rm-releases@v0.0.5

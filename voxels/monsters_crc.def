@@ -6,10 +6,10 @@ voxel "voxels/monsters/0677_egg.kvx" { ifmatch { size 71 46 crc32 0x78AFE4DE } t
 
 // Mine (940)
 voxel "voxels/monsters/0940_mine.kvx" { ifmatch { size 72 73 crc32 0xDD93A528 } tile 940 rotate }
-voxel "voxels/monsters/0941_mine.kvx" { ifmatch { size 76 74 crc32 0x2FA61B0D } tile 941 rotate }
-voxel "voxels/monsters/0942_mine.kvx" { ifmatch { size 74 74 crc32 0xF1D67B99 } tile 942 rotate }
-voxel "voxels/monsters/0943_mine.kvx" { ifmatch { size 73 74 crc32 0x46ECA75D } tile 943 rotate }
-voxel "voxels/monsters/0944_mine.kvx" { ifmatch { size 76 74 crc32 0x31E0C11D } tile 944 rotate }
+voxel "voxels/monsters/0940_mine.kvx" { ifmatch { size 76 74 crc32 0x2FA61B0D } tile 941 rotate }
+voxel "voxels/monsters/0940_mine.kvx" { ifmatch { size 74 74 crc32 0xF1D67B99 } tile 942 rotate }
+voxel "voxels/monsters/0940_mine.kvx" { ifmatch { size 73 74 crc32 0x46ECA75D } tile 943 rotate }
+voxel "voxels/monsters/0940_mine.kvx" { ifmatch { size 76 74 crc32 0x31E0C11D } tile 944 rotate }
 
 // Shark (1550)
 voxel "voxels/monsters/1550_shark.kvx" { ifmatch { size 52 27 crc32 0x9BB10903 } tile 1550 }

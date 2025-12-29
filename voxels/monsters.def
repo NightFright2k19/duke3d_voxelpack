@@ -6,10 +6,10 @@ voxel "voxels/monsters/0677_egg.kvx" { tile 677 }
 
 // Mine (940)
 voxel "voxels/monsters/0940_mine.kvx" { tile 940 rotate }
-voxel "voxels/monsters/0941_mine.kvx" { tile 941 rotate }
-voxel "voxels/monsters/0942_mine.kvx" { tile 942 rotate }
-voxel "voxels/monsters/0943_mine.kvx" { tile 943 rotate }
-voxel "voxels/monsters/0944_mine.kvx" { tile 944 rotate }
+voxel "voxels/monsters/0940_mine.kvx" { tile 941 rotate }
+voxel "voxels/monsters/0940_mine.kvx" { tile 942 rotate }
+voxel "voxels/monsters/0940_mine.kvx" { tile 943 rotate }
+voxel "voxels/monsters/0940_mine.kvx" { tile 944 rotate }
 
 // Shark (1550)
 voxel "voxels/monsters/1550_shark.kvx" { tile 1550 }

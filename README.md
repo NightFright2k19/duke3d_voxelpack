@@ -32,6 +32,7 @@ Meant to be used with the <a href="http://dukeworld.duke4.net/eduke32" target= "
 
 - Borion
 - brullov
+- Cheello
 - DJP
 - DotK3D
 - Dzierzan

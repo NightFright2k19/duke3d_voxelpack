@@ -1,5 +1,7 @@
 include game.con
 
-// Voxel pickups rotation
+// Voxel rotation: Atomic
 // include scripts/rotation.con
+
+// Voxel rotation: World Tour
 // include scripts/rotation_wt.con

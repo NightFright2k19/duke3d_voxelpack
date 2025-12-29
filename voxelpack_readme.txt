@@ -212,7 +212,7 @@ Contributions by:
 > brullov (1)
      - 1352 ............................. Hung monk
 
-> Cheello (246)
+> Cheello (242)
      - 490-497 .......................... Hologram Cycloid Emperor
      - 558/675-677 ...................... Slimer Egg
      - 679 .............................. Hologram Battlelord
