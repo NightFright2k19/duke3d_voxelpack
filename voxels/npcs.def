@@ -1,0 +1,86 @@
+// Hanging babe (603)
+voxel "voxels/npcs/0603_babe.kvx" { tile 603 }
+
+// Geisha (753)
+voxel "voxels/npcs/0753_geisha.kvx" { tile 753 }
+voxel "voxels/npcs/0869_geisha.kvx" { tile 869 }
+
+// Cocoon Babe (1294)
+voxel "voxels/npcs/1294_cocoon.kvx" { tile 1294 }
+voxel "voxels/npcs/1295_cocoon.kvx" { tile 1295 }
+voxel "voxels/npcs/1296_cocoon.kvx" { tile 1296 }
+
+// Stipper (1312)
+voxel "voxels/npcs/1312_stripper.kvx" { tile 1312 }
+voxel "voxels/npcs/1313_stripper.kvx" { tile 1313 }
+voxel "voxels/npcs/1314_stripper.kvx" { tile 1314 }
+voxel "voxels/npcs/1315_stripper.kvx" { tile 1315 }
+voxel "voxels/npcs/1316_stripper.kvx" { tile 1316 }
+voxel "voxels/npcs/1331_stripper.kvx" { tile 1331 }
+voxel "voxels/npcs/1332_stripper.kvx" { tile 1332 }
+voxel "voxels/npcs/1333_stripper.kvx" { tile 1333 }
+
+// Pole Stripper (1317)
+voxel "voxels/npcs/1317_stripper.kvx" { tile 1317 }
+voxel "voxels/npcs/1318_stripper.kvx" { tile 1318 }
+voxel "voxels/npcs/1319_stripper.kvx" { tile 1319 }
+voxel "voxels/npcs/1320_stripper.kvx" { tile 1320 }
+
+// Hooker (1321)
+voxel "voxels/npcs/1321_hooker.kvx" { tile 1321 }
+voxel "voxels/npcs/1322_hooker.kvx" { tile 1322 }
+
+// Babe (1323)
+voxel "voxels/npcs/1323_babe.kvx" { tile 1323 }
+voxel "voxels/npcs/1324_spire.kvx" { tile 1324 }
+
+// Wild Woman (1325)
+voxel "voxels/npcs/1325_wild.kvx" { tile 1325 }
+voxel "voxels/npcs/1326_wild.kvx" { tile 1326 }
+voxel "voxels/npcs/1327_wild.kvx" { tile 1327 }
+voxel "voxels/npcs/1328_wild.kvx" { tile 1328 }
+voxel "voxels/npcs/1329_wild.kvx" { tile 1329 }
+voxel "voxels/npcs/1330_wild.kvx" { tile 1330 }
+
+// Tied-up Babe (1334)
+voxel "voxels/npcs/1334_babe.kvx" { tile 1334 }
+voxel "voxels/npcs/1335_babe.kvx" { tile 1335 }
+
+// Monk (1352)
+voxel "voxels/npcs/1352_monk.kvx" { tile 1352 }
+
+// Doom Marine (1353)
+voxel "voxels/npcs/1353_doomguy.kvx" { tile 1353 }
+
+// Luke Skywalker (1354)
+voxel "voxels/npcs/1354_luke.kvx" { tile 1354 }
+
+// Indiana Jones (1355)
+voxel "voxels/npcs/1355_indiana.kvx" { tile 1355 }
+
+// Terminator (1356)
+voxel "voxels/npcs/1356_terminator.kvx" { tile 1356 }
+voxel "voxels/npcs/1357_terminator.kvx" { tile 1357 }
+
+// Asian Babe (1395)
+voxel "voxels/npcs/1395_babe.kvx" { tile 1395 }
+voxel "voxels/npcs/1396_babe.kvx" { tile 1396 }
+voxel "voxels/npcs/1397_babe.kvx" { tile 1397 }
+voxel "voxels/npcs/1398_babe.kvx" { tile 1398 }
+
+// Cheerleader (3450)
+voxel "voxels/npcs/3450_cheerleader.kvx" { tile 3450 }
+voxel "voxels/npcs/3451_cheerleader.kvx" { tile 3451 }
+voxel "voxels/npcs/3452_cheerleader.kvx" { tile 3452 }
+voxel "voxels/npcs/3453_cheerleader.kvx" { tile 3453 }
+voxel "voxels/npcs/3454_cheerleader.kvx" { tile 3454 }
+voxel "voxels/npcs/3455_cheerleader.kvx" { tile 3455 }
+
+// Mouse Mascot (4407)
+voxel "voxels/npcs/4407_mouse.kvx" { tile 4407 }
+voxel "voxels/npcs/4408_mouse.kvx" { tile 4408 }
+
+// Scrappy Due (4560)
+voxel "voxels/npcs/4560_scrappy.kvx" { tile 4560 }
+voxel "voxels/npcs/4561_scrappy.kvx" { tile 4561 }
+voxel "voxels/npcs/4562_scrappy.kvx" { tile 4562 }

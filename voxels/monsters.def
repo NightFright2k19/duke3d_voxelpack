@@ -54,7 +54,7 @@ voxel "voxels/monsters/1778_leg.kvx" { tile 1778 }
 voxel "voxels/monsters/1779_leg.kvx" { tile 1779 }
 
 // Cannon (1810)
-voxel "voxels/monsters/1810_cannon.kvx" { tile 1810 }
+voxel "voxels/monsters/1810_cannon.kvx" { tile0 1810 tile1 1816 }
 
 // Octabrain (1820)
 voxel "voxels/monsters/1820_octa.kvx" { tile0 1820 tile1 1824 }

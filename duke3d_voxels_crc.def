@@ -3,6 +3,7 @@ echo "Duke3D Voxel Pack v2.0 RC3"
 // Voxel definitions
 include voxels/monsters_crc.def
 include voxels/misc_crc.def
+include voxels/npcs_crc.def
 include voxels/pickups_crc.def
 include voxels/player_crc.def
 include voxels/projectiles_crc.def

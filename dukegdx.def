@@ -3,6 +3,7 @@ echo "Duke3D Voxel Pack v2.0 RC3"
 // Voxel definitions
 include voxels/monsters.def
 include voxels/misc_gdx.def
+include voxels/npcs.def
 include voxels/player.def
 include voxels/projectiles.def
 include voxels/props.def

@@ -212,15 +212,28 @@ Contributions by:
 > brullov (1)
      - 1352 ............................. Hung monk
 
-> Cheello (242)
+> Cheello (291)
      - 490-497 .......................... Hologram Cycloid Emperor
      - 558/675-677 ...................... Slimer Egg
+     - 603 .............................. Hanging babe
      - 679 .............................. Hologram Battlelord
-     - 940-944 .......................... Mine
+     - 753 .............................. Geisha
+     - 1294 ............................. Cocoon Babe
+     - 1312 ............................. Stripper
+     - 1317 ............................. Pole Stripper
+     - 1321 ............................. Hooker
+     - 1323 ............................. Babe
+     - 1325 ............................. Wild Woman
+     - 1334 ............................. Tied-Up Babe
+     - 1352 ............................. Monk
+     - 1353 ............................. Doom Marine
+     - 1354 ............................. Luke Skywalker
+     - 1355 ............................. Indiana Jones
+     - 1356 ............................. Terminator
+     - 1395 ............................. Asian Babe
      - 1405-1799 ........................ Duke (player)
      - 1550-1585 ........................ Shark
      - 1680-1779 ........................ Trooper
-     - 1810 ............................. Cannon
      - 1820-1855 ........................ Octabrain
      - 1880 ............................. Sentry Drone
      - 1915-1957 ........................ Assault Commander
@@ -234,6 +247,9 @@ Contributions by:
      - 2630-2685 ........................ Battlelord
      - 2710-2785 ........................ Cycloid Emperor
      - 2760-2809 ........................ Overlord
+     - 3450 ............................. Cheerleader
+     - 4407 ............................. Mouse Mascot
+     - 4560 ............................. Scrappy Due
 
 > DJP (3)
      - 691 .............................. Cleaver
@@ -255,7 +271,7 @@ Contributions by:
      - 1069 ............................. Plug
      - 4373 ............................. Cups
 
-> Dzierzan (148)
+> Dzierzan (150)
      - 160 .............................. Door shock
      - 487 .............................. Space shuttle
      - 489 .............................. Satellite
@@ -278,6 +294,7 @@ Contributions by:
      - 688 .............................. Movie clapper
      - 716 .............................. "Please Wait To Be Seated" sign
      - 768/769/774/779/792/851 .......... Sushi plates
+     - 940 .............................. Mine
      - 971 .............................. Coral
      - 972 .............................. Coral
      - 973 .............................. Stone
@@ -307,6 +324,7 @@ Contributions by:
      - 1238 ............................. Metal barrel
      - 1267 ............................. Rat
      - 1354 ............................. Skywalker
+     - 1810 ............................. Cannon
      - 1817 ............................. Cannonball
      - 1818 ............................. Cannonballs
      - 2254 ............................. Eye gib
@@ -450,8 +468,7 @@ Version 2.0 RC3 (XXX XX, 2026)
      + Can be reverted by editing duke3d.def and loading duke3d_voxels.def instead
 
 > Added:
-     + Monsters (taken from Cheello's "Voxel Duke Nukem 3D"; currently missing: Sentry Drone, Alien Queen)
-     + Player (taken from Cheello's "Voxel Duke Nukem 3D")
+     + Content taken from Cheello's "Voxel Duke Nukem 3D" pack: Monsters, Duke (player), NPCs
      + rotation_wt.con: Added World Tour's Incinerator and ammo
      + Pickups: 5134-5137 (WT Incinerator + ammo, taken from StrikerDM)
      + Props: 490-497 (Cycloid Emperor hologram), 516 (antenna dish), 632 (pipe end), 679 (Battlelord hologram), 
@@ -462,7 +479,6 @@ Version 2.0 RC3 (XXX XX, 2026)
      + NWinter: 3663 (bulb), 3782 (gift1), 3786 (gift2)
 
 > Updated:
-     + Monsters: 940-944 (mine) 
      + Pickups: 60 (access card - fixed 22 skin pixels)
      + Props: 487 (space shuttle), 2200 (shit), 4407/4408 (annoying mouse)
      + Vacation: Pivot fixes for 3791 (coolbox) and 3792 (radio)

@@ -54,7 +54,7 @@ voxel "voxels/monsters/1778_leg.kvx" { ifmatch { size 63 23 crc32 0xBC650A8A } t
 voxel "voxels/monsters/1779_leg.kvx" { ifmatch { size 54 23 crc32 0x1AF024C8 } tile 1779 }
 
 // Cannon (1810)
-voxel "voxels/monsters/1810_cannon.kvx" { ifmatch { size 48 43 crc32 0x71E0A64F } tile 1810 }
+voxel "voxels/monsters/1810_cannon.kvx" { ifmatch { size 48 43 crc32 0x71E0A64F } tile0 1810 tile1 1816 }
 
 // Octabrain (1820)
 voxel "voxels/monsters/1820_octa.kvx" { ifmatch { size 63 91 crc32 0xE3E8D9D1 } tile0 1820 tile1 1824 }

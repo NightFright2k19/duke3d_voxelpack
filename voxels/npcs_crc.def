@@ -1,0 +1,86 @@
+// Hanging babe (603)
+voxel "voxels/npcs/0603_babe.kvx" { ifmatch { size 85 170 crc32 0x793BF19C } tile 603 }
+
+// Geisha (753)
+voxel "voxels/npcs/0753_geisha.kvx" { ifmatch { size 32 97 crc32 0x1429073E } tile 753 }
+voxel "voxels/npcs/0869_geisha.kvx" { ifmatch { size 45 97 crc32 0x95D9A87A } tile 869 }
+
+// Cocoon Babe (1294)
+voxel "voxels/npcs/1294_cocoon.kvx" { ifmatch { size 74 113 crc32 0xAB2E27C2 } tile 1294 }
+voxel "voxels/npcs/1295_cocoon.kvx" { ifmatch { size 74 113 crc32 0x44700FE2 } tile 1295 }
+voxel "voxels/npcs/1296_cocoon.kvx" { ifmatch { size 74 113 crc32 0x17A1361F } tile 1296 }
+
+// Stipper (1312)
+voxel "voxels/npcs/1312_stripper.kvx" { ifmatch { size 37 93 crc32 0xB23F2C68 } tile 1312 }
+voxel "voxels/npcs/1313_stripper.kvx" { ifmatch { size 34 93 crc32 0xE9FB093 } tile 1313 }
+voxel "voxels/npcs/1314_stripper.kvx" { ifmatch { size 36 93 crc32 0x418D239F } tile 1314 }
+voxel "voxels/npcs/1315_stripper.kvx" { ifmatch { size 38 92 crc32 0xEB2B6886 } tile 1315 }
+voxel "voxels/npcs/1316_stripper.kvx" { ifmatch { size 40 91 crc32 0x2E326218 } tile 1316 }
+voxel "voxels/npcs/1331_stripper.kvx" { ifmatch { size 44 91 crc32 0x280C350D } tile 1331 }
+voxel "voxels/npcs/1332_stripper.kvx" { ifmatch { size 47 93 crc32 0x1A872A2 } tile 1332 }
+voxel "voxels/npcs/1333_stripper.kvx" { ifmatch { size 46 94 crc32 0xA0EFBF91 } tile 1333 }
+
+// Pole Stripper (1317)
+voxel "voxels/npcs/1317_stripper.kvx" { ifmatch { size 41 128 crc32 0x6932B2A6 } tile 1317 }
+voxel "voxels/npcs/1318_stripper.kvx" { ifmatch { size 44 128 crc32 0x4F326617 } tile 1318 }
+voxel "voxels/npcs/1319_stripper.kvx" { ifmatch { size 42 128 crc32 0xAF60B786 } tile 1319 }
+voxel "voxels/npcs/1320_stripper.kvx" { ifmatch { size 39 128 crc32 0xBDE8AA9C } tile 1320 }
+
+// Hooker (1321)
+voxel "voxels/npcs/1321_hooker.kvx" { ifmatch { size 32 88 crc32 0xC80AAF5F } tile 1321 }
+voxel "voxels/npcs/1322_hooker.kvx" { ifmatch { size 32 88 crc32 0x5EF6A4A6 } tile 1322 }
+
+// Babe (1323)
+voxel "voxels/npcs/1323_babe.kvx" { ifmatch { size 52 162 crc32 0xF96E01D7 } tile 1323 }
+voxel "voxels/npcs/1324_spire.kvx" { ifmatch { size 41 162 crc32 0x39D50A36 } tile 1324 }
+
+// Wild Woman (1325)
+voxel "voxels/npcs/1325_wild.kvx" { ifmatch { size 57 97 crc32 0xF59A2FA5 } tile 1325 }
+voxel "voxels/npcs/1326_wild.kvx" { ifmatch { size 61 96 crc32 0x5E70EE3B } tile 1326 }
+voxel "voxels/npcs/1327_wild.kvx" { ifmatch { size 55 95 crc32 0xD884ED95 } tile 1327 }
+voxel "voxels/npcs/1328_wild.kvx" { ifmatch { size 58 97 crc32 0xC46934B4 } tile 1328 }
+voxel "voxels/npcs/1329_wild.kvx" { ifmatch { size 65 107 crc32 0x97E39085 } tile 1329 }
+voxel "voxels/npcs/1330_wild.kvx" { ifmatch { size 63 109 crc32 0x161B8E94 } tile 1330 }
+
+// Tied-up Babe (1334)
+voxel "voxels/npcs/1334_babe.kvx" { ifmatch { size 135 89 crc32 0x269C603F } tile 1334 }
+voxel "voxels/npcs/1335_babe.kvx" { ifmatch { size 135 29 crc32 0x51B2C389 } tile 1335 }
+
+// Monk (1352)
+voxel "voxels/npcs/1352_monk.kvx" { ifmatch { size 25 124 crc32 0x1D542134 } tile 1352 }
+
+// Doom Marine (1353)
+voxel "voxels/npcs/1353_doomguy.kvx" { ifmatch { size 43 42 crc32 0x14A60B6C } tile 1353 }
+
+// Luke Skywalker (1354)
+voxel "voxels/npcs/1354_luke.kvx" { ifmatch { size 37 108 crc32 0x8F8772AF } tile 1354 }
+
+// Indiana Jones (1355)
+voxel "voxels/npcs/1355_indiana.kvx" { ifmatch { size 33 76 crc32 0x97F1E057 } tile 1355 }
+
+// Terminator (1356)
+voxel "voxels/npcs/1356_terminator.kvx" { ifmatch { size 64 64 crc32 0x86600BDB } tile 1356 }
+voxel "voxels/npcs/1357_terminator.kvx" { ifmatch { size 42 20 crc32 0x720A5BC2 } tile 1357 }
+
+// Asian Babe (1395)
+voxel "voxels/npcs/1395_babe.kvx" { ifmatch { size 38 92 crc32 0xC75F11C1 } tile 1395 }
+voxel "voxels/npcs/1396_babe.kvx" { ifmatch { size 38 92 crc32 0x6D0FBE24 } tile 1396 }
+voxel "voxels/npcs/1397_babe.kvx" { ifmatch { size 34 92 crc32 0x8E38BF0A } tile 1397 }
+voxel "voxels/npcs/1398_babe.kvx" { ifmatch { size 35 92 crc32 0xC96271CC } tile 1398 }
+
+// Cheerleader (3450)
+voxel "voxels/npcs/3450_cheerleader.kvx" { ifmatch { size 96 111 crc32 0x564496D } tile 3450 }
+voxel "voxels/npcs/3451_cheerleader.kvx" { ifmatch { size 96 111 crc32 0x62061B07 } tile 3451 }
+voxel "voxels/npcs/3452_cheerleader.kvx" { ifmatch { size 96 111 crc32 0xBF002EB } tile 3452 }
+voxel "voxels/npcs/3453_cheerleader.kvx" { ifmatch { size 96 111 crc32 0xD9DAFD9E } tile 3453 }
+voxel "voxels/npcs/3454_cheerleader.kvx" { ifmatch { size 96 111 crc32 0xA648524E } tile 3454 }
+voxel "voxels/npcs/3455_cheerleader.kvx" { ifmatch { size 96 111 crc32 0xCA3B99FE } tile 3455 }
+
+// Mouse Mascot (4407)
+voxel "voxels/npcs/4407_mouse.kvx" { ifmatch { size 76 90 crc32 0x17E06A5A } tile 4407 }
+voxel "voxels/npcs/4408_mouse.kvx" { ifmatch { size 83 86 crc32 0xC401E127 } tile 4408 }
+
+// Scrappy Due (4560)
+voxel "voxels/npcs/4560_scrappy.kvx" { ifmatch { size 24 33 crc32 0xB4CFDDCA } tile 4560 }
+voxel "voxels/npcs/4561_scrappy.kvx" { ifmatch { size 26 33 crc32 0x8C03C0A1 } tile 4561 }
+voxel "voxels/npcs/4562_scrappy.kvx" { ifmatch { size 31 33 crc32 0x6B5013EE } tile 4562 }
