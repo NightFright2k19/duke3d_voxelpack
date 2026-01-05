@@ -141,6 +141,7 @@ sprite   530 angoff    -256        // tile0054 shield
 sprite    41 angoff    -768        // tile0052 sixpack
 sprite   381 roll      -1          // tile1062 rubbercan
 sprite   381 mdzoff     550000     // tile1062 rubbercan
+sprite   381 mdposxoff  128        // tile1062 rubbercan (added 2026-05-01)
 sprite   171 angoff    -640        // tile0052 sixpack
 sprite   169 angoff    -768        // tile0052 sixpack
 sprite   593 angoff    -256        // tile0055 steroids
@@ -148,8 +149,6 @@ sprite   429 angoff     512        // tile0023 rpgsprite
 sprite   449 angoff     860        // tile0060 accesscard [red]
 sprite   594 angoff     768        // tile0049 shotgunammo
 sprite    20 angoff    -256        // tile1294 podfem1
-
-
 
 sprite   409 angoff     768        // tile1348 holoduke
 sprite   374 angoff     1024       // tile0053 firstaid
@@ -172,11 +171,10 @@ sprite   540 angoff    -640        // tile1161 bottle14
 sprite   382 angoff     256        // tile1062 rubbercan
 sprite   382 pitch      1          // tile1062 rubbercan
 sprite   382 mdzoff    -600000     // tile1062 rubbercan
+sprite   382 mdposyoff  140        // tile1062 rubbercan (added 2026-05-01)
 sprite   541 notmd                 // tile0132 slotdoor
 sprite   539 angoff     1024       // tile0051 cola
 sprite   538 angoff     1024       // tile0051 cola
-
-
 
 sprite   160 angoff    -640        // tile1062 rubbercan
 sprite   617 angoff     512        // tile0040 ammo

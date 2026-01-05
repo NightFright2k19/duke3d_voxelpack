@@ -141,6 +141,7 @@ sprite   531 angoff    -256        // tile0054 shield
 sprite    43 angoff    -768        // tile0052 sixpack
 sprite   382 roll      -1          // tile1062 rubbercan
 sprite   382 mdzoff     550000     // tile1062 rubbercan
+sprite   382 mdposxoff  128        // tile1062 rubbercan (added 2026-05-01)
 sprite   173 angoff    -640        // tile0052 sixpack
 sprite   171 angoff    -768        // tile0052 sixpack
 sprite   594 angoff    -256        // tile0055 steroids
@@ -172,6 +173,7 @@ sprite   541 angoff    -640        // tile1161 bottle14
 sprite   383 angoff     256        // tile1062 rubbercan
 sprite   383 pitch      1          // tile1062 rubbercan
 sprite   383 mdzoff    -600000     // tile1062 rubbercan
+sprite   383 mdposyoff  140        // tile1062 rubbercan (added 2026-05-01)
 sprite   542 notmd                 // tile0132 slotdoor
 sprite   540 angoff     1024       // tile0051 cola
 sprite   539 angoff     1024       // tile0051 cola
